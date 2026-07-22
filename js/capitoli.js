@@ -52,7 +52,7 @@ function aggiornaProgresso(){
 
     barra.innerHTML = `
 
-        Progresso:
+        Il tuo viaggio:
         ${percentuale}%
 
     `;
@@ -71,7 +71,7 @@ function creaBottoneLettura(){
 
     let bottone =
         document.createElement("a");
-
+    bottone.className = "button";
 
 
     if(punto === null){

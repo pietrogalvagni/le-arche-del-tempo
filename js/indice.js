@@ -64,12 +64,11 @@ function creaIndice() {
 
             elementoParte.innerHTML = `
 
-                ${simbolo}
-                
+                <span class="stato ${stato}">
+                </span>
+
                 <a href="lettura.html?id=${parte.id}">
-
                     Parte ${parte.id}
-
                 </a>
 
             `;

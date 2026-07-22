@@ -1,30 +1,106 @@
+:root {
+    --oro: #d4af37;
+    --oro-scuro: #c9a24d;
+    --sfondo: #080b14;
+    --testo: #eeeeee;
+    --pannello: #151821;
+}
+
+
+/* =====================================
+   BASE
+===================================== */
+
 body {
     margin: 0;
-    background-color: #080b14;
-    color: #eeeeee;
+    padding: 80px 0 0 0;
+    background-color: var(--sfondo);
+    color: var(--testo);
     font-family: Georgia, serif;
     text-align: center;
 }
+
+
+a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.25s ease;
+}
+
+
+a:hover {
+    color: var(--oro);
+}
+
+
+button {
+    cursor: pointer;
+}
+
+
+/* =====================================
+   STRUTTURA GENERALE
+===================================== */
+
+.pagina-lettura,
+#indice,
+#lettore {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 25px;
+    text-align: left;
+}
+
+
+@media (max-width:600px) {
+
+    .pagina-lettura,
+    #indice,
+    #lettore {
+        margin: 20px auto;
+        padding: 0 15px;
+    }
+
+    nav a,
+    .navigazione a {
+        font-size: 15px;
+    }
+
+}
+
+
+/* =====================================
+   HEADER E MENU
+===================================== */
 
 header {
     padding: 20px;
     border-bottom: 1px solid #333;
 }
 
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
 nav a {
-    color: #c9a24d;
-    text-decoration: none;
     margin: 15px;
     font-size: 18px;
 }
 
-nav a:hover {
-    color: white;
-}
+
+/* =====================================
+   HERO
+===================================== */
 
 .hero {
     padding: 50px 20px;
 }
+
 
 .cover {
     width: 300px;
@@ -33,16 +109,23 @@ nav a:hover {
     margin: 30px;
 }
 
+
+/* =====================================
+   TESTI
+===================================== */
+
 h1 {
     font-size: 48px;
     letter-spacing: 3px;
-    color: #d4af37;
+    color: var(--oro);
 }
+
 
 h2 {
     font-weight: normal;
     color: #cccccc;
 }
+
 
 .description {
     max-width: 700px;
@@ -51,13 +134,150 @@ h2 {
     line-height: 1.6;
 }
 
+
+/* =====================================
+   BOTTONI
+===================================== */
+
 .button {
-    display: inline-block;
-    margin-top: 30px;
-    padding: 15px 35px;
-    background-color: #c9a24d;
-    color: #080b14;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
+    display:inline-block;
+    margin-top:30px;
+    padding:15px 35px;
+    background:#d4af37;
+    color:#080b14;
+    font-weight:bold;
+    border-radius:5px;
+    text-decoration:none;
+    transition:opacity 0.25s ease;
+}
+
+.button:hover {
+    opacity:0.85;
+    color:#080b14;
+}
+
+
+/* =====================================
+   LETTURA
+===================================== */
+
+.box-lettura {
+    background: var(--pannello);
+    border-radius: 12px;    
+    padding: 20px;
+    margin: 30px 0;
+    max-width: 500px;
+}
+
+
+#progresso-lettura {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+
+/* =====================================
+   NAVIGAZIONE CAPITOLI
+===================================== */
+
+.navigazione {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #333;
+}
+
+
+.navigazione a {
+    font-size: 18px;
+}
+
+
+/* =====================================
+   FRECCE
+===================================== */
+
+.freccia {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: none;
+    background: var(--oro);
+    color: #111;
+    font-size: 20px;
+    margin-right: 12px;
+    transition: transform 0.2s ease;
+}
+
+
+/* =====================================
+   CAPITOLI
+===================================== */
+
+.parti p {
+    margin: 8px 0;
+    padding-left: 45px;
+}
+
+
+.capitolo {
+    margin-bottom: 15px;
+}
+
+
+.capitolo-letto {
+    color: #7bdc7b;
+}
+
+
+.capitolo-corrente {
+    color: var(--oro);
+}
+
+
+/* =====================================
+   STATO LETTURA
+===================================== */
+
+.stato {
+    display:inline-flex;
+    width:18px;
+    height:18px;
+    margin-right:8px;
+    border-radius:50%;
+    align-items:center;
+    justify-content:center;
+    font-size:10px;
+    box-sizing:border-box;
+}
+
+
+.stato.vuoto {
+    border: 2px solid #aaa;
+}
+
+
+.stato.lettura {
+    background: #ddd;
+}
+
+
+.stato.lettura::after {
+    content: "▶";
+    font-size: 8px;
+}
+
+
+.stato.letto {
+    background: var(--oro);
+}
+
+
+.stato.letto::after {
+    content:"✓";
+    color:white;
+    font-size:12px;
+    font-weight:bold;
 }
