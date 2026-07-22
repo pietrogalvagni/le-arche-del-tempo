@@ -2,39 +2,58 @@
 <html lang="it">
 
 <head>
-<meta charset="UTF-8">
-<title>Leggi - Le Arche del Tempo</title>
 
-<script src="progresso.js"></script>
+<meta charset="UTF-8">
+
+<title>Le Arche del Tempo</title>
+
+<link rel="stylesheet" href="css/style.css">
 
 </head>
 
 
-<body onload="aggiornaLista()">
+<body>
 
 
-<h1>Le Arche del Tempo</h1>
-
-<h2>Indice dei capitoli</h2>
+<div id="lettore">
 
 
-<ul>
+<h1 id="titolo-capitolo"></h1>
 
-<li class="capitolo" data-numero="1">
-<a href="capitoli/capitolo-1.html">
-Capitolo 1 - La scoperta
-</a>
-</li>
+<h2 id="titolo-parte"></h2>
 
 
-<li class="capitolo" data-numero="2">
-<a href="capitoli/capitolo-2.html">
-Capitolo 2 - La Setta
-</a>
-</li>
+<div id="testo"></div>
 
 
-</ul>
+<hr>
+
+
+<div class="navigazione">
+
+    <a id="precedente">
+        ← Precedente
+    </a>
+
+    <a href="capitoli.html">
+        Indice
+    </a>
+
+    <a id="continua">
+        Continua →
+    </a>
+
+
+</div>
+
+
+</div>
+
+
+
+<script src="js/romanzo.js"></script>
+<script src="js/progresso.js"></script>
+<script src="js/lettura.js"></script>
 
 
 </body>
