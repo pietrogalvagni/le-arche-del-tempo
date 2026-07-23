@@ -54,18 +54,15 @@ button {
     text-align:left;
 }
 
-@media (max-width:600px) {
+@media(max-width:600px){
 
-    .pagina-lettura,
-    #indice,
-    #lettore {
-        margin: 20px auto;
-        padding: 0 15px;
+    .contenitore{
+        padding:0 15px;
     }
 
     nav a,
-    .navigazione a {
-        font-size: 15px;
+    .navigazione a{
+        font-size:15px;
     }
 
 }
@@ -191,6 +188,7 @@ h2 {
 }
 
 
+
 /* =====================================
    NAVIGAZIONE CAPITOLI
 ===================================== */
@@ -244,16 +242,6 @@ h2 {
 }
 
 
-.capitolo-letto {
-    color: #7bdc7b;
-}
-
-
-.capitolo-corrente {
-    color: var(--oro);
-}
-
-
 /* =====================================
    STATO LETTURA
 ===================================== */
@@ -272,21 +260,15 @@ h2 {
 ===================================== */
 
 .card-capitolo {
-
+    position:relative;
     display: flex;
-
-    align-items: center;
-
+    align-items: stretch;
+    min-height:115px;
     gap: 20px;
-
     padding: 15px;
-
     background: var(--pannello);
-
     border-radius: 12px;
-
     cursor: pointer;
-
     transition:
         transform 0.2s ease,
         box-shadow 0.2s ease;
@@ -299,58 +281,56 @@ h2 {
 }
 
 .immagine-capitolo {
-
     width: 110px;
-
     height: 110px;
-
     object-fit: cover;
-
     border-radius: 8px;
-
     flex-shrink: 0;
-
 }
 
 .info-capitolo {
-
-    flex: 1;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
 
 }
 
 
 .info-capitolo h3 {
-
     margin: 0;
-
     font-size: 14px;
-
     opacity: 0.7;
-
 }
 
 
-.info-capitolo h2 {
-
-    margin: 5px 0 10px;
-
+.info-capitolo h2{
+    margin:4px 0;
+    overflow:hidden;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    line-clamp:2;
 }
 
 
-.info-capitolo p {
-
-    margin: 0;
-
-    line-height: 1.4;
-
+.info-capitolo p{
+    margin:4px 0;
+    overflow:hidden;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    line-clamp:2;
 }
 
-.stato-capitolo {
-
-    text-align: center;
-
-    min-width: 70px;
-
+.progresso-capitolo{
+    position:absolute;
+    top:12px;
+    right:12px;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    font-size:14px;
+    opacity:0.8;
 }
 
 /* =====================================

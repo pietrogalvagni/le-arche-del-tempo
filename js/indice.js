@@ -49,14 +49,10 @@ function creaIndice() {
 
                 </div>
 
-
-
-                <div class="stato-capitolo">
-
-                    <div class="progresso-capitolo">
-                    </div>
-
+                <div class="progresso-capitolo">
                 </div>
+
+               
 
 
             </div>
@@ -147,7 +143,7 @@ function creaIndice() {
                 "lettura.html?id=" + parte.id;
 
             };
-            
+
             listaParti.appendChild(elementoParte);
 
 
