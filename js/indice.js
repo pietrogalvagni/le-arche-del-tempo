@@ -63,7 +63,7 @@ function creaIndice() {
 
 
 
-            <div class="parti" style="display:none"></div>
+            <div class="parti"></div>
 
 
         `;
@@ -88,30 +88,66 @@ function creaIndice() {
             elementoCapitolo.querySelector(".progresso-capitolo");
 
 
-        stato.innerHTML = `
+        let statoCap =
+            statoCapitolo(cap);
 
+
+        let icona="";
+
+        if(statoCap==="letto"){
+            icona="✓";
+        }
+        else if(statoCap==="lettura"){
+            icona="▶";
+        }
+
+
+        stato.innerHTML=`
+
+        <div class="icona-progresso ${statoCap}">
+        ${icona}
+        </div>
+
+        <div>
         ${partiLette}/${totaleParti}
+        </div>
 
         `;
 
         cap.parti.forEach(parte => {
+            
+            let stato = statoParte(parte.id);
+
+            let simbolo = "";
+
+            if(stato === "letto"){
+                simbolo = "✓";
+            }
 
 
-            let elementoParte =
-                document.createElement("p");
+            let elementoParte=document.createElement("div");
 
-            elementoParte.innerHTML = `
+            elementoParte.className="scheda-parte";
 
-                <span class="stato ${stato}">
+           elementoParte.innerHTML = `
+
+                <span>
+                    Parte ${parte.id}
                 </span>
 
-                <a href="lettura.html?id=${parte.id}">
-                    Parte ${parte.id}
-                </a>
+                <span class="stato">
+                ${simbolo}
+                </span>
 
             `;
 
+            elementoParte.onclick=function(){
 
+                window.location.href=
+                "lettura.html?id=" + parte.id;
+
+            };
+            
             listaParti.appendChild(elementoParte);
 
 
@@ -120,35 +156,30 @@ function creaIndice() {
 
 
         elementoCapitolo
-            .querySelector(".card-capitolo")
-            .onclick = function() {
+        .querySelector(".card-capitolo")
+        .onclick=function(){
+
+            let aperto=
+            listaParti.classList.contains("aperta");
 
 
-            let aperto =
-                listaParti.style.display === "block";
+            if (aperto){
 
-
-           if (aperto) {
-
-                listaParti.style.display="none";
-
-                elementoCapitolo.classList.remove("aperto");
+                listaParti.classList.remove("aperta");
 
                 salvaCapitoloAperto(null);
 
             }
-            else {
+
+            else{
 
                 chiudiTutti();
 
-                listaParti.style.display="block";
-
-                elementoCapitolo.classList.add("aperto");
+                listaParti.classList.add("aperta");
 
                 salvaCapitoloAperto(cap.id);
 
             }
-
 
         };
 
@@ -162,7 +193,7 @@ function creaIndice() {
 
         if (cap.id === capitoloAperto) {
 
-            listaParti.style.display = "block";
+            listaParti.classList.add("aperta");
 
         }
 
@@ -172,21 +203,13 @@ function creaIndice() {
 }
 
 
-
-function chiudiTutti() {
-
+function chiudiTutti(){
 
     document.querySelectorAll(".parti")
-    .forEach(p => {
-
-        p.style.display = "none";
-
+        .forEach(p=>{
+        p.classList.remove("aperta");
     });
 
-    document.querySelectorAll(".capitolo")
-    .forEach(c=>{
-        c.classList.remove("aperto");
-    });
 }
 
 

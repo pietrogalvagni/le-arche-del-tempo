@@ -244,45 +244,13 @@ h2 {
    STATO LETTURA
 ===================================== */
 
-.stato {
-    display:inline-flex;
-    width:18px;
-    height:18px;
-    margin-right:8px;
-    border-radius:50%;
+.stato{
+    width:22px;
+    height:22px;
+    display:flex;
     align-items:center;
     justify-content:center;
-    font-size:10px;
-    box-sizing:border-box;
-}
-
-
-.stato.vuoto {
-    border: 2px solid #aaa;
-}
-
-
-.stato.lettura {
-    background: #ddd;
-}
-
-
-.stato.lettura::after {
-    content: "▶";
-    font-size: 8px;
-}
-
-
-.stato.letto {
-    background: var(--oro);
-}
-
-
-.stato.letto::after {
-    content:"✓";
-    color:white;
-    font-size:12px;
-    font-weight:bold;
+    font-size:16px;
 }
 
 /* =====================================
@@ -369,4 +337,35 @@ h2 {
 
     min-width: 70px;
 
+}
+
+/* =====================================
+   PARTI
+===================================== */
+
+.parti{
+    overflow:hidden;
+    max-height:0;
+}
+
+.parti.aperta{
+    max-height:500px;
+    transition:max-height 0.35s ease;
+}
+.scheda-parte{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:12px 18px;
+    margin:8px 0;
+    background:rgba(255,255,255,0.04);
+    border-radius:10px;
+    cursor:pointer;
+    transition:background 0.2s;
+}
+.scheda-parte:hover{
+    background:rgba(255,255,255,0.10);
+}
+.scheda-parte a{
+    flex:1;
 }
