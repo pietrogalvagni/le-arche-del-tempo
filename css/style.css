@@ -128,6 +128,10 @@ nav a {
    TESTI
 ===================================== */
 
+.titolo{
+    padding-top:30px;
+}
+
 h1 {
     font-size: 48px;
     letter-spacing: 3px;
@@ -441,3 +445,25 @@ h2 {
     font-size:24px;
 }
 
+.dimensione-font button{
+    font-family:Georgia,serif;
+}
+
+
+.dimensione-font button[data-font="piccolo"]{
+    font-size:16px;
+}
+
+
+.dimensione-font button[data-font="medio"]{
+    font-size:20px;
+}
+
+
+.dimensione-font button[data-font="grande"]{
+    font-size:24px;
+}
+
+#tema{
+    font-size:24px;
+}

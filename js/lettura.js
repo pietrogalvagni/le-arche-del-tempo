@@ -7,23 +7,6 @@ const idParte =
     parametri.get("id");
 console.log("ID parte:", idParte);
 
-let bottonePrecedente =
-    document.getElementById("precedente");
-
-
-if (precedente) {
-
-    bottonePrecedente.href =
-        "lettura.html?id=" + precedente.id;
-
-}
-
-else {
-
-    bottonePrecedente.style.visibility = "hidden";
-
-}
-
 
 function trovaParte(id) {
 
@@ -196,56 +179,81 @@ async function avvia(){
     let successiva =
         risultato.successiva
 
-    let bottonePrecedente =
-        document.getElementById("precedente");
+    let bottoniPrecedente =
+    document.querySelectorAll(".precedente");
 
 
-    if (precedente) {
-
-        bottonePrecedente.href =
-            "lettura.html?id=" + precedente.id;
-
-    }
-
-    else {
-
-        bottonePrecedente.style.visibility = "hidden";
-
-    }
-
-    let bottoneContinua =
-        document.getElementById("continua");
+    bottoniPrecedente.forEach(bottone => {
 
 
+        if (precedente) {
 
-    if (successiva) {
+            bottone.href =
+                "lettura.html?id=" + precedente.id;
 
-        bottoneContinua.textContent = "Continua →";
+            bottone.style.visibility = "visible";
 
-        bottoneContinua.href =
-            "lettura.html?id=" + successiva.id;
+        }
 
-        bottoneContinua.onclick = function () {
+        else {
 
-            completaParte(idParte);
+            bottone.style.visibility = "hidden";
 
-        };
+        }
 
-    }
 
-    else {
+    });
 
-        bottoneContinua.textContent = "Fine";
+    let bottoniContinua =
+        document.querySelectorAll(".continua");
 
-        bottoneContinua.href = "capitoli.html";
 
-        bottoneContinua.onclick = function () {
 
-            completaParte(idParte);
+    bottoniContinua.forEach(bottone => {
 
-        };
 
-    }
+        if (successiva) {
+
+
+            bottone.textContent =
+                "Continua →";
+
+
+            bottone.href =
+                "lettura.html?id=" + successiva.id;
+
+
+            bottone.onclick=function(){
+
+                completaParte(idParte);
+
+            };
+
+
+        }
+
+        else {
+
+
+            bottone.textContent =
+                "Fine";
+
+
+            bottone.href =
+                "capitoli.html";
+
+
+            bottone.onclick=function(){
+
+                completaParte(idParte);
+
+            };
+
+
+        }
+
+
+    });
 
 }
 
