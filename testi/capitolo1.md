@@ -1,4 +1,3 @@
-<p>
 L'elicottero avanzava sopra l'immensa foresta dell’Africa centrale. 
 
 Leon si sporse per guardare oltre lo spesso vetro del finestrino. Dall'alto la distesa verde sembrava compatta, uniforme, quasi immobile. Chilometri e chilometri di chiome si rincorrevano fino all'orizzonte, interrotte soltanto dal nastro scuro del fiume che serpeggiava tra gli alberi. Qua e là emergevano piccole radure, ma ancora nessun segno di presenza umana. 
@@ -10,7 +9,7 @@ Leon spense lo schermo con impazienza. “Non dovrebbe mancare molto.”
 Alex, fisso sui comandi, lanciò un’occhiata in basso. “Siamo praticamente arrivati.” 
 
 Leon seguì con lo sguardo il corso del fiume. Se avesse dovuto scegliere dove cercare tracce di un insediamento umano, avrebbe iniziato proprio da lì.  
-
+---
 Un istante dopo il villaggio emerse dalle fronde. 
 
 Non era grande, ma nemmeno il gruppo di capanne isolate che Leon si era immaginato. Tetti di lamiera scintillavano sotto il sole tropicale accanto a costruzioni più tradizionali in legno e foglie intrecciate. Qualche pannello solare catturava riflessi di luce. 
@@ -40,7 +39,7 @@ Quando furono tra le prime case, comparvero i bambini. Due, poi quattro, poi una
 Alex salutò lo schermo con la mano. "Penso di essere già finito sui social locali." 
 
 Mentre proseguivano per le vie di terra battuta, gli sguardi li seguivano. Una donna con un neonato legato alla schiena, due uomini che trasportavano una cassa verso il fiume, un anziano seduto all'ombra di una veranda. Tutti li guardavano con curiosità, ma nessuno sembrava particolarmente sorpreso. 
-
+---
 Leon studiò l’ambiente, non senza una certa dose di deformazione professionale. Il villaggio si dispiegava seguendo l'andamento del fiume più che qualsiasi progetto urbanistico. Non esisteva una vera piazza centrale. Le abitazioni erano collegate da sentieri che si intrecciavano tra alberi, orti e piccoli spazi comuni.  
 
 Sul fiume c'era movimento continuo. Canoe a remi e piccole imbarcazioni a motore attraversavano lentamente la corrente. Alcuni pescatori stavano riparando delle reti all'ombra di una tettoia. C'erano motociclette parcheggiate accanto a vecchie canoe scrostate. Secchi di plastica accanto a cesti intrecciati a mano. La modernità non aveva sostituito il resto, vi si era semplicemente sovrapposta. 
@@ -72,4 +71,3 @@ Tolse l'auricolare e alzò finalmente gli occhi verso i nuovi arrivati. Per un i
 "Ditemi che avete una prenotazione." Il tono non era ostile, solo amichevolmente schietto. 
 
 Alex indicò Leon con il pollice. "Se esiste una prenotazione, lo sa lui." 
-</p>

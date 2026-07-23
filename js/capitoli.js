@@ -125,6 +125,10 @@ function creaBottoneLettura(){
 
 
 
-aggiornaProgresso();
+(async function(){
 
-creaBottoneLettura();
+    await preparaRomanzo();
+
+    creaIndice();
+
+})();

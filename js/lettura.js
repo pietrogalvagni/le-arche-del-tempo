@@ -117,7 +117,26 @@ async function caricaTesto(file){
 
 }
 
+async function caricaPartiCapitolo(file){
 
+    let testo =
+        await caricaTesto(file);
+
+
+    let sezioni =
+        testo.split("---");
+
+
+    return sezioni.map((sezione,index)=>{
+
+        return {
+            numero:index+1,
+            testo:sezione.trim()
+        };
+
+    });
+
+}
 
 async function avvia(){
 
@@ -155,11 +174,37 @@ async function avvia(){
 
     let testo =
         await caricaTesto(
-            risultato.parte.file
+            risultato.capitolo.file
         );
 
+    let indiceParte =
+    parseInt(
+        risultato.parte.id.split("-")[1]
+    ) - 1;
+
+
+    let sezioni =
+        testo.split("---");
+
+
+    let parteTesto =
+        sezioni[indiceParte];
+
+
+    if(!parteTesto){
+
+        document.getElementById("testo")
+        .innerHTML =
+        "<p>Parte non trovata</p>";
+
+        return;
+
+    }
+
+
     let contenuto =
-        testo
+        parteTesto
+        .trim()
         .split(/\n\s*\n/)
         .map(paragrafo => {
 
@@ -405,6 +450,12 @@ function applicaTema(tipo){
 
 
 
-inizializzaControlliLettura();
+(async function(){
 
-avvia();
+    await preparaRomanzo();
+
+    inizializzaControlliLettura();
+
+    avvia();
+
+})();

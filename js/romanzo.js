@@ -6,24 +6,7 @@ const romanzo = [
         titolo: "L'anomalia",   
         descrizione: "Due ricercatori arrivano nel cuore dell'Africa centrale, sulle tracce di un misterioso segnale radio.",
         immagine: "img/capitoli/1.jpg",
-        parti: [
-
-            {
-                id: "1-1",
-                file: "testi/1-1.html"
-            },
-
-            {
-                id: "1-2",
-                file: "testi/1-2.html"
-            },
-
-            {
-                id: "1-3",
-                file: "testi/1-3.html"
-            }
-
-        ]
+        file: "testi/capitolo1.md"      
     },
 
 
@@ -33,19 +16,7 @@ const romanzo = [
         titolo: "La macchina del tempo",
         descrizione: "Nadia fa cose.",
         immagine: "img/capitoli/2.jpg",
-        parti: [
-
-            {
-                id: "2-1",
-                file: "testi/2-1.html"
-            },
-
-            {
-                id: "2-2",
-                file: "testi/2-2.html"
-            }
-
-        ]
+        file: "testi/capitolo2.md"  
     }
 
 ];

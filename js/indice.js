@@ -5,7 +5,7 @@ let capitoloAperto = getCapitoloAperto();
 
 function creaIndice() {
 
-    romanzo.forEach(cap => {
+    for (let cap of romanzo) {
 
         let elementoCapitolo = document.createElement("div");
 
@@ -194,7 +194,7 @@ function creaIndice() {
         }
 
 
-    });
+    }
 
 }
 
@@ -208,6 +208,3 @@ function chiudiTutti(){
 
 }
 
-
-
-creaIndice();
