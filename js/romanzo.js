@@ -3,8 +3,8 @@ const romanzo = [
     {
         id: "cap1",
         numero: 1,
-        titolo: "Le nuove scritture",   
-        descrizione: "Leon rinviene un reperto che mette in discussione tutto ciò che credeva di sapere.",
+        titolo: "L'anomalia",   
+        descrizione: "Due ricercatori arrivano nel cuore dell'Africa centrale, sulle tracce di un misterioso segnale radio.",
         immagine: "img/capitoli/1.jpg",
         parti: [
 
