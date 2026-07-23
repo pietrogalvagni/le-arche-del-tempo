@@ -249,6 +249,154 @@ async function avvia(){
 
 }
 
+function inizializzaControlliLettura(){
 
+
+    let fontSalvato =
+        localStorage.getItem("font-lettura")
+        ||
+        "medio";
+
+
+    applicaFont(fontSalvato);
+
+
+
+    document.querySelectorAll("[data-font]")
+    .forEach(bottone=>{
+
+
+        bottone.onclick=function(){
+
+
+            applicaFont(
+                this.dataset.font
+            );
+
+
+        };
+
+
+    });
+
+
+
+    let temaSalvato =
+        localStorage.getItem("tema-lettura")
+        ||
+        "scuro";
+
+
+    applicaTema(temaSalvato);
+
+
+
+    document
+        .getElementById("tema")
+        .onclick=function(){
+
+
+        let lettore =
+            document.getElementById("lettore");
+
+
+        let nuovoTema =
+            lettore.classList.contains("tema-chiaro")
+            ?
+            "scuro"
+            :
+            "chiaro";
+
+
+        applicaTema(nuovoTema);
+
+
+    };
+
+
+}
+
+
+
+function applicaFont(tipo){
+
+
+    document.body.classList.remove(
+        "font-piccolo",
+        "font-medio",
+        "font-grande"
+    );
+
+
+    document.body.classList.add(
+        "font-" + tipo
+    );
+
+
+    localStorage.setItem(
+        "font-lettura",
+        tipo
+    );
+
+
+
+    document
+    .querySelectorAll("[data-font]")
+    .forEach(b=>{
+
+
+        b.classList.toggle(
+            "attivo",
+            b.dataset.font === tipo
+        );
+
+
+    });
+
+
+}
+
+
+
+function applicaTema(tipo){
+
+
+   document
+    .getElementById("lettore")
+    .classList.toggle(
+        "tema-chiaro",
+        tipo === "chiaro"
+    );
+
+
+    localStorage.setItem(
+        "tema-lettura",
+        tipo
+    );
+
+
+    let pulsanteTema =
+        document.getElementById("tema");
+
+    console.log(pulsanteTema);
+    if(pulsanteTema){
+
+
+        pulsanteTema.textContent =
+            tipo === "chiaro"
+            ?
+            "☀"
+            :
+            "☾";
+
+
+    }
+
+
+}
+
+
+
+inizializzaControlliLettura();
 
 avvia();

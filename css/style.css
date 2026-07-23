@@ -4,8 +4,10 @@
     --sfondo:#181818;
     --pannello-hover:rgba(255,255,255,0.2);
     --testo: #eeeeee;
+    --titolo: #cccccc;
     --pannello: #151821;
 }
+
 
 
 /* =====================================
@@ -27,7 +29,7 @@ body {
 
 
 a {
-    color: white;
+    color: var(--testo);
     text-decoration: none;
     transition: color 0.25s ease;
 }
@@ -135,7 +137,7 @@ h1 {
 
 h2 {
     font-weight: normal;
-    color: #cccccc;
+    color: var(--titolo);
 }
 
 
@@ -350,7 +352,7 @@ h2 {
 
 #testo{
     font-family: "Merriweather", serif;
-    color:#d6d2c8;
+    color:var(--testo);
     font-size: 20px;
     line-height: 1.65;
 }
@@ -361,6 +363,8 @@ h2 {
 
 #lettore{
     padding:0 18px;
+    background:var(--sfondo);
+    color:var(--testo);
 }
 @media(max-width:600px){
 
@@ -375,3 +379,65 @@ h2 {
     }
 
 }
+
+.intestazione-lettura{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:30px;
+}
+
+
+.controlli-lettura{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+#lettore.tema-chiaro{
+
+    --sfondo:#f2eee5;
+    --pannello:#faf8f2;
+    --pannello-hover:#eee8dc;
+    --testo:#28251f;
+    --titolo:#4a453c;
+    --oro:#9a6c00;
+    --oro-scuro:#765000;
+
+}
+
+/* =====================================
+   CONTROLLI LETTURA
+===================================== */
+
+.dimensione-font{
+    display:flex;
+    gap:5px;
+}
+
+
+.controlli-lettura button{
+    background:none;
+    border:none;
+    color:var(--testo);
+}
+
+
+.dimensione-font button.attivo{
+    color:var(--oro);
+}
+
+.font-piccolo #testo{
+    font-size:18px;
+}
+
+
+.font-medio #testo{
+    font-size:20px;
+}
+
+
+.font-grande #testo{
+    font-size:24px;
+}
+
