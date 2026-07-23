@@ -3,8 +3,9 @@ const romanzo = [
     {
         id: "cap1",
         numero: 1,
-        titolo: "Le scritture",
-
+        titolo: "Le nuove scritture",   
+        descrizione: "Leon rinviene un reperto che mette in discussione tutto ciò che credeva di sapere.",
+        immagine: "img/capitoli/1.jpg",
         parti: [
 
             {
@@ -30,7 +31,8 @@ const romanzo = [
         id: "cap2",
         numero: 2,
         titolo: "La macchina del tempo",
-
+        descrizione: "Nadia fa cose.",
+        immagine: "img/capitoli/2.jpg",
         parti: [
 
             {

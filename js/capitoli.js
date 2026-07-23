@@ -128,3 +128,5 @@ function creaBottoneLettura(){
 aggiornaProgresso();
 
 creaBottoneLettura();
+
+console.log("CAPITOLI CARICATI",romanzo.length);
