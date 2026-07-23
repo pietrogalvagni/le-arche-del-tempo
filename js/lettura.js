@@ -175,9 +175,18 @@ async function avvia(){
             risultato.parte.file
         );
 
+    let contenuto =
+        testo
+        .split(/\n\s*\n/)
+        .map(paragrafo => {
+
+            return `<p>${paragrafo.trim()}</p>`;
+
+        })
+        .join("");
 
     document.getElementById("testo")
-    .innerHTML = testo;
+    .innerHTML = contenuto;
 
 
 

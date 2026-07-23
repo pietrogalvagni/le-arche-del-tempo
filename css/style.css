@@ -1,7 +1,7 @@
 :root {
     --oro: #d4af37;
     --oro-scuro: #c9a24d;
-    --sfondo: #080b14;
+    --sfondo:#181818;
     --pannello-hover:rgba(255,255,255,0.2);
     --testo: #eeeeee;
     --pannello: #151821;
@@ -51,7 +51,8 @@ button {
 #indice,
 #lettore{
     margin:20px auto;
-    text-align:left;
+    text-align: left;
+    max-width:720px;
 }
 
 .contenitore{
@@ -196,7 +197,6 @@ h2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 40px;
     padding: 20px 0;
     border-top: 1px solid #333;
 }
@@ -342,4 +342,36 @@ h2 {
 }
 .scheda-parte a{
     flex:1;
+}
+
+/* =====================================
+   LETTURA
+===================================== */
+
+#testo{
+    font-family: "Merriweather", serif;
+    color:#d6d2c8;
+    font-size: 20px;
+    line-height: 1.65;
+}
+
+#testo p{
+    margin:0 0 0.9em 0;
+}
+
+#lettore{
+    padding:0 18px;
+}
+@media(max-width:600px){
+
+    #lettore{
+        padding:0 18px;
+    }
+
+
+    #testo{
+        font-size:18px;
+        line-height:1.7;
+    }
+
 }
