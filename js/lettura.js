@@ -127,13 +127,24 @@ async function caricaPartiCapitolo(file){
 
 }
 
-async function avvia(){
+async function avvia(){    
 
+    let interludio =
+        romanzo.find(
+            cap => cap.id === idParte && cap.tipo === "interludio"
+        );
+
+
+    if(interludio){
+
+        mostraInterludio(interludio);
+
+        return;
+
+    }
 
     let risultato =
         trovaParte(idParte);
-
-
 
     if(!risultato){
 
@@ -163,8 +174,7 @@ async function avvia(){
 
     let testo =
     risultato.parte.testo;
-    console.log(JSON.stringify(testo.slice(0,1000)));
-
+    
     let blocchi =
         testo.split(/\n\s*\n/);
 
@@ -188,8 +198,7 @@ async function avvia(){
         })
         .join("");
 
-    console.log(contenuto);
-
+    
     document.getElementById("testo").innerHTML = contenuto;
 
     let precedente =
@@ -422,7 +431,119 @@ function applicaTema(tipo){
 
 }
 
+function mostraInterludio(interludio){
 
+
+    document.getElementById("titolo-capitolo")
+    .textContent =
+    interludio.titolo;
+
+
+    document.getElementById("titolo-parte")
+    .textContent =
+    "";
+
+
+    let testo =
+        interludio.parti[0].testo;
+
+
+    let contenuto =
+        testo
+        .trim()
+        .replace(/\r\n/g,"\n")
+        .replace(/\n\n\n+/g,"\n\n")
+        .split(/\n\n/)
+        .map(blocco=>{
+
+            return "<p>" +
+                blocco.replace(/\n/g," ") +
+                "</p>";
+
+        })
+        .join("");
+
+
+    document.getElementById("testo")
+    .innerHTML =
+    contenuto;
+
+    let indice =
+    romanzo.findIndex(
+        cap => cap.id === interludio.id
+    );
+
+
+    let precedente =
+        romanzo[indice - 1];
+
+
+    let successiva =
+        romanzo[indice + 1];
+
+    document.querySelectorAll(".precedente")
+    .forEach(bottone=>{
+
+        if(precedente){
+
+            let parte =
+                precedente.parti[
+                    precedente.parti.length - 1
+                ];
+
+            bottone.href =
+                "lettura.html?id=" + parte.id;
+
+            bottone.style.visibility="visible";
+
+        }
+        else{
+
+            bottone.style.visibility="hidden";
+
+        }
+
+    });
+
+
+    document.querySelectorAll(".continua")
+    .forEach(bottone=>{
+
+        if(successiva){
+
+            let parte =
+                successiva.parti[0];
+
+            bottone.textContent =
+                "Continua →";
+
+            bottone.href =
+                "lettura.html?id=" + parte.id;
+
+        }
+        else{
+
+            bottone.textContent =
+                "Fine";
+
+            bottone.href =
+                "capitoli.html";
+
+        }
+
+    });
+
+    document.querySelectorAll(".continua")
+    .forEach(bottone => {
+
+        bottone.onclick = function(){
+
+            completaParte(interludio.id);
+
+        };
+
+    }); 
+}
 
 inizializzaControlliLettura();
 

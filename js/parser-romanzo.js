@@ -57,24 +57,17 @@ function analizzaRomanzo(testo){
 
         let capitolo = {
 
-            id:
-            metadati.id,
+            id: metadati.id,
+            
+            tipo: metadati.tipo || "capitolo",
 
+            numero: index + 1,
 
-            numero:
-            index + 1,
+            titolo: metadati.titolo,
 
+            descrizione: metadati.descrizione,
 
-            titolo:
-            metadati.titolo,
-
-
-            descrizione:
-            metadati.descrizione,
-
-
-            immagine:
-            metadati.immagine,
+            immagine: metadati.immagine,
 
 
             parti:[]
@@ -90,20 +83,31 @@ function analizzaRomanzo(testo){
 
         parti.forEach((testoParte,i)=>{
 
+            if(capitolo.tipo === "interludio"){
 
-            capitolo.parti.push({
+                capitolo.parti = [
+                    {
+                        id: capitolo.id,
+                        testo: parti.join("\n\n")
+                    }
+                ];
 
-                id:
-                capitolo.numero +
-                "-" +
-                (i+1),
+            }
+            else{
+
+                capitolo.parti.push({
+
+                    id:
+                    capitolo.numero +
+                    "-" +
+                    (i+1),
 
 
-                testo:
-                testoParte.trim()
+                    testo:
+                    testoParte.trim()
 
-            });
-
+                });
+            }
 
         });
 

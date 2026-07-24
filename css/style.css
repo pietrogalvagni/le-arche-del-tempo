@@ -397,6 +397,50 @@ h2 {
 }
 
 /* =====================================
+   CARD INTERLUDI
+===================================== */
+
+.card-interludio h2{
+     margin:4px 0;
+    overflow:hidden;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+    line-clamp:2;
+}
+
+.card-interludio{
+    position:relative;
+    display:flex;
+    align-items:stretch;
+    justify-content:center;
+    min-height:40px;
+    padding:15px;
+    background:var(--pannello);
+    border-radius:12px;
+    cursor:pointer;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.card-interludio:hover{
+    background:var(--pannello-hover);
+}
+
+
+.progresso-interludio{
+    position:absolute;
+    right:15px;
+    top:15px;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    font-size:14px;
+    opacity:0.8;
+}
+
+/* =====================================
    CARD PARTI
 ===================================== */
 

@@ -3,8 +3,8 @@
 id: l_anomalia
 tipo: capitolo
 titolo: L'anomalia
-descrizione: Due ricercatori arrivano nel cuore dell'Africa centrale.
-immagine: img/capitoli/anomalia.jpg
+descrizione: Due ricercatori arrivano nel cuore dell'Africa centrale per indagare su un misterioso segnale radio.
+immagine: img/capitoli/l_anomalia.jpg
 
 --- FINE METADATI ---
 
@@ -707,8 +707,8 @@ Per un istante Leon rimase senza fiato. "Che diavolo è quello?"
 id: lo_studio
 tipo: capitolo
 titolo: Lo studio
-descrizione: Due ricercatori arrivano nel cuore dell'Africa centrale.
-immagine: img/capitoli/2.jpg
+descrizione: La quotidianità di Nadia viene scossa da un evento imprevisto.
+immagine: img/capitoli/lo_studio.jpg
 
 --- FINE METADATI ---
 
@@ -1052,6 +1052,650 @@ Il ragazzo aiutò la sorella a salire sul carro e passò al cocchiere qualche mo
 
 Akil posò una mano sulla sua spalla. "Andrà tutto bene," disse a bassa voce. Ma il dubbio che tradiva il suo tono le fece capire che quella frase era più per sé stesso che per lei. 
 
+# CAPITOLO
+
+id: le_rovine
+tipo: capitolo
+titolo: Le Rovine
+descrizione: Delle misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.
+immagine: img/capitoli/l_anomalia.jpg
+
+--- FINE METADATI ---
+
+Leon, Alex e Zali si trovavano in cima a una sorta di piccola collina, nel folto della foresta. Raggiungere la posizione segnalata da Alex non era stato affatto semplice: la via era impervia, e la giungla pareva opporsi con ostacoli a ogni passo.  
+
+Quando, alla fine, erano giunti sul posto, la foresta si era aperta quel tanto che bastava per lasciare emergere un’antica struttura di pietra, come se per secoli alberi e radici avessero tentato di nasconderla senza riuscirci del tutto. 
+
+Blocchi ricoperti di muschio affioravano dal terreno seguendo un ordine evidente, formando gradoni che salivano verso una piattaforma più elevata, in parte crollata. Alcuni alberi erano cresciuti direttamente sopra la costruzione, mentre radici nodose si insinuavano tra le pietre come dita ostinate. 
+
+Alex era fermo accanto a uno dei gradoni, il tablet in mano e un sorriso che tradiva chiaramente il suo stato d'animo. "Allora?" 
+
+Leon non rispose subito. Si limitò a osservare. 
+
+A prima vista la struttura ricordava un piccolo tempio, o forse il basamento di qualcosa di più grande. Gran parte della costruzione doveva essere ancora sepolta sotto il terreno e la vegetazione. 
+
+"Non compare da nessuna parte," disse infine Alex. "Ho già controllato tutti i database pubblici che avevo a disposizione. Siti archeologici registrati, rilievi satellitari, archivi storici. Niente." 
+
+Zali non sembrava nemmeno ascoltarlo. Sfiorò una delle pietre con la punta delle dita. "Che strano." 
+
+Alex si voltò verso di lei. "Cosa intendi?" 
+
+"Vivo qui da quando sono nata. Mio padre vive qui da quando è nato. Mio nonno anche." Scosse leggermente la testa. "Non ho mai sentito parlare di questo posto." 
+
+Leon capì cosa intendesse. Le rovine potevano anche rimanere sconosciute agli studiosi, ma molto più difficilmente venivano ignorate dalle persone che abitavano il territorio. Ma in fondo la giungla era talmente vasta che nemmeno la popolazione Naha poteva aver esplorato tutti i dintorni. 
+
+Si avvicinò alla struttura e iniziò a esaminarla con maggiore attenzione. 
+
+Più osservava, meno riusciva a collocarla. E ciò non gli causava frustrazione. Al contrario, faceva crescere l’eccitazione.  
+
+Aveva studiato per anni le culture dell'Africa Centrale e, pur non essendo uno specialista della regione, possedeva abbastanza esperienza da riconoscere quando qualcosa appariva fuori posto. Quelle pietre lavorate, quei gradoni, quelle proporzioni geometriche non ricordavano nulla di ciò che si sarebbe aspettato di trovare lì. 
+
+Estrasse il tablet. 
+
+Per diversi minuti si dedicò a documentare il sito. Fotografie da ogni angolazione, scansioni tridimensionali, misurazioni preliminari. Passò tutto a Marie. 
+
+Alex si guardava intorno con curiosità. “Cosa ne pensi?” 
+
+Leon scattò un’ultima foto. “Sono più colpito da ciò che manca.” 
+
+“Cioè?” 
+
+"Nessuna iscrizione, nessuna decorazione evidente, nessuna statua, nessun simbolo riconoscibile. Le superfici esposte sono sorprendentemente spoglie. Quasi anonime. Qui le opzioni sono due. O questa struttura è stata fatta da una popolazione senza alcun senso estetico, o è talmente antica che ogni traccia di decorazione è andata perduta." 
+
+Dopo qualche istante comparvero le prime conclusioni di Marie. 
+
+Confronto con database archeologici completato. 
+
+Corrispondenze affidabili: nessuna. 
+
+Attribuzione culturale: impossibile con i dati disponibili. 
+
+"Utile." Alex rimase a fissare il responso per qualche secondo. "Questa è una buona notizia o una cattiva notizia?" 
+
+"Se persino Marie non trova nulla, potremmo esserci imbattuti in qualcosa di davvero anomalo." 
+
+Aprì il rilevatore e controllò nuovamente i dati. Il segnale era presente, forte e stabile, più intenso di quanto fosse mai stato durante l'avvicinamento. 
+
+Verificò le coordinate. Poi le verificò una seconda volta. 
+
+Alex aprì a sua volta la mappa sul proprio dispositivo. "Direi che non c’è dubbio: il posto è questo." 
+
+Leon sollevò lo sguardo verso le rovine, poi tornò a osservare i dati che scorrevano sul display. "Probabilmente è qualcosa nascosto qui in giro. O qui sotto." 
+
+Alex osservò la struttura per qualche secondo. "Beh, diamo un'occhiata." 
+
+Per quasi un’ora esplorarono l'intera area con crescente meticolosità. Risalirono i gradoni ancora accessibili, aggirarono le sezioni crollate e si inoltrarono tra gli alberi che avevano ormai inglobato parte della costruzione. Leon si allontanò, cercando di capire se nella zona c’erano edifici simili, ma non ebbe fortuna. 
+
+Più la osservavano da vicino, più appariva evidente che ciò che emergeva dalla vegetazione rappresentava soltanto una piccola porzione dell'opera originale. 
+
+A un certo punto Alex individuò una fenditura tra due blocchi di pietra e vi puntò immediatamente una torcia. 
+
+"Niente." 
+
+Poco dopo fu Zali a richiamarli presso una depressione del terreno nascosta da uno spesso strato di foglie. Sembrava promettente ma si rivelò soltanto il risultato del cedimento di alcune radici. 
+
+Leon batté il tacco dello stivale su un blocco di pietra. "Se qui attorno non c’è nulla, l’unica alternativa è che il segnale venga da qui sotto." 
+
+Alex scosse la testa. "Continuo a non capire." 
+
+Leon alzò lo sguardo. 
+
+"Il segnale. Pensavo fosse un trasmettitore nascosto da qualche parte. Un vecchio ripetitore, una stazione scientifica dimenticata... qualcosa del genere." Alex indicò le strutture davanti a loro. "Ma se il segnale arriva davvero da qui, qualcuno deve averlo messo dentro." 
+
+"Non vedo molte altre possibilità." 
+
+“Beh, non ti sembra strano? Perché qualcuno avrebbe dovuto nascondere sottoterra qualcosa del genere? Sotto strati di roccia e terreno.” 
+
+Leon non ne aveva idea. 
+
+Ma tanto per cominciare, potevano verificare che ci fosse davvero qualcosa sepolto lì sotto.  
+
+“Proviamo con questo.” Attivò una scansione preliminare del sottosuolo utilizzando i sensori integrati nel proprio equipaggiamento. Non erano progettati per quel genere di lavoro, ma dovevano farseli bastare.  
+
+Mentre il sistema elaborava i dati, Alex si sedette all’ombra di alcune fronde. 
+
+Leon attese con impazienza, bevendo un sorso d’acqua dalla borraccia. Quando finalmente la barra di avanzamento arrivò in fondo, il display mostrò il risultato dell’analisi. 
+
+“Bingo.” 
+
+“Fa’ vedere.” 
+
+Leon mostrò lo schermo, facendo ruotare la scansione tridimensionale. Come avevano immaginato, sotto di loro esistevano anomalie strutturali: cavità naturali, forse stanze artificiali. Ma determinarne la forma o l'estensione per ora era impossibile. 
+
+“Dobbiamo farci inviare attrezzatura più adatta.” 
+
+Fecero il giro ancora una volta, ma non ne cavarono niente di nuovo. Quando tornarono al punto di partenza, il sole aveva già iniziato la lenta discesa verso l'orizzonte. 
+
+Alex si lasciò cadere su un blocco di pietra ricoperto di muschio. "Quindi?" 
+
+"Quindi c’è qualcosa qui sotto. Ma non entreremo oggi." 
+
+"Neanche domani, probabilmente." 
+
+Leon annuì. 
+
+Tutto ciò che poteva essere stato un ingresso era crollato da tempo o giaceva sepolto sotto metri di terra e vegetazione. Qualunque segreto custodissero quelle rovine, non aveva alcuna intenzione di lasciarsi scoprire facilmente. 
+
+Per qualche istante rimasero in silenzio. 
+
+"Dobbiamo avvisare la FSU. Questa cosa potrebbe essere la scoperta archeologica del secolo." 
+
+Leon si concesse un mezzo sorriso. "Negli ultimi vent'anni ho sentito definire almeno ventisette cose diverse come la scoperta archeologica del secolo." 
+
+"Questa però potrebbe esserlo davvero." Alex si alzò in piedi. "Abbiamo una struttura sconosciuta, un segnale artificiale che trasmette una sequenza matematica e qualcosa di nascosto sottoterra. Se non è una situazione da FSU, non so cosa lo sia." 
+
+Leon posò lo sguardo sulle pietre antiche, gli archi semi crollati e le gradinate coperte di muschio. Non poteva dargli torto. 
+
+"Quanta gente arriverà?" 
+
+La domanda fece voltare entrambi. Zali, che fino a quel momento era rimasta in silenzio, continuava a osservare le rovine. 
+
+"Come?" Alex inclinò la testa. 
+
+"Se chiamate la FSU." Indicò la struttura. "Quanta gente arriverà?" 
+
+Alex rifletté qualche secondo. "Non saprei. Una decina di persone, per cominciare. Una squadra preliminare. " 
+
+"Poi?" 
+
+"Poi di più." 
+
+"Quanto di più?" 
+
+Leon lasciò vagare lo sguardo sulle rovine. "Dipende da quello che troveremo. Archeologi. Geologi. Tecnici. Operatori di droni. Specialisti nelle scansioni del sottosuolo. Personale logistico. Forse antropologi. C’è un bel po’ di gente che potrebbe essere coinvolta in rovine mai esplorate." 
+
+Zali annuì lentamente. "Capisco." Ma dal tono della sua voce era evidente che non le piaceva ciò che aveva appena capito. 
+
+Alex sembrava sul punto di replicare, ma Leon lo anticipò. "È una preoccupazione legittima." 
+
+La giovane si voltò verso di lui. Annuì. "Per voi questa è una scoperta. Per noi è la foresta." Il tono non era accusatorio, era semplicemente un dato di fatto. "È il luogo dove cacciamo. Dove raccogliamo piante medicinali. Dove vivono le persone che conosco. Se arrivano tutti quelli che hai appena descritto, le cose cambieranno." 
+
+Alex abbassò lo sguardo. Non aveva considerato la questione in quei termini. Leon invece sì. L'aveva vista ripetersi molte volte. 
+
+"Potrebbe accadere." 
+
+Zali sembrò sorpresa dalla risposta. Probabilmente si aspettava una rassicurazione immediata. Leon si sedette sul bordo di un gradone e osservò la foresta che li circondava. 
+
+"Ho visto villaggi diventare mete turistiche nel giro di pochi anni. Ho visto comunità arricchirsi grazie alle scoperte archeologiche. Ne ho viste altre perdere il controllo di ciò che accadeva intorno a loro. A volte le cose vanno bene. A volte no." 
+
+Per un momento nessuno parlò. Il richiamo lontano di un uccello attraversò la foresta. 
+
+Infine Leon si rialzò. "Ma di certo non prenderemo decisioni senza parlarne con le autorità locali." 
+
+La giovane lo osservò attentamente. "Con gli anziani?" 
+
+"Sì." 
+
+Alex sospirò. "Magnifico. Ho appena scoperto delle rovine perdute nel cuore dell'Africa e la prossima fase dell'avventura consiste nel partecipare a una riunione." 
+
+Leon si issò lo zaino sulle spalle fradicie. "Esatto." 
+
+"Questa non è la parte che raccontano nei documentari." 
+
+"No," disse l’antropologo. "È la parte che evita di finire nei tribunali internazionali." 
+
+Alex ci pensò un attimo. "Vista così, forse preferisco la riunione." 
+
+I tre raccolsero l'equipaggiamento e si prepararono al ritorno. Dietro di loro le rovine rimasero immobili e silenziose, indifferenti alla loro discussione, mentre da qualche punto invisibile sotto la pietra e la terra il segnale continuava ostinatamente a trasmettere le sue cifre verso il cielo. 
+
  
 
+Il ritorno fu impegnativo, ma molto meno dell’andata, ora che il sentiero era stato tracciato. Nessuno dei tre parlò molto. Alex era chiaramente ancora immerso nell'euforia della scoperta, Leon stava già organizzando mentalmente il rapporto che avrebbe dovuto inviare alla FSU, mentre Zali sembrava assorta in pensieri che preferiva non condividere.  
+
+Giunsero al villaggio che era già tardo pomeriggio, con il sole basso negli occhi. Il fiume rifletteva una luce dorata che sembrava sciogliersi lentamente sull'acqua.  
+
+Quando le prime case comparvero tra gli alberi, Zali si fermò. "Vado da mio padre." 
+
+Leon annuì. "Spiegagli tutto. Credo sia meglio che la notizia arrivi da qualcuno di cui si fida." 
+
+Zali si limitò a fare un cenno con il capo e si allontanò lungo una delle passerelle che costeggiavano il fiume. "Ci vediamo alla guesthouse." 
+
+Leon e Alex ebbero appena il tempo di lavarsi e liberarsi degli abiti fradici di sudore prima che Zali ricomparisse sulla veranda. 
+
+"Il consiglio degli anziani verrà riunito. L'appuntamento è per dopo cena." 
+
+“Succede spesso che gli anziani si riuniscano?” chiede Leon, frizionandosi i capelli bagnati con un asciugamano. 
+
+Zali fece spallucce. “Non accade tutte le settimane, ma non è nemmeno così raro. Se si rompe una barca o se qualcuno litiga con il vicino a volte basta uno degli anziani a fare da intermediario. Se due ricercatori tornano dicendo di aver trovato un antico edificio nella foresta..." si interruppe per un istante. "Allora gli anziani vogliono parlarne tutti insieme." 
+
+“Ragionevole” concluse Alex. 
+
+La casa del consiglio si trovava non lontano dal centro del villaggio, in una posizione leggermente rialzata rispetto al fiume. Era una struttura più grande delle abitazioni circostanti, costruita in legno scuro e coperta da un ampio tetto metallico che proteggeva l'interno dalle piogge tropicali. Tre lati erano quasi completamente aperti, permettendo all'aria serale di attraversare liberamente l'edificio. 
+
+Quando arrivarono, gli anziani erano già seduti in attesa. 
+
+Leon riconobbe immediatamente Raul. Seduto composto a un'estremità del lungo tavolo centrale, indossava gli stessi abiti tradizionali che aveva visto il giorno precedente: una tunica blu decorata con motivi geometrici e una collana di perline consumate dal tempo. L'espressione era seria come la prima volta che l’aveva visto. 
+
+Poco distante sedeva il capo degli anziani. Vederlo in un contesto formale risultava quasi straniante. L'uomo era basso, magro e apparentemente incapace di restare fermo per più di qualche secondo. Seduto sulla grossa sedia di vimini, toccava a malapena terra con i piedi. Mentre parlava con uno degli altri consiglieri gesticolava continuamente, e il sorriso che Leon ricordava dal giorno precedente compariva e scompariva dal suo volto con sorprendente facilità. 
+
+Gli altri tre membri del consiglio non gli erano familiari. Una donna anziana dai capelli completamente bianchi raccolti in trecce sottili osservava i nuovi arrivati con sguardo acuto. Alla sua destra sedeva un uomo robusto, probabilmente sulla sessantina, che tamburellava distrattamente le dita sul tavolo. L'ultimo consigliere era il più anziano di tutti. Rimaneva quasi immobile sulla propria sedia e sembrava quasi addormentato. 
+
+Zali, nervosa, li invitò a sedersi, a nome del consiglio. 
+
+Leon fece per attivare la modalità traduzione sugli occhiali, ma poi cambiò idea. 	Alex lo osservò. "Problemi tecnici?" 
+
+"No." 
+
+"Perché li metti via?" 
+
+Leon guardò il tavolo attorno al quale erano riuniti gli anziani. "Perché questa non è una conferenza." 
+
+Alex rifletté un istante. Poi, senza aggiungere altro, si tolse a sua volta gli occhiali. Zali annuì. 
+
+Per alcuni secondi nessuno parlò. 
+
+Dal villaggio arrivavano voci lontane, il rumore di stoviglie e il canto continuo degli insetti notturni che iniziavano a riempire l'aria. La lampada al neon al centro del soffitto lasciava gli angoli dell'edificio immersi nella penombra. 
+
+Leon ebbe improvvisamente la sensazione di trovarsi davanti a un esame. Non era a suo agio, pur essendo abituato a costanti riunioni e conferenze. In tutta la sua ventennale carriera, era la prima volta che si trovava al cospetto di un vero e proprio consiglio degli anziani. 
+
+Alla fine fu Raul a rompere il silenzio. Pronunciò alcune parole nella lingua locale. 
+
+Zali tradusse. "Mio padre dice che avete trovato qualcosa nella foresta." 
+
+Leon annuì lentamente. 
+
+"Vorrebbe capire esattamente cosa." 
+
+Leon si sporse leggermente in avanti. "Abbiamo trovato una struttura antica. Molto antica, probabilmente. Non sappiamo molto altro, per ora. Ma ci sono delle aree sotterranee e vorremmo disseppellirle." 
+
+Gli anziani ascoltarono senza interrompere. Leon attivò il tablet e lo posò sul tavolo, facendo comparire le fotografie scattate poche ore prima. 
+
+Per la prima volta vide un cambiamento nelle loro espressioni. Non stupore. Piuttosto attenzione. 
+
+Le immagini scorsero una dopo l'altra: i gradoni emergenti dalla vegetazione, le pietre ricoperte di muschio, gli archi semi crollati, le scansioni tridimensionali generate da Marie. 
+
+Il capovillaggio allungò una mano e fece ruotare il modello tridimensionale con un dito. Persino l'uomo più anziano si alzò lentamente dalla sedia e si avvicinò per osservare meglio. 
+
+Per qualche secondo nessuno parlò. Poi iniziò una breve discussione nella lingua Naha. Leon non comprese una sola parola. 
+
+Quando terminarono, Raul parlò nuovamente. 
+
+"Chiedono se siete certi che si trovi nel nostro territorio." 
+
+"Abbastanza certi." 
+
+"Abbastanza?" 
+
+Leon indicò la mappa. Nuova discussione, più breve. Poi arrivò un'altra domanda. 
+
+"Perché siete andati proprio lì?" 
+
+Leon e Alex si scambiarono un'occhiata. Era inevitabile. Leon fece apparire sullo schermo il grafico del segnale. Le linee e gli impulsi suscitarono molto meno interesse delle fotografie. Gli anziani osservavano il display con evidente perplessità. 
+
+Raul fece una domanda in Naha. "Che cosa significa?" 
+
+Alex si schiarì la gola. "Le cifre di pi greco." Gli sguardi si spostarono verso di lui. "Tre virgola uno quattro uno cinque nove due sei cinque tre cinque otto nove sette nove tre due tre otto quattro sei due sei quattro tre..." 
+
+Leon chiuse gli occhi. 
+
+"...tre tre otto tre due sette nove cinque zero due otto otto quattro uno nove sette uno sei..."  
+
+"Basta." 
+
+Alex si interruppe. "Stavo arrivando alla parte interessante." 
+
+Qualche sorriso comparve persino tra gli anziani, probabilmente più per il tono dei due che per il contenuto. Ma non sembravano aver afferrato davvero il punto. Forse, nemmeno gli interessava. 
+
+Poi Raul formulò la domanda che Leon stava aspettando. "Che cosa volete fare adesso?" 
+
+Leon si prese qualche secondo prima di rispondere. "Informare la FSU." 
+
+Questa volta la traduzione generò una reazione immediata. I cinque anziani iniziarono a parlare tra loro. La discussione durò vari minuti. Non sembrava ostile, ma nemmeno favorevole.  
+
+Il tempo scorreva, e la discussione proseguiva. Due minuti. Cinque. Alex e Leon si guardarono. Poi guardarono Zali con sguardo eloquente.  
+
+Quella alzò gli occhi al cielo. "D’accordo," articolò con le labbra. 
+
+Si aggiunse al dibattito 
+
+Raul replicò. 
+
+La ragazza rispose. 
+
+A quel punto parteciparono anche gli altri membri del consiglio. 
+
+La conversazione proseguì ancora per qualche minuto. 
+
+Alla fine Raul tornò a rivolgersi a loro. 
+
+"Mio padre chiede quante persone arriveranno." 
+
+"Non lo sappiamo ancora." Leon proseguì prima che la risposta apparisse evasiva. "Possiamo fare delle stime. Una squadra preliminare. Diciamo, un team di cinque persone. Poi dipenderà da ciò che troveremo." 
+
+Fu la donna anziana a parlare per la prima volta. Lo fece con calma, ma abbastanza a lungo da richiedere quasi un minuto di traduzione. "Dice che la foresta è la nostra casa. Che ogni volta che arrivano persone da fuori promettono di restare poco e finiscono per restare molto" sintetizzò Zali. 
+
+"Se quella scoperta è importante quanto crediamo, qualcuno prima o poi verrà a cercarla. Con noi o senza di noi." Gli anziani ascoltarono. "Quello che posso promettere è che la FSU non arriverà qui per prendere il controllo del sito." 
+
+Alex annuì. "Se verrà organizzata una spedizione, vogliamo coinvolgere il villaggio. Guide locali. Assistenti. Personale da formare. Persone che conoscano il territorio meglio di chiunque altro." 
+
+A quel punto fu Zali a intervenire, senza aspettare che qualcuno glielo chiedesse. 
+
+Parlò rapidamente nella lingua Naha. Raul la interruppe. Lei ribatté. L'uomo robusto intervenne a sua volta. Per qualche istante la discussione diventò sorprendentemente animata. 
+
+Alex osservava la scena come chi assiste a una partita di cui ignora completamente le regole. "Adesso cosa sta succedendo?" 
+
+Leon scosse la testa. Raul e la donna anziana sembravano i più cauti. Il capovillaggio, sorprendentemente, appariva tra i più favorevoli. L'uomo robusto oscillava da una posizione all'altra a seconda dell'argomento. L'ultimo anziano continuava invece a parlare pochissimo, ma ogni volta che lo faceva gli altri si fermavano ad ascoltarlo. Zali agiva come moderatrice a tutti gli effetti. Ogni tanto riportava ai due qualche frase che riassumeva interi minuti di discussione. 
+
+Fu soltanto dopo quasi venti minuti che il tono generale iniziò a cambiare. 
+
+Le obiezioni lasciarono spazio alle condizioni. Le condizioni lasciarono spazio ai dettagli. E i dettagli, lentamente, assunsero la forma di un accordo. 
+
+Alla fine, tutti gli altri anziani annuirono. 
+
+"Mio padre dice che il consiglio è disposto ad accettare." 
+
+Alex si raddrizzò sulla sedia. "Davvero?" 
+
+"Con alcune condizioni." 
+
+"Naturalmente." 
+
+"Prima condizione. La squadra iniziale sarà piccola. Non più di cinque persone." 
+
+Leon annuì quasi immediatamente. Era una richiesta perfettamente ragionevole. Avrebbe dovuto contrattare con la FSU, ma poteva farlo. 
+
+"Seconda condizione. I Naha parteciperanno alla spedizione. Non solo come guide, ma anche come lavoratori dello scavo. Retribuiti." 
+
+Alex e Leon si scambiarono uno sguardo. Quella proposta era persino migliore di quanto sperassero. 
+
+"Terza condizione. Ogni scoperta importante dovrà essere comunicata prima al consiglio degli anziani." 
+
+Leon rifletté qualche istante. "Possiamo farlo." 
+
+"Quarta condizione. Nessuna parte della foresta verrà abbattuta senza autorizzazione del consiglio."  
+
+"Accettata." 
+
+Seguì un'altra breve serie di richieste. Tutte ragionevoli. Tutte orientate alla stessa idea: mantenere il controllo su ciò che sarebbe accaduto nel loro territorio. 
+
+Più Leon le ascoltava, più si convinceva che avrebbe avanzato lui stesso proposte molto simili se si fosse trovato al loro posto. 
+
+Quando l'ultima traduzione terminò, nella sala calò un silenzio soddisfatto. Sembrava che la questione fosse conclusa. 
+
+Leon si alzò. "Allora credo che abbiamo un accordo." 
+
+Anche Alex si alzò in piedi. "Bene. Domani mattina prepareremo il rapporto per la FSU." 
+
+Il capovillaggio si schiarì la gola. Tutti si voltarono verso di lui. L'ometto stava sorridendo. 
+
+Pronunciò una frase breve. Molto breve. Gli altri anziani si scambiarono occhiate di approvazione. "Dice che c'è un'ultima condizione." 
+
+Alex esitò. "Un'altra?" 
+
+"L'ultima." 
+
+Leon tornò lentamente a sedersi. "Sentiamo." 
+
+"Vorrebbero fare un giro sull'elicottero. Prima che ve ne andiate." 
+
+Per un istante nessuno disse nulla. Alex e Leon si scambiarono uno sguardo. 
+
+Il capovillaggio manteneva un'espressione perfettamente seria, ma i suoi occhi tradivano un entusiasmo quasi infantile. Leon lasciò uscire un breve sospiro. 
+
+"Dovevo immaginarlo." Poi sorrise. "Affare fatto." 
+
+# CAPITOLO
+
+id: diario_1
+tipo: interludio
+titolo: Diario di Mira
+descrizione: 
+immagine: 
+
+--- FINE METADATI ---
+
+Avevo otto anni quando mi scelse. 
+
+All'epoca non capivo cosa significasse. Pensavo soltanto che una donna di mezz'età, temuta e rispettata da tutti, avesse deciso di passare del tempo con un'orfana. 
+
+Mi portava con sé ovunque. Alle riunioni del consiglio, nei magazzini, nel grande tempio... 
+
+A volte restavamo sedute per ore senza parlare, osservando gli artigiani al lavoro o le stelle comparire una dopo l'altra nel cielo. 
+
+Un giorno le chiesi perché avesse scelto proprio me. 
+
+"Non ti ho scelta io" disse. 
+
+E non aggiunse altro. 
+
+ 
+# CAPITOLO
+
+id: lisenna
+tipo: capitolo
+titolo: Lisenna
+descrizione: Nadia e Akil arrivano nella capitale. Ad attenderli, un mondo nuovo e sconosciuto.
+immagine: img/capitoli/lo_studio.jpg
+
+--- FINE METADATI ---
+
+"Ci siamo quasi, ragazzi." La voce roca del vecchio cocchiere risvegliò Nadia dal torpore di quel lungo e scomodo viaggio. Si era addormentata contro un grosso blocco di pietra e ora la schiena le doleva. Si stirò piano, cercando di risvegliare i muscoli, mentre l’eccitazione cominciava a crescere. Alzandosi dal suo angolino sul carro, diede un’occhiata al paesaggio oltre il bordo. 
+
+Il cielo era di un blu intenso, con le ultime luci del giorno che tingevano l’orizzonte di un tenue arancione. L'aria della sera portava con sé un odore misto: il dolciastro delle campagne vicine si mescolava all’aroma pungente del fumo di legna e di cibo arrostito. Le strade si animavano di vita man mano che si avvicinavano: commercianti che spingevano carretti cigolanti, animali che attraversavano di corsa, bambini che correvano scalzi tra la folla. Ogni metro percorso li portava più vicini alla possente cinta muraria che circondava la città.  
+
+Più vicini a papà. 
+
+Finalmente varcarono uno dei grossi cancelli d’accesso. Due guardie sorvegliavano il portone, e dopo una breve ispezione del carico, furono dentro.  
+
+"Tutto qui il controllo?"  
+
+"Sono tempi buoni. Nessuno vuole creare guai, e le guardie non vogliono perdere tempo prezioso che possono spendere per giocare a dadi." 
+
+Nadia alzò un sopracciglio ma non aggiunse altro. 
+
+La strada principale si aprì davanti a loro, costeggiata da luci che illuminavano il cammino. Nadia si rese conto con stupore che quelle lanterne non erano alimentate da fiamme: sembravano globi di vetro, luminosi e quasi vivi. La luce interna alle sfere pulsava leggermente, come se respirassero. Al passaggio del carro, la loro intensità sembrava crescere per poi diminuire di nuovo, un fenomeno che la lasciò a bocca aperta. 
+
+"Queste luci... cosa sono?" sussurrò Akil, affascinato. 
+
+Il cocchiere si girò appena. "Benedizioni dell’impero. Potere divino fatto luce. Le chiamiamo magiluci." 
+
+I due si guardavano attorno meravigliati: l’atmosfera era surreale, quasi magica. Il carro proseguì lento e cigolante, passando su strade di selciato tra casupole di argilla. Svoltato un angolo, il carro imboccò un’arteria stradale ampia e vivace. Le magiluci illuminavano le attività della sera: artigiani che sbrigavano gli ultimi lavori nelle loro botteghe, animali domestici che cercavano avanzi di cibo, carri e passanti che attraversavano le strade in un caos disordinato, gente che cenava a fianco della strada su bassi tavolini di legno, parlando e schiamazzando.  
+
+Fu quando svoltarono l’angolo che la videro. 
+
+In fondo al lungo viale, stagliata nel blu del crepuscolo, una piramide colossale si ergeva dominando l’intera città, le sue ampie gradinate che salivano verso il cielo. Era circondata da impalcature di legno e montacarichi imponenti. Non era ancora completa. 
+
+La luce delle lanterne illuminava le fondamenta, lasciando la sommità in un’ombra densa, più scura della notte stessa. Nadia si sentì minuscola. 
+
+"È... immensa," sussurrò Akil, la voce appena udibile sopra i rumori del carro. 
+
+Nadia annuì, senza distogliere lo sguardo da quella presenza immane. 
+
+Il cocchiere rallentò fino a far fermare gli asini, riportandoli alla realtà.  "Qui è dove vi lascio. È una casa del viaggiatore. Buon posto per stare, se avete poco denaro. E, ragazzi... attenti a voi." 
+
+Nadia scese dal carro, le gambe rigide dal viaggio. Akil la seguì, scambiando un rapido cenno con il cocchiere. Lo ringraziò, e il rumore degli zoccoli si allontanò traballante nella sera, puntando dritto verso la monumentale piramide.  
+
+Dopo un attimo di esitazione, Akil spinse la porta di legno. 
+
+L’interno della stanza era immerso in una luce calda, diffusa da lampade d’olio sospese a catene di bronzo. Le fiamme tremolavano a ogni corrente d’aria, e le ombre danzavano sulle travi scure del soffitto. La sala ribolliva di voci e odori.  
+
+I tavoli di legno erano occupati da mercanti che discutevano animatamente davanti a tavolette coperte di conti, viaggiatori stanchi appoggiati a coppe di birra di miglio e uomini con la pelle lucida di sudore e la tunica coperta di polvere. 
+
+ In un angolo, tre uomini sedevano a gambe incrociate su un tappeto, inalando fumi aromatici da recipienti di terracotta smaltata dalle forme insolite. Uno di essi, tra un tiro e l’altro, pizzicava distrattamente le corde di uno strumento dal lungo manico ricurvo, producendo note basse che si perdevano nel brusio generale.  
+
+A un tavolino vicino a una finestra, un uomo dalla folta barba nera sorseggiava vino speziato in solitudine, osservando la sala con aria assorta. 
+
+Nadia respirò a fondo. L’aria era satura di aromi: pepe, resine profumate e foglie essiccate che non sapeva riconoscere, unite al profumo di zuppa speziata. La fame le si accese nello stomaco.  
+
+Akil si avvicinò al bancone. "Ci serve una camera per la notte… e qualcosa da mangiare." 
+
+Il gestore, un uomo deperito con un grembiule macchiato, annuì. "Una camera ce l’ho, e stasera c’è zuppa di fagioli e curcuma. Sono sedici Sol a testa per tutto quanto." 
+
+Sedici Sol. Era quasi il doppio di quel che si trovava a Junna, ma non avevano molta scelta. Akil sospirò mentre sborsava la somma. 
+
+Poco dopo erano a un tavolo vicino al focolare. Le fiamme crepitavano piano, e il calore del fuoco si mescolava al profumo del piatto fumante. Nadia intinse un pezzo di pane nel sugo, decisa a non avanzare nemmeno una crosta. 
+
+Mentre la pancia si calmava, la mente di Nadia tornava a ronzare. Le immagini della città, le luci che respiravano, la piramide immensa…  
+
+"Quella piramide…" disse Akil, quasi le avesse letto nella mente. "È una cosa che non avrei mai immaginato. Deve esserci voluto il lavoro di un popolo intero." 
+
+Prima che Nadia potesse commentare, sentirono il passo mellifluo del gestore che era tornato a sparecchiare. Akil ne approfittò. 
+
+"Abbiamo bisogno di sapere dove rivolgerci per avere giustizia. Nostro padre è stato arrestato, e non ha fatto nulla. Dove possiamo andare? A chi possiamo rivolgerci?" 
+
+L’uomo li guardò, come a valutarli. "Il palazzo di giustizia è il posto che cercate. Sta nella piazza grande, proprio all’ombra della piramide. Ma vi avverto ragazzi," li ammonì, mentre impilava le ciotole, "non è cosa semplice farsi valere senza una corporazione alle spalle. E immagino voi non apparteniate a nessuna di esse." 
+
+Non sapevano nemmeno cosa fosse una corporazione. "Dovremo tentare comunque" disse Akil, senza perdersi d’animo. 
+
+"Una corporazione?" fece Nadia, quando il gestore si fu allontanato per tornare alle sue faccende. 
+
+Akil era pensieroso. "Forse siamo stati ingenui a credere di poter semplicemente parlare con un funzionario. Qui non funziona come da noi, a Junna: questa città è immensa e ci saranno centinaia di persone nella nostra situazione." 
+
+Ma Nadia lo ascoltava appena. Si sentiva addosso una strana sensazione, come se qualche orecchia indiscreta li avesse sentiti. Forse parlarne con il gestore non era stata una buona idea. "Andiamo in camera. Non mi piace stare qui," disse, alzandosi dalla sedia con decisione. 
+
+ 
+
+Il mattino seguente, Nadia e Akil lasciarono la casa del viaggiatore mentre la città si risvegliava. L’aria fresca dell’alba era colma di rumori: voci di mercanti che alzavano i teli delle bancarelle, richiami di animali da soma, grida di bambini. Nadia si sentì travolta da quella vitalità. 
+
+Il palazzo di giustizia era aperto al popolo solo un giorno a settimana. E quel giorno era l'indomani.  
+
+"Direi che non ci resta molto da fare, se non esplorare la città" disse Akil, stiracchiandosi al sole. 
+
+Non impiegarono molto per convincersi che vedere l’intera Lisenna in una giornata era impensabile: la città era davvero smisurata. Persino senza contare la periferia esterna alle mura, il solo centro città sembrava grande decine di volte la loro cittadina. 
+
+All’inizio si sentirono quasi a casa: il quartiere dove erano alloggiati era fatto di case basse d’argilla, botteghe semplici, gente comune. Un’atmosfera non molto diversa da quella di Junna. Ma bastò avanzare verso il cuore della capitale perché tutto cambiasse. Le strade divennero lastricate, le case ornate di bassorilievi, le porte intagliate con segni e decorazioni.  
+
+Un fiume ampio divideva in due la città: parchi verdeggianti e attracchi per le imbarcazioni erano disseminati lungo le sue acque marroni e torbide. Nadia si fermò a guardare le rive, ipnotizzata dall’attività: barche che scaricavano giare e sacchi, uomini che correvano sotto il sole con le braccia cariche, funzionari che controllavano ogni movimento con occhi attenti.  
+
+I mercati ribollivano di suoni e odori: il metallo dei fabbri che batteva, spezie che le pizzicavano le narici, fumo acre che le bruciava la gola. Un intero quartiere era dedicato ad artigiani che lavoravano minerali. Un altro a laboratori e stamperie. 
+
+Infine, giunsero nel centro vero e proprio della città: una grande piazza gremita di gente, il cuore pulsante di Lisenna. Qui si ergevano gli edifici che Nadia fino a quel momento aveva solo immaginato: il palazzo di giustizia, solenne e severo; il grande tempio di Rham, le cui colonne parevano voler sorreggere il cielo; la torre astronomica, sottile e vertiginosa. Ma nulla sovrastava la scena più della piramide. Alla luce del giorno sembrava quasi irreale: un gigante di pietra che incombeva sulla città intera. Gli operai si muovevano senza tregua su impalcature e carrucole, minuscole figure che parevano formiche arrampicate su un corpo vivo. Nadia la fissò a lungo, colpita da un senso contrastante di meraviglia e estraneità: quella costruzione non sembrava fatta per il presente, ma per un tempo lontano, diverso. Ancora una volta si sentì minuscola, fuori posto, come se l’intera capitale fosse un meccanismo troppo vasto lei. 
+
+Nel cuore della città, persino la gente sembrava diversa. Uomini e donne con tuniche di tessuti pregiati attraversavano la folla, chiacchierando di affari, di contratti, di frivolezze mondane.  
+
+Dietro a quelle parole, però, sembrava ricorrere sempre lo stesso tema. "Domani è il grande giorno!" esclamò un uomo, stringendo la mano a un conoscente. "Che annuncio farà?" domandava una donna a un’altra. Poco più in là, una ragazza rideva con le amiche: "Devo mettere il mio vestito migliore." 
+
+"Che cosa sta succedendo?" borbottò Akil, all’ennesima risatina eccitata di una nobildonna. 
+
+Nadia aveva sentito due signori discuterne. "Credo che l’imperatore terrà un discorso pubblico." Un evento raro, a giudicare dal fermento che aleggiava ovunque. Era solo un’impressione, o davvero tutta Lisenna sembrava trattenere il respiro in attesa di quel giorno? 
+
+ 
+
+I loro dubbi trovarono conferma quella sera, quando fecero ritorno alla casa del viaggiatore: nella sala da pranzo non si parlava d’altro.  
+
+"Sì, vi dico! È proprio così!" esclamò un uomo robusto, battendo il pugno sul tavolo. "Domani sarà in piazza, con un discorso per tutto il popolo!" 
+
+Anche il gestore aveva lasciato incustodito il suo bancone, immerso nella conversazione. Nadia lo vide aggrottare la fronte, come se non credesse a quanto sentito. "Non è possibile," disse con voce scettica, mentre teneva in bilico una pila di tazze di terracotta. "L’imperatore non si fa mai vedere!" 
+
+"È tutto vero," replicò un secondo uomo, sollevando il boccale. "Tutti ne parlavano nei quartieri alti. Immagino che vogliano la piazza sgombra della plebaglia come noi," sogghignò, "ma giuro sui Due Dei, io non mancherò di certo! Questo genere di occasioni capitano una volta nella vita." 
+
+Quando il gestore li vide avvicinarsi, agitò il dito verso di loro, con un sorriso stampato sul volto magro: "Siete proprio fortunati voi due! Siete in città da due giorni e vi capita sotto il naso l’evento dell’anno!" 
+
+"Dovremmo imbucarci?" domandò Nadia. 
+
+"E me lo chiedi?" sbottò lui. "È un’occasione unica! Ci andrei io, se non avessi un locale da portare avanti. È l’imperatore, per tutti gli dei! Se non altro, per dire di esserci stati." 
+
+Nadia rimase pensierosa. "Dobbiamo andare al palazzo di giustizia. Non abbiamo tempo per questo" disse con tono poco convinto. 
+
+"Il palazzo di giustizia? Non riuscirete nemmeno a entrare, con tutta quella gente accalcata nella piazza. Potete sempre andarci nel pomeriggio, no?"  
+
+Akil e Nadia si scambiarono uno sguardo. Era deciso, dunque. 
+
+ 
+
+Quella sera Nadia era sola nella camera. L’aria sapeva di legno vecchio e di lana umida, e il rumore della sala sottostante era un brusio lontano, smorzato dalla porta chiusa. Akil era rimasto nella sala comune, in compagnia di un paio di ragazzi conosciuti per caso. Forse sperava di carpire qualche informazione utile, o forse voleva semplicemente giocare a dadi. 
+
+Nadia era seduta sul giaciglio di paglia e lana, ripensando a quegli ultimi giorni. Lei in una casa del viaggiatore a Lisenna, chi l’avrebbe mai immaginato?  
+
+L’indomani forse avrebbero potuto sapere qualcosa di più su loro padre. Era davvero colpevole? Nadia era certa di no. 
+
+Quasi sovrappensiero, prese dalla sua borsa il piccolo libro, l’unico oggetto che potesse stringere tra le mani e sentire come veramente suo. Le Parole dei Precursori.  Lo sfogliò con delicatezza. Tra le parole stampate sulla carta logora, le annotazioni scritte a mano affollavano ogni margine. 
+
+Purtroppo, la lettura le risultava difficile: non era abituata a leggere, tantomeno testi complessi, e il linguaggio solenne la intimoriva. Ma si costrinse a sforzarsi: suo padre sarebbe stato fiero di lei, e comunque non aveva di meglio da fare. 
+
+Sfogliò le pagine in cerca di qualche brano da cui iniziare. Isil e la Stella Cadente, L’Arca di Safa, Le Ere del Caos... tutti miti che le erano in qualche modo familiari. Tutti conoscevano quelle storie, e alcune di esse erano le sue preferite quando papà gliele leggeva prima di andare a dormire. Pensò con nostalgia a quei giorni, e per un momento desiderò di tornare bambina, coricata nel suo giaciglio con suo padre lì a fianco, il libro in mano. 
+
+Poi lo vide. Un piccolo segno a margine del libro, tanto semplice da sembrare quasi uno scarabocchio: un triangolo rovesciato, al cui centro era tracciato un occhio socchiuso. Nadia aggrottò le sopracciglia. Aveva sfogliato il libro tante volte, ma non ricordava di averlo mai notato prima. Accanto al simbolo, la scrittura familiare del padre: poche parole frettolose, inclinate verso destra. "Via dei Salassi, terza porta". Nessuna spiegazione, nessun contesto. Non era una citazione dai Precursori, né un commento sul testo. Sembrava piuttosto un indirizzo, un appunto privato, forse lasciato come promemoria personale. O nella speranza che un giorno qualcuno lo trovasse. 
+
+Nadia passò il pollice sul segno, quasi per verificarne la consistenza. Via dei Salassi... Nessuna strada di Junna portava questo nome, ne era quasi certa. Che fosse un indirizzo qui, nella capitale? Si annotò mentalmente di verificare. 
+
+Il rumore di un coro di voci che esplose dalla sala comune la fece sussultare. Akil e i suoi nuovi amici ridevano di qualcosa. Poco dopo, il cigolio del legno e il vociare in avvicinamento le fecero capire che stavano salendo le scale. Nadia richiuse il libro e se lo infilò nella borsa. 
+
+ 
+
+La mattina seguente, la sala comune era deserta. Nadia e Akil si unirono al flusso costante di persone che sembrava sgorgare da ogni angolo di Lisenna, tutte richiamate verso il centro città. Man mano che avanzavano, le strade rallentavano e si riempivano, trasformandosi in un mare di corpi e voci. 
+
+Quando finalmente raggiunsero la piazza, Nadia rimase senza fiato. Davanti a loro si stendeva una distesa immensa di persone, un mosaico vivente di colori, odori e suoni. La folla era stratificata secondo un ordine implicito: in prima fila, ai piedi della grande piramide, nobili, grandi mercanti e capi delle gilde, distinguibili dai loro abiti sgargianti e dai gioielli che scintillavano al sole. Qua e là, servi proteggevano i nobili con grandi parasole di foglie intrecciate. Dietro di loro, separato da una fila di guardie, il ceto medio: artigiani, mercanti minori, operai più abbienti. Nel resto della piazza si accalcava un mare di gente comune: cittadini della periferia, curiosi dai bassifondi e dalle campagne circostanti, semplici artigiani, operai e scaricatori di porto, vestiti con tuniche semplici e con visi segnati dalla vita quotidiana. 
+
+Nadia e Akil si fecero largo tra la folla fino a trovare un punto da cui intravedere il podio ai piedi della piramide. Nadia non aveva mai visto così tante persone riunite insieme, eppure sapeva che non era che una frazione della popolazione della città. Nei giorni successivi, l’annuncio che stavano per udire si sarebbe diffuso di bocca in bocca, raggiungendo anche i quartieri più remoti e le campagne sparse per miglia intorno, forse persino Junna. 
+
+Il gestore aveva ragione. Doveva ammetterlo: essere lì di persona era davvero un privilegio. 
+
+Il sole, ormai alto, bruciava senza pietà e il calore della folla rendeva l’aria opprimente. La gente continuava ad accalcarsi nella piazza, estendendosi lungo le arterie stradali. Nadia si sentiva premere come una sardina, ma non le importava: era parte di quella folla, che sembrava quasi un’entità viva. Tutti gli sguardi erano rivolti verso il drappello di soldati imperiali, immobile dove sarebbe apparso il sovrano. Ogni minuto che passava faceva crescere la tensione. Nadia si ritrovò a battere nervosamente la suola delle scarpe, cercando di allungare il collo per scorgere ogni minimo movimento. 
+
+Poi, all’improvviso, le voci si alzarono e l’intera piazza esplose in applausi e acclamazioni: l’imperatore era apparso. 
+
+Nadia si unì alle acclamazioni, quasi contro la sua volontà. Anche da quella distanza, si riusciva a scorgere la maestosità del sovrano. Era vestito di una lunga tunica dorata ricamata con fili d’argento. Il mantello che gli scendeva dalle spalle sembrava brillare di luce propria e sulla testa portava una corona liscia e dorata, con una gemma blu acceso incastonata al centro della fronte, che catturava i raggi del sole mandando bagliori sulla folla. Doveva avere più o meno l’età di suo padre, ma era più alto, più aggraziato, con un lungo pizzetto nero e delle decorazioni rituali sul volto. Il suo portamento era regale: severo, saggio e al tempo stesso carico di autorità. 
+
+Alle sue spalle, un corteo di ministri e scribi lo seguiva in silenzio. Erano tutti uomini, fatta eccezione per una donna, forse una sacerdotessa. 
+
+L’imperatore avanzò tra gli applausi, e la folla lentamente si ammutolì come un’onda che si ritira. Quando parlò, la sua voce riempì la piazza, rimbalzando sugli edifici. 
+
+"Popolo del regno, figli dell’impero! Siamo sull’orlo di un’epoca d’oro. I nostri mercati traboccano di spezie e tessuti, i campi danno raccolti generosi, e le magiluci scacciano la notte dalle strade della capitale. I commerci sono fiorenti, i nostri confini si allargano: mai come oggi il nostro regno ha conosciuto tanta prosperità." 
+
+La folla esplose in un boato d’orgoglio. Nadia, schiacciata dalla calca, provò un brivido. Non poteva negarlo: la città sembrava davvero splendere.  
+
+L’imperatore proseguì, e la sua voce si fece più grave: "Ma nessuna ricchezza è eterna. Così come i fiumi scavano la roccia e i venti consumano le montagne, anche i regni sono destinati a finire. I cicli del tempo, incisi nelle stelle e nei calendari sacri, parlano chiaro: quando l’ultimo giorno sarà giunto, l’equilibrio dell’universo verrà spezzato." 
+
+Un silenzio improvviso calò sulla piazza, come se tutti avessero trattenuto il fiato nello stesso istante. 
+
+"Eppure, i Due Dei non ci hanno abbandonato. Ci hanno dato una missione, un compito sacro: erigere questa piramide, il pilastro che resisterà al tempo. Essa sarà il bastione contro la rovina, il faro che impedirà al caos di travolgere l’umanità. I Precursori lo predissero, e noi siamo i prescelti chiamati a compiere la loro profezia." 
+
+I Precursori. Nadia ricordava bene i racconti del maestro, quando parlava di quel popolo lontano e misterioso. Istintivamente, portò la mano alla borsa, tastando la forma del libricino attraverso la stoffa. 
+
+"Dieci anni di lavoro ci hanno portato fin qui" riprese il sovrano. "Molti di voi ricordano il giorno in cui fu posata la prima pietra. Altri sono giunti in seguito nella nostra gloriosa Lisenna, e hanno visto la piramide crescere insieme a loro. Ognuno ha dato qualcosa: mani, tempo, sacrifici. Quest’opera non appartiene a me, ma a tutti voi. È il frutto del nostro sudore, ed è il dono che lasceremo agli uomini che verranno. Oggi annuncio che la grande piramide è prossima a compimento. Essa sarà il faro che guiderà le generazioni future, lo scudo che ci proteggerà oltre la fine dei tempi." 
+
+Le grida di approvazione esplosero di nuovo. Nadia guardò i volti esaltati che la circondavano: donne con i bambini in braccio, uomini che agitavano le braccia al cielo, ragazzi che ridevano come in festa. Le parole dell’imperatore erano veritiere: quella piramide sembrava davvero un sogno collettivo che si realizza.  
+
+Ma l’entusiasmo di Nadia sfumò al pensiero di suo padre. Nonostante l’epoca d’oro di cui l’imperatore parlava, le ingiustizie persistevano. 
+
+ 
+
+Ci vollero ore prima che la folla si disperdesse completamente, ma finalmente Nadia e Akil riuscirono a raggiungere il palazzo di giustizia. Davanti a esso, una coda di persone si snodava lenta come un fiume in secca. I fratelli si misero in fila. Il sole cadeva a picco sulla piazza e sui volti attorno a lei: donne col capo coperto con bambini che si lamentavano, mercanti dall’aria impaziente, nobili annoiati con i servi che facevano la fila al posto loro. Attorno, il brusio delle conversazioni mescolava lamentele e speranze, tornando di frequente all’eco del discorso dell’imperatore. 
+
+Erano in coda da un bel pezzo e non erano ancora riusciti a entrare, quando un mendicante si avvicinò a loro, gli abiti sudici e una mano tesa. "Una moneta per un pover'uomo," li implorò. Con un lieve senso di colpa, Nadia scosse la testa. Non potevano permettersi di regalare denaro. E poi, tra tutte le persone benestanti qui attorno, chiedeva soldi proprio a loro? Il vecchio, incupito, passò oltre. Un’altra delle contraddizioni dell’impero, pensò Nadia, mentre avanzavano di un altro passo l’interminabile coda. 
+
+Quando, dopo quasi un’ora, lei e Akil oltrepassarono il portale, il respiro le si bloccò in gola. L’interno era solenne e spazioso. Colonne altissime si perdevano nel soffitto scolpito, i mosaici a terra raffiguravano scene di vittorie militari e gesta imperiali, e l’aria odorava di cera e tavole d’argilla. Attorno, scribi e funzionari camminavano rapidi, scambiandosi ordini e rotoli di papiro, senza badare a nessuno. 
+
+Nadia teneva d’occhio nervosamente le persone accodate davanti a loro. Qualcuno se ne andava soddisfatto, altri borbottando e scuotendo il capo. L’ansia cresceva mentre la coda si smaltiva con lentezza esasperante.  
+
+Finalmente, arrivò il loro turno. Un funzionario corpulento stava dietro una scrivania scura e ingombra. La fronte lucida di sudore, il volto impassibile, le mani che scorrevano leste tra fogli e sigilli. Akil si fece avanti, la voce controllata ma tesa. "Siamo venuti per nostro padre. È stato arrestato ingiustamente. Abbiamo bisogno di parlare con qualcuno." 
+
+Per un attimo, nessuna risposta. Solo lo scricchiolio del papiro maneggiato. Poi l’uomo mormorò, senza sollevare lo sguardo: "Corporazione?" 
+
+Nadia e Akil si guardarono, interdetti. 
+
+Il funzionario alzò lo sguardo dalle scartoffie. "Per presentare un’istanza serve il sigillo di una gilda. Senza, non siete registrati." 
+
+"Come sarebbe, non siamo registrati? Nostro padre è in prigione e..." Ma Akil si intromise, più diplomatico: "Non sapevamo di questa procedura. Non abbiamo nessuna corporazione, signore. Veniamo da Junna, una delle città nella periferia." 
+
+"Quindi non siete nemmeno cittadini? Sono spiacente, ma qui le cose funzionano in modo diverso. Tornate quando avrete un mestiere riconosciuto. Oppure fatevi rappresentare da chi ce l’ha."  
+
+Akil sospirò. Fece per ringraziare e andarsene, ma Nadia non riusciva a trattenersi. "Questo è ingiusto!" sbottò, i pugni serrati. "Non potete ignorarci così! Non è un capriccio, è la libertà di nostro padre!" 
+
+Alcuni in fila si voltarono a guardarla. Il funzionario sollevò un sopracciglio, a metà fra il sorpreso e l’infastidito. "Signorina, non è gridando che cambierà la legge. Ora fatevi da parte, ci sono altri in attesa." 
+
+Akil la prese per un braccio, cercando di trascinarla via. Lei si liberò con uno strappo, rossa di rabbia, ma le mancavano le parole. L’uomo aveva già chinato di nuovo la testa, come se non fossero mai esistiti. 
+
+Uscirono senza dire una parola, attirando gli sguardi delle persone in coda. Appena fuori, nella piazza, la piramide incombeva in tutta la sua enorme mole. Le ore erano passate, e la grande ombra dell’edificio cominciava a farsi strada nella piazza. Nadia fissò il monumentale edificio. All’improvviso, dentro di lei si fece strada un sentimento nuovo, un disprezzo viscerale per l’ipocrisia dell’impero. Giustizia? Epoca d’oro? Tutte quelle belle parole non avevano alcun senso, finché a delle guardie era concesso di irrompere nella casa di un civile e portarlo via senza nemmeno un processo. 
+
+Fu il turno di Akil di perdere la pazienza. 
+
+"Perché devi sempre scaldarti, Nadia? Pensi che serva a qualcosa?" sbottò a bassa voce, ma con un'irritazione trattenuta a stento. 
+
+Lei si fermò di colpo e lo fissò, gli occhi carichi di sfida. "E tu invece? Sempre pronto a chinare la testa, a fare quello che ti dicono. Ti sembra che ci abbia aiutato?" 
+
+Akil serrò i pugni, rigido. "Non puoi credere di venire qui e cambiare le regole come ti pare. Siamo stati ingenui a pensare di ottenere giustizia subito… l’hai sentito anche tu: senza l’appoggio di una corporazione non andremo da nessuna parte." 
+
+Nadia scosse la testa. "Non capisci che è tutta una farsa? Nobili, mercanti, rappresentanti delle gilde... La giustizia qui vale solo per loro." 
+
+Per un attimo Akil sembrò sul punto di replicare, ma si spense in un sospiro. "Forse hai ragione. Forse è davvero così. Ma dimmi: che alternative abbiamo?" 
+
+Nadia non trovò risposta. Per il resto del tragitto camminarono senza scambiarsi una parola, con la tensione sospesa tra loro. 
+
+Mentre si incamminavano verso il loro alloggio, nessuno dei due si accorse che, da lontano, uno sguardo li seguiva. 
+
+ 
+
+ 
  

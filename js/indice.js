@@ -5,7 +5,68 @@ let capitoloAperto = getCapitoloAperto();
 
 function creaIndice() {
 
+    console.log(romanzo);
     for (let cap of romanzo) {
+
+        if(cap.tipo === "interludio"){
+
+            let elementoInterludio =
+                document.createElement("div");
+
+            elementoInterludio.className =
+                "interludio";
+
+
+            elementoInterludio.innerHTML = `
+
+                <div class="card-interludio">
+
+                    <h2>
+                        ${cap.titolo}
+                    </h2>
+
+                    <div class="progresso-interludio">
+                    </div>
+
+                </div>
+
+            `;  
+console.log(
+    "CHECK INTERLUDIO",
+    cap.id,
+    cap.parti[0].id,
+    parteLetta(cap.parti[0].id)
+);
+            let stato =
+            elementoInterludio.querySelector(".progresso-interludio");
+
+
+            if(parteLetta(cap.id)){
+
+                stato.innerHTML = `
+                    <div class="icona-progresso letto">
+                        ✓
+                    </div>
+                `;
+
+            }
+            let cardInterludio =
+                elementoInterludio.querySelector(".card-interludio");
+
+
+            cardInterludio.onclick=function(){
+
+                window.location.href =
+                "lettura.html?id=" + cap.id;
+
+            };
+
+
+            contenitore.appendChild(elementoInterludio);
+
+            continue;
+
+        }
 
         let elementoCapitolo = document.createElement("div");
 

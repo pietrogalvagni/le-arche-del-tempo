@@ -41,7 +41,7 @@ function parteLetta(idParte) {
 
 // segna una parte come completata
 function completaParte(idParte) {
-
+ console.log("SALVO PARTE:", idParte);
     let progresso = getProgresso();
 
 
