@@ -106,17 +106,6 @@ function trovaParte(id) {
 
 
 
-async function caricaTesto(file){
-
-
-    let risposta =
-        await fetch(file);
-
-
-    return await risposta.text();
-
-}
-
 async function caricaPartiCapitolo(file){
 
     let testo =
@@ -173,38 +162,11 @@ async function avvia(){
 
 
     let testo =
-        await caricaTesto(
-            risultato.capitolo.file
-        );
-
-    let indiceParte =
-    parseInt(
-        risultato.parte.id.split("-")[1]
-    ) - 1;
-
-
-    let sezioni =
-        testo.split("---");
-
-
-    let parteTesto =
-        sezioni[indiceParte];
-
-
-    if(!parteTesto){
-
-        document.getElementById("testo")
-        .innerHTML =
-        "<p>Parte non trovata</p>";
-
-        return;
-
-    }
-
+    risultato.parte.testo;
+console.log("TESTO DA MOSTRARE:", testo);
 
     let contenuto =
-        parteTesto
-        .trim()
+        testo
         .split(/\n\s*\n/)
         .map(paragrafo => {
 
@@ -215,8 +177,6 @@ async function avvia(){
 
     document.getElementById("testo")
     .innerHTML = contenuto;
-
-
 
     let precedente =
         risultato.precedente;
@@ -450,11 +410,12 @@ function applicaTema(tipo){
 
 
 
+inizializzaControlliLettura();
+
+
 (async function(){
 
-    await preparaRomanzo();
-
-    inizializzaControlliLettura();
+    await caricaRomanzo();
 
     avvia();
 

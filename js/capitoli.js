@@ -127,7 +127,7 @@ function creaBottoneLettura(){
 
 (async function(){
 
-    await preparaRomanzo();
+    await caricaRomanzo();
 
     creaIndice();
 
