@@ -131,4 +131,8 @@ function creaBottoneLettura(){
 
     creaIndice();
 
+    creaBottoneLettura();
+
+    aggiornaProgresso();
+
 })();
