@@ -300,8 +300,9 @@ h2 {
 }
 
 
-.capitolo {
-    margin-bottom: 20px;
+.capitolo,
+.interludio {
+    margin-bottom: 15px;
 }
 
 
@@ -319,33 +320,53 @@ h2 {
 }
 
 /* =====================================
-   CARD CAPITOLI
+   CARD (classe madre)
 ===================================== */
 
-.card-capitolo {
+.card {
     position:relative;
-    display: flex;
-    align-items: stretch;
-    min-height:115px;
-    gap: 20px;
-    padding: 15px;
-    background: var(--pannello);
-    border-radius: 12px;
-    cursor: pointer;
+    padding:15px;
+    background:var(--pannello);
+    border-radius:12px;
+    cursor:pointer;
     transition:
         transform 0.2s ease,
         box-shadow 0.2s ease;
-
 }
 
-
-.card-capitolo:hover{
+.card:hover {
     background:var(--pannello-hover);
 }
 
-.immagine-capitolo {
+/* =====================================
+   CARD CAPITOLI e INTERLUDI
+===================================== */
+
+.card-capitolo {
+    display:flex;
+    align-items:stretch;
+    min-height:115px;
+    gap:20px;
+}
+
+.card-interludio {
+    display:flex;
+    align-items:stretch;
+    min-height:65px;
+    gap:20px;
+}
+
+.immagine-capitolo{
     width: 110px;
     height: 110px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.immagine-interludio {
+    width: 110px;
+    height: 70px;
     object-fit: cover;
     border-radius: 8px;
     flex-shrink: 0;
@@ -355,18 +376,19 @@ h2 {
     display:flex;
     flex-direction:column;
     justify-content:center;
-
 }
 
 
-.info-capitolo h3 {
+.info-capitolo h3,
+.info-interludio h3 {
     margin: 0;
     font-size: 14px;
     opacity: 0.7;
 }
 
 
-.info-capitolo h2{
+.info-capitolo h2,
+.info-interludio h2{
     margin:4px 0;
     overflow:hidden;
     display:-webkit-box;
@@ -385,54 +407,11 @@ h2 {
     line-clamp:2;
 }
 
-.progresso-capitolo{
+.progresso-capitolo,
+.progresso-interludio{
     position:absolute;
     top:12px;
     right:12px;
-    display:flex;
-    align-items:center;
-    gap:6px;
-    font-size:14px;
-    opacity:0.8;
-}
-
-/* =====================================
-   CARD INTERLUDI
-===================================== */
-
-.card-interludio h2{
-     margin:4px 0;
-    overflow:hidden;
-    display:-webkit-box;
-    -webkit-box-orient:vertical;
-    -webkit-line-clamp:2;
-    line-clamp:2;
-}
-
-.card-interludio{
-    position:relative;
-    display:flex;
-    align-items:stretch;
-    justify-content:center;
-    min-height:40px;
-    padding:15px;
-    background:var(--pannello);
-    border-radius:12px;
-    cursor:pointer;
-    transition:
-        transform 0.2s ease,
-        box-shadow 0.2s ease;
-}
-
-.card-interludio:hover{
-    background:var(--pannello-hover);
-}
-
-
-.progresso-interludio{
-    position:absolute;
-    right:15px;
-    top:15px;
     display:flex;
     align-items:center;
     gap:6px;

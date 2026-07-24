@@ -707,7 +707,7 @@ Per un istante Leon rimase senza fiato. "Che diavolo è quello?"
 id: lo_studio
 tipo: capitolo
 titolo: Lo studio
-descrizione: La quotidianità di Nadia viene scossa da un evento imprevisto.
+descrizione: Un giorno, la vita di Nadia viene scossa da un evento imprevisto.
 immagine: img/capitoli/lo_studio.jpg
 
 --- FINE METADATI ---
@@ -1057,8 +1057,8 @@ Akil posò una mano sulla sua spalla. "Andrà tutto bene," disse a bassa voce. M
 id: le_rovine
 tipo: capitolo
 titolo: Le Rovine
-descrizione: Delle misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.
-immagine: img/capitoli/l_anomalia.jpg
+descrizione: Il ritrovamento di misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.
+immagine: img/capitoli/le_rovine.jpg
 
 --- FINE METADATI ---
 
@@ -1440,7 +1440,7 @@ id: diario_1
 tipo: interludio
 titolo: Diario di Mira
 descrizione: 
-immagine: 
+immagine: img/capitoli/diario_di_mira.jpg
 
 --- FINE METADATI ---
 
@@ -1464,8 +1464,8 @@ E non aggiunse altro.
 id: lisenna
 tipo: capitolo
 titolo: Lisenna
-descrizione: Nadia e Akil arrivano nella capitale. Ad attenderli, un mondo nuovo e sconosciuto.
-immagine: img/capitoli/lo_studio.jpg
+descrizione: Nadia e Akil arrivano nella capitale, in cerca di giustizia. Un mondo nuovo si apre ai loro occhi.
+immagine: img/capitoli/lisenna.jpg
 
 --- FINE METADATI ---
 
@@ -1694,6 +1694,226 @@ Per un attimo Akil sembrò sul punto di replicare, ma si spense in un sospiro. "
 Nadia non trovò risposta. Per il resto del tragitto camminarono senza scambiarsi una parola, con la tensione sospesa tra loro. 
 
 Mentre si incamminavano verso il loro alloggio, nessuno dei due si accorse che, da lontano, uno sguardo li seguiva. 
+
+# CAPITOLO
+
+id: la_squadra
+tipo: capitolo
+titolo: La Squadra
+descrizione: Un team di specialisti della FSU arriva sul sito archeologico. Ma ogni enigma sembra generare ancora più domande.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Leon si stiracchiò sulla sedia pieghevole, urtando con la gamba l’instabile tavolino da campo. Qualche goccia di caffè si rovesciò sulla superficie di plastica già incrostata di petali e rametti. 
+
+La colazione al campo era piuttosto semplice. Una ciotola di frutta tropicale tagliata grossolanamente e una tazza di caffè troppo acido, all'ombra di un telo teso tra due alberi. Davanti a lui, oltre il margine del campo, la foresta sembrava già aver iniziato a reclamare il terreno che i Naha avevano faticosamente liberato nei giorni precedenti. 
+
+Erano accampati in pianta stabile da giorni, a poche decine di metri dalle rovine. 
+
+Leon bevve un sorso, mentre una serie di titoli scorrevano sulle lenti degli occhiali a realtà aumentata. 
+
+"Inspiegabili corruzioni di dati paralizzano il sistema bancario thailandese." 
+
+Con un battito di ciglia passò alla notizia successiva. 
+
+"Testati i primi prototipi di connettori neurali." 
+
+Si fermò qualche secondo a leggere l'articolo. Negli ultimi anni la linea che separava gli esseri umani dalle macchine si era fatta sempre più sottile. Quando era ragazzo, l'intelligenza artificiale era poco più di una curiosità accademica; poi era arrivata nelle aziende, nei governi, nelle infrastrutture. Ora si parlava apertamente di interfacce neurali in grado di collegare direttamente il cervello a un sistema informatico Ogni generazione credeva di vivere il culmine del progresso. Poi arrivava quella successiva e ridefiniva il concetto. 
+
+Leon chiuse l'articolo e disattivò le notifiche. Per qualche istante rimase semplicemente ad ascoltare il brusio della foresta. 
+
+Erano passati diversi giorni dalla scoperta delle rovine. Il campo base stava crescendo pezzo dopo pezzo attorno alla piccola altura dove sorgevano i resti della struttura. Alcune tende ospitavano gli alloggi provvisori, altre erano state convertite in depositi per le attrezzature. Cavi elettrici correvano accanto alle radici, collegando batterie, pannelli solari e sistemi di comunicazione. Nulla di spettacolare, ma sufficiente per sostenere una missione preliminare in attesa dell'arrivo del resto della squadra. 
+
+La collaborazione con i Naha si era rivelata preziosa oltre ogni aspettativa. 
+
+Ogni mattina una decina di abitanti del villaggio raggiungeva il sito insieme a Zali. Alcuni lavoravano al disboscamento della vegetazione più fitta, altri aiutavano a trasportare materiali e attrezzature, altri ancora si occupavano semplicemente di mantenere aperto il percorso tra il villaggio e il campo. In cambio ricevevano una paga regolare dalla FSU, ma Leon aveva l'impressione che il denaro fosse soltanto una parte della motivazione. La scoperta ormai apparteneva anche a loro. 
+
+La radura si allargava giorno dopo giorno. Dove pochi giorni prima prima c'erano soltanto liane e sottobosco, ora emergevano gradualmente blocchi di pietra, frammenti di muri e tratti di antiche pavimentazioni. Nessuno aveva ancora iniziato uno scavo vero e proprio; si limitavano a liberare ciò che la foresta aveva nascosto con i mezzi che avevano. 
+
+Poco distante, Alex stava discutendo con due lavoratori Naha davanti a uno scanner portatile. Dalla distanza Leon non riusciva a sentire le parole, ma vide Zali ridere di qualcosa che il fisico aveva appena detto. 
+
+Leon addentò una fetta di mango e chiese a Marie di visualizzare ancora una volta il segnale sulle lenti dei VisionLink. Era quasi un’ossessione, ormai. 
+
+Sempre uguale. Sempre regolare. Come se, da qualche parte sotto la foresta, qualcosa stesse pazientemente aspettando. 
+
+Verso metà mattinata il sole aveva già trasformato la radura in una fornace umida. Nonostante l'ombra offerta dagli alberi ai margini del sito, l'aria sembrava immobile, pesante, satura dell'odore della terra appena smossa e della vegetazione tagliata nei giorni precedenti. Il cicalio degli insetti era così intenso da rendere necessario urlare per parlarsi a un metro di distanza. 
+
+Leon raggiunse Alex e Zali sul lato orientale delle rovine, dove alcuni lavoratori Naha avevano liberato una zona abbastanza ampia. Sul terreno erano stati sistemati alcuni piccoli droni pieghevoli, batterie portatili e uno scanner geofisico. Tutta attrezzatura che con fatica avevano scaricato dall’elicottero e trasportato attraverso la giungla. 
+
+Tutto era pronto per l’arrivo previsto quella mattina. 
+
+ 
+
+Il rumore delle pale arrivò poco prima di mezzogiorno. Tutti i presenti alzarono gli occhi verso il cielo.  
+
+L'elicottero compì un'ampia virata sopra il sito prima di iniziare la discesa verso l’area che nei giorni precedenti avevano opportunamente diboscato. Le pale sollevarono foglie secche, polvere e piccoli rami, costringendo tutti a proteggersi il volto mentre il velivolo toccava finalmente terra. 
+
+Sul fianco spiccava il logo della FSU: un modello atomico stilizzato circondato da una corona di alloro.  
+
+Poco distante, Zali osservava la scena in silenzio. Negli ultimi giorni aveva sentito parlare continuamente della FSU. Adesso poteva finalmente vedere cosa significasse davvero. 
+
+Le pale rallentarono e il portellone si aprì. La prima a scendere fu Emily Carter. 
+
+Era la più anziana del gruppo e probabilmente anche la meno incline a comportarsi come tale. Bassa, robusta, con una massa di ricci grigi che sembrava aver dichiarato guerra a qualunque pettine esistente, atterrò sul tappeto di sottobosco con l'energia di una ventenne, nonostante avesse superato i sessant'anni da un pezzo. 
+
+Leon la conosceva da quasi vent'anni: era una delle archeologhe più capaci che conoscesse. E in tutto quel tempo non l'aveva mai vista ferma in ufficio quando c’era l’opportunità di essere sul campo. 
+
+"Leon." 
+
+"Emily." 
+
+"Mi avevano detto che avevi trovato qualcosa di interessante. Hanno omesso parecchi dettagli." 
+
+Dietro di lei comparve Lisa Martinez. 
+
+La geologa, alta e slanciata, scese dal velivolo legandosi i lunghi capelli castani in una pratica coda di cavallo. Aveva quasi quarant’anni, anche se ne dimostrava la metà. Salutò Leon e Alex con una stretta di mano decisa. 
+
+"Non vedo l’ora di iniziare.” Si guardò intorno. “Da vicino sembra ancora più promettente." 
+
+"Lo pensiamo tutti." 
+
+Robert Brooks arrivò subito dopo, trascinando uno zaino che sembrava pesare più di lui. 
+
+I capelli bianchi e spettinati sfidavano la gravità quasi quanto il suo completo disinteresse per l'ordine. Aveva l'aria di un professore distratto che si fosse perso durante una conferenza e fosse finito per sbaglio nel cuore della foresta africana. 
+
+Leon sapeva però quanto quell'impressione fosse ingannevole. Come Lisa, Robert era uno dei migliori geologi della FSU e probabilmente la persona più capace che conoscesse. Sapeva leggere una roccia come altri leggono un libro. 
+
+Si fermò ad osservare la giungla. "D'accordo," disse infine. "Devo ammetterlo. Questo posto vale il viaggio." 
+
+"Temevi di no?" 
+
+"Temevo di trovare quattro pietre e un mucchio di entusiasmo." 
+
+"Per ora abbiamo molto più di quattro pietre." 
+
+"Perfetto. Allora posso lamentarmi soltanto del caldo." 
+
+L'ultimo a scendere fu Georg Schmidt. 
+
+Alto, magro, impeccabile nonostante il viaggio, sembrava uscito da un congresso universitario più che da un elicottero. I capelli biondo scuro erano tagliati cortissimi e gli occhiali sottili gli conferivano un'espressione permanentemente critica. 
+
+Leon aveva collaborato con lui in due occasioni. 
+
+Entrambe le volte Georg si era rivelato insopportabile. 
+
+Ed entrambe le volte aveva avuto ragione su questioni linguistiche che nessun altro era riuscito a risolvere. Era una combinazione irritante. 
+
+Il suo sguardo passò rapidamente dalle tende ai lavoratori Naha, dagli strumenti alle rovine, come se stesse già valutando l'intera spedizione. 
+
+Mentre gli specialisti recuperavano il materiale dall'elicottero, Zali si avvicinò a Leon. 
+
+"Quindi questa sarebbe la vostra piccola squadra?" 
+
+Leon sorrise. "Sì, questa è l'avanguardia." 
+
+Zali seguì con lo sguardo Emily, che stava già facendo domande a chiunque incontrasse. "Sto ancora cercando di capire se abbiamo invitato quattro scienziati o una tempesta tropicale." 
+
+Leon sorrise. 
+
+"Ti assicuro che la differenza è minima." 
+
+La battuta si rivelò profetica. 
+
+Nel giro di mezz'ora, il campo base sembrò trasformarsi. Emily aveva già organizzato una ricognizione completa dell'area emersa, Lisa stava verificando la stabilità del terreno attorno alla collina, Robert discuteva con alcuni lavoratori Naha osservando la composizione degli strati di terra esposti dagli sbancamenti, mentre Georg si aggirava tra i blocchi di pietra con l'espressione di chi spera disperatamente di trovare qualcosa che gli altri non hanno ancora notato. 
+
+Alla fine, tutti si ritrovarono sotto la tenda principale per il pranzo. 
+
+"Questo cibo in scatola mi farà impazzire" disse Robert Brooks, togliendo il coperchio a una lattina di piselli. 
+
+Emily Carter alzò un sopracciglio. “Ma come, appena arrivato già ti lamenti?” Una foglia era già incastrata nella matassa di ricci grigi. 
+
+Anche Alex sospirò, mentre prendeva una forchettata di ceci dalla sua scatoletta. “Una pizza. Quanto vorrei una bella pizza..." 
+
+A seguire, l’intera squadra si raccolse per un rapido briefing operativo. Al centro del tavolo era stata proiettata una ricostruzione tridimensionale della collina ottenuta dai rilievi effettuati poco prima, anche se l’ologramma era fastidiosamente trasparente a causa dell’intensa luce solare. La struttura sotterranea appariva come una rete di volumi imprecisi e incompleti, ma sufficientemente definiti da permettere alcune conclusioni. 
+
+Leon illustrò rapidamente la situazione, dalla scoperta del segnale alle scansioni. Indicò il punto in cui i rilievi suggerivano la presenza di un accesso. Quando terminò, Emily rimase qualche secondo a osservare il modello. 
+
+Robert si sporse in avanti, abbassandosi gli occhiali sul naso. "Se il modello è corretto, l'ingresso dovrebbe trovarsi qui." Indicò una zona sul versante occidentale della collina. 
+
+"Anch'io scommetterei su quel punto," disse Lisa, scostando una ciocca castana dalla fronte. "Le anomalie di densità sono coerenti con una struttura vuota." 
+
+Alex ingrandì la mappa. "Potrebbe esserci una scalinata." 
+
+"O un corridoio crollato," aggiunse Lisa. 
+
+"O entrambe le cose," concluse Robert. 
+
+Zali osservava il susseguirsi della discussione con un'espressione sempre più perplessa. "State già decidendo come entrare." 
+
+Tutti si voltarono verso di lei, tanto da metterla in soggezione. "È questo che fanno gli archeologi?" domandò. "Trovano qualcosa e poi si precipitano dentro?" 
+
+Alex fu il primo a rispondere. "No. Prima discutono molto. Poi entrano." Una breve risata percorse il gruppo. 
+
+Perfino Zali sorrise. 
+
+Leon capì che l’amico stava cercando di metterla a suo agio: non doveva essere facile per lei sentirsi catapultata in un mondo di cui capiva ben poco. 
+
+Leon lasciò che il buonumore si esaurisse prima di riprendere la parola. "Oggi individuiamo l'accesso. Lo liberiamo e lo mettiamo in sicurezza. Poi vedremo." 
+
+ 
+
+Diversi lavoratori Naha erano già al lavoro. Il terreno appariva diverso rispetto al resto della collina: meno compatto, con una vegetazione cresciuta in modo irregolare e alcune rocce che emergevano qua e là tra le radici. 
+
+Lisa osservò il pendio per qualche istante. "Se c'è davvero un accesso, è qui sotto. Il terriccio sembra molto più morbido, non ci vorrà molto." 
+
+I Naha si disposero lungo il perimetro dell'area indicata. Alcuni impugnarono zappe e pale, altri iniziarono a tagliare le radici più spesse che attraversavano il terreno. Leon si unì ai lavori, seguito con entusiasmo da Alex. 
+
+"Non pensavo che un fisico teorico sapesse tenere in mano una pala." 
+
+"Se resto a guardare impazzisco." 
+
+Le ore successive trascorsero tra terra smossa e sudore. Il campo era tappezzato da strumenti avanzatissimi ma anche da utensili che non sarebbero sembrati fuori posto un secolo prima. 
+
+A metà pomeriggio comparvero i primi blocchi di pietra lavorata. Poco dopo emerse un bordo rettilineo. Poi un altro. L'eccitazione si diffuse rapidamente tra tutti i presenti. 
+
+Negli ultimi minuti nessuno parlava quasi più. Si lavorava e basta. 
+
+Fu uno dei lavoratori Naha a gridare per primo. 
+
+Tutti si voltarono. L'uomo indicava un punto appena liberato dalla terra. 
+
+Leon si avvicinò rapidamente. Per qualche secondo vide soltanto pietra, poi comprese: non era una parete. Era un gradino. Un gradino perfettamente scolpito. Sotto di esso ne compariva un secondo, poi un terzo. 
+
+La terra continuò a essere rimossa con una cautela quasi religiosa. Lentamente, centimetro dopo centimetro, prese forma una scalinata che sprofondava nell'oscurità del sottosuolo, nel cuore della collina. 
+
+"Ci siamo," disse Alex, fregandosi le mani sporche di terra.  
+
+Lisa si fece avanti. "Meglio rimandare a domani. Siamo tutti stanchi e inizia a fare buio." 
+
+Leon infilò la sua pala in un cumulo di terriccio e si asciugò il sudore. "Sono d’accordo" decise, riluttante. Certe cose andavano affrontate con mente lucida. 
+
+ 
+
+Quando il cielo divenne completamente scuro e il campo iniziò a svuotarsi, l'eccitazione lasciò gradualmente spazio alla stanchezza. Alcuni lavoratori Naha erano rientrati al villaggio. Qualcuno, tra i più giovani, aveva preferito restare. Le conversazioni diminuirono. Una dopo l'altra le luci delle tende si spensero. 
+
+Leon rimase seduto da solo davanti al tavolo da lavoro. 
+
+Sul display del tablet scorrevano le immagini della scalinata e le scansioni del sottosuolo. Marie aveva già archiviato migliaia di fotografie e rilievi, catalogando automaticamente ogni informazione raccolta durante la giornata, eppure il mistero rimaneva intatto. 
+
+Leon si passò una mano sugli occhi. Sarebbe dovuto andare a dormire, invece si ritrovò ad alzarsi. Pochi minuti dopo stava percorrendo il sentiero che conduceva alle rovine. 
+
+La foresta notturna era diversa da quella del giorno. Più silenziosa in alcuni punti, più rumorosa in altri. Richiami lontani risuonavano tra gli alberi mentre il fascio della torcia scivolava sulle radici e sulle felci che costeggiavano il percorso. 
+
+Quando raggiunse la collina, il campo era immerso nell'oscurità. Solo alcune luci di sicurezza illuminavano debolmente la zona dello scavo. 
+
+La scalinata appariva davanti a lui come una ferita aperta nel fianco della collina. Leon rimase a osservarla per qualche istante, poi si sedette su un masso poco distante. 
+
+Non avrebbe saputo spiegare perché fosse tornato. Non c'era nulla da fare: nessuna misurazione urgente, nessun dato nuovo da raccogliere. La squadra sarebbe entrata nelle rovine l'indomani mattina e qualsiasi decisione importante era già stata presa. 
+
+Alzò lo sguardo verso il cielo. 
+
+La foresta nascondeva gran parte dell'orizzonte, ma sopra la radura le stelle brillavano con una nitidezza che nelle città era ormai diventata rara. Riconobbe immediatamente Vega, alta sopra gli alberi, e più in basso Arturo, che scintillava con la sua caratteristica luce aranciata. Tra le due stelle una luce si mosse lentamente: un aereo. Per qualche secondo, Leon seguì il suo percorso silenzioso attraverso il cielo. 
+
+Da bambino era convinto che ogni punto luminoso nascondesse una storia. Col passare degli anni aveva scoperto che non si sbagliava affatto.  
+
+Alcune storie erano scritte tra le stelle. Altre sotto chilometri di roccia e terra. 
+
+Per un istante gli tornò in mente Anna, le sere passate a guardare le stelle. Il pensiero arrivò senza preavviso e se ne andò altrettanto rapidamente, lasciando soltanto una lieve fitta familiare. 
+
+Rimase seduto ancora qualche minuto, ascoltando il canto lontano degli insetti e osservando il cielo, assorbendo l’energia di quel posto, di quella incredibile notte stellata.  
+
+Le cifre scorrevano nel sottosuolo, pazienti e immutabili, come se stessero aspettando qualcuno. Ora qualcuno era arrivato abbastanza vicino da poter rispondere. 
 
  
 

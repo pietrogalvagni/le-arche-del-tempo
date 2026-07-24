@@ -28,7 +28,7 @@ function analizzaRomanzo(testo){
 
 
     let capitoli = [];
-
+    let numeroCapitolo = 0;
 
     blocchiCapitolo.forEach((blocco,index)=>{
 
@@ -54,14 +54,21 @@ function analizzaRomanzo(testo){
             estraiMetadati(intestazione);
 
 
+        let tipo =
+            metadati.tipo || "capitolo";
+
+
+        if (tipo === "capitolo"){
+            numeroCapitolo++;
+        }
 
         let capitolo = {
 
             id: metadati.id,
             
-            tipo: metadati.tipo || "capitolo",
+            tipo: tipo,
 
-            numero: index + 1,
+            numero: tipo === "capitolo" ? numeroCapitolo : null,
 
             titolo: metadati.titolo,
 

@@ -19,16 +19,30 @@ function creaIndice() {
 
             elementoInterludio.innerHTML = `
 
-                <div class="card-interludio">
+                <div class="card card-interludio">
 
-                    <h2>
-                        ${cap.titolo}
-                    </h2>
+                    <img 
+                        class="immagine-interludio"
+                        src="${cap.immagine}"
+                        alt="${cap.titolo}"
+                    >
 
-                    <div class="progresso-interludio">
+                    <div class="info-interludio">
+
+                        <h3>
+                            Interludio
+                        </h3>
+
+                        <h2>
+                            ${cap.titolo}
+                        </h2>
+
                     </div>
 
+                    <div class="progresso-interludio">
                 </div>
+
+                
 
             `;  
 console.log(
@@ -80,7 +94,7 @@ console.log(
         elementoCapitolo.innerHTML = `
 
 
-            <div class="card-capitolo">
+            <div class="card card-capitolo">
 
 
                 <img 
@@ -186,7 +200,7 @@ console.log(
 
             elementoParte.className="scheda-parte";
 
-           elementoParte.innerHTML = `
+            elementoParte.innerHTML = `
 
                 <span>
                     Parte ${parte.id}
