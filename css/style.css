@@ -1,13 +1,32 @@
-:root {
-    --oro: #d4af37;
-    --oro-scuro: #c9a24d;
-    --sfondo:#181818;
-    --pannello-hover:rgba(255,255,255,0.2);
-    --testo: #eeeeee;
-    --titolo: #cccccc;
-    --pannello: #151821;
-}
+:root{
 
+    /* =========================
+       PALETTE COLORI
+       ========================= */
+
+    --oro: #d6ad3b;
+    --oro-scuro: #8f6b1f;
+    --blunotte: #111827;
+    --blu-profondo: #080d18;
+    --blu-ardesia: #263244;
+    --avorio: #f0eadc;
+    --grigio-cielo: #b7bbc5;
+
+
+    /* =========================
+       UTILIZZO NELLE COMPONENTI
+       ========================= */
+
+    --sfondo: var(--blunotte);
+    --pannello: var(--blu-profondo);
+    --pannello-hover: rgba(255,255,255,0.12);
+    --testo: var(--avorio);
+    --titolo: var(--oro);
+    --testo-secondario: var(--grigio-cielo);
+    --bottoni-sfondo: var(--oro);
+    --bottoni-testo: var(--blunotte);
+
+}
 
 
 /* =====================================
@@ -111,18 +130,77 @@ nav a {
    HERO
 ===================================== */
 
-.hero {
-    padding: 50px 20px;
+
+.hero h1 {
+
+    font-size:60px;
+    color:var(--oro);
+
 }
 
 
-.cover {
-    width: 300px;
-    max-width: 80%;
-    box-shadow: 0 0 30px black;
-    margin: 30px;
+.hero h2 {
+
+    max-width:700px;
+
 }
 
+
+.hero .description {
+
+    max-width:600px;
+
+    color:var(--testo);
+
+}
+
+
+
+.hero{
+    position:relative;
+    width:100%;
+    overflow:hidden;
+    text-align:center;
+}
+
+.hero-image-container{
+    position:relative;
+    width:100%;
+    overflow:hidden;
+}
+
+.hero-image{
+    display:block;
+    height:auto;
+    width:auto;
+    max-width:none;
+    position:relative;
+    left:50%;
+    transform:translateX(-50%);
+}
+
+.hero-overlay{
+    position:absolute;
+    inset:0;
+    z-index:1;
+    background:
+    linear-gradient(
+        to bottom,
+        rgba(10,10,10,0.85) 0%,
+        rgba(10,10,10,0.45) 35%,
+        rgba(10,10,10,0) 65%
+    );
+}
+
+.hero-content{
+    position:absolute;
+    top:0px;
+    left:50%;
+    transform:translateX(-50%);
+    z-index:2;
+    width:90%;
+    max-width:700px;
+}
 
 /* =====================================
    TESTI
@@ -161,8 +239,8 @@ h2 {
     display:inline-block;
     margin-top:30px;
     padding:15px 35px;
-    background:#d4af37;
-    color:#080b14;
+    background:var(--bottoni-sfondo);
+    color:var(--bottoni-testo);
     font-weight:bold;
     border-radius:5px;
     text-decoration:none;
@@ -171,7 +249,7 @@ h2 {
 
 .button:hover {
     opacity:0.85;
-    color:#080b14;
+    color:var(--bottoni-testo);
 }
 
 
@@ -204,7 +282,7 @@ h2 {
     justify-content: space-between;
     align-items: center;
     padding: 20px 0;
-    border-top: 1px solid #333;
+    border-top: 1px solid var(--oro);
 }
 
 
@@ -320,7 +398,7 @@ h2 {
 }
 
 /* =====================================
-   PARTI
+   CARD PARTI
 ===================================== */
 
 .parti{
