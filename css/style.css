@@ -272,7 +272,6 @@ h2 {
 }
 
 
-
 /* =====================================
    NAVIGAZIONE CAPITOLI
 ===================================== */
@@ -438,9 +437,11 @@ h2 {
     font-size: 20px;
     line-height: 1.65;
 }
-
 #testo p{
-    margin:0 0 0.9em 0;
+    margin:0 0 0.8rem 0;
+}
+.stacco{
+    height:2rem;
 }
 
 #lettore{

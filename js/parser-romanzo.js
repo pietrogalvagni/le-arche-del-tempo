@@ -1,5 +1,6 @@
 let romanzo = [];
 
+const PAROLE_PER_PARTE = 2000;
 
 async function caricaRomanzo(){
 
@@ -15,40 +16,37 @@ async function caricaRomanzo(){
         analizzaRomanzo(testo);
 
 
-    console.log(romanzo);
-
 }
 
 
 
 function analizzaRomanzo(testo){
 
-
     let blocchiCapitolo =
         testo.split("# CAPITOLO")
         .slice(1);
 
 
-
     let capitoli = [];
 
 
-
-    blocchiCapitolo.forEach(
-    (blocco,index)=>{
+    blocchiCapitolo.forEach((blocco,index)=>{
 
 
-        let parti =
-            blocco.split("<!-- PARTE -->");
+        let sezioni =
+            blocco.split("--- FINE METADATI ---");
 
 
         let intestazione =
-            parti[0];
-
+            sezioni[0];
 
 
         let contenuto =
-            parti.slice(1);
+            sezioni[1] || "";
+
+
+        contenuto =
+            contenuto.replace(/\\n/g, "\n");
 
 
 
@@ -58,7 +56,6 @@ function analizzaRomanzo(testo){
 
 
         let capitolo = {
-
 
             id:
             metadati.id,
@@ -82,13 +79,16 @@ function analizzaRomanzo(testo){
 
             parti:[]
 
-
         };
 
 
 
-        contenuto.forEach(
-        (testoParte,i)=>{
+       let parti =
+            dividiInParti(contenuto);
+
+
+
+        parti.forEach((testoParte,i)=>{
 
 
             capitolo.parti.push({
@@ -118,7 +118,6 @@ function analizzaRomanzo(testo){
 
     return capitoli;
 
-
 }
 
 
@@ -126,11 +125,11 @@ function analizzaRomanzo(testo){
 function estraiMetadati(testo){
 
 
+    let dati={};
+
+
     let righe =
         testo.split("\n");
-
-
-    let dati={};
 
 
 
@@ -140,13 +139,23 @@ function estraiMetadati(testo){
         if(riga.includes(":")){
 
 
-            let [chiave,valore]=
-            riga.split(":");
+            let separatore =
+            riga.indexOf(":");
 
 
-            dati[chiave.trim()]
-            =
-            valore.trim();
+            let chiave =
+            riga.substring(0,separatore)
+            .trim();
+
+
+
+            let valore =
+            riga.substring(separatore+1)
+            .trim();
+
+
+
+            dati[chiave]=valore;
 
 
         }
@@ -155,9 +164,77 @@ function estraiMetadati(testo){
     });
 
 
-
     return dati;
-
 
 }
 
+
+function dividiInParti(testo, limite = PAROLE_PER_PARTE){
+
+    let blocchi =
+        testo.split(/(\n\s*\n)/);
+
+
+    let parti = [];
+
+    let parteCorrente = "";
+
+    let paroleCorrenti = 0;
+
+
+    blocchi.forEach(blocco => {
+
+
+        if(blocco.trim().length === 0){
+
+            parteCorrente += blocco;
+
+            return;
+
+        }
+
+
+        let paroleBlocco =
+            blocco
+            .trim()
+            .split(/\s+/)
+            .length;
+
+
+        if(
+            paroleCorrenti + paroleBlocco > limite &&
+            parteCorrente.trim().length > 0
+        ){
+
+            parti.push(
+                parteCorrente.trim()
+            );
+
+
+            parteCorrente = "";
+
+            paroleCorrenti = 0;
+
+        }
+
+
+        parteCorrente += blocco;
+
+        paroleCorrenti += paroleBlocco;
+
+
+    });
+
+
+    if(parteCorrente.trim().length > 0){
+
+        parti.push(
+            parteCorrente.trim()
+        );
+
+    }
+
+
+    return parti;
+
+}

@@ -5,7 +5,7 @@ const parametri = new URLSearchParams(
 
 const idParte =
     parametri.get("id");
-console.log("ID parte:", idParte);
+
 
 
 function trovaParte(id) {
@@ -163,20 +163,34 @@ async function avvia(){
 
     let testo =
     risultato.parte.testo;
-console.log("TESTO DA MOSTRARE:", testo);
+    console.log(JSON.stringify(testo.slice(0,1000)));
+
+    let blocchi =
+        testo.split(/\n\s*\n/);
+
+           
 
     let contenuto =
         testo
-        .split(/\n\s*\n/)
-        .map(paragrafo => {
+        .replace(/\r\n/g,"\n")
+        .replace(/\n\n\n+/g,"\n\n[STACCO]\n\n")
+        .split(/\n\n/)
+        .map(blocco=>{
 
-            return `<p>${paragrafo.trim()}</p>`;
+            if(blocco === "[STACCO]"){
+                return "<div class='stacco'></div>";
+            }
+
+            return "<p>" +
+                blocco.replace(/\n/g," ") +
+                "</p>";
 
         })
         .join("");
 
-    document.getElementById("testo")
-    .innerHTML = contenuto;
+    console.log(contenuto);
+
+    document.getElementById("testo").innerHTML = contenuto;
 
     let precedente =
         risultato.precedente;
@@ -391,7 +405,7 @@ function applicaTema(tipo){
     let pulsanteTema =
         document.getElementById("tema");
 
-    console.log(pulsanteTema);
+
     if(pulsanteTema){
 
 
