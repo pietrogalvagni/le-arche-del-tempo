@@ -575,27 +575,54 @@ h2 {
    ACQUISTA
 ===================================== */
 
-.pagina-acquista{
+.pagina-acquista,
+.pagina-libro{
     text-align:left;
 }
 
 .scheda-libro{
 
     display:flex;
+    flex-wrap:wrap;
+
     gap:50px;
+
     align-items:flex-start;
 
-    margin:40px 0 80px;
-
 }
+
 
 .copertina-libro{
 
-    width:280px;
-    flex-shrink:0;
+    flex:0 1 280px;
 
 }
 
+@media (max-width:700px){
+
+    .scheda-libro{
+
+        gap:20px;
+
+    }
+
+    .copertina-libro{
+
+        width:120px;
+        flex:0 0 120px;
+
+    }
+
+    .info-libro h2{
+
+        font-size:1.6rem;
+
+    }
+}
+
+.info-libro{
+    flex:1 1 0;
+}
 
 .copertina-libro img{
 
@@ -608,10 +635,7 @@ h2 {
 
 }
 
-.info-libro{
-    flex:1;
-    text-align:left;
-}
+
 
 .info-libro h2{
     font-size:2.4rem;
