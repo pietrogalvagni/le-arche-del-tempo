@@ -26,6 +26,7 @@
     --bottoni-sfondo: var(--oro);
     --bottoni-testo: var(--blunotte);
 
+    --hero-height:1600px
 }
 
 
@@ -163,20 +164,20 @@ nav a {
     overflow:hidden;
     text-align:center;
 }
-
 .hero-image-container{
     position:relative;
     width:100%;
+    height:var(--hero-height);
     overflow:hidden;
 }
 
 .hero-image{
-    display:block;
-    height:auto;
+    position:absolute;
+    height:var(--hero-height);
     width:auto;
     max-width:none;
-    position:relative;
     left:50%;
+    top:0;
     transform:translateX(-50%);
 }
 
@@ -201,6 +202,37 @@ nav a {
     z-index:2;
     width:90%;
     max-width:700px;
+}
+
+.titolo-estratto {
+    font-size: 1.2rem;
+    color: var(--oro)
+}
+
+.estratto-hero{
+    max-width:650px;
+    margin:50px auto;
+    padding:20px;
+    background:rgba(0, 0, 0, 0.75);
+    border:1px solid var(--oro);
+    border-radius:15px;
+    text-align:left;
+}
+
+
+.estratto-hero blockquote{
+    margin:0;
+    font-family: "Merriweather", serif;
+    font-size:1.05rem;
+    line-height:1.7;
+}
+
+.link-estratto{
+    display:block;
+    margin-top:20px;
+    text-align:right;
+    font-style:italic;
+    font-size:0.95rem;
 }
 
 /* =====================================
@@ -690,3 +722,13 @@ h2 {
 
 }
 
+
+/* =====================================
+   IL LIBRO
+===================================== */
+
+.immagine-promo img{
+    display:flex;
+    align-items:stretch;
+    width: 100%;
+}
