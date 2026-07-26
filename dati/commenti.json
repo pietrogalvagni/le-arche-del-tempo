@@ -4,12 +4,12 @@
         "nome": "Elisa",
         "testo": "L'atmosfera mi ha incuriosito molto.",
         "data": "2026-07-26",
-        "timestamp": "2026-07-25T14:38:00"
+        "created_at": "2026-07-25T14:38:00"
     },
     {
         "id_capitolo": "l_anomalia",
         "nome": "Manuel91",
         "testo": "Interessante l'idea del segnale nella foresta.",
-        "timestamp": "2026-07-26T14:35:00"
+        "created_at": "2026-07-26T14:35:00"
     }
 ]

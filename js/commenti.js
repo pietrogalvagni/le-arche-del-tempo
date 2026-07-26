@@ -137,60 +137,69 @@ function creaAreaCommenti(idCapitolo){
     contenitore.querySelector(".form-commento");
 
 
-    form.addEventListener("submit", function(e){
+    form.addEventListener("submit", async function(e){
 
         e.preventDefault();
 
 
         let nome =
             contenitore.querySelector(".nome-commento")
-            .value;
+            .value
+            .trim();
 
 
         let testo =
             contenitore.querySelector(".testo-commento")
-            .value;
+            .value
+            .trim();
 
 
-        let nuovoCommento = {
 
-            id_capitolo: idCapitolo,
-
-            nome:
-                nome || "Anonimo",
-
-            testo: testo,
-
-            created_at:
-                new Date().toISOString()
-
-        };
-
-        if(testo.trim().length < 3){
-
-            alert("Commento troppo breve");
+        if(testo.length === 0){
 
             return;
 
         }
 
 
-        if(testo.length > 1000){
 
-            alert("Commento troppo lungo");
+        let { error } =
+            await supabaseClient
+            .from("commenti")
+            .insert({
+
+                id_capitolo: idCapitolo,
+
+                nome:
+                    nome || "Anonimo",
+
+                testo: testo
+
+            });
+
+
+
+        if(error){
+
+            console.error(
+                "Errore invio commento:",
+                error
+            );
 
             return;
 
         }
 
-        let elemento =
-            creaElementoCommento(nuovoCommento);
-
-
-        listaCommenti.appendChild(elemento);
 
 
         form.reset();
+
+
+        aggiornaListaCommenti(
+            idCapitolo,
+            contenitore
+        );
+
 
     });
 
@@ -224,6 +233,37 @@ function creaAreaCommenti(idCapitolo){
 
     });
     return contenitore;
+
+}
+
+async function aggiornaListaCommenti(
+    idCapitolo,
+    contenitore
+){
+
+    let commenti =
+        await caricaCommentiCapitolo(idCapitolo);
+
+
+
+    let lista =
+        contenitore.querySelector(
+            ".lista-commenti"
+        );
+
+
+
+    lista.innerHTML = "";
+
+
+
+    commenti.forEach(commento=>{
+
+        lista.appendChild(
+            creaElementoCommento(commento)
+        );
+
+    });
 
 }
 
