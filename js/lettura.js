@@ -143,8 +143,10 @@ async function avvia(){
 
     }
 
+
     let risultato =
         trovaParte(idParte);
+
 
     if(!risultato){
 
@@ -155,6 +157,17 @@ async function avvia(){
 
     }
 
+
+    mostraParte(risultato);
+
+    configuraNavigazione(risultato);
+
+    creaCommenti(risultato.capitolo.id);
+
+}
+
+
+function mostraParte(risultato){
 
 
     document.getElementById("titolo-capitolo")
@@ -173,12 +186,9 @@ async function avvia(){
 
 
     let testo =
-    risultato.parte.testo;
-    
-    let blocchi =
-        testo.split(/\n\s*\n/);
+        risultato.parte.testo;
 
-           
+
 
     let contenuto =
         testo
@@ -187,9 +197,13 @@ async function avvia(){
         .split(/\n\n/)
         .map(blocco=>{
 
+
             if(blocco === "[STACCO]"){
+
                 return "<div class='stacco'></div>";
+
             }
+
 
             return "<p>" +
                 blocco.replace(/\n/g," ") +
@@ -198,92 +212,112 @@ async function avvia(){
         })
         .join("");
 
-    
-    document.getElementById("testo").innerHTML = contenuto;
+
+
+    document.getElementById("testo")
+    .innerHTML =
+    contenuto;
+
+}
+
+function configuraNavigazione(risultato){
+
 
     let precedente =
         risultato.precedente;
 
+
     let successiva =
-        risultato.successiva
-
-    let bottoniPrecedente =
-    document.querySelectorAll(".precedente");
+        risultato.successiva;
 
 
-    bottoniPrecedente.forEach(bottone => {
+
+    document.querySelectorAll(".precedente")
+    .forEach(bottone=>{
 
 
-        if (precedente) {
+        if(precedente){
 
             bottone.href =
-                "lettura.html?id=" + precedente.id;
+            "lettura.html?id=" + precedente.id;
 
-            bottone.style.visibility = "visible";
+
+            bottone.style.visibility="visible";
 
         }
 
-        else {
+        else{
 
-            bottone.style.visibility = "hidden";
+            bottone.style.visibility="hidden";
 
         }
 
 
     });
 
-    let bottoniContinua =
-        document.querySelectorAll(".continua");
 
 
+    document.querySelectorAll(".continua")
+    .forEach(bottone=>{
 
-    bottoniContinua.forEach(bottone => {
 
-
-        if (successiva) {
+        if(successiva){
 
 
             bottone.textContent =
-                "Continua →";
+            "Continua →";
 
 
             bottone.href =
-                "lettura.html?id=" + successiva.id;
-
-
-            bottone.onclick=function(){
-
-                completaParte(idParte);
-
-            };
+            "lettura.html?id=" + successiva.id;
 
 
         }
 
-        else {
+        else{
 
 
             bottone.textContent =
-                "Fine";
+            "Fine";
 
 
             bottone.href =
-                "capitoli.html";
-
-
-            bottone.onclick=function(){
-
-                completaParte(idParte);
-
-            };
-
+            "capitoli.html";
 
         }
+
+
+
+        bottone.onclick=function(){
+
+            completaParte(idParte);
+
+        };
 
 
     });
 
 }
+
+
+function creaCommenti(idCapitolo){
+
+
+    let contenitore =
+        document.getElementById("area-commenti");
+
+
+    contenitore.innerHTML="";
+
+
+    let area =
+        creaAreaCommenti(idCapitolo);
+
+
+    contenitore.appendChild(area);
+
+}
+
 
 function inizializzaControlliLettura(){
 
@@ -551,6 +585,8 @@ inizializzaControlliLettura();
 (async function(){
 
     await caricaRomanzo();
+    
+    await caricaCommenti();
 
     avvia();
 
