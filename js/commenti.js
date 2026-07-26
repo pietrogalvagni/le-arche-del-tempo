@@ -1,15 +1,60 @@
+const SUPABASE_URL =
+    "https://qddffigxxjvzvgdvsjkb.supabase.co";
+
+
+const SUPABASE_KEY =
+    "sb_publishable_y4tJjA_JqALJs-X1PwJing_PzM1n3Cj";
+
+
+const supabaseClient =
+    supabase.createClient(
+        SUPABASE_URL,
+        SUPABASE_KEY
+    );
+
+
 let commenti = [];
 
 
-async function caricaCommenti(){
+async function caricaCommentiCapitolo(idCapitolo){
 
 
-    let risposta =
-        await fetch("dati/commenti.json");
+    let { data, error } =
+        await supabaseClient
+        .from("commenti")
+        .select("*")
+        .eq(
+            "id_capitolo",
+            idCapitolo
+        )
+        .order(
+            "created_at",
+            {
+                ascending:false
+            }
+        );
 
 
-    commenti =
-        await risposta.json();
+    if(error){
+
+        console.error(
+            "Errore caricamento commenti:",
+            error
+        );
+
+        return [];
+
+    }
+
+
+    console.log(
+        "COMMENTI CAPITOLO:",
+        idCapitolo,
+        data
+    );
+
+
+    return data;
 
 }
 
@@ -48,7 +93,7 @@ function creaAreaCommenti(idCapitolo){
                         </strong>
 
                         <small>
-                            ${new Date(c.timestamp).toLocaleString("it-IT")}
+                            ${new Date(c.created_at).toLocaleString("it-IT")}
                         </small>
 
                         <p>
@@ -116,7 +161,7 @@ function creaAreaCommenti(idCapitolo){
 
             testo: testo,
 
-            timestamp:
+            created_at:
                 new Date().toISOString()
 
         };
@@ -152,6 +197,32 @@ function creaAreaCommenti(idCapitolo){
     let listaCommenti =
         contenitore.querySelector(".lista-commenti");
 
+    
+    caricaCommentiCapitolo(idCapitolo)
+        .then(commenti => {
+
+
+        let lista =
+            contenitore.querySelector(".lista-commenti");
+
+
+        lista.innerHTML = "";
+
+
+        commenti.forEach(c => {
+
+
+            let elemento =
+                creaElementoCommento(c);
+
+
+            lista.appendChild(elemento);
+
+
+        });
+
+
+    });
     return contenitore;
 
 }
@@ -173,7 +244,7 @@ function creaElementoCommento(c){
 
 
         <small>
-            ${new Date(c.timestamp).toLocaleString("it-IT")}
+            ${new Date(c.created_at).toLocaleString("it-IT")}
         </small>
 
 

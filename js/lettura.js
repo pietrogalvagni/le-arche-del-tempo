@@ -585,8 +585,6 @@ inizializzaControlliLettura();
 (async function(){
 
     await caricaRomanzo();
-    
-    await caricaCommenti();
 
     avvia();
 
