@@ -1941,7 +1941,7 @@ id: il_simbolo
 tipo: capitolo
 titolo: Il Simbolo
 descrizione: Nadia decide di seguire la traccia lasciata dal padre, uno strano simbolo sul vecchio libro sacro.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_simbolo.jpg
 
 --- FINE METADATI ---
 
@@ -2503,7 +2503,7 @@ id: il_messaggio
 tipo: capitolo
 titolo: Il Messaggio
 descrizione: Nadia, davanti alla porta con lo strano simbolo, si trova davanti a una scelta.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_messaggio.jpg
 
 --- FINE METADATI ---
 
@@ -2652,7 +2652,7 @@ id: la_sala_del_trono
 tipo: capitolo
 titolo: La Sala del Trono
 descrizione: L'attività al campo base non si ferma, soprattutto ora che una nuova stanza delle antiche rovine viene resa accessibile.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/la_sala_del_trono.jpg
 
 --- FINE METADATI ---
 
@@ -3137,5 +3137,917 @@ Leon aggrottò la fronte.
 La FSU gestiva alcuni dei sistemi informatici più affidabili del pianeta. Guasti temporanei potevano capitare. Una corruzione improvvisa dell’archivio centrale era un’altra storia. 
 
 Rimase a fissare lo schermo per qualche secondo. Che diavolo stava succedendo? 
+
+# CAPITOLO
+
+id: diario_3
+tipo: interludio
+titolo: Diario di Mira
+descrizione: 
+immagine: img/capitoli/diario_di_mira.jpg
+
+--- FINE METADATI ---
+
+Diario di Mira 
+
+La sfera si sta indebolendo. 
+
+Il dono mi ha mostrato una soluzione: rame, ferro, aceto e pazienza. 
+
+La richiesta ha suscitato domande. Ho risposto che voglio portare la luce nelle strade della città. 
+
+Non era una menzogna. 
+
+Quando l'opera sarà completata, Lisenna brillerà anche dopo il tramonto. Ma luce sarà soltanto un beneficio collaterale. 
+
+Ciò che conta è mantenere acceso qualcos'altro. 
+
+# CAPITOLO
+
+id: la_setta
+tipo: capitolo
+titolo: La Setta
+descrizione: Nadia segue le tracce lasciate da suo padre e trova dei nuovi alleati.
+immagine: img/capitoli/la_sala_del_trono.jpg
+
+--- FINE METADATI ---
+
+Lisenna non dormiva mai. Nelle vie del centro, al chiarore delle magiluci, c’era vita anche in piena notte: nobili e ricchi sacerdoti passeggiavano tra le vie, discutendo di politica o aggiornandosi sulle ultime novità. Locali notturni e sale delle spezie erano gremite di gente fino a tarda notte. 
+
+Ma i vicoli di periferia erano tutt’altra storia.  
+
+Nadia si muoveva a passo rapido per le vie secondarie, totalmente immerse nel buio.  
+
+Più si addentrava nel reticolo di labirintiche stradine, meno si sentiva a suo agio. Ogni piccolo rumore la faceva sobbalzare. Il cuore le mancò un battito quando vide un’ombra al lato della strada, ma era solo un cane randagio. 
+
+Svoltò l’angolo. Con un misto di eccitazione e inquietudine, raggiunse il luogo indicato nel messaggio: un vecchio scantinato in fondo a una scala di pietra, incassato in un vicolo dimenticato. 
+
+Scosse la testa. Doveva essere pazza per essersi avventurata in quel posto da sola, in piena notte.  
+
+Esitò un istante, poi cominciò a scendere i gradini.  
+
+Giunse davanti a una porticina bassa, sotto il livello del suolo. Una sola magiluce brillava in alto, gettando sul vicolo una luce livida che dava all’ambiente un’aria quasi spettrale. Eppure, bastava per distinguere il segno tracciato a carboncino sulla parete. Nadia sentì il cuore accelerare. 
+
+Era arrivata fin qui. Si fece coraggio e spinse la porta. 
+
+Di fronte a lei si aprì una stanza dal soffitto basso e ammuffito, rischiarata da una lampada a olio appesa a un gancio. Un uomo era appoggiato al muro, le braccia incrociate, mentre altre due figure erano chine a un tavolo grezzo che occupava il centro della stanza. Papiri, tavolette cerate, mappe e piccoli pesi di pietra erano sparsi ovunque, come se una discussione fosse stata interrotta solo pochi istanti prima del suo arrivo. 
+
+L‘uomo al muro si voltò verso di lei. Sorrise. "Avevo scommesso che saresti arrivata fin qui. Che ti dicevo, Shuua?"  
+
+La donna seduta al tavolo sbuffò. “Le ragazzine assennate non inseguono messaggi in codice fino a uno scantinato sconosciuto. Ma devo ammettere che ci hai preso, Rurik.” La donna chiamata Shuua squadrò Nadia da capo a piedi. «Riconosco che sei più determinata di quanto sembri.» 
+
+Nadia si irrigidì. Quella gente la conosceva? Quanto sapevano di lei? 
+
+L’uomo si staccò dal muro e avanzò di qualche passo. La lampada a olio illuminò il suo viso: una barba scura e folta, due occhi penetranti ma cordiali. Il mantello logoro gli dava un’aria più adulta di quanto non fosse in realtà, ma Nadia valutò che dovesse essere piuttosto giovane: forse l’età di Akil. Il viso le era vagamente familiare. 
+
+All’improvviso ricordò: aveva visto quell'uomo alla casa del viaggiatore, a sorseggiare vino in un angolo. 
+
+Il giovane sorrise, incoraggiante: "Hai trovato la chiave per il nostro messaggio. Non era scontato." 
+
+Nadia non rispose. Aveva scoperto la chiave di lettura per caso, quando una lama di luce era caduta sul foglio, illuminando solo le prime parole di ogni verso. Il vero messaggio le era balzato all’occhio immediatamente, rivelando il vero luogo dell’incontro. Forse non si meritava quei complimenti, forse la sua era stata solo fortuna. 
+
+Si chiuse la porta alle spalle.  
+
+“Chi siete?” 
+
+Il giovane fece un cenno verso i due compagni, seduti al tavolino. "Lei è Shuua. Non è la più cordiale, ma è la migliore nel trovare rifugi sicuri.” 
+
+Shuua chinò la testa in un cenno di saluto, i capelli scuri raccolti e un sorriso beffardo sul volto sfregiato da una vecchia cicatrice. Nadia valutò dovesse avere una trentina d’anni. 
+
+Rurik continuò. “Lui è Darian, il nostro accademico: come vedi, nemmeno l’arrivo di una fanciulla riesce a staccarlo dai suoi appunti.” Darian alzò appena la testa. Era il più anziano dei tre, con un pizzetto grigio e i capelli tagliati corti. Sembrava un misto tra uno scriba e un soldato in ritiro. 
+
+“E io sono Rurik." Indicò il tavolo ingombro di documenti. “Facciamo parte di una rete di persone sparse in tutto il regno. Mercanti, scribi, artigiani, viaggiatori. Persone che si scambiano informazioni e si aiutano a vicenda.” 
+
+Shuua incrociò le braccia. “Le autorità hanno preso a chiamarci Setta delle Ombre. E il nome è rimasto.” 
+
+Setta delle Ombre. 
+
+Nadia aveva già sentito quel nome sussurrato nelle taverne e nei mercati. C'era chi li descriveva come ribelli, chi come spie, chi come semplici criminali. Nessuno sembrava sapere davvero chi fossero. 
+
+Nadia fece un passo verso la lampada a olio. "Mi avete seguita." 
+
+"Ti stavamo tenendo d’occhio." Il tono di Rurik era calmo, quasi rassicurante. "Non è la stessa cosa." 
+
+Shuua intervenne con voce brusca: "Chi arriva a Lisenna non passa inosservato. Teniamo d’occhio tutti. I nuovi arrivati possono essere una minaccia." 
+
+"Oppure una risorsa" disse Rurik, senza togliere lo sguardo da Nadia. 
+
+La ragazza esitò un istante. «Come sapete chi sono?» 
+
+Rurik e Shuua si scambiarono un'occhiata. 
+
+Fu Rurik a rispondere. 
+
+«Hual aveva previsto che un giorno qualcuno avrebbe potuto cercarlo. Non immaginavamo sarebbe stata sua figlia.» 
+
+Nadia cercò di mantenere un tono di voce pacato, ma dentro di lei qualcosa si stava svegliando. "Conoscevate mio padre?" 
+
+Fu Darian a parlare, senza alzare gli occhi dai fogli. "Sì, conoscevamo Hual. Un uomo imperscrutabile. Non si capiva mai del tutto cosa avesse in mente… ma aveva delle capacità invidiabili." 
+
+Per la prima volta Nadia sentì un brivido di speranza, mescolato a una sottile inquietudine. Suo padre aveva collaborato con una società segreta per anni, e lei non aveva mai sospettato nulla. 
+
+"Era uno dei vostri, quindi?"  
+
+«No,» rispose Shuua. «Hual lavorava per conto proprio. Ma i nostri interessi si sono incrociati più volte.» 
+
+Darian annuì. «A volte penso che fosse l'uomo più intelligente che abbia mai incontrato. A volte penso che fosse anche il più irresponsabile.» 
+
+Nadia aggrottò la fronte. «Che significa?» 
+
+“Significa che si è cacciato in un gioco pericoloso,” sbuffò Shuua. “E adesso una ragazzina come te è costretta a raccogliere i pezzi.” 
+
+"Perché lo hanno preso?" Nadia fece un altro passo avanti. "I soldati hanno parlato di contabilità falsificata, ma quella è solo una scusa, vero?" 
+
+"Lo hanno preso perché sapeva troppo," tagliò corto Shuua. "E nell’impero, chi sa troppo sparisce." 
+
+Era la conferma che temeva e insieme quella che aveva cercato 
+
+"Dov’è ora?" 
+
+Il giovane chiamato Rurik abbassò lo sguardo. "Nel luogo dove sono rinchiusi gli oppositori politici e le persone scomode: le segrete sotto la piramide." 
+
+Un nodo le serrò la gola. Sotto la piramide? Così vicino eppure così irraggiungibile. 
+
+Restare immobile le risultava impossibile. "Allora dobbiamo tirarlo fuori di lì.” 
+
+Shuua la guardò con occhi taglienti. "Ecco un'altra ragazza di provincia che arriva in città e pretende che il mondo si muova al ritmo dei suoi desideri” 
+
+Rurik intervenne prima che Nadia potesse ribattere. 
+
+«Capisco la tua fretta. Ma se vuoi liberarlo, dovrai avere pazienza. Aiutare tuo padre è anche nel nostro interesse.» 
+
+Nadia esitò. La Setta non le stava offrendo aiuto per generosità. Volevano qualcosa in cambio. 
+
+«E qual è il vostro interesse?» 
+
+«Dritta al sodo,» commentò Shuua. «Vogliamo sapere che cosa aveva scoperto Hual. Qualunque cosa fosse, è abbastanza importante da aver spinto l'impero a farlo sparire.» 
+
+Rurik annuì. «Se riusciremo a farlo uscire da quella cella, avremo finalmente le risposte che cerchiamo. E tu potrai riabbracciare tuo padre.» 
+
+Nadia tornò col pensiero al giorno in cui papà le aveva parlato del suo studio: cosa voleva mostrarle? Era il libro, o c’era qualcos’altro? 
+
+«Che genere di cosa ha scoperto?» domandò in un sussurro. 
+
+Darian sollevò finalmente lo sguardo dalle sue carte. 
+
+«È proprio questo il punto. Non lo sappiamo con certezza.» 
+
+Fece una breve pausa. 
+
+«Sappiamo soltanto che da anni stava osservando l’impero da molto vicino.» 
+
+Le dita dell’uomo tamburellarono sui papiri sparsi sul tavolo. 
+
+«Dimmi, Nadia: ti sei mai chiesta come abbia fatto questo regno a prosperare?» 
+
+Nadia non fu certa di aver capito la domanda. 
+
+Darian proseguì. "Tu non hai viaggiato molto, ma devi sapere che non tutto il mondo è come dalle nostre parti. Vai a nord, e troverai nomadi che vivono in tende di lana e non sanno cosa sia un mattone. Risali le montagne e troverai gente che vive nelle caverne, pitturando muri in una distorta imitazione di scrittura. Se vai a sud, è ancora peggio. Quelle persone sanno a malapena coltivare un lembo di terra, figuriamoci portare l’acqua nei villaggi, scavare pozzi o usare la moneta per scambiare merci. Vanno a caccia con lunghe lance, che ogni tanto usano per ammazzarsi a vicenda. Eppure, qui, nel regno di Lisenna, l'economia fiorisce, la politica è attiva e la gente è al sicuro tra le mura della città. Perché?" 
+
+Nadia non ci aveva mai pensato. Non sapeva molto del resto del mondo, al di fuori della sua cittadina. Non le era nemmeno passato per la mente che non tutto il mondo era come il posto dove era nata. 
+
+"L’imperatore possiede una conoscenza segreta," disse Darian. "Qualcosa che ha reso possibile tutto questo." 
+
+"E mio padre," iniziò Nadia. "Pensate lui abbia scoperto di cosa si tratta?" 
+
+"Forse" disse Rurik. "O forse era sulla strada giusta, ed è stato tolto di mezzo per questo. L’imperatore sa essere magnanimo quando vuole, ma è geloso dei suoi segreti." 
+
+Seguì un attimo di silenzio. Nadia non era certa di cosa pensare. "Sembrate volervi opporre all’impero, ma allo stesso tempo riconoscete all’imperatore i meriti del benessere del regno. Da come parlate, sembra che lo ammiriate." 
+
+"L’imperatore Sirios ha fatto grandi cose" riconobbe Darian. "Il regno ha prosperato sotto la guida della sua dinastia, ma da qualche tempo non è più così. Ha abbandonato i suoi cittadini, sta ritirando i confini del suo regno, si sta arroccando nella capitale dove ha costruito la grande piramide: un monumento alla sua stessa gloria. Usando risorse e forza lavoro che sarebbero bastate per costruire un’altra Lisenna." 
+
+"Quella piramide non è per noi, non è per il popolo," disse Shuua. "È un delirio di grandezza, una follia mascherata da visione. I fondi che prima venivano usati per costruire e mantenere le opere pubbliche ora vengono dirottati su un’opera che non ci darà pane né protezione. Nel frattempo, la carestia ha colpito le periferie del regno e la corruzione dilaga nell’esercito e nell’aristocrazia, e nessuno muove un dito." 
+
+Nadia rifletté. A giudicare da quanto aveva visto nella piazza il giorno del discorso, la gente amava l’imperatore. Ricordava le acclamazioni provenienti dalla folla. 
+
+"So a cosa stai pensando" disse Shuua, leggendogli nella mente. "La gente sembra ammirare l’imperatore, non è così? Beh, non è tutto rose e fiori. A volte non serve molto per tenere buono il popolo: un po’ di fumo negli occhi alle classi più basse, e promesse di potere ai nobili. Si chiama politica, ed è un gioco pericoloso a cui il nostro Sirios sa giocare molto bene. Ma nei vicoli di periferia trovi la verità. Lì la gente muore di fame, maledicendo l’imperatore e la sua discendenza. Chi mendica in silenzio, forse, viene lasciato in pace, ma chi protesta viene fatto sparire. Così rimane solo chi lo sostiene. Semplice e ingegnoso." 
+
+Nadia ragionò su quelle parole per qualche istante.  
+
+"Ancora non ho capito come posso esservi d’aiuto."  
+
+"Tanto per cominciare," disse Darian, "dicendoci tutto ciò che sai. Ogni dettaglio, anche il più piccolo. Perché tuo padre ti ha lasciato più indizi di quanti pensi, e tutto ciò potrebbe aiutarci a completare il puzzle che circonda l’impero." 
+
+Nadia inspirò a fondo, le dita che si chiudevano istintivamente attorno alla borsa che teneva stretta contro di sé. "Io… mio padre non parlava mai di ciò che faceva nel suo studio." Esitò ancora un istante, poi infilò la mano dentro la borsa e ne trasse il libro. Lo posò con cautela sul tavolo. "Frugando tra le sue cose ho trovato questo." 
+
+Darian si sporse subito in avanti, gli occhi accesi di una curiosità trattenuta a stento. Ma la delusione trasparì dal suo sguardo quando lesse il titolo, vergato a caratteri scuri sulla copertina del volumetto. "Le Parole dei Precursori...?" 
+
+Nadia se ne accorse immediatamente. Per un attimo ebbe la sgradevole impressione di aver portato la cosa sbagliata. 
+
+Aprì il volume e lo spinse verso di lui.  
+
+Nadia aprì il volume, mostrando le fitte scritte a margine. "Ci sono annotazioni, correzioni, segni… e il vostro simbolo. È così che vi ho trovati." Poi si fermò, incerta. Le era tornata in mente una cosa. "Quella donna… la signora che mi ha dato il messaggio… lavora per voi?" 
+
+"Non per noi soltanto," rispose Shuua con voce quasi seccata. "È uno dei nostri punti di accesso. Chi bussa alla sua porta riceve un messaggio, tutto qui. E chi sa leggerlo capisce dove andare. Serve a tenere lontani gli occhi indesiderati." 
+
+Rurik annuì, piegando appena il capo. "Tuo padre conosceva i nostri canali. Per questo ti ha lasciato quell’indirizzo e quel simbolo. Sapeva che ti avrebbe condotto a noi nel modo più rapido." 
+
+Una traccia lasciata da suo padre, nel caso in cui fosse stato arrestato? Dunque, Hual sapeva che stava rischiando grosso? Il suo piano era far sì che i figli contattassero la Setta? O c'era qualcosa di più che ancora non riusciva a vedere? 
+
+"E se non avessi avuto il libro?" 
+
+Shuua scrollò le spalle. «Probabilmente non ci saremmo mai incontrati.» 
+
+Il breve silenzio che seguì fu interrotto dalla voce concitata di Darian. 
+
+«Questo è... un vero tesoro.» 
+
+Mentre parlavano, aveva preso tra le mani il libretto e ora ne sfogliava le pagine con crescente avidità. Gli occhi brillavano alla luce della lampada. 
+
+Nadia batté le palpebre. 
+
+Pochi istanti prima l'uomo era sembrato deluso dal titolo. Adesso si comportava come se avesse trovato una miniera d'oro. 
+
+«Cosa c'è di importante in quelle annotazioni?» chiese Shuua, alzando un sopracciglio. 
+
+Darian girava le pagine freneticamente, seguendo collegamenti invisibili tra le note vergate ai margini. 
+
+«Darian?» insistette Rurik. 
+
+Dovette chiamarlo una seconda volta prima che il vecchio sollevasse finalmente lo sguardo. 
+
+«Questo è un concentrato delle ricerche di Hual.» Abbassò di nuovo gli occhi sul libro. «Incompleto... anzi, essenziale. Ma qui dentro ci sono alcune delle risposte che cerchiamo da anni.» 
+
+«Ricerche su cosa?» domandò Nadia. 
+
+Darian si appoggiò allo schienale. «Sul regno.» 
+
+La risposta era così vaga da lasciarla ancora più confusa. 
+
+Fu Rurik a intervenire. «Lo splendore del regno, le sue invenzioni, le opere che sono state costruite negli ultimi secoli...» continuò Rurik. «Nulla di tutto questo sembra seguire il normale corso della storia. È come se qualcuno avesse acceso una luce in mezzo all'oscurità.» 
+
+«E Hual pensava di sapere da dove provenisse quella luce?» chiese Shuua. 
+
+«Da un artefatto dei Precursori,» disse Darian, scorrendo con il dito su una pagina particolarmente affollata di scarabocchi. «Qualcosa di sopravvissuto alla loro epoca e giunto fino a noi.» Picchiettò un dito sul libro. «E la chiave potrebbe trovarsi proprio qui. In uno dei racconti che tuo padre aveva studiato più a fondo di tutti gli altri.» 
+
+Alzò lo sguardo verso Nadia. 
+
+«La storia di Isil e della Stella Cadente.» 
+
+Nadia si accigliò. «Conosco quella storia. È solo una leggenda.» 
+
+«Forse.» 
+
+Darian le porse il volume aperto sulla pagina giusta. «Oppure è qualcosa di molto diverso. Leggi.» 
+
+Nadia esitò. Leggere ad alta voce non le era mai piaciuto. A scuola cercava sempre di passare inosservata quando arrivava il suo turno, e ora si ritrovava sotto lo sguardo di tre sconosciuti. 
+
+Abbassò gli occhi sul libro. 
+
+Accanto alle righe del racconto, le annotazioni di suo padre correvano fitte, come una seconda voce che commentava e correggeva il testo. C'erano numeri, lettere e simboli che non comprendeva, intervallati da poche parole leggibili. 
+
+Inspirò a fondo, si schiarì la voce e, con un filo di esitazione, cominciò a leggere. 
+
+"Si racconta che, in una notte senza vento, una stella si staccò dal cielo e precipitò sul deserto. La sua scia era d’oro, e il suo cadere fece tremare la terra come un tuono. Il mattino seguente, un mercante che attraversava quelle dune trovò il cratere ancora fumante e, nel suo cuore, albergò la paura e la cupidigia." 
+
+"C’è un appunto qui" disse Nadia, indicando la pagina. "Una data. Anno 4711 dell’era del bue." 
+
+"Trecento anni fa" Darian si accarezzò distrattamente il lungo pizzetto ingrigito. "Pare che questo racconto sia tratto da un episodio realmente accaduto. Tuo padre deve aver fatto delle ricerche. Questo testo è un'eredità dei Precursori: dovrebbe essere vecchio di migliaia di anni. Eppure questo racconto sembra essere molto più recente." 
+
+"Cosa significa?" Nadia non era certa di capire del tutto. Trecento anni o tremila anni erano cifre simili, per lei. Sapeva che una era più grande, ma non di preciso quanto.  
+
+"Significa che qualcosa non torna," spiegò Darian. "Questo testo dovrebbe essere antico di migliaia di anni, eppure contiene il racconto di un evento accaduto appena tre secoli fa." 
+
+"Quindi qualcuno l'ha aggiunto dopo?" 
+
+"Forse. Oppure il libro è molto più recente di quanto si creda. In entrambi i casi, ciò che abbiamo davanti potrebbe non essere una testimonianza dei Precursori, ma qualcosa scritto dall'impero stesso." 
+
+"Per quale motivo?" 
+
+"Per dare autorità a una storia. Per trasformare eventi reali in religione." 
+
+Nadia annuì. Stava cominciando a capire.  
+
+Darian la invitò a continuare. 
+
+"Al centro del cratere giaceva una sfera d’oro, liscia come se fosse stata levigata da mani divine. Nessun segno la adornava, eppure brillava come sole racchiuso nella sabbia. Il mercante la caricò sui suoi cammelli e la portò al re della città, offrendola in cambio di oro, terre e onori. 
+
+"Un altro appunto" disse Nadia. La parola ‘sfera d’oro’ era cerchiata due volte e una nota riportava ‘grande tempio’. 
+
+Darian annuì, gli occhi illuminati da una scintilla di comprensione. Nadia non era sicura di aver capito, ma l'uomo non disse altro. 
+
+"Il re, colpito da tanta meraviglia, convocò i suoi sacerdoti. I saggi della corte presero la sfera, sussurrando preghiere e interpretazioni. Uno di loro, il più anziano, osò posare la mano nuda sulla sua superficie. In quell’istante la sfera si aprì come un fiore di luce, e un bagliore accecante riempì la sala del trono. 
+
+Da quel fulgore emerse una figura radiosa: un uomo alto, il cui volto ardeva come sole allo zenit, e la cui voce era simile al vento che scuote i deserti. "Io sono Rham," disse, "il Dio del Sole. Questa sfera non è un tesoro da vendere né un monile da adorare. È il mio dono. In essa dimora la conoscenza, che illumina più del fuoco e nutre più del pane. Ma non posso consegnarla a chiunque: solo un cuore puro potrà sostenerne il peso." 
+
+Il re cadde in ginocchio, e con lui sacerdoti e nobili. Rham proseguì: "Che sia indetta una sfida aperta a tutto il popolo: grandi e bambini, nobili e mendicanti, ricchi e straccioni. Che vengano tutti, poiché io porrò tre prove, e chi resisterà sarà il mio eletto." 
+
+Il re obbedì, e in pochi giorni la piazza della città si riempì come mai prima. Vi erano guerrieri dalla spada temprata, che si vantavano del proprio coraggio; vi erano saggi e scribi, che portavano libri e rotoli di papiro; vi erano fanciulli dagli occhi luminosi e madri che reggevano i figli per mano. Anche una ragazzina orfana, Isil, si unì a loro. 
+
+I candidati furono condotti in tende oscure, dove la luce non penetrava. Appena vi entrarono, il silenzio si fece pesante, ma all'improvviso le loro menti furono scosse da voci e visioni: era la prima delle prove. Alcuni udirono grida di battaglia, altri videro i propri cari in pericolo, altri ancora sentirono il cielo parlare dentro di loro. 
+
+Molti caddero in ginocchio urlando, alcuni fuggirono in preda al terrore. Arad, il principe, gridava ordini contro nemici invisibili, e uscì tremante come un bambino. Isil sentì le urla di sua madre, morta quando lei era piccola, ma sopportò. Solo pochi resistettero, restando fermi mentre le visioni li attraversavano come vento. 
+
+Quando la prova ebbe termine, Rham parlò: "Non tutti possono sopportare il mio dono senza crollare. Io scelgo chi è forte di spirito, perché il mio dono non tace, e la sua presenza pesa come il sole a mezzogiorno." 
+
+Ai rimanenti apparve una fiamma sospesa nell’aria, pura come oro liquido. Rham disse: "Chi desidera il mio dono, custodisca questa fiamma nelle proprie mani." 
+
+Molti indietreggiarono. Dumir, lo scriba, tremava: "Non posso rischiare di perdere le mani con cui scrivo." Altri tentarono e sentirono dolore, poiché la loro paura era così grande da trasformare l’illusione in tormento. Tahar, il guerriero, gridò che nessun fuoco poteva spaventarlo, ma al tocco ritrasse la mano urlando. 
+
+Isil, invece, avanzò in silenzio. Vide la fiamma e non ebbe paura: la accolse nelle mani aperte, e il fuoco non bruciò, ma la illuminò come un gioiello. Alcuni altri fecero lo stesso, e solo essi restarono. 
+
+Allora Rham parlò: "Non tutti hanno fiducia in ciò che non comprendono. Io scelgo chi osa credere anche quando non vede. Poiché il mio dono richiede atti di fede più grandi di ogni certezza." 
+
+Alla fine, Rham si levò come sole allo zenit e disse: "Chi tra voi si sente degno del mio dono, si faccia avanti." 
+
+Allora la piazza si riempì di clamori. Arad, il principe, tornò a vantarsi: "Io sono nato per regnare, a me spetta questo potere." Dumir lo scriba disse: "Ho studiato più di tutti, sono l’unico in grado di custodire la conoscenza." Tahar il guerriero brandì la spada: "Solo la forza può difendere il popolo." 
+
+Tutti si fecero avanti. Tutti tranne una. Isil rimase in silenzio, guardando Rham con i suoi grandi occhi scuri. Sapeva di essere pronta, ma credeva che tanti dei presenti meritassero il dono più di lei, così non parlò. 
+
+Allora la voce di Rham scosse la folla: "Chi cerca il potere non può custodirlo. Io scelgo colei che non si è proclamata, poiché l’umiltà è la radice della vera conoscenza." 
+
+E la luce discese su Isil. 
+
+La ragazzina venne condotta davanti al re e al popolo. Rham le pose sulla fronte una corona di luce che le penetrò attraverso la testa in un bagliore dorato. "Questo è il mio dono. Sarai consigliera e guida del regno. Porta la mia luce con saggezza." 
+
+Il popolo esultò, e il re, colpito dalla volontà del dio e dalla purezza della fanciulla, la prese in sposa. Così Isil, la più umile tra i candidati, divenne regina, consigliera e voce della conoscenza. 
+
+E ancora oggi, tra le dune del deserto, si racconta che fu una ragazzina silenziosa a ricevere il dono del Sole, e che da lei iniziò l’età della saggezza." 
+
+Nadia terminò di leggere e Darian prese la parola. "Eccolo, il dono di Rham. È come sospettavamo: la corona di luce in realtà è un artefatto realmente esistente, la corona dell’imperatore. Il sovrano di cui parla la storia è Sirios I, antenato dell’attuale imperatore. Sposò Isil - sempre che la ragazzina sia esistita realmente - e prese la corona, dando così inizio alla dinastia imperiale. Le date appuntate combaciano." 
+
+Nadia abbassò lo sguardo sulla pagina. Un’annotazione del padre recitava la parola "successione" scarabocchiata lì accanto, affiancata da numeri troppo difficili perché Nadia riuscisse a interpretarli. Accanto al termine corona di luce comparivano numeri, frecce e simboli che non comprendeva. Una cosa però attirò la sua attenzione. 
+
+La parola corona era stata sottolineata con una linea spezzata. 
+
+Nadia conosceva bene quel segno. Suo padre lo usava quando trovava un errore in un registro o in un calcolo. 
+
+Aggrottò la fronte. 
+
+Sollevò lo sguardo verso gli altri. 
+
+Nessuno sembrava averlo notato. Forse la corona non era un oggetto reale, ma un’allegoria? 
+
+"In che modo una corona può essere ciò che cerchiamo?"  
+
+Darian non rispose. Era chino sul testo sacro, completamente assorto.  
+
+"Se l'impero possiede davvero una conoscenza segreta, dovrebbe trovarsi in libri, archivi o insegnamenti. Non in un gioiello.” 
+
+Rurik fece spallucce. "Stiamo parlando di manufatti che potrebbero provenire da un'epoca perduta. Dai resti della civiltà dei precursori, la più sviluppata mai esistita. Non possiamo giudicarli con ciò che sappiamo oggi." 
+
+Nadia serrò le labbra. Quante cose aveva scoperto suo padre sull’impero durante i suoi viaggi in città? E perché non ne aveva mai parlato con nessuno? 
+
+"Dobbiamo far vedere tutto ciò al capo" disse Shuua. "Il libro e tutto il resto.” 
+
+Rurik guardò Nadia. "Questo libro non è soltanto un ricordo. È un frammento di verità, ma per comprenderlo appieno dobbiamo studiarlo a fondo." 
+
+Darian annuì con gravità. "Non basta più parlarne tra noi. Dobbiamo chiederti di lasciarci il libro, per poterlo studiare a fondo." 
+
+Nadia rimase in silenzio, le dita serrate sul dorso consumato del volume. Dentro di sé lottavano due voci: una che le urlava di non lasciarlo, perché quello era tutto ciò che le restava di suo padre; l’altra che sussurrava che proprio suo padre l’aveva guidata fino a quel momento, forse perché voleva che il libro arrivasse a loro. 
+
+Inspirò piano. "Ve lo lascio" cominciò, con un filo di esitazione, "ma promettetemi che lo riavrò." 
+
+Darian la guardò con solennità. "Certamente." 
+
+"Prima di stabilire i prossimi passi," iniziò Rurik, "dobbiamo parlare con il nostro leader. La tua presenza tra le nostre fila può essere determinante, Nadia. E non solo a causa di tuo padre." 
+
+Nadia annuì senza molta convinzione. Ma avrebbe fatto tutto quel che era in suo potere per ottenere la libertà di suo padre. 
+
+Shuua si alzò, raccogliendo una lanterna. "È tardi. Meglio che tu faccia ritorno prima che sorga il sole. Non vogliamo attirare sospetti." 
+
+"Tieniti pronta, avrai presto nostre notizie." disse Rurik, accompagnandola verso le scale. "Per ora, abbi fiducia." 
+
+Quando Nadia riemerse nei vicoli della città, il cielo a oriente stava già schiarendo. Le prime sfumature dell'alba coloravano i tetti di Lisenna. 
+
+Strinse le mani attorno alla borsa, poi si ricordò che non c'era più nulla da stringere: il libro era rimasto laggiù. Per la prima volta da quando aveva lasciato Junna, si sentì davvero sola. 
+
+Mentre attraversava i vicoli ancora deserti, Nadia ripensò a tutto ciò che era accaduto. 
+
+Il simbolo nascosto nel libro. L'indirizzo. La vecchia. Il messaggio in codice. La Setta. 
+
+Nulla sembrava casuale. 
+
+Suo padre aveva previsto che lei avrebbe seguito quelle tracce. Ma perché? 
+
+Se Hual avesse voluto semplicemente consegnare le sue ricerche alla Setta, avrebbe potuto farlo lui stesso molto tempo prima. Non c'era alcun bisogno di nasconderle in un libro e costruire una catena di indizi tanto complicata. 
+
+E se invece avesse voluto essere liberato, la situazione aveva ancora meno senso. Coinvolgere una ragazzina di quattordici anni era un modo assurdo di chiedere aiuto. Avrebbe potuto lasciare istruzioni più chiare, nomi, contatti, qualsiasi cosa. 
+
+Invece aveva scelto una strada diversa. 
+
+Nadia non riusciva a liberarsi dell'impressione che suo padre stesse cercando di condurla da qualche parte. 
+
+Ma dove? 
+
+# CAPITOLO
+
+id: cambio_di_equilibri
+tipo: capitolo
+titolo: Cambio di Equilibri
+descrizione: Il mondo è improvvisamente scosso da un evento imprevisto. Questo ha ripercussioni anche sul lavoro di Leon.
+immagine: img/capitoli/la_sala_del_trono.jpg
+
+--- FINE METADATI ---
+
+La scorsa notte, un malfunzionamento globale ha colpito le banche dati di numerosi istituti finanziari, infrastrutture governative e grandi aziende in tutto il mondo. Gli esperti sono al lavoro per stabilire la causa precisa dell'interruzione. Le autorità di sicurezza informatica negano categoricamente che si tratti di un attacco hacker e invitano la popolazione a mantenere la calma. 
+
+"La stessa notizia dappertutto" commentò Alex. "Non si parla d’altro." 
+
+Il team era radunato nella tenda che faceva da quartier generale e il notiziario arrivava da uno schermo che normalmente veniva usato per visualizzare grafici e dati di scavo. 
+
+Leon si alzò. "Per un attimo ho pensato che fosse un problema della FSU. Ieri sera ho provato ad accedere al database e non ci sono riuscito." Aveva riprovato quella mattina e il sistema sembrava funzionare normalmente, ma la coincidenza continuava a infastidirlo. 
+
+<arricchire legando meglio con il resto della trama. Il blocco dei server aveva paralizato i lavori al sito. Aggiungiamo anche un’osservazione: la tecnologia non era strettamente necessaria per tutto, eppure la civiltà sembra essere completamente inetta senza. Questo è uno dei temi del romanzo quindi diamogli un po’chino di spazio> 
+
+"Incredibile che queste cose succedano ancora nel 2047" osservò Emily.<generico. Diciamo piuttosto che è grave che succeda per le sue conseguenze> 
+
+"Più una tecnologia diventa complessa, più aumenta il numero di cose che possono andare storte" commentò Robert. 
+
+"Se nemmeno gli esperti sanno di cosa si tratta, non resta che aspettare" concluse Schmidt con il suo consueto pragmatismo. <schmidt sembrava minimizzare le ciance. Forse voleva tornare al lavoro il prima possibile> 
+
+Per qualche giorno sembrò che tutti aspettassero proprio quello: una spiegazione. 
+
+Non arrivò. 
+
+In compenso, ogni giorno compariva una teoria diversa. 
+
+"Tempesta solare" lesse Robert una sera. 
+
+Il giorno dopo qualcuno parlava di raggi cosmici. Due giorni più tardi un opinionista sosteneva che si trattasse di un errore software rimasto nascosto per decenni. 
+
+"Il millennium bug con cinquant'anni di ritardo" commentò Alex. 
+
+Leon sperava che l'incidente passasse in secondo piano, ma sapeva che non sarebbe successo così facilmente. Anche se la maggior parte dei sistemi era tornata operativa nel giro di poche ore, qualcosa si era incrinato. Per la prima volta dopo anni, milioni di persone avevano scoperto quanto la loro quotidianità dipendesse da infrastrutture che davano per scontate.<anche qui rendiamo piu in linea con la trama: citiamo come l’episdio influisce sul lavoro> 
+
+I giorni passarono, ma l'argomento non sembrava perdere forza. Nella sua tenda, Leon si sintonizzò sulla tv. 
+
+Uno speciale sui datacenter. 
+
+Cambiò canale. 
+
+Un dibattito. 
+
+Cambiò ancora. 
+
+Un'intervista a un esperto di sicurezza informatica. 
+
+Spense con un sospiro. 
+
+ 
+
+All'inizio tutti volevano sapere cosa fosse successo. Quando divenne evidente che nessuno aveva una risposta convincente, la domanda cambiò. 
+
+Non più cosa, ma chi. 
+
+E sempre più spesso quel "chi" coincideva con le Frontiere Scientifiche Unite. 
+
+Ne ebbero la conferma quella stessa sera. L'intera squadra era radunata nella tenda principale quando sullo schermo apparve il volto familiare di un noto esperto di sicurezza informatica, invitato a commentare l'incidente. 
+
+"Sentiamo quale nuova teoria hanno inventato oggi," borbottò Robert, accomodandosi su una sedia pieghevole.<le accuse alla fsu lo infastidivano> 
+
+Alex aumentò il volume. 
+
+ 
+
+Presentatore: "Parliamo adesso dei recenti malfunzionamenti globali. Con noi il dottor Massimo Braga. Dottore, molti stanno puntando il dito contro la FSU. Ha senso attribuire la responsabilità alle Nazioni Unite?" 
+
+Braga: "Dipende da cosa intendiamo per responsabilità. Non sto dicendo che qualcuno alla FSU abbia premuto un pulsante e causato il guasto. Sto dicendo che per anni ci è stato detto che centralizzare infrastrutture e sistemi intelligenti avrebbe reso il mondo più sicuro. Oggi scopriamo che basta un singolo problema per creare effetti globali." 
+
+Presentatore: "Quindi la FSU sarebbe responsabile del modello?" 
+
+Braga: "Esattamente. Quando concentri tutto nello stesso ecosistema, ottieni efficienza. Ma ottieni anche un enorme punto di fallimento." 
+
+Presentatore: "Molti scienziati sostengono che senza quella standardizzazione il mondo sarebbe molto meno stabile." 
+
+Braga: "Può darsi. Ma oggi stiamo vedendo l'altra faccia della medaglia. Quando una manciata di enti definisce standard, protocolli e architetture per miliardi di persone, la distinzione tra coordinamento e controllo diventa molto sottile." 
+
+Presentatore: "Sta dicendo che la FSU controlla il sistema?" 
+
+Braga: "Sto dicendo che quando tutti seguono le stesse regole, chi scrive quelle regole ha un'enorme responsabilità. E oggi la gente vuole sapere chi risponde di quello che è successo." 
+
+"Straordinario,” sbuffò Alex mentre davano la pubblicità. “Un guasto informatico dall'origine sconosciuta e lui riesce comunque a dare la colpa alla FSU." 
+
+Robert scoppiò a ridere. "Devi ammettere che è un talento." 
+
+"È come dare la colpa alla gravità se inciampi," disse Alex. 
+
+Emily scosse la testa. "Non sottovalutarlo. Quello che ha detto funziona." 
+
+Leon annuì lentamente. "In effetti non ha tutti i torti." 
+
+Alex si voltò verso di lui. "Ti ci metti anche tu?" 
+
+"Forse non sulla responsabilità. Ma sulla centralizzazione sì. Se un sistema viene adottato da mezzo pianeta, ogni suo problema diventa automaticamente un problema globale." 
+
+"Questa si chiama standardizzazione," ribatté Alex. "Sai quante volte ci ha evitato disastri?" 
+
+"Lo so." 
+
+"E allora?" 
+
+Leon alzò le spalle. "Ci sono pro e contro per tutto." 
+
+Robert si sistemò sulla sedia. "Quando avevo la vostra età sentivo gli stessi discorsi sulle reti energetiche. Poi sulle comunicazioni satellitari. Poi sulle AI. Ogni generazione scopre che la complessità è utile finché qualcosa non si rompe." 
+
+Emily appoggiò la tazza di tè. "Le persone cercano sempre qualcuno da incolpare. E la FSU è un bersaglio perfetto: enorme, visibile e impossibile da spiegare in trenta secondi. Non ne usciremo facilmente, date retta a me." 
+
+"Grazie per il conforto," sospirò Lisa. "A me interessa una sola cosa. Se questa storia continua, qualcuno inizierà a chiedersi perché stiamo spendendo milioni per scavare una collina nel mezzo della foresta. " 
+
+Quella osservazione fece calare per un attimo il silenzio. 
+
+Leon continuò a guardare lo schermo, dove l’intervista proseguiva animatamente. Per quanto detestasse ammetterlo, aveva la sensazione che quello non fosse un semplice incidente informatico. E, se davvero il mondo stava entrando in una fase di instabilità, le conseguenze sarebbero arrivate fino a loro molto prima di quanto fossero disposti a credere. 
+
+ 
+
+Pochi giorni dopo, i suoi timori si rivelarono fondati. Una notifica comparve sugli occhiali di Leon: il presidente della FSU aveva richiesto una videochiamata per il pomeriggio. 
+
+Leon trasalì. Poteva essere un'ottima notizia o una pessima. 
+
+Quando alle sedici in punto accettò la chiamata, Leon stava percorrendo il limitare del campo base a grandi passi, cercando di scaricare un'inquietudine che non riusciva a spiegarsi. La criniera brizzolata del presidente apparve davanti ai suoi occhi, sovrapposta al paesaggio della radura. I suoi occhi azzurri erano penetranti anche visti attraverso le lenti a realtà aumentata. 
+
+"Buonasera, Walker. Spero di trovarla bene." 
+
+Annuì. "Buonasera, presidente Carlson. Tutto bene. Mi dica." 
+
+Carlson gli concesse un sorriso cortese. Non era nel suo stile.  
+
+"Come saprà, la FSU sta attraversando un periodo particolarmente delicato. I recenti problemi informatici hanno alimentato polemiche e speculazioni, e l'attenzione mediatica nei nostri confronti è cresciuta oltre ogni previsione." 
+
+Coinciso e dritto al punto. 
+
+Leon non disse nulla. 
+
+"Parallelamente," continuò Carlson, "la vostra scoperta si sta rivelando di enorme interesse. Ho letto i report: le rovine rappresentano probabilmente il ritrovamento archeologico più importante degli ultimi decenni. Il Consiglio ritiene che il progetto abbia ormai assunto una rilevanza che va oltre il suo valore puramente scientifico." 
+
+Leon cominciò a intuire dove stesse andando a parare. 
+
+Carlson sembrò scegliere con cura le parole successive. "Per questo abbiamo deciso di nominare Richard Hale direttore della spedizione." 
+
+Leon si fermò. Richard Hale. <aggiungere reazione o pensiero di leon che faccia intuire meglio al lettore chi sia questo hale: o fisicamente o come comportamento, riportando un vecchio episodio brevemente> 
+
+Per qualche istante tra loro calò il silenzio. 
+
+"Hale arriverà nei prossimi giorni e assumerà la responsabilità operativa del sito." Carlson sembrò valutare la sua reazione prima di proseguire. "So che questa missione è importante per lei, Walker. Ed è proprio per questo che glielo volevo comunicare personalmente. Il lavoro che ha svolto finora è stato davvero eccellente. Resterà, naturalmente, vice-direttore della spedizione e continuerà a supervisionare la parte scientifica." 
+
+Leon inspirò lentamente. "Capisco."  
+
+Non era il cambio di ruolo a infastidirlo. Se il Consiglio avesse deciso che Hale era più qualificato, avrebbe accettato la decisione senza protestare. 
+
+Ciò che trovava difficile accettare era altro. Per settimane avevano inseguito misteri vecchi di cinquemila anni, e adesso qualcuno stava trasformando quella scoperta in uno strumento politico. 
+
+Carlson sembrò cogliere qualcosa della sua esitazione. 
+
+"Non si tratta soltanto di immagine. In questo momento abbiamo bisogno di qualcuno che sappia comunicare al pubblico l'importanza di ciò che state facendo. Hale possiede esperienza sul campo e una notevole esposizione mediatica. Pensiamo che possa essere la persona giusta." 
+
+Leon annuì. "Capisco," ripeté. Poi aggiunse: "farò il possibile per collaborare." 
+
+Il presidente sembrò sinceramente sollevato. "Ne sono certo. Grazie, Walker." 
+
+Dopo le consuete formule di cortesia, la comunicazione si interruppe. 
+
+Leon rimase per qualche secondo immobile a fissare il vuoto. Quando si tolse gli occhiali e li infilò in tasca, i suoi pensieri erano già altrove. 
+
+Poco dopo Alex lo raggiunse. Dovette leggere dalla sua espressione che c’era qualcosa nell’aria. 
+
+"Allora?" 
+
+Leon sospirò. "La buona notizia è che i lavori continueranno." 
+
+"E quella cattiva?" 
+
+"Mandano qui Hale." 
+
+Alex sbatté le palpebre. "Hale?" 
+
+"Sì." 
+
+"Hale, quello che riesce a comparire nelle fotografie anche quando non era presente allo scavo?" 
+
+Leon lasciò sfuggire un sorriso. "Proprio lui." 
+
+"Straordinario. Fra una settimana leggeremo articoli su come ha scoperto personalmente una civiltà perduta." 
+
+"Non essere ingiusto." 
+
+"Hai ragione." Alex annuì. "Dirà che è stato un lavoro di squadra. Subito dopo mostreranno un'inquadratura di lui sporco di terra con una anga in mano." 
+
+Leon scosse la testa. "Vogliono usare la spedizione per migliorare l'immagine della FSU." 
+
+"Naturalmente." La sua espressione si rabbuiò. "Hale non viene mai da solo. Giornalisti. Addetti stampa. Esperti di comunicazione. Influencer scientifici, probabilmente." Indicò le rovine alle loro spalle. "Se arriva lui, questo posto smette di essere uno scavo archeologico e diventa uno spettacolo." 
+
+Leon guardò verso il sito. Per la prima volta da quando aveva ricevuto la chiamata, ebbe la sensazione che il problema potesse essere persino più grande di quanto avesse immaginato. 
+
+La settimana successiva trascorse lentamente. 
+
+Gli scavi continuarono, ma con un ritmo diverso da quello dei primi giorni. L'entusiasmo della scoperta aveva lasciato spazio a qualcosa di più prudente.  
+
+Leon dovette accantonare il lavoro sul campo per cominciare a occuparsi della pila di burocrazia per l’imminente passaggio di consegne. L'arrivo di Hale si avvicinava. Nessuno ne parlava molto, ma la sua presenza aleggiava sul campo come un temporale lontano. 
+
+Infine, per la terza volta in un mese, il rombo di un elicottero si udì in lontananza. All'inizio fu soltanto un suono indistinto sopra la giungla. Poi divenne sempre più forte, fino a far vibrare le fronde degli alberi e sollevare piccoli vortici di polvere tra le tende. Il logo della FSU apparve tra le fronde, stampato sul fianco lucente di un piccolo velivolo. 
+
+ Leon e il suo team, in piedi accanto alla piazzola che avevano creato a fatica nei giorni precedenti, alzarono lo sguardo, proteggendosi con le mani dalla tempesta di foglie e ramoscelli che le pale avevano sollevato. Con un ultimo sibilo, le eliche rallentarono, rivelando una figura che scendeva con passo deciso dalla scaletta. 
+
+Hale era un uomo sulla cinquantina, alto, con capelli brizzolati ben curati e un completo perfettamente stirato, totalmente fuori luogo nel caos della foresta. I suoi occhiali da sole a specchio riflettevano la scena davanti a lui, e sul suo volto era stampato un sorriso sicuro, quasi affascinante. L'archetipo dell'attore di Hollywood. Neanche a farlo apposta, con lui scesero due reporter già pronti a documentare ogni momento. 
+
+Si avvicinò con passo deciso, schivando una cassa di attrezzature e tendendo la mano. 
+
+Leon ricambiò la stretta di mano. Suo malgrado, si sentì improvvisamente consapevole della camicia impolverata che indossava. 
+
+"Ben arrivato, Hale." 
+
+"Leon. Finalmente riesco a vedere questo posto con i miei occhi." Completò il quadretto togliendosi gli occhiali da sole e rivelando due occhi azzurri taglienti. 
+
+Dietro di lui, un assistente stava già scaricando bagagli e valigette dall'elicottero. 
+
+"Com'è andato il viaggio?" domandò Leon. 
+
+Hale lanciò uno sguardo alla giungla tutt'attorno. 
+
+"Lungo. Caldo. E decisamente più verde di quanto immaginassi." 
+
+Leon accennò un sorriso. 
+
+"Vieni. Ti faccio vedere il quartier generale. Puoi lasciare le tue cose e bere qualcosa." 
+
+Hale annuì, ma il suo sguardo continuava a vagare oltre le tende, verso la collina degli scavi. 
+
+"Volentieri. Anche se devo ammettere che la curiosità mi sta già uccidendo." 
+
+Si incamminarono lungo il sentiero che attraversava il campo. 
+
+Hale osservava con occhio attento ogni cosa: le tende, i generatori, i tavoli ingombri di reperti catalogati, i Naha che si muovevano attorno al sito. 
+
+Arrivati alla tenda principale, si tolse la giacca leggera e la piegò con cura sullo schienale di una sedia. Accettò la bottiglia d'acqua che Leon gli porgeva, ne bevve un sorso e osservò il campo attraverso l'apertura della tenda. 
+
+Si avvicinò poi alla parete dove erano appese fotografie, mappe e planimetrie degli scavi. Rimase qualche secondo in silenzio a esaminarle, seguendo con il dito alcune linee tracciate sui rilievi topografici. Ogni tanto annuiva, come se stesse mettendo insieme i pezzi del quadro generale. A Leon venne il sospetto che stesse cercando soprattutto di apparire informato. 
+
+Si asciugò la fronte con un fazzoletto. "Avete l'aria condizionata?" 
+
+Leon lo guardò per un istante, senza capire se fosse una battuta. "Temo di no." 
+
+"Peccato." Hale bevve un altro sorso d'acqua. 
+
+"Inizio a capire perché le vostre relazioni menzionano così spesso il tasso di umidità." Per la prima volta da quando era arrivato, Leon lo vide sorridere con sincera rassegnazione. 
+
+Hale lasciò la bottiglia sul tavolo e rivolse nuovamente lo sguardo verso la collina. "Posso vedere il sito?" 
+
+Leon annuì e, sforzandosi di sorridere, indicò con un cenno la direzione degli scavi. 
+
+Hale gli venne dietro. Esitò, poi afferrò la bottiglietta d’acqua e se la infilò nella tasca del completo. 
+
+Quando scesero nel cuore delle rovine, Hale si accorse con disappunto che il famoso macchinario piezoelettrico di cui aveva tanto sentito parlare era protetto da tre metri di muratura, e visibile solo attraverso una fotocamera.  
+
+"Davvero incredibile," mormorò. "Mai visto nulla di simile. Immagina cosa diranno i media quando mostreremo tutto questo. Davvero non c’è modo di vedere il meccanismo da vicino? Non pensi che andrebbe studiato approfonditamente, ehm... toccandolo con mano?" 
+
+"Come vedi, aprirsi un varco attraverso questo antico muro sarebbe molto invasivo," rispose asciutto Leon. 
+
+Fortunatamente, Hale non insistette oltre. I due scesero poi fino alla sala del trono, seguiti da Alex, Lisa e – con un certo disappunto di Leon – dai reporter. Hale parve ammirato dalle pareti decorate e dal misterioso cerchio inciso, che dominava la scena, sulla parete in fondo, soprattutto ora che ogni singola scanalatura era stata accuratamente ripulita. 
+
+"Questa è quella che abbiamo soprannominato Sala del Trono," spiegò Leon. "Siamo ancora all’inizio, ma sembra che abbia un’importanza notevole." 
+
+ Richard Hale era estasiato. Era un uomo immagine, ma sapeva riconoscere una scoperta straordinaria quando ne vedeva una.  
+
+"Sala del Trono? Mi piace!" annuì, forse pregustando la risonanza mediatica di un’antica sala del trono. Continuò a ispezionare minuziosamente l’ambiente, annuendo con approvazione. 
+
+In quel momento comparvero due ragazzi Naha, intenti a trasportare una cassetta di attrezzatura verso il livello superiore dello scavo. 
+
+Hale puntò con discrezione il pollice verso il gruppo. "A proposito. Quelli sono...?" 
+
+"Sì, sono i Naha," rispose Leon, senza presagire niente di buono. "Li abbiamo assunti per aiutarci. Sono incredibilmente abili e conoscono il terreno meglio di chiunque altro. Senza di loro non avremmo fatto metà del lavoro." 
+
+Hale aggrottò le sopracciglia. "Approccio interessante. Ma forse un tantino poco ortodosso. Ci sono dei protocolli per preservare la riservatezza degli scavi. Temo non sia contemplato coinvolgere esterni."  
+
+Strano parlare di riservatezza quando tutto ciò stava per andare in mondovisione. "Finora non ci sono stati problemi, e ci hanno aiutato enormemente. Preferiresti non coinvolgerli più?" 
+
+Hale fece un’espressione pensierosa, come se stesse valutando la cosa. "Capisco che siano stati utili, ma preferirei che d’ora in avanti il sito fosse accessibile solo agli addetti ai lavori. Dobbiamo evitare fughe di informazioni prima del grande annuncio," aggiunse, accompagnando la frase con un sorrisetto ammiccante. 
+
+Lisa, che stava dirigendo il lavoro poco lontano, si avvicinò a grandi passi, prima che Leon potesse replicare. "I Naha sono stati fondamentali per il successo della spedizione. La radura dove siete atterrati è stata fatta da loro. E hanno anche portato alla luce l'ingresso alle rovine. Senza di loro non saremmo nemmeno qui." 
+
+Hale sorrise, ma il suo tono era distaccato. "Non sto mettendo in dubbio il loro contributo, ma è una questione di irregolarità. Abbiamo delle linee guida da seguire, e preferirei che fossimo rigorosi su questo punto." 
+
+Alex parlò per la prima volta. "Tra i Naha abbiamo rapporti con Zali, mediatrice e traduttrice, rappresentante del popolo Naha, figura chiave nei rapporti con la tribù, nonché esperta conoscitrice del territorio."  
+
+Proprietaria di una guesthouse, aggiunse mentalmente Leon sorridendo tra sé. 
+
+Alex concluse. "Chiedo che per lei venga fatta un’eccezione alla direttiva." 
+
+Hale ci pensò un attimo, poi annuì. "D’accordo. Se ha già lavorato con voi e ha dimostrato la sua utilità, potrà rimanere in un ruolo di mediatrice. Ma voglio che il resto della squadra sia costituito esclusivamente da esperti FSU." 
+
+Leon non aggiunse altro, ma dentro di sé non riusciva a evitare una certa frustrazione. Hale era lì da un’ora ed era già riuscito a imporsi rompendo l'equilibrio delicato che avevano costruito con i Naha.  
+
+Ma non era tutto male quel che si prospettava all’orizzonte. Il progetto stava ottenendo più risorse, e con più archeologi in arrivo e finanziamenti a disposizione, Leon sapeva che alla fine questo poteva persino giocare a loro favore. Per ora, avrebbe dovuto accettare la presenza di Hale e concentrarsi sul vero obiettivo: scoprire i segreti che si celavano in quelle rovine, a costo di lavorare in autonomia. 
+
+ 
+
+Hale volle visitare ogni angolo del sito e Leon lo assecondò con pazienza professionale, illustrando scoperte, problemi logistici e ipotesi di lavoro. Quando finalmente il nuovo coordinatore si ritirò nella propria tenda era già pomeriggio inoltrato. Leon e Alex, esausti dall'interminabile tour e dalle continue richieste di Hale, si allontanarono dal campo seguendo uno dei sentieri che attraversavano la foresta. 
+
+"Sei sereno, per uno che è stato appena sostituito." 
+
+Leon si passò una mano tra i capelli. "Sai qual è la cosa strana?" 
+
+"Sentiamo." 
+
+"Credevo che perdere il coordinamento mi avrebbe fatto infuriare." 
+
+"E invece?" 
+
+"Invece stamattina mi sono svegliato e ho realizzato che non dovevo autorizzare niente, organizzare niente e discutere con nessuno. È stata una sensazione quasi piacevole." 
+
+Alex rise. "Questo spiega molte cose." 
+
+Per qualche minuto camminarono in silenzio. 
+
+Leon si schermò gli occhi dal sole. "E tu cosa intendi fare ora che qui comanda Hale?"  
+
+“Non lo so." 
+
+"Ottimo." 
+
+"Sto ancora cercando di capire una cosa.” Alex raccolse un rametto da terra e cominciò a rigirarlo tra le mani. “Ti ricordi quando mi hai chiesto di Zali?" 
+
+Leon annuì lentamente. 
+
+"Bene. Ho raccolto nuovi dati." 
+
+Leon sbuffò una risata. "E come procede l'elaborazione?" 
+
+Alex ci pensò. 
+
+"Male." 
+
+"Perché?" 
+
+Alex spezzò distrattamente il rametto. "Perché ogni volta che credo di aver capito qualcosa su di lei, scopro che mi sbaglio. Come ieri." 
+
+"Cos'è successo ieri?" 
+
+"Stavamo discutendo di una trappola per pesci." 
+
+Leon lo fissò. "Una trappola per pesci." 
+
+"Esatto." 
+
+"E questa conversazione ti ha sconvolto emotivamente." 
+
+"No, ascolta il punto." 
+
+"Sto ascoltando." 
+
+"Ha individuato un difetto nel progetto in meno di trenta secondi." Il fisico esitò, come se stesse cercando una formulazione accettabile anche per sé stesso. “Poi c’è stata quella volta con il generatore.” 
+
+“Quello della zona B che si era inceppato?” 
+
+“Esatto. Ero con Robert. Abbiamo passato mezz'ora a discutere. Lei è arrivata, ha ascoltato per trenta secondi, ha aperto il pannello laterale, ha tirato fuori un filtro completamente ostruito dal fango e ha risolto il problema.” 
+
+"Magari l'aveva già visto succedere." 
+
+"È possibile." 
+
+Alex continuò a triturare il legnetto. "La mattina la trovi a rifare i letti della guesthouse. Un'ora dopo attraversa la giungla facendosi strada con un machete. Nel pomeriggio ripara un generatore. La sera collega perfettamente un concetto fisico astratto con gli dei della religione Naha." Scosse la testa. “Io non saprei fare metà delle cose che fa lei. E lei le fa come se fosse la cosa più naturale del mondo.” 
+
+Leon trattenne a fatica un sorriso. Dopo anni passati a lavorare insieme, aveva visto Alex affrontare problemi matematici quasi impossibili con assoluta naturalezza; vederlo invece arrancare davanti a una questione sentimentale aveva qualcosa di profondamente divertente.  
+
+Per qualche istante continuarono a camminare in silenzio, ascoltando soltanto il frinire incessante degli insetti e il rumore dei loro passi sul sentiero. "Quando sono con lei il tempo passa troppo in fretta,” ammise Alex. Poi si rabbuiò. “Il problema è che tra qualche giorno tutto questo finirà." 
+
+"Perché tornerà al villaggio." 
+
+"È casa sua. La sua famiglia è lì, la sua gente è lì. Non posso certo chiederle di lasciare tutto per restare qui. E poi, se anche fosse, noi non resteremo qui per sempre." 
+
+"No," convenne Leon. "Probabilmente no." 
+
+I due continuarono a percorrere il sentiero, senza meta. Il cicalio degli insetti riempì il silenzio. 
+
+"Torna con lei al villaggio.” 
+
+Alex si fermò. "Leon, non posso semplicemente mollare tutto e sparire per una settimana." 
+
+"Non ti ho chiesto di mollare tutto." Leon virò verso il campo base. "Hale è appena arrivato e vuole dimostrare di avere tutto sotto controllo. Lasciamogli credere di comandare qualcosa mentre noi facciamo il lavoro utile." 
+
+Alex gli andò dietro. “Che cosa hai in mente?” 
+
+“Seguimi.” 
+
+Leon si diresse verso la tenda di Hale, con passo deciso. Alex lo seguiva, ancora incerto. 
+
+La tenda del nuovo coordinatore era stata allestita in fretta, ma Hale aveva già trovato il modo di renderla più ordinata del resto del campo. Quando arrivarono, lo trovarono seduto davanti a un tavolo ingombro di documenti e tablet. La giacca elegante era sparita; al suo posto indossava una camicia chiara con le maniche arrotolate e pantaloni da escursione ancora troppo nuovi.  
+
+Hale alzò lo sguardo e sorrise. 
+
+"Walker. Professor Robinson. Entrate pure." 
+
+Leon non perse tempo. 
+
+"Vorrei chiedere una settimana di congedo." 
+
+Alex lo fissò come se fosse improvvisamente impazzito, ma Leon lo ignorò. 
+
+Il sorriso di Hale vacillò appena. 
+
+ "Una settimana? Lei è necessario qui, Walker, non si lasci prendere dallo sconforto per la mia... entrata in scena. Sappiamo entrambi che la mia presenza qui è solo di facciata: il suo contributo resta fondamentale per tutti noi. E poi, ci vorrà del tempo per tutti i passaggi di consegne." 
+
+"Naturalmente, Hale. Ma non intendo smettere di lavorare." Leon mantenne un tono calmo e professionale. "Da vari giorni mi sto occupando di questioni che non richiedono una presenza sul campo, quindi posso continuare ad occuparmene in remoto.” 
+
+Hale intrecciò le dita. “Devo ammettere che non capisco il punto, Walker.” 
+
+“È piuttosto semplice." Leon indicò vagamente la foresta oltre la tenda. “È necessario che io torni al villaggio Naha, per tranquillizzare quegli indigeni. Non possiamo sapere come reagirà quella gente nel sapere che il loro territorio è diventato oggetto di interesse internazionale "  
+
+Leon percepì lo sguardo di Alex al suo fianco, ma non tolse gli occhi da Hale, il quale, visibilmente tranquillizzato, aveva ripreso il consueto sorriso ammiccante. 
+
+"Parliamoci chiaro, Walker. Il suo lavoro come coordinatore delle scoperte è stato eccellente. Sarei un ingrato se le negassi questo favore solo perché ora sono subentrato nel suo ruolo. I ritmi sono stati frenetici; una pausa è più che meritata. E se la questione con gli indigeni va risolta, non vedo persona migliore di lei..." 
+
+Alex fece un passo avanti con decisione. "Penso che la questione degli indigeni sia più delicata di quanto si voglia ammettere. Vorrei evitare un altro Caso Mombasa." 
+
+Per un istante Hale sembrò riflettere. Poi annuì lentamente. "Certo. Il Caso Mombasa." 
+
+Il fisico proseguì con assoluta naturalezza. "La dinamica è sempre la stessa. All'inizio tutti si concentrano sulla scoperta. Poi qualcuno dimentica che sul territorio vivono delle persone. A quel punto non importa più quanto sia importante il progetto. Il problema non è mai scientifico. È relazionale." 
+
+Hale annuì di nuovo. 
+
+"In ogni caso, meglio essere prudenti. Una settimana di presenza al villaggio ci costa poco. Un Caso Mombasa, invece, può costare anni. Se non gestiamo le cose correttamente potremmo trovarci una tribù in rivolta, proprio sotto gli occhi delle telecamere. Sarebbe davvero un colpo di grazia per l’immagine della FSU." 
+
+Hale non trovò nulla da ribattere. "D’accordo, se la questione è così delicata... Ma mi aspetto che il vostro lavoro continui con la stessa efficienza e passione che avete dimostrato fin ora. Assicuratevi di rimanere reperibili." 
+
+Era fatta. 
+
+Per un istante lui e Alex si scambiarono un'occhiata perfettamente neutra. 
+
+Nessuno dei due osò aggiungere altro finché non furono usciti dalla tenda. 
+
+"Alex." 
+
+"Sì?" 
+
+“Apprezzo molto le tue capacità di improvvisazione, ma a volte sembra che ci trovi gusto a camminare sul filo del rasoio.” 
+
+“Non so di che parli.” 
+
+"Hai appena ottenuto una settimana di congedo citando un evento che non è mai esistito." 
+
+Alex ci pensò sopra. 
+
+"A mia discolpa, Hale sembrava conoscerlo già." 
+
+Leon scoppiò a ridere. "Hai visto anche tu quella faccia, vero?" 
+
+"Certo il Caso Mombasa," disse Alex imitandone il tono. "Come potrei dimenticare il Caso Mombasa?" 
+
+In quel momento Zali comparve lungo il sentiero. 
+
+Portava una borsa a tracolla e procedeva con il passo rapido di chi aveva viaggiato per ore.  
+
+L’ilarità del momento sfumò. Zali non avrebbe accettato facilmente il verdetto di Hale sulla manodopera locale. 
+
+Quando, appena entrata nel campo, notò che il gruppo di Naha era in disparte, si accorse subito che qualcosa non andava.  
+
+Il suo sguardo passò da Leon ad Alex. "Che succede qui?" 
+
+Alex prese un respiro profondo. "È Hale. Ha deciso che i Naha devono andarsene dal sito." 
+
+Zali lo fissò incredula. "Andarsene? Perché?"  
+
+"A Hale non piace la gente che lavora bene." 
+
+Zali intuì quanto bastava. "Non erano questi gli accodi con gli anziani. Mio padre e gli altri non saranno per nulla contenti."  
+
+Leon sospirò. "Ha concesso a te di restare. Ti riconosce come mediatrice." 
+
+Zali scosse la testa, amara. "Oh, che generoso. Mi concede di restare, ma caccia la mia gente." 
+
+"Come pensavo." 
+
+"Che si fa ora? Se gli accordi sono saltati, non resto un minuto di più. A maggior ragione vista la quantità di gente che sta per arrivare al villaggio." 
+
+"Se vuoi un consiglio,” s’intromise Alex, “alza un po’ le tariffe alla guesthouse. Davvero, le camere sono praticamente regalate." 
+
+Zali lo guardò di sbieco, ma sembrò considerare l’idea. 
+
+La sua espressione però si incupì. "Gli scavi, la FSU... lo sapevo che sarebbe finita così." Distolse lo sguardo dal gruppo e fissò il terreno. "All'inizio mi ero convinta che questa volta sarebbe stato diverso."  
+
+Si sedette su un ceppo e lasciò cadere la borsa ai propri piedi. Per qualche secondo rimase immobile, poi iniziò a rigirare distrattamente tra le dita una delle cinghie consumate. 
+
+Alex osservò la giungla oltre il perimetro del campo, come se stesse già calcolando la distanza fino al villaggio. 
+
+"Le nostre vecchie camere sono già prese?" 
+
+"In che senso?" 
+
+"Dove pensi che dormiremo quando torneremo al villaggio? La tenda non me la porto dietro." 
+
+L’espressione di Zali sembrò schiarirsi un poco. "Tornate al villaggio?” 
+
+Alex face spallucce. 
+
+Zali si alzò in piedi, nascondendo il sollievo. “D’accordo, riavrete le camere.  Però vi avverto: le tariffe si sono alzate." 
+
+Alex mise il broncio. “Questo sì che è un colpo basso.” 
+
+Tutti e tre scoppiarono a ridere.  
+
+“Come avete convinto Hale?” 
+
+"Facile. Vuole evitare un altro Caso Mombasa.” 
+
+Zali passò lo sguardo dall’uno all’altro. Incredibilmente, capì. “Siete due idioti." 
+
+“Lo sappiamo," disse Alex con orgoglio. 
+
+Lei scosse la testa, poi raccolse la borsa. "Bene. Allora domani partiamo presto." 
+
+ 
+
+ 
+
+ 
 
  
