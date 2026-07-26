@@ -46,14 +46,6 @@ async function caricaCommentiCapitolo(idCapitolo){
 
     }
 
-
-    console.log(
-        "COMMENTI CAPITOLO:",
-        idCapitolo,
-        data
-    );
-
-
     return data;
 
 }
@@ -74,8 +66,8 @@ function creaAreaCommenti(idCapitolo){
   
     contenitore.innerHTML = `
 
-        <h2>
-            Commenti al capitolo
+        <h2 class="titolo-commenti">
+            Commenti
         </h2>
 
 
@@ -113,20 +105,29 @@ function creaAreaCommenti(idCapitolo){
         <form class="form-commento">
 
             <input
-                class="nome-commento"
-                placeholder="Nome (facoltativo)"
+                class="campo-nome-commento"
+                maxlength="30"
+                placeholder="Nome"                
             >
 
 
             <textarea
-                class="testo-commento"
-                placeholder="Scrivi un commento..."
+                class="campo-testo-commento"
+                maxlength="1000"
+                placeholder="Scrivi un commento..." 
             ></textarea>
-
+            
+            <input
+                class="campo-trappola"
+                autocomplete="off"
+                tabindex="-1"
+            >
 
             <button class="button">
                 Invia commento
             </button>
+
+            <div class="esito-commento"></div>
 
         </form>
 
@@ -143,25 +144,122 @@ function creaAreaCommenti(idCapitolo){
 
 
         let nome =
-            contenitore.querySelector(".nome-commento")
+            contenitore.querySelector(".campo-nome-commento")
             .value
             .trim();
 
 
         let testo =
-            contenitore.querySelector(".testo-commento")
+            contenitore.querySelector(".campo-testo-commento")
             .value
             .trim();
 
+        if(nome.length === 0){
 
-
-        if(testo.length === 0){
+            mostraEsito(
+                contenitore,
+                "Inserisci un nome o un nickname.",
+                "errore"
+            );
 
             return;
 
         }
 
 
+        if(testo.length === 0){
+            mostraEsito(
+                contenitore,
+                "Inserisci un commento.",
+                "errore"
+            );
+            return;
+
+        }
+
+        if(nome.length > 30){
+            mostraEsito(
+                contenitore,
+                "Nome troppo lungo.",
+                "errore"
+            );
+
+            return;
+
+        }
+
+
+        if(testo.length > 1000){
+            mostraEsito(
+                contenitore,
+                "Commento troppo lungo.",
+                "errore"
+            );
+
+            return;
+
+        }
+
+        let trappola =
+            contenitore
+            .querySelector(".campo-trappola")
+            .value;
+
+
+        if(trappola.length > 0){
+
+            console.log("Spam bloccato");
+
+            return;
+
+        }
+
+        let ultimoInvio =
+            localStorage.getItem(
+                "ultimo-commento"
+            );
+
+
+        let adesso =
+            Date.now();
+
+        // cooldown 10 sec
+        if (ultimoInvio && adesso - ultimoInvio < 10000){
+
+            mostraEsito(
+                contenitore,
+                "Attend qualche secondo prima di inviare un altro commento.",
+                "errore"
+            );
+
+            return;
+
+        }
+        
+        // controllo duplicati
+        let { data: esistenti } =
+            await supabaseClient
+            .from("commenti")
+            .select("id")
+            .eq(
+                "id_capitolo",
+                idCapitolo
+            )
+            .eq(
+                "testo",
+                testo
+            );
+
+
+        if(esistenti.length > 0){
+
+            alert(
+                "Hai già inviato questo commento."
+            );
+
+            return;
+
+        }
 
         let { error } =
             await supabaseClient
@@ -190,7 +288,16 @@ function creaAreaCommenti(idCapitolo){
 
         }
 
+        localStorage.setItem(
+            "ultimo-commento",
+            Date.now()
+        );
 
+        mostraEsito(
+            contenitore,
+            "✓ Commento pubblicato!",
+            "successo"
+        );  
 
         form.reset();
 
@@ -232,6 +339,7 @@ function creaAreaCommenti(idCapitolo){
 
 
     });
+    
     return contenitore;
 
 }
@@ -244,7 +352,16 @@ async function aggiornaListaCommenti(
     let commenti =
         await caricaCommentiCapitolo(idCapitolo);
 
+    let titolo =
+        contenitore.querySelector(".titolo-commenti");
 
+
+    if(titolo){
+
+        titolo.textContent =
+            "Commenti (" + commenti.length + ")";
+
+    }
 
     let lista =
         contenitore.querySelector(
@@ -278,23 +395,73 @@ function creaElementoCommento(c){
 
     div.innerHTML = `
 
-        <strong>
-            ${c.nome}
-        </strong>
+        <div class="intestazione-commento">
+
+            <strong class="autore-commento">
+                ${escapeHTML(c.nome)}
+            </strong>
+
+            <small class="data-commento">
+                ${new Date(c.created_at).toLocaleString("it-IT")}
+            </small>
+
+        </div>
 
 
-        <small>
-            ${new Date(c.created_at).toLocaleString("it-IT")}
-        </small>
-
-
-        <p>
-            ${c.testo}
+        <p class="testo-commento">
+            ${escapeHTML(c.testo)}
         </p>
 
     `;
 
 
     return div;
+
+}
+
+function escapeHTML(testo){
+
+    return testo
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+
+}
+
+function mostraEsito(contenitore,testo,tipo){
+
+    let esito =
+        contenitore.querySelector(".esito-commento");
+
+
+    esito.textContent =
+        testo;
+
+
+    esito.classList.remove(
+        "successo",
+        "errore"
+    );
+
+
+    esito.classList.add(
+        tipo
+    );
+
+
+    esito.classList.add(
+        "visibile"
+    );
+
+
+    setTimeout(()=>{
+
+        esito.classList.remove(
+            "visibile"
+        );
+
+    },2500);
 
 }

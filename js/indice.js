@@ -45,12 +45,7 @@ function creaIndice() {
                 
 
             `;  
-console.log(
-    "CHECK INTERLUDIO",
-    cap.id,
-    cap.parti[0].id,
-    parteLetta(cap.parti[0].id)
-);
+
             let stato =
             elementoInterludio.querySelector(".progresso-interludio");
 
