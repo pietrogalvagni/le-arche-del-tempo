@@ -177,11 +177,22 @@ function mostraParte(risultato){
     " - " +
     risultato.capitolo.titolo;
 
+    let indiceParte =
+        risultato.capitolo.parti.findIndex(
+            p => p.id === risultato.parte.id
+        );
 
+
+    let numeroParte =
+        indiceParte + 1;
+
+
+    let totaleParti =
+        risultato.capitolo.parti.length;
 
     document.getElementById("titolo-parte")
     .textContent =
-    "Parte " + risultato.parte.id;
+    "Parte " + numeroParte + "/" + totaleParti
 
 
 
@@ -469,13 +480,13 @@ function mostraInterludio(interludio){
 
 
     document.getElementById("titolo-capitolo")
-    .textContent =
-    interludio.titolo;
+        .textContent =
+        interludio.titolo;
 
 
     document.getElementById("titolo-parte")
-    .textContent =
-    "";
+        .textContent =
+        "";
 
 
     let testo =

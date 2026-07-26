@@ -715,19 +715,19 @@ button.button{
 
 .feedback input,
 .feedback textarea{
-
     width:100%;
-
     padding:12px;
-
     border-radius:8px;
-
     border:none;
-
     background:var(--pannello);
 
 }
 
+.nota-pdf{
+    margin: 0;
+    font-size: 14px;
+    opacity: 0.7;
+}
 
 /* =====================================
    IL LIBRO

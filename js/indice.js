@@ -190,7 +190,9 @@ function creaIndice() {
                 simbolo = "✓";
             }
 
-
+            let numeroParte =
+                cap.parti.indexOf(parte) + 1;
+            
             let elementoParte=document.createElement("div");
 
             elementoParte.className="scheda-parte";
@@ -198,7 +200,7 @@ function creaIndice() {
             elementoParte.innerHTML = `
 
                 <span>
-                    Parte ${parte.id}
+                    Parte ${numeroParte}
                 </span>
 
                 <span class="stato">
