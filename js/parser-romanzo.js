@@ -18,7 +18,14 @@ async function caricaRomanzo(){
 
 }
 
+function sistemaStacchi(testo){
 
+    return testo.replace(
+        /\\\[STACCO\\\]/g,
+        "<div class='stacco'></div>"
+    );
+
+}
 
 function analizzaRomanzo(testo){
 
@@ -95,7 +102,9 @@ function analizzaRomanzo(testo){
                 capitolo.parti = [
                     {
                         id: capitolo.id,
-                        testo: parti.join("\n\n")
+                        testo: sistemaStacchi(
+                            parti.join("\n\n")
+                        )
                     }
                 ];
 
@@ -109,9 +118,10 @@ function analizzaRomanzo(testo){
                     "-" +
                     (i+1),
 
-
                     testo:
-                    formattaTesto(testoParte.trim())
+                        sistemaStacchi(
+                            testoParte.trim()
+                        )
 
                 });
             }
@@ -131,26 +141,6 @@ function analizzaRomanzo(testo){
 
 }
 
-function formattaTesto(testo){
-
-    return testo
-    .replace(/\r\n/g,"\n")
-    .replace(/(\n\s*){3,}/g,"\n\n[STACCO]\n\n")
-    .split(/\n\n/)
-    .map(blocco=>{
-
-        if(blocco === "[STACCO]"){
-            return "<div class='stacco'></div>";
-        }
-
-        return "<p>" +
-            blocco.replace(/\n/g," ") +
-            "</p>";
-
-    })
-    .join("");
-
-}
 
 function estraiMetadati(testo){
 

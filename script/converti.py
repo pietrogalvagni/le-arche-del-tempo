@@ -2,12 +2,48 @@ import subprocess
 from pathlib import Path
 import re
 import json
+import zipfile
+import shutil
+import tempfile
 
 
 input_file = Path("../sorgente/romanzo.docx")
 descrizioni_file = Path("../sorgente/descrizioni.json")
 grezzo_file = Path("../generato/romanzo_grezzo.md")
 output_file = Path("../generato/romanzo.md")
+html_file = Path("../grezzo/romanzo.html")
+
+def prepara_docx_stacchi(input_file):
+
+    docx_temp = Path("romanzo_temp.docx")
+
+    with zipfile.ZipFile(input_file, "r") as zin:
+
+        with zipfile.ZipFile(docx_temp, "w") as zout:
+
+            for item in zin.infolist():
+
+                contenuto = zin.read(item.filename)
+
+                if item.filename == "word/document.xml":
+
+                    testo = contenuto.decode("utf-8")
+
+                    # sostituisce paragrafi vuoti
+                    testo = testo.replace(
+                        "</w:pPr></w:p>",
+                        "</w:pPr><w:r><w:t>[STACCO]</w:t></w:r></w:p>"
+                    )
+
+                    contenuto = testo.encode("utf-8")
+
+
+                zout.writestr(
+                    item,
+                    contenuto
+                )
+
+    return docx_temp
 
 def carica_descrizioni():
 
@@ -28,13 +64,16 @@ def carica_descrizioni():
 
 def converti_pandoc():
 
-    print("Conversione Word → Markdown...")
+    print("Conversione Word → HTML...")
 
+    docx_pulito = prepara_docx_stacchi(input_file)
+    
     subprocess.run([
         "pandoc",
-        str(input_file),
+        str(docx_pulito),
         "-t",
         "markdown",
+        "--wrap=preserve",
         "-o",
         str(grezzo_file)
     ],
@@ -180,11 +219,6 @@ def trasforma_capitoli(testo, descrizioni):
 
         else:
 
-            print(
-                "Descrizione mancante:",
-                id_capitolo
-            )
-
             metadati_extra = {}
 
         risultato += (
@@ -281,7 +315,6 @@ def main():
 
 
     descrizioni = carica_descrizioni()
-    print(descrizioni)
 
     testo, statistiche = trasforma_capitoli(testo, descrizioni)
 

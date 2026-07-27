@@ -199,10 +199,12 @@ function mostraParte(risultato){
 
 
     let contenuto =
-    formattaTesto(
-        risultato.parte.testo
-    );
+        marked.parse(
+            risultato.parte.testo
+        );
 
+    console.log(risultato.parte.testo);
+    console.log(marked.parse(risultato.parte.testo));
 
 
     document.getElementById("testo")
@@ -473,20 +475,7 @@ function mostraInterludio(interludio){
         interludio.parti[0].testo;
 
 
-    let contenuto =
-        testo
-        .trim()
-        .replace(/\r\n/g,"\n")
-        .replace(/\n\n\n+/g,"\n\n")
-        .split(/\n\n/)
-        .map(blocco=>{
-
-            return "<p>" +
-                blocco.replace(/\n/g," ") +
-                "</p>";
-
-        })
-        .join("");
+    let contenuto = marked.parse(testo);
 
 
     document.getElementById("testo")
