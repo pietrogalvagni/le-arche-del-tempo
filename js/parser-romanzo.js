@@ -1,6 +1,6 @@
 let romanzo = [];
 
-const PAROLE_PER_PARTE = 1500;
+const PAROLE_PER_PARTE = 1200;
 
 async function caricaRomanzo(){
 

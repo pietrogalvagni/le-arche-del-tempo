@@ -169,13 +169,15 @@ async function avvia(){
 
 function mostraParte(risultato){
 
+    document.getElementById("numero-capitolo")
+        .textContent =
+        "Capitolo " +
+        risultato.capitolo.numero;
+
 
     document.getElementById("titolo-capitolo")
-    .textContent =
-    "Capitolo " +
-    risultato.capitolo.numero +
-    " - " +
-    risultato.capitolo.titolo;
+        .textContent = 
+        risultato.capitolo.titolo;
 
     let indiceParte =
         risultato.capitolo.parti.findIndex(

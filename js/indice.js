@@ -5,7 +5,6 @@ let capitoloAperto = getCapitoloAperto();
 
 function creaIndice() {
 
-    console.log(romanzo);
     for (let cap of romanzo) {
 
         if(cap.tipo === "interludio"){

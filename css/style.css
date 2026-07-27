@@ -27,6 +27,7 @@
     --testo-secondario: var(--grigio-cielo);
     --bottoni-sfondo: var(--oro);
     --bottoni-testo: var(--blunotte);
+    --paragrafo: var(--avorio);
 
 
     /* =========================
@@ -54,10 +55,7 @@ body {
     text-align: center;
 }
 
-p {
-    color: var(--avorio);
-    font-size: 18px;
-}
+
 
 
 a {
@@ -104,6 +102,8 @@ h1 {
     font-size: 48px;
     letter-spacing: 3px;
     color: var(--oro);
+    text-align: center;
+    text-transform:uppercase;
 }
 
 
@@ -249,13 +249,6 @@ nav a {
    HERO
 ===================================== */
 
-.hero h1 {
-
-    font-size:60px;
-    color:var(--oro);
-
-}
-
 
 .hero h2 {
 
@@ -357,8 +350,8 @@ nav a {
    TESTI
 ===================================== */
 
-.titolo{
-    padding-top:30px;
+#numero-capitolo{
+    font-size: 28px;
 }
 
 .description {
@@ -649,6 +642,7 @@ button.button{
     --titolo:#4a453c;
     --oro:#9a6c00;
     --oro-scuro:#765000;
+    --paragrafo:var(--blu-profondo);
 
 }
 
@@ -813,6 +807,11 @@ button.button{
 /* =====================================
    IL LIBRO
 ===================================== */
+
+
+.pagina-libro p{
+    font-size: 18px;
+}
 
 .immagine-promo{
     width:100%;
