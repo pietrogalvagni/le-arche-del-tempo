@@ -1,0 +1,71 @@
+{
+    "l_anomalia": {
+        "descrizione": "Due ricercatori arrivano nel cuore dell'Africa centrale per indagare su un misterioso segnale radio.",
+        "immagine": "img/capitoli/l_anomalia.jpg"
+    },
+
+    "lo_studio": {
+        "descrizione": "Un giorno, la vita di Nadia viene scossa da un evento imprevisto.",
+        "immagine": "img/capitoli/lo_studio.jpg"
+    },
+
+    "le_rovine": {
+        "descrizione": "Il ritrovamento di misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.",
+        "immagine": "img/capitoli/le_rovine.jpg"
+    },
+
+    "diario_di_mira_1": {
+        "descrizione": "",
+        "immagine": "img/capitoli/diario_di_mira.jpg"
+    },
+
+    "lisenna": {
+        "descrizione": "Nadia e Akil arrivano nella capitale, in cerca di giustizia. Un mondo nuovo si apre ai loro occhi.",
+        "immagine": "img/capitoli/lisenna.jpg"
+    },
+
+    "la_squadra": {
+        "descrizione": "Un team di specialisti della FSU arriva sul sito archeologico. Ma ogni risposta sembra generare ancora più domande.",
+        "immagine": "img/capitoli/la_squadra.jpg"
+    },
+
+    "diario_di_mira_2": {
+        "descrizione": "",
+        "immagine": "img/capitoli/diario_di_mira.jpg"
+    },
+
+    "il_simbolo": {
+        "descrizione": "Nadia decide di seguire la traccia lasciata dal padre, uno strano simbolo sul vecchio libro sacro.",
+        "immagine": "img/capitoli/il_simbolo.jpg"
+    },
+
+    "le_scritture": {
+        "descrizione": "Leon e il suo team si imbattono in una camera sotterranea che sembra contraddire tutto ciò che hanno scoperto.",
+        "immagine": "img/capitoli/le_scritture.jpg"
+    },
+
+    "il_messaggio": {
+        "descrizione": "Nadia, davanti alla porta con lo strano simbolo, si trova davanti a una scelta.",
+        "immagine": "img/capitoli/il_messaggio.jpg"
+    },
+
+    "la_sala_del_trono": {
+        "descrizione": "L'attività al campo base non si ferma, soprattutto ora che una nuova stanza delle antiche rovine viene resa accessibile.",
+        "immagine": "img/capitoli/la_sala_del_trono.jpg"
+    },
+
+    "diario_di_mira_3": {
+        "descrizione": "",
+        "immagine": "img/capitoli/diario_di_mira.jpg"
+    },
+
+    "la_setta": {
+        "descrizione": "Nadia segue le tracce lasciate da suo padre e trova dei nuovi alleati.",
+        "immagine": "img/capitoli/la_setta.jpg"
+    },
+
+    "cambio_di_equilibri": {
+        "descrizione": "Il mondo è improvvisamente scosso da un evento imprevisto. Questo ha ripercussioni anche sul lavoro di Leon.",
+        "immagine": "img/capitoli/cambio_di_equilibri.jpg"
+    }
+}

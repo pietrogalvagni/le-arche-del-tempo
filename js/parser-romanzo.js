@@ -5,7 +5,7 @@ const PAROLE_PER_PARTE = 1200;
 async function caricaRomanzo(){
 
     let risposta =
-        await fetch("testi/romanzo.md");
+        await fetch("generato/romanzo.md");
 
 
     let testo =
