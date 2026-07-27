@@ -5,6 +5,7 @@ import json
 import zipfile
 import shutil
 import tempfile
+import subprocess
 
 
 input_file = Path("../sorgente/romanzo.docx")
@@ -12,6 +13,54 @@ descrizioni_file = Path("../sorgente/descrizioni.json")
 grezzo_file = Path("../generato/romanzo_grezzo.md")
 output_file = Path("../generato/romanzo.md")
 html_file = Path("../grezzo/romanzo.html")
+pdf_file = Path("../generato/romanzo.pdf")
+
+chrome = Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
+
+
+def prepara_testo_pdf(testo):
+
+    return re.sub(
+        r"id:.*?\n"
+        r"tipo:.*?\n"
+        r"descrizione:.*?\n"
+        r"immagine:.*?\n\n"
+        r"--- FINE METADATI ---\n\n",
+        "",
+        testo
+    )
+
+def genera_pdf(pdf_markdown):
+
+    html_pdf = Path("../generato/romanzo_pdf.html")
+
+
+    subprocess.run([
+        "pandoc",
+        str(pdf_markdown),
+        "-t",
+        "html",
+        "--standalone",
+        "-o",
+        str(html_pdf)
+    ],
+    check=True)
+
+
+    subprocess.run([
+        str(chrome),
+        "--headless=new",
+        "--disable-gpu",
+        f"--print-to-pdf={pdf_file.resolve()}",
+        html_pdf.resolve().as_uri()
+    ],
+    check=True)
+
+
+    html_pdf.unlink()
+
+
+
 
 def prepara_docx_stacchi(input_file):
 
@@ -78,6 +127,8 @@ def converti_pandoc():
         str(grezzo_file)
     ],
     check=True)
+
+    return html_file
 
 
 def crea_id(titolo):
@@ -301,8 +352,10 @@ def report(statistiche):
 
 def main():
 
-    converti_pandoc()
+    html_file = converti_pandoc()
 
+    if html_file.exists():
+        html_file.unlink()
 
     testo = grezzo_file.read_text(
         encoding="utf-8"
@@ -323,6 +376,16 @@ def main():
         testo,
         encoding="utf-8"
     )
+
+    pdf_markdown = Path("../generato/romanzo_pdf.md")
+
+    pdf_markdown.write_text(
+        prepara_testo_pdf(testo),
+        encoding="utf-8"
+    )
+
+    genera_pdf(pdf_markdown)
+    pdf_markdown.unlink()
 
 
     print("")
