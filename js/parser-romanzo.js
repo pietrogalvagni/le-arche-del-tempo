@@ -111,7 +111,7 @@ function analizzaRomanzo(testo){
 
 
                     testo:
-                    testoParte.trim()
+                    formattaTesto(testoParte.trim())
 
                 });
             }
@@ -131,7 +131,26 @@ function analizzaRomanzo(testo){
 
 }
 
+function formattaTesto(testo){
 
+    return testo
+    .replace(/\r\n/g,"\n")
+    .replace(/(\n\s*){3,}/g,"\n\n[STACCO]\n\n")
+    .split(/\n\n/)
+    .map(blocco=>{
+
+        if(blocco === "[STACCO]"){
+            return "<div class='stacco'></div>";
+        }
+
+        return "<p>" +
+            blocco.replace(/\n/g," ") +
+            "</p>";
+
+    })
+    .join("");
+
+}
 
 function estraiMetadati(testo){
 

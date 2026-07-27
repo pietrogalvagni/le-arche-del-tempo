@@ -198,32 +198,10 @@ function mostraParte(risultato){
 
 
 
-    let testo =
-        risultato.parte.testo;
-
-
-
     let contenuto =
-        testo
-        .replace(/\r\n/g,"\n")
-        .replace(/\n\n\n+/g,"\n\n[STACCO]\n\n")
-        .split(/\n\n/)
-        .map(blocco=>{
-
-
-            if(blocco === "[STACCO]"){
-
-                return "<div class='stacco'></div>";
-
-            }
-
-
-            return "<p>" +
-                blocco.replace(/\n/g," ") +
-                "</p>";
-
-        })
-        .join("");
+    formattaTesto(
+        risultato.parte.testo
+    );
 
 
 
