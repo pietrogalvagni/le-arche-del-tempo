@@ -30,6 +30,7 @@ def prepara_testo_pdf(testo):
         testo
     )
 
+
 def genera_pdf(pdf_markdown):
 
     html_pdf = Path("../generato/romanzo_pdf.html")
@@ -58,8 +59,6 @@ def genera_pdf(pdf_markdown):
 
 
     html_pdf.unlink()
-
-
 
 
 def prepara_docx_stacchi(input_file):
@@ -94,6 +93,7 @@ def prepara_docx_stacchi(input_file):
 
     return docx_temp
 
+
 def carica_descrizioni():
 
     if not descrizioni_file.exists():
@@ -110,6 +110,7 @@ def carica_descrizioni():
         dati = json.load(f)
 
         return dati
+
 
 def converti_pandoc():
 
@@ -162,7 +163,6 @@ def crea_id(titolo):
     return titolo.strip("_")
 
 
-
 def pulisci_testo(testo):
 
     # elimina slash aggiunti da pandoc
@@ -179,8 +179,7 @@ def pulisci_testo(testo):
     return testo
 
 
-
-def trasforma_capitoli(testo, descrizioni):
+def trasforma_capitoli(testo):
 
     blocchi = re.split(
         r"(?m)^# ",
@@ -195,8 +194,6 @@ def trasforma_capitoli(testo, descrizioni):
     conteggio_capitoli = 0
 
     conteggio_interludi = 0
-
-    mancanti_descrizione = []
 
     for blocco in blocchi:
 
@@ -258,28 +255,16 @@ def trasforma_capitoli(testo, descrizioni):
 
             id_capitolo = id_base
 
-        if id_capitolo not in descrizioni:
-
-            mancanti_descrizione.append(
-                id_capitolo
-            )
-
-        if id_capitolo in descrizioni:
-
-            metadati_extra = descrizioni[id_capitolo]
-
-        else:
-
-            metadati_extra = {}
+        
 
         risultato += (
             "# CAPITOLO\n\n"
             f"id: {id_capitolo}\n"
             f"tipo: {tipo}\n"
             f"titolo: {titolo}\n"
-            f"descrizione: {metadati_extra.get('descrizione','')}\n"
-            f"immagine: {metadati_extra.get('immagine','img/capitoli/'+id_base+'.jpg')}\n\n"
-                        "--- FINE METADATI ---\n\n"
+            "descrizione:\n"
+            "immagine:\n\n"
+            "--- FINE METADATI ---\n\n"
         )
 
 
@@ -297,12 +282,11 @@ def trasforma_capitoli(testo, descrizioni):
 
         "totale": conteggio_capitoli + conteggio_interludi,
 
-        "descrizioni_mancanti": mancanti_descrizione
-
     }
 
 
     return risultato, statistiche
+
 
 def report(statistiche):
 
@@ -349,7 +333,6 @@ def report(statistiche):
     print("==================")
 
 
-
 def main():
 
     html_file = converti_pandoc()
@@ -369,8 +352,14 @@ def main():
 
     descrizioni = carica_descrizioni()
 
-    testo, statistiche = trasforma_capitoli(testo, descrizioni)
+    testo, statistiche = trasforma_capitoli(testo)
 
+    descrizioni = carica_descrizioni()
+
+    testo = aggiorna_metadati(
+        testo,
+        descrizioni
+    )
 
     output_file.write_text(
         testo,

@@ -120,6 +120,10 @@ Leon finalmente alzò lo sguardo. "Lo chiedi come se dovessi adeguarti alla vita
 
 "Non mi dispiacerebbe abitare qui per un po'."
 
+Leon si guardò attorno. Oltre la veranda il fiume scorreva lento tra le canoe attraccate ai pontili. Qualcuno stava scaricando delle casse da una barca, mentre poco più in là alcuni bambini correvano lungo la riva inseguendosi tra gli alberi. Dalla cucina arrivava l\'odore di qualcosa che stava cuocendo e, per la prima volta dopo ore di viaggio, stava seduto su una poltroncina comoda.
+
+Doveva ammetterlo: era un posto più tranquillo del suo ufficio a New York.
+
 Zali tornò con due piccole tessere magnetiche. \"Le vostre camere sono pronte.\" Appoggiò le chiavi sul tavolo. \"Una al piano terra e una al piano superiore.\"
 
 \"Quella sopra,\" disse Alex immediatamente. \"Ha una vista migliore.\"
@@ -186,7 +190,7 @@ Rivolse un cenno a Zali che, da dietro alla reception, contraccambiò con un ges
 
 Leon si interessò. \"Quindi esiste ancora un consiglio degli anziani?\"
 
-\"Perché non dovrebbe? Formalmente facciamo parte dello Stato come tutti gli altri. Ci sono leggi nazionali, funzionari, amministrazioni regionali.\"
+\"Formalmente facciamo parte dello Stato come tutti gli altri. Ci sono leggi nazionali, funzionari, amministrazioni regionali.\"
 
 \"Naturalmente.\"
 
@@ -224,13 +228,11 @@ Alex si diresse verso il tavolino. \"È una vera fortuna: adoro le docce calde. 
 
 Si lasciò cadere su una sedia accanto a Leon e si allungò verso il tavolo. "Ah, buon pomeriggio Zali."
 
-Zali trattenne un sorriso.
-
 Leon scosse la testa.
 
 Per un momento nessuno parlò, mentre gli ultimi raggi di sole illuminavano la veranda. La brezza rinfrescante che proveniva dal fiume rendeva il clima semplicemente perfetto.
 
-\"Avete guide locali qui?\" Leon sorseggiò il succo acidulo e rinfrescante. \"Qualcuno che conosca molto bene il territorio? E non parlo solo dei sentieri.\"
+Leon sorseggiò il succo acidulo e rinfrescante. \"Avete guide locali qui? Qualcuno che conosca molto bene il territorio? E non parlo solo dei sentieri.\"
 
 Zali alzò il sopracciglio. \"Dipende cosa dovete fare.\"
 
@@ -262,7 +264,7 @@ Zali allargò le braccia. Alex impiegò un secondo a capire.
 
 \"Conosco questa regione piuttosto bene.\" Zali incrociò le braccia. \"Negli ultimi anni ho accompagnato ricercatori, biologi, geologi, giornalisti e ogni genere di visitatore che decidesse di perdersi da queste parti. E soprattutto, so distinguere un sentiero da un pantano.\"
 
-Più che un'albergatrice, Zali era il genere di persona che, ovunque la si lasciasse, avrebbe finito per prendere in mano la situazione senza nemmeno accorgersene.
+Più che un'albergatrice, Zali sembrava il genere di persona che, ovunque la si lasciasse, avrebbe finito per prendere in mano la situazione senza nemmeno accorgersene.
 
 Alex si voltò verso Leon.
 
@@ -278,19 +280,21 @@ Zali non nascose una certa soddisfazione.
 
 \"Siamo venuti in elicottero. Credi che abbiamo problemi finanziari?\"
 
-Quella risposta fece sorridere persino Leon.
+\[STACCO\]
 
-Zali sorrise. Poi chiuse il portatile e si alzò. \"La cena sarà pronta tra un\'oretta. Nel frattempo posso mostrarvi il villaggio, se vi interessa.\"
+# Capitolo 1.1. Il Villaggio
 
-\"Molto,\" rispose Leon.
+\[STACCO\]
 
-Era una risposta sincera. La ricerca vera e propria sarebbe iniziata il giorno successivo, ma comprendere il luogo in cui si trovavano era già parte del lavoro. Ogni comunità conservava tracce della propria storia, e spesso erano proprio quelle tracce a suggerire connessioni che le mappe e gli strumenti non erano in grado di mostrare.
+\"Quella è la scuola.\"
 
-Lasciarono la guesthouse e ripresero il sentiero principale. Il sole stava lentamente perdendo intensità, ma l\'aria conservava ancora il calore accumulato durante tutta la giornata. Il villaggio appariva più vivo rispetto al loro arrivo. Le persone avevano terminato gran parte delle attività quotidiane e molte erano sedute all\'ombra o impegnate in conversazioni tranquille.
+Zali indicò un edificio rettangolare poco distante dal fiume.
 
-Arrivarono davanti a una costruzione rettangolare situata poco lontano dal fiume. \"Quella è la scuola.\"
+Leon sollevò lo sguardo. Avevano lasciato la guesthouse da qualche minuto e stavano percorrendo uno dei sentieri principali del villaggio. Il sole stava lentamente perdendo intensità, ma l\'aria conservava ancora il calore accumulato durante la giornata.
 
-L\'edificio era semplice ma ben tenuto. Sul tetto spiccavano diversi pannelli solari, mentre le finestre aperte lasciavano uscire le ultime voci della giornata.
+Attorno a loro la vita scorreva con un ritmo diverso da quello delle grandi città. Le attività più faticose erano terminate e molte persone si erano raccolte all\'ombra delle verande o lungo la riva del fiume.
+
+La scuola era un edificio semplice ma ben tenuto. Sul tetto spiccavano diversi pannelli solari, mentre le finestre aperte lasciavano uscire le ultime voci della giornata.
 
 Proprio in quel momento una classe stava terminando le lezioni pomeridiane.
 
@@ -306,19 +310,15 @@ Proseguirono lungo il sentiero fino a raggiungere un edificio basso con pareti b
 
 \"L\'ambulatorio.\"
 
-Leon osservò la struttura con interesse. \"Molto più attrezzato di quanto immaginassi.\" Attraverso la porta aperta si intravedevano lettini, armadietti per i medicinali e una piccola postazione diagnostica. Sul retro dell\'edificio era installata una piattaforma sopraelevata. \"Quella è per i droni?\"
+Leon guardò attraverso la porta aperta. \"Molto più attrezzato di quanto immaginassi.\" Si intravedevano lettini, armadietti per i medicinali e una piccola postazione diagnostica.
 
-Zali annuì. \"Farmaci, analisi, pezzi di ricambio. A volte arrivano persino campioni biologici da esaminare a distanza. La maggior parte dei casi viene gestita qui, ma quando serve possiamo consultare specialisti che si trovano dall\'altra parte del continente.\"
-
-Alex osservò la piattaforma per qualche secondo. \"Credo che metà delle persone che conosco immaginino ancora l\'Africa come un enorme documentario naturalistico.\"
-
-Ripresero a camminare. Il villaggio si faceva via via più silenzioso man mano che si allontanavano dal fiume. Dopo alcuni minuti, raggiunsero una piccola radura circondata da alberi enormi. Al centro sorgeva un edificio che appariva diverso da tutti gli altri.
+Il villaggio si faceva via via più silenzioso man mano che si allontanavano dal fiume. Dopo alcuni minuti, raggiunsero una piccola radura circondata da alberi enormi. Al centro sorgeva un edificio che appariva diverso da tutti gli altri.
 
 Era costruito quasi interamente in legno scuro, con un tetto molto spiovente e pareti decorate da incisioni consumate dal tempo. Non aveva nulla di monumentale, eppure trasmetteva una sensazione di antichità che gli altri edifici non possedevano.
 
 \"Il tempio,\" disse Zali.
 
-Leon lo osservò con interesse.
+Leon lo osservò con l'interesse professionale di un antropologo.
 
 L\'interno era sorprendentemente fresco. La luce entrava da piccole aperture vicino al soffitto, e illuminava decine di oggetti disposti lungo le pareti: maschere rituali scolpite nel legno, tamburi decorati, una corona dorata, statue antropomorfe dall\'espressione severa. Poi bastoni cerimoniali, collane, tessuti e oggetti il cui utilizzo non era immediatamente evidente.
 
@@ -1678,13 +1678,17 @@ Erano accampati in pianta stabile da giorni, a poche decine di metri dalle rovin
 
 Leon bevve un sorso, mentre una serie di titoli scorrevano sulle lenti degli occhiali a realtà aumentata.
 
-\"Inspiegabili corruzioni di dati paralizzano il sistema bancario thailandese.\"
+\" Nuove corruzioni di dati paralizzano il Sud-est asiatico.\"
 
-Con un battito di ciglia passò alla notizia successiva.
+Leon si soffermò qualche istante. Era il terzo articolo simile che gli capitava di leggere quella settimana. Sempre lo stesso schema: database danneggiati, archivi corrotti, anomalie che gli esperti definivano rare ma non abbastanza da spiegare perché continuassero a verificarsi. Con un battito di ciglia passò alla notizia successiva.
 
 \"Testati i primi prototipi di connettori neurali.\"
 
-Si fermò qualche secondo a leggere l\'articolo. Negli ultimi anni la linea che separava gli esseri umani dalle macchine si era fatta sempre più sottile. Quando era ragazzo, l\'intelligenza artificiale era poco più di una curiosità accademica; poi era arrivata nelle aziende, nei governi, nelle infrastrutture. Ora si parlava apertamente di interfacce neurali in grado di collegare direttamente il cervello a un sistema informatico Ogni generazione credeva di vivere il culmine del progresso. Poi arrivava quella successiva e ridefiniva il concetto.
+Si fermò qualche secondo a leggere l\'articolo. Negli ultimi anni la linea che separava gli esseri umani dalle macchine si era fatta sempre più sottile. Quando era ragazzo, l\'intelligenza artificiale era poco più di una curiosità accademica; poi era arrivata nelle aziende, nei governi, nelle infrastrutture.
+
+Adesso si parlava apertamente di sistemi capaci di collegare direttamente attività cerebrale e reti informatiche, riducendo sempre di più la distanza tra chi elaborava le informazioni e chi le produceva.
+
+Leon trovava la prospettiva affascinante e vagamente inquietante allo stesso tempo. Ogni generazione credeva di vivere il culmine del progresso. Poi arrivava quella successiva e ridefiniva il concetto.
 
 Leon chiuse l\'articolo e disattivò le notifiche. Per qualche istante rimase semplicemente ad ascoltare il brusio della foresta.
 
@@ -2474,7 +2478,8 @@ Si chiuse nella stanza e rimase qualche secondo immobile, il respiro corto. Poi,
 
 Le righe erano vergate a mano, in una grafia ordinata
 
-> *Prima che la luce sia tramontata*\
+> *Prima che la luce sia tramontata*
+>
 > *Porta la tua causa in una zona animata*\
 > *Seconda strada per ricco splendore*\
 > *Via dall'ombra dell'imperatore*\
@@ -3075,7 +3080,7 @@ Quando l\'opera sarà completata, Lisenna brillerà anche dopo il tramonto. Ma l
 
 Ciò che conta è mantenere acceso qualcos\'altro.
 
-# Capitolo 10. La setta
+# Capitolo 10. La Setta
 
 Lisenna non dormiva mai. Nelle vie del centro, al chiarore delle magiluci, c'era vita anche in piena notte: nobili e ricchi sacerdoti passeggiavano tra le vie, discutendo di politica o aggiornandosi sulle ultime novità. Locali notturni e sale delle spezie erano gremite di gente fino a tarda notte.
 
@@ -3445,13 +3450,15 @@ Il team era radunato nella tenda che faceva da quartier generale e il notiziario
 
 Leon si alzò. \"Per un attimo ho pensato che fosse un problema della FSU. Ieri sera ho provato ad accedere al database e non ci sono riuscito.\" Aveva riprovato quella mattina e il sistema sembrava funzionare normalmente, ma la coincidenza continuava a infastidirlo.
 
-\<arricchire legando meglio con il resto della trama. Il blocco dei server aveva paralizato i lavori al sito. Aggiungiamo anche un'osservazione: la tecnologia non era strettamente necessaria per tutto, eppure la civiltà sembra essere completamente inetta senza. Questo è uno dei temi del romanzo quindi diamogli un po'chino di spazio\>
+Non era stato l\'unico inconveniente. Durante la notte erano diventati irraggiungibili diversi archivi archeologici, una parte dei database linguistici che Schmidt stava consultando e persino alcuni servizi di elaborazione remota utilizzati dalla Carter per confrontare i risultati delle analisi. Nessun problema era davvero critico, almeno preso singolarmente. Eppure il lavoro dell\'intera spedizione aveva rallentato bruscamente.
 
-\"Incredibile che queste cose succedano ancora nel 2047\" osservò Emily.\<generico. Diciamo piuttosto che è grave che succeda per le sue conseguenze\>
+Era quasi incredibile quanto il mondo moderno dipendesse dalla tecnologia. Bastavano poche ore di instabilità nei sistemi digitali perché una moderna spedizione scientifica si trovasse improvvisamente incapace di lavorare.
+
+\"La cosa preoccupante non è il guasto,\" osservò Emily Carter. \"I guasti capitano. È che nessuno sembra capire perché sia successo.\"
 
 \"Più una tecnologia diventa complessa, più aumenta il numero di cose che possono andare storte\" commentò Robert.
 
-\"Se nemmeno gli esperti sanno di cosa si tratta, non resta che aspettare\" concluse Schmidt con il suo consueto pragmatismo. \<schmidt sembrava minimizzare le ciance. Forse voleva tornare al lavoro il prima possibile\>
+\"Possiamo speculare quanto vogliamo.\" Schmidt indicò il proprio schermo. \"Io preferirei tornare ad avere pieno accesso ai miei archivi.\"
 
 Per qualche giorno sembrò che tutti aspettassero proprio quello: una spiegazione.
 
@@ -3465,9 +3472,13 @@ Il giorno dopo qualcuno parlava di raggi cosmici. Due giorni più tardi un opini
 
 \"Il millennium bug con cinquant\'anni di ritardo\" commentò Alex.
 
-Leon sperava che l\'incidente passasse in secondo piano, ma sapeva che non sarebbe successo così facilmente. Anche se la maggior parte dei sistemi era tornata operativa nel giro di poche ore, qualcosa si era incrinato. Per la prima volta dopo anni, milioni di persone avevano scoperto quanto la loro quotidianità dipendesse da infrastrutture che davano per scontate.\<anche qui rendiamo piu in linea con la trama: citiamo come l'episdio influisce sul lavoro\>
+Leon sperava che l\'incidente passasse in secondo piano, ma sapeva che non sarebbe successo così facilmente.
 
-I giorni passarono, ma l\'argomento non sembrava perdere forza. Nella sua tenda, Leon si sintonizzò sulla tv.
+Anche dopo il ripristino dei servizi principali, gli effetti continuavano a farsi sentire. Alcuni archivi restavano irraggiungibili, diversi laboratori accumulavano ritardi e le comunicazioni con la FSU procedevano a rilento. Leon aveva la sensazione che il mondo intero avesse improvvisamente scoperto quanto dipendesse da una struttura tecnologica invisibile che quasi nessuno comprendeva davvero.
+
+Era come scoprire che un\'intera generazione aveva imparato a guidare senza mai aprire il cofano di un\'automobile. Finché il motore funzionava non era un problema. Quando si fermava, nessuno sapeva nemmeno da dove cominciare.
+
+I giorni passavano, ma l\'incidente era ancora sulla bocca di tutti. Nella sua tenda, Leon si sintonizzò sulla tv.
 
 Uno speciale sui datacenter.
 
@@ -3483,15 +3494,13 @@ Spense con un sospiro.
 
 \[STACCO\]
 
-All\'inizio tutti volevano sapere cosa fosse successo. Quando divenne evidente che nessuno aveva una risposta convincente, la domanda cambiò.
+Tutti volevano sapere cosa fosse successo. Quando divenne evidente che nessuno aveva una risposta convincente, la domanda cambiò.
 
 Non più cosa, ma *chi*.
 
 E sempre più spesso quel \"chi\" coincideva con le Frontiere Scientifiche Unite.
 
 Ne ebbero la conferma quella stessa sera. L\'intera squadra era radunata nella tenda principale quando sullo schermo apparve il volto familiare di un noto esperto di sicurezza informatica, invitato a commentare l\'incidente.
-
-\"Sentiamo quale nuova teoria hanno inventato oggi,\" borbottò Robert, accomodandosi su una sedia pieghevole.\<le accuse alla fsu lo infastidivano\>
 
 Alex aumentò il volume.
 
@@ -3512,6 +3521,8 @@ Alex aumentò il volume.
 ***Presentatore:** \"Sta dicendo che la FSU controlla il sistema?\"*
 
 ***Braga:** \"Sto dicendo che quando tutti seguono le stesse regole, chi scrive quelle regole ha un\'enorme responsabilità. E oggi la gente vuole sapere chi risponde di quello che è successo.\"*
+
+\[STACCO\]
 
 \"Straordinario," sbuffò Alex mentre davano la pubblicità. "Un guasto informatico dall\'origine sconosciuta e lui riesce comunque a dare la colpa alla FSU.\"
 
@@ -3543,7 +3554,9 @@ Emily appoggiò la tazza di tè. \"Le persone cercano sempre qualcuno da incolpa
 
 Quella osservazione fece calare per un attimo il silenzio.
 
-Leon continuò a guardare lo schermo, dove l'intervista proseguiva animatamente. Per quanto detestasse ammetterlo, aveva la sensazione che quello non fosse un semplice incidente informatico. E, se davvero il mondo stava entrando in una fase di instabilità, le conseguenze sarebbero arrivate fino a loro molto prima di quanto fossero disposti a credere.
+Leon continuò a guardare lo schermo, dove l'intervista proseguiva animatamente. Per quanto detestasse ammetterlo, aveva la sensazione che quello non fosse un semplice incidente informatico. Improvvisamente, il mondo moderno sembrava poggiare su fondamenta molto più fragili di quanto chiunque avesse immaginato.
+
+E, se davvero stavano entrando in una fase di instabilità, le conseguenze sarebbero arrivate fino a loro molto prima di quanto fossero disposti a credere.
 
 \[STACCO\]
 
@@ -3571,9 +3584,9 @@ Leon cominciò a intuire dove stesse andando a parare.
 
 Carlson sembrò scegliere con cura le parole successive. \"Per questo abbiamo deciso di nominare Richard Hale direttore della spedizione.\"
 
-Leon si fermò. Richard Hale. \<aggiungere reazione o pensiero di leon che faccia intuire meglio al lettore chi sia questo hale: o fisicamente o come comportamento, riportando un vecchio episodio brevemente\>
+Richard Hale.
 
-Per qualche istante tra loro calò il silenzio.
+Leon si fermò. Conosceva bene quel nome. Hale apparteneva a quella categoria di persone capaci di trasformare ogni scoperta in un evento mediatico. Qualche anno prima aveva diretto uno scavo in Anatolia e, nel giro di una settimana, era riuscito a comparire sulla copertina di tre riviste diverse prima ancora che venisse pubblicato il rapporto preliminare.
 
 \"Hale arriverà nei prossimi giorni e assumerà la responsabilità operativa del sito.\" Carlson sembrò valutare la sua reazione prima di proseguire. \"So che questa missione è importante per lei, Walker. Ed è proprio per questo che glielo volevo comunicare personalmente. Il lavoro che ha svolto finora è stato davvero eccellente. Resterà, naturalmente, vice-direttore della spedizione e continuerà a supervisionare la parte scientifica.\"
 
@@ -3613,11 +3626,11 @@ Alex sbatté le palpebre. \"Hale?\"
 
 Leon lasciò sfuggire un sorriso. \"Proprio lui.\"
 
-\"Straordinario. Fra una settimana leggeremo articoli su come ha scoperto personalmente una civiltà perduta.\"
+\"Fantastico. Fra una settimana i giornali racconteranno che ha dissotterrato la civiltà con le sue stesse mani.\"
 
 \"Non essere ingiusto.\"
 
-\"Hai ragione.\" Alex annuì. \"Dirà che è stato un lavoro di squadra. Subito dopo mostreranno un\'inquadratura di lui sporco di terra con una anga in mano.\"
+\"Hai ragione. Dirà che è stato un lavoro di squadra. Poi, per puro caso, la telecamera inquadrerà lui da solo davanti alle rovine con una pala in mano.\"
 
 Leon scosse la testa. \"Vogliono usare la spedizione per migliorare l\'immagine della FSU.\"
 
@@ -3625,33 +3638,33 @@ Leon scosse la testa. \"Vogliono usare la spedizione per migliorare l\'immagine 
 
 Leon guardò verso il sito. Per la prima volta da quando aveva ricevuto la chiamata, ebbe la sensazione che il problema potesse essere persino più grande di quanto avesse immaginato.
 
+\[STACCO\]
+
 La settimana successiva trascorse lentamente.
 
 Gli scavi continuarono, ma con un ritmo diverso da quello dei primi giorni. L\'entusiasmo della scoperta aveva lasciato spazio a qualcosa di più prudente.
 
-Leon dovette accantonare il lavoro sul campo per cominciare a occuparsi della pila di burocrazia per l'imminente passaggio di consegne. L\'arrivo di Hale si avvicinava. Nessuno ne parlava molto, ma la sua presenza aleggiava sul campo come un temporale lontano.
+Leon dovette accantonare il lavoro sul campo per cominciare a occuparsi della pila di burocrazia per l'imminente passaggio di consegne. L\'arrivo di Hale si avvicinava. Nessuno ne parlava molto, ma la sua presenza si era già fatta ingombrante, aleggiando sul campo come un temporale lontano.
 
 Infine, per la terza volta in un mese, il rombo di un elicottero si udì in lontananza. All\'inizio fu soltanto un suono indistinto sopra la giungla. Poi divenne sempre più forte, fino a far vibrare le fronde degli alberi e sollevare piccoli vortici di polvere tra le tende. Il logo della FSU apparve tra le fronde, stampato sul fianco lucente di un piccolo velivolo.
 
 Leon e il suo team, in piedi accanto alla piazzola che avevano creato a fatica nei giorni precedenti, alzarono lo sguardo, proteggendosi con le mani dalla tempesta di foglie e ramoscelli che le pale avevano sollevato. Con un ultimo sibilo, le eliche rallentarono, rivelando una figura che scendeva con passo deciso dalla scaletta.
 
-Hale era un uomo sulla cinquantina, alto, con capelli brizzolati ben curati e un completo perfettamente stirato, totalmente fuori luogo nel caos della foresta. I suoi occhiali da sole a specchio riflettevano la scena davanti a lui, e sul suo volto era stampato un sorriso sicuro, quasi affascinante. L\'archetipo dell\'attore di Hollywood. Neanche a farlo apposta, con lui scesero due reporter già pronti a documentare ogni momento.
+Hale era un uomo sulla cinquantina, alto, con capelli brizzolati ben curati e un completo perfettamente stirato, totalmente fuori luogo nel caos della foresta. I suoi occhiali da sole a specchio riflettevano la scena davanti a lui, e sul suo volto era stampato un sorriso sicuro, quasi affascinante. L\'archetipo dell\'attore di Hollywood. Neanche a farlo apposta, con lui scesero due reporter già pronti a documentare ogni momento. Uno dei due impugnava una videocamera professionale, mentre l\'altra aveva già il microfono spianato con il trascrittore attivo. Non sembravano interessati tanto alla spedizione in sé, quanto alla presenza di Hale all\'interno di quella spedizione: ogni suo movimento sembrava diventare parte di una storia già scritta.
 
-Si avvicinò con passo deciso, schivando una cassa di attrezzature e tendendo la mano.
+Hale si avvicinò con passo deciso, schivando una cassa di attrezzature e tendendo la mano.
 
-Leon ricambiò la stretta di mano. Suo malgrado, si sentì improvvisamente consapevole della camicia impolverata che indossava.
+\"Leon. Finalmente riesco a vedere questo posto con i miei occhi.\" Si tolse gli occhiali da sole con un gesto studiato, quasi fosse consapevole dell\'effetto scenico, rivelando due occhi azzurri taglienti. Il sorriso, sicuro e controllato, era quello di chi era abituato a trovarsi davanti a una telecamera.
 
-\"Ben arrivato, Hale.\"
+Leon ricambiò la stretta di mano. \"Ben arrivato, Hale.\" Suo malgrado, si sentì improvvisamente consapevole della camicia impolverata che indossava.
 
-\"Leon. Finalmente riesco a vedere questo posto con i miei occhi.\" Completò il quadretto togliendosi gli occhiali da sole e rivelando due occhi azzurri taglienti.
-
-Dietro di lui, un assistente stava già scaricando bagagli e valigette dall\'elicottero.
+Dietro di lui, la sua segretaria personale, con una cartellina elettronica sotto il braccio stava già coordinando lo scarico dei bagagli e delle valigette dall\'elicottero. Elegante anche in mezzo alla foresta, con una camicia chiara infilata nei pantaloni, capelli raccolti in una coda di cavallo e un paio di occhiali smart ultimo modello.
 
 \"Com\'è andato il viaggio?\" domandò Leon.
 
 Hale lanciò uno sguardo alla giungla tutt\'attorno.
 
-\"Lungo. Caldo. E decisamente più verde di quanto immaginassi.\"
+\"Lungo. Caldo. E decisamente più umido di quanto immaginassi.\"
 
 Leon accennò un sorriso.
 
@@ -3683,19 +3696,19 @@ Leon annuì e, sforzandosi di sorridere, indicò con un cenno la direzione degli
 
 Hale gli venne dietro. Esitò, poi afferrò la bottiglietta d'acqua e se la infilò nella tasca del completo.
 
-Quando scesero nel cuore delle rovine, Hale si accorse con disappunto che il famoso macchinario piezoelettrico di cui aveva tanto sentito parlare era protetto da tre metri di muratura, e visibile solo attraverso una fotocamera.
+Quando Leon fece strada ai nuovi arrivati nel cuore delle rovine, Hale si accorse con disappunto che il famoso macchinario piezoelettrico di cui aveva tanto sentito parlare era protetto da tre metri di muratura, e visibile solo attraverso una fotocamera.
 
 \"Davvero incredibile,\" mormorò. \"Mai visto nulla di simile. Immagina cosa diranno i media quando mostreremo tutto questo. Davvero non c'è modo di vedere il meccanismo da vicino? Non pensi che andrebbe studiato approfonditamente, ehm\... toccandolo con mano?\"
 
 \"Come vedi, aprirsi un varco attraverso questo antico muro sarebbe molto invasivo,\" rispose asciutto Leon.
 
-Fortunatamente, Hale non insistette oltre. I due scesero poi fino alla sala del trono, seguiti da Alex, Lisa e -- con un certo disappunto di Leon -- dai reporter. Hale parve ammirato dalle pareti decorate e dal misterioso cerchio inciso, che dominava la scena, sulla parete in fondo, soprattutto ora che ogni singola scanalatura era stata accuratamente ripulita.
+Hale non insistette oltre. I due scesero poi fino alla sala del trono, seguiti da Alex, Lisa e -- con un certo disappunto di Leon -- dai reporter. Hale parve ammirato dalle pareti decorate e dal misterioso cerchio inciso, che dominava la scena, sulla parete in fondo, soprattutto ora che ogni singola scanalatura era stata accuratamente ripulita.
 
-\"Questa è quella che abbiamo soprannominato Sala del Trono,\" spiegò Leon. \"Siamo ancora all'inizio, ma sembra che abbia un'importanza notevole.\"
+\"Questa è quella che abbiamo soprannominato sala del trono,\" spiegò Leon. \"Siamo ancora all'inizio, ma sembra che abbia un'importanza notevole.\"
 
 Richard Hale era estasiato. Era un uomo immagine, ma sapeva riconoscere una scoperta straordinaria quando ne vedeva una.
 
-\"Sala del Trono? Mi piace!\" annuì, forse pregustando la risonanza mediatica di un'antica sala del trono. Continuò a ispezionare minuziosamente l'ambiente, annuendo con approvazione.
+\"Sala del trono? Mi piace!\" annuì, forse pregustando la risonanza mediatica di quel ritrovamento. Continuò a ispezionare minuziosamente l'ambiente, annuendo con approvazione.
 
 In quel momento comparvero due ragazzi Naha, intenti a trasportare una cassetta di attrezzatura verso il livello superiore dello scavo.
 
@@ -3715,9 +3728,9 @@ Hale sorrise, ma il suo tono era distaccato. \"Non sto mettendo in dubbio il lor
 
 Alex parlò per la prima volta. \"Tra i Naha abbiamo rapporti con Zali, mediatrice e traduttrice, rappresentante del popolo Naha, figura chiave nei rapporti con la tribù, nonché esperta conoscitrice del territorio.\"
 
-Proprietaria di una guesthouse, aggiunse mentalmente Leon sorridendo tra sé.
+*Proprietaria di una guesthouse*, aggiunse mentalmente Leon, sorridendo tra sé suo malgrado.
 
-Alex concluse. \"Chiedo che per lei venga fatta un'eccezione alla direttiva.\"
+\"Chiedo che per lei venga fatta un'eccezione alla direttiva.\"
 
 Hale ci pensò un attimo, poi annuì. \"D'accordo. Se ha già lavorato con voi e ha dimostrato la sua utilità, potrà rimanere in un ruolo di mediatrice. Ma voglio che il resto della squadra sia costituito esclusivamente da esperti FSU.\"
 
@@ -3811,21 +3824,25 @@ Alex si fermò. \"Leon, non posso semplicemente mollare tutto e sparire per una 
 
 \"Non ti ho chiesto di mollare tutto.\" Leon virò verso il campo base. \"Hale è appena arrivato e vuole dimostrare di avere tutto sotto controllo. Lasciamogli credere di comandare qualcosa mentre noi facciamo il lavoro utile.\"
 
-Alex gli andò dietro. "Che cosa hai in mente?"
+"Che cosa hai in mente?"
 
 "Seguimi."
 
-Leon si diresse verso la tenda di Hale, con passo deciso. Alex lo seguiva, ancora incerto.
+Leon si diresse verso la tenda di Hale, con passo deciso. Alex gli andò dietro, ancora incerto.
 
-La tenda del nuovo coordinatore era stata allestita in fretta, ma Hale aveva già trovato il modo di renderla più ordinata del resto del campo. Quando arrivarono, lo trovarono seduto davanti a un tavolo ingombro di documenti e tablet. La giacca elegante era sparita; al suo posto indossava una camicia chiara con le maniche arrotolate e pantaloni da escursione ancora troppo nuovi.
+La tenda del nuovo coordinatore era stata allestita in fretta, ma Hale aveva già trovato il modo di renderla diversa dal resto del campo. Ogni cosa sembrava avere un posto preciso: le valigie allineate contro la parete, le attrezzature riposte in contenitori etichettati, persino una piccola lampada da lettura fissata alla struttura della tenda, un lusso quasi ridicolo in mezzo alla giungla.
+
+Quando arrivarono, lo trovarono seduto davanti a un tavolo ordinato. La giacca elegante era sparita; al suo posto indossava una camicia chiara con le maniche arrotolate e pantaloni da escursione ancora troppo nuovi, privi di graffi o macchie che raccontassero davvero una giornata sul campo.
+
+Accanto a lui spiccavano alcuni piccoli dettagli che sembra essersi portato dalla città: una penna stilografica costosa appoggiata accanto a un taccuino, una piccola lampada da scrivania e persino una tazza termica personalizzata con le sue iniziali incise sul metallo, accanto al logo della FSU.
 
 Hale alzò lo sguardo e sorrise.
 
 \"Walker. Professor Robinson. Entrate pure.\"
 
-Leon non perse tempo.
+Leon entrò, seguito da un ancora confuso Alex.
 
-\"Vorrei chiedere una settimana di congedo.\"
+Dopo i saluti di rito, Leon esordì senza troppi preamboli: \"Vorrei chiedere una settimana di congedo.\"
 
 Alex lo fissò come se fosse improvvisamente impazzito, ma Leon lo ignorò.
 
@@ -3837,7 +3854,7 @@ Il sorriso di Hale vacillò appena.
 
 Hale intrecciò le dita. "Devo ammettere che non capisco il punto, Walker."
 
-"È piuttosto semplice.\" Leon indicò vagamente la foresta oltre la tenda. "È necessario che io torni al villaggio Naha, per tranquillizzare quegli *indigeni*. Non possiamo sapere come reagirà *quella gente* nel sapere che il loro territorio è diventato oggetto di interesse internazionale \"
+"È piuttosto semplice.\" Leon indicò vagamente la foresta oltre la tenda. "È necessario che io torni al villaggio Naha, per tranquillizzare quegli indigeni. Non possiamo sapere come reagirà *quella gente* nel sapere che il loro territorio è diventato oggetto di interesse internazionale \"
 
 Leon percepì lo sguardo di Alex al suo fianco, ma non tolse gli occhi da Hale, il quale, visibilmente tranquillizzato, aveva ripreso il consueto sorriso ammiccante.
 
@@ -3853,7 +3870,9 @@ Hale annuì di nuovo.
 
 \"In ogni caso, meglio essere prudenti. Una settimana di presenza al villaggio ci costa poco. Un Caso Mombasa, invece, può costare anni. Se non gestiamo le cose correttamente potremmo trovarci una tribù in rivolta, proprio sotto gli occhi delle telecamere. Sarebbe davvero un colpo di grazia per l'immagine della FSU.\"
 
-Hale non trovò nulla da ribattere. \"D'accordo, se la questione è così delicata\... Ma mi aspetto che il vostro lavoro continui con la stessa efficienza e passione che avete dimostrato fin ora. Assicuratevi di rimanere reperibili.\"
+Hale non trovò nulla da ribattere.
+
+\"D'accordo, se la questione è così delicata\... Ma mi aspetto che il vostro lavoro continui con la stessa efficienza e passione che avete dimostrato fin ora. Assicuratevi di rimanere reperibili.\"
 
 Era fatta.
 
@@ -3877,15 +3896,15 @@ Alex ci pensò sopra.
 
 Leon scoppiò a ridere. \"Hai visto anche tu quella faccia, vero?\"
 
-\"Certo il Caso Mombasa,\" disse Alex imitandone il tono. \"Come potrei dimenticare il Caso Mombasa?\"
+\"Certo, il Caso Mombasa,\" disse Alex imitandone il tono. \"Come potrei dimenticare il Caso Mombasa?\"
 
-In quel momento Zali comparve lungo il sentiero.
+In quel momento Zali comparve in lontananza lungo il sentiero.
 
 Portava una borsa a tracolla e procedeva con il passo rapido di chi aveva viaggiato per ore.
 
 L'ilarità del momento sfumò. Zali non avrebbe accettato facilmente il verdetto di Hale sulla manodopera locale.
 
-Quando, appena entrata nel campo, notò che il gruppo di Naha era in disparte, si accorse subito che qualcosa non andava.
+Quando, appena entrata nel campo, notò che il gruppo di Naha era in disparte, si sembrò accorgersi subito che qualcosa non andava.
 
 Il suo sguardo passò da Leon ad Alex. \"Che succede qui?\"
 
@@ -3939,7 +3958,7 @@ Zali passò lo sguardo dall'uno all'altro. Incredibilmente, capì. "Siete due id
 
 "Lo sappiamo,\" disse Alex con orgoglio.
 
-Lei scosse la testa, poi raccolse la borsa. \"Bene. Allora domani partiamo presto.\"
+Lei scosse la testa, poi raccolse la borsa. \"Domani partiamo all\'alba.\"
 
 \[STACCO\]
 
@@ -3949,21 +3968,27 @@ Lei scosse la testa, poi raccolse la borsa. \"Bene. Allora domani partiamo prest
 
 # Capitolo 12. Il tempio
 
+Una falce di luna aleggiava nel cielo della capitale.
+
 Nadia raggiunse l'indirizzo indicato sul foglietto che stringeva ancora tra le dita. La busta era arrivata quella mattina, con un sigillo anonimo. Niente enigmi stavolta, solo un orario e un luogo.
 
 Ma che luogo.
 
-Si era aspettata un tugurio, una stanza buia in un vicolo malfamato, come le altre volte. Invece si ritrovò nel cuore di uno dei quartieri più ricchi di Lisenna. Le case si alzavano imponenti, a più piani, circondate da giardini fioriti e irrigati da canali d'acqua limpida; la strada, larga e lastricata, brillava sotto il chiarore delle magiluci. Anche a quell'ora, nobili in abiti eleganti passeggiavano tranquilli, e carri di legno ben rifiniti scorrevano lenti dietro agli asini lucidi di strigliatura.
+Si era aspettata un tugurio, una stanza buia in un vicolo malfamato, come le altre volte. Invece camminava nel cuore di uno dei quartieri più ricchi di Lisenna. Le case si alzavano imponenti, a più piani, circondate da giardini fioriti e irrigati da canali d'acqua limpida; la strada, larga e lastricata, brillava sotto il chiarore delle magiluci. Anche a quell'ora, nobili in abiti eleganti passeggiavano tranquilli, e carri di legno ben rifiniti scorrevano lenti dietro agli asini lucidi di strigliatura.
 
-Nadia si strinse nel suo mantello consunto. Si sentiva osservata, fuori posto, come una macchia scura in mezzo a tanto splendore. Rilesse in fretta le istruzioni e imboccò un vicolo laterale, costeggiato da una siepe perfettamente potata, che conduceva a un ingresso sul retro, piccolo e discreto. *Chiunque abita in questa villa preferisce che certi ospiti passino inosservati,* pensò, mentre imboccava il piccolo vialetto secondario*.*
+Nadia si strinse nel suo mantello consunto. Si sentiva osservata, fuori posto, come una macchia scura in mezzo a tanto splendore. Rilesse in fretta le istruzioni e imboccò un vicolo laterale, costeggiato da una siepe perfettamente potata, che conduceva a un ingresso sul retro, piccolo e discreto.
+
+Chiunque abitava in quella villa, preferiva che certi ospiti passassero inosservati.
+
+Percorse il vialetto buio fino a un ingresso discreto.
 
 Bussò quattro volte.
 
-La porta si aprì quasi subito. Un servitore la squadrò appena, senza dire una parola, e le fece cenno di seguirlo.
+La porta si aprì quasi subito. Un giovane servitore, vestito con una tunica semplice ma pulita, la squadrò appena, senza dire una parola, e le fece cenno di seguirlo.
 
-All'interno, Nadia rimase col fiato sospeso. Non aveva mai visto da vicino la casa di un nobile. Il salotto era ampio, rischiarato da lampade a olio che diffondevano una luce calda. Pavimento in legno levigato, mobili lucidi, divanetti imbottiti disposti con cura attorno a un focolare spento. Sul grande tavolo al centro, però, il lusso si interrompeva: pile di mappe, fogli e strumenti di metallo lo ingombravano, dando all'ambiente un'aria più simile a un quartier generale che a un salotto elegante.
+All'interno, Nadia rimase col fiato sospeso. Non aveva mai visto da vicino la casa di un nobile. Il salotto era ampio, rischiarato da lampade a olio che diffondevano una luce calda. Il suo sguardo passò in rassegna la stanza: pavimento coperto da eleganti tappeti decorati, mobili lucidi, divanetti imbottiti disposti con cura attorno a un braciere spento. Sul grande tavolo al centro, però, il lusso si interrompeva: pile di mappe, fogli e strumenti di metallo lo ingombravano, dando all'ambiente un'aria più simile a un quartier generale che a un salotto elegante.
 
-Darian era chino sui fogli, intento a sfogliarli con frenesia. Accanto a lui, Rurik osservava in silenzio, le braccia conserte. Stavano parlando fitto, senza accorgersi della sua presenza.
+Darian era chino sui fogli. Accanto a lui vide Rurik, le braccia conserte. Stavano parlando fitto, senza accorgersi della sua presenza.
 
 Nadia fece qualche passo nella stanza, e finalmente Rurik alzò gli occhi. Si illuminò nel vederla. \"Nadia. Bene, sei arrivata.\"
 
@@ -3971,7 +3996,7 @@ Nadia fece qualche passo nella stanza, e finalmente Rurik alzò gli occhi. Si il
 
 In un angolo della stanza, Nadia sentì un colpetto di tosse.
 
-Un uomo stava comodamente seduto in una poltrona. Non lo conosceva, ma da come era a suo agio in quell'appartamento, doveva essere il padrone di casa. L'uomo si alzò con un gesto elegante. Era più alto di Rurik, con un viso affilato e severo, incorniciato da lunghi capelli neri striati di grigio, raccolti dietro la nuca. L'abito che indossava era raffinato, ben diverso dalle stoffe logore degli uomini della setta.
+Un uomo stava comodamente seduto in una poltrona. Non lo conosceva, ma da come era a suo agio in quell'appartamento, doveva essere il padrone di casa. L'uomo si alzò con un gesto elegante. Era più alto di Rurik, con un viso affilato e severo, incorniciato da lunghi capelli neri striati di grigio, raccolti dietro la nuca. L'abito che indossava era raffinato, ben diverso dalle stoffe logore degli uomini della Setta.
 
 \"Questi è Lord Garnak\" disse Rurik, presentandoli.
 
@@ -3979,7 +4004,7 @@ Colta alla sprovvista, Nadia accennò un inchino maldestro.
 
 \"Nadia, che piacere.\" La voce di Garnak era profonda, cortese. \"Ho sentito molto parlare di te.\"
 
-\"Io...\" esitò la ragazza, cercando di capire con chi avesse a che fare. \"Lei è... il capo della setta?\"
+\"Io...\" esitò la ragazza, cercando di capire con chi avesse a che fare. \"Voi siete... il capo della Setta?\"
 
 Il nobile rise piano, come se trovasse la domanda ingenua. \"Oh, no. Nulla di simile. Considerami solo... un amico.\"
 
@@ -4013,7 +4038,7 @@ La prima volta, a quattro anni, era troppo piccola per ricordare davvero. Le rim
 
 E poi, il culmine del rito, quando la presenza benevola del Dio-Sole calava sulla folla, benedicendoli e portando loro fortuna. Quel giorno era stato il più bello della sua vita.
 
-\"Le *Parole dei Precursori* parlano del Festival del Solstizio: un ringraziamento a Rham, nel giorno in cui il giorno sconfigge la notte. Tuo padre, però, ha messo in dubbio il vero motivo di tutto ciò. In particolare, il rito itinerante.\"
+La voce di Darian la riscosse. \"Le *Parole dei Precursori* parlano del Festival del Solstizio: un ringraziamento a Rham, nel giorno in cui il giorno sconfigge la notte. Tuo padre, però, ha messo in dubbio il vero motivo di tutto ciò. In particolare, il rito itinerante.\"
 
 Nadia si sporse verso il libro, senza parlare. Vide appunti e numeri tracciati dalla grafia familiare, ma non riuscì a comprenderli.
 
@@ -4043,7 +4068,7 @@ Nadia rifletté ad alta voce. \"Se l'impero volesse trasportare beni, non sarebb
 
 \"Domanda acuta.\" Darian si illuminò. \"Ecco l'enigma: qualcosa che deve muoversi solo durante il festival, forse qualcosa che richiede una processione.\"
 
-\"O forse qualcosa che richieda di avvenire durante il solstizio,\" propose Nadia.
+\"O forse qualcosa che richieda di avvenire durante il giorno del solstizio,\" propose Nadia.
 
 \"Esatto.\" Darian raccolse i sassolini con gesto rapido, e li rimise nella ciotola con un tintinnio.
 
@@ -4051,7 +4076,7 @@ Rurik la osservò con un mezzo sorriso. "Stai cominciando a ragionare come una d
 
 Nadia sentì le guance scaldarsi e abbassò lo sguardo sul tavolo.
 
-Rurik riprese, come se nulla fosse. "Quei carri vengono preparati proprio durante la cerimonia. Mi sono informato: mentre il popolo assiste ai riti solenni nel grande tempio, gli alti sacerdoti compiono un rituale privato nel cortile retrostante, dove i carri vengono benedetti e allestiti per il viaggio. È in quel momento che dobbiamo agire: se trasportano davvero qualcosa di sospetto, è lì che viene caricato.\"
+Rurik riprese, come se nulla fosse. "Quei carri vengono preparati proprio durante la cerimonia. Ci siamo informati: mentre il popolo assiste ai riti solenni nel grande tempio, gli alti sacerdoti compiono un rituale privato nel cortile retrostante, dove i carri vengono benedetti e allestiti per il viaggio. È in quel momento che dobbiamo agire: se trasportano davvero qualcosa di sospetto, è lì che viene caricato.\"
 
 \"E qual è il mio ruolo in tutto ciò?\" domandò Nadia. \"Non penso di avere molto da offrire\... a parte il libro di mio padre.\"
 
@@ -4083,31 +4108,49 @@ Nadia fissò la mappa. Per un istante si vide già lì, in mezzo a centinaia di 
 
 \"E se qualcosa andasse storto?\" sussurrò.
 
-"Niente andrà storto. Ogni particolare sarà curato nel dettaglio." Rurik la guardò negli occhi. Il suo sorriso era leggero, ma privo di allegria. \"Ma potrebbe succedere qualche imprevisto, è vero. Allora ci fideremo della tua intelligenza. La posta in gioco è alta, Nadia. Più alta di quanto immagini.\"
+"Niente andrà storto. Ogni particolare sarà curato nel dettaglio." Rurik la guardò negli occhi. Il suo sorriso era leggero, ma privo di allegria. \"Se ci sarà qualche imprevisto, ci fideremo della tua intelligenza. La posta in gioco è alta, Nadia. Più alta di quanto immagini.\"
+
+Nadia abbassò lo sguardo sulla mappa. Le linee tracciate a inchiostro sembravano improvvisamente più reali di qualsiasi racconto ascoltato fino a quel momento. Non si trattava più di teorie sull\'impero, né delle ricerche di suo padre. Si trattava di lei.
+
+Sentì lo stomaco contrarsi.
+
+Aveva quattordici anni. Non era una spia, né una ribelle. Fino a poche settimane prima la sua preoccupazione più grande era aiutare sua madre in cucina e trovare una scusa credibile per saltare le lezioni di maestro Belan.
+
+Eppure era arrivata fino a Lisenna. Aveva seguito gli indizi lasciati da suo padre, trovato la Setta delle Ombre e scoperto che Hual era rinchiuso sotto la piramide.
+
+Se si fosse tirata indietro adesso, chi sarebbe andato a salvarlo?
+
+Inspirò lentamente e sollevò il mento. \"Va bene. Lo farò.\"
 
 \[STACCO\]
 
 Il giorno del festival arrivò come un'ondata di luce e di clamore. Le strade di Lisenna erano irriconoscibili: ghirlande di tessuti color oro e cremisi pendevano da balconi e architravi, tamburi e flauti risuonavano in lontananza, e l'odore dolciastro dell'incenso si mescolava a quello più terreno delle bancarelle di cibo. La folla era un fiume compatto, che scorreva tra i vicoli verso la grande piazza del tempio.
 
-Nadia camminava accanto a Rurik, con il cuore che le batteva forte in petto. Non si riconosceva, avvolta negli abiti nobili che gli uomini della setta le avevano procurato. Un manto di seta color porpora, ricamato con motivi dorati che riflettevano la luce del sole; una sottoveste morbida e larga, come imponeva la moda della capitale. I capelli, raccolti in un'acconciatura semplice ma elegante, le conferivano un'aria che non avrebbe mai creduto di poter sostenere. Nonostante il travestimento, a ogni passo temeva che qualcuno potesse smascherarla.
+Nadia camminava accanto a Rurik, con il cuore che le batteva forte in petto. Non si riconosceva, avvolta negli abiti nobili che gli uomini della Setta le avevano procurato. Un manto di seta color porpora, ricamato con motivi dorati che riflettevano la luce del sole, vestita su una sottoveste morbida e larga, come imponeva la moda della capitale. I capelli erano raccolti in un'acconciatura semplice ma elegante, che non le fosse di intralcio durante la missione. Il travestimento le conferiva un'aria che non avrebbe mai creduto di poter possedere.
 
 Rurik le lanciò un'occhiata rapida, complice, e accennò un sorriso. \"Stai benissimo. Ricorda, oggi sei la nipote di Lord Garnak. Tienilo a mente e nulla ti tradirà.\"
 
 Nadia era stata scettica all'inizio, ma doveva ammetterlo: le ore passate a studiare il piano nei minimi dettagli le avevano infuso una certa sicurezza. Persino tono di voce, portamento e postura erano stati attentamente calcolati. *Ora sono una vera lady,* pensò con una punta di compiacimento*.* Inoltre, l'idea di assistere al festival da una posizione così privilegiata la elettrizzava.
 
-Giunti nei pressi della piazza, la calca diventava quasi insostenibile. Il ruggito della folla, i cori che intonavano i canti sacri a Rham, il suono squillante delle conchiglie rituali: tutto contribuiva a creare un'atmosfera sospesa tra devozione e festa. Il grande tempio dominava la piazza, dall'alto di una scalinata sontuosa e gremita di fedeli. Sullo sfondo, la vetta della piramide illuminata dal sole faceva capolino tra i palazzi e la torre astronomica.
+Eppure, nonostante tutta la preparazione, si sentiva ancora fuori luogo. A ogni passo temeva che qualcuno potesse smascherarla.
 
-Lì, Rurik si fermò. Si piegò appena verso Nadia, e mormorò: \"Ci vediamo dopo. Buona fortuna.\" Poi si dileguò tra la folla.
+Giunti nei pressi della piazza, la calca diventò quasi insostenibile. Il vociare della folla, i cori che intonavano i canti sacri a Rham, il suono squillante delle conchiglie rituali: tutto contribuiva a creare un'atmosfera sospesa tra devozione e festa. Il grande tempio dominava la piazza, dall'alto di una scalinata sontuosa e gremita di fedeli. Sullo sfondo, la vetta della piramide illuminata dal sole faceva capolino tra i palazzi e la torre astronomica. Persino i lavori al monumentale edificio erano sospesi nei giorni di festa.
+
+Rurik si fermò a pochi passi dalla scalinata. Si piegò appena verso Nadia, e mormorò: \"Ci vediamo dopo. Buona fortuna.\" Senza attendere risposta, si dileguò tra la folla.
 
 Nadia restò sola, ma durò solo un istante. Lord Garnak emerse accanto a lei con passo sicuro e solenne. Il nobile, vestito con i suoi abiti migliori, la prese sottobraccio, guidandola con naturalezza verso l'ingresso del tempio, sotto gli occhi rispettosi delle guardie e degli altri fedeli.
 
+Quel contatto fisico la mise a disagio, ma era necessario se voleva recitare bene la sua parte.
+
 A braccetto, salirono la lunga scalinata, fino alla soglia.
 
-Due guardie, disarmate, stavano sulla soglia del tempio, sudando nelle pesanti divise. Non provarono neanche a fermare Lord Garnak. Anzi, una accennò un lieve inchino.
+Due guardie, disarmate, sorvegliavano il monumentale accesso al tempio, sudando nelle divise. Non provarono neanche a fermare Lord Garnak. Anzi, una accennò un lieve inchino.
 
-Con un brivido di eccitazione, Nadia seguì Garnak oltre il grande portone.
+Con un brivido di eccitazione, Nadia seguì Garnak oltre il grande portone già aperto.
 
-Appena varcata la soglia, furono travolti dallo splendore dell'interno. Il soffitto, altissimo, sembrava dissolversi in un cielo dipinto. L\'immenso calendario sacro, con nove raggi tracciati con pigmenti oro e blu profondo, occupava l'intera volta. All'estremità di ogni settore, i simboli delle ere erano raffigurati con colori vividi: il bue, la ruota, il globo\... Lungo le pareti correvano dipinti rituali, figure di sacerdoti e di eroi che compivano sacrifici e preghiere. Abbassò lo sguardo sul pavimento. Era tassellato con geometrie intricate, la pietra così liscia da riflettere le magiluci che circondavano il perimetro. Fecero qualche passo nella grande sala, occupata da file di inginocchiatoi disposte in cerchi concentrici, molti già occupati da esponenti dell'aristocrazia di Lisenna in sgargianti abiti da festa.
+Appena varcata la soglia, lo splendore dell'interno la travolse.
+
+Il soffitto, altissimo, sembrava dissolversi in un cielo dipinto. L\'immenso calendario sacro, con nove raggi tracciati con pigmenti oro e blu profondo, occupava l'intera volta. All'estremità di ogni settore, i simboli delle ere erano raffigurati con colori vividi: il bue, la ruota, il globo\... Lungo le pareti correvano dipinti rituali, figure di sacerdoti e di eroi che compivano sacrifici e preghiere. Abbassò lo sguardo sul pavimento. Era tassellato con geometrie intricate, la pietra così liscia da riflettere le magiluci che circondavano il perimetro. Fecero qualche passo nella grande sala, occupata da file di inginocchiatoi disposte in cerchi concentrici, molte già occupate da esponenti dell'aristocrazia di Lisenna in sgargianti abiti da festa.
 
 Al centro del tempio, sovrastante ogni cosa, si ergeva la sacra statua di Rham. Bronzea, alta almeno due metri, minuziosamente lavorata, mostrava il Dio-Sole con il volto di uccello. Una sfera dorata, simbolo del sole, era adagiata sul suo capo.
 
@@ -4115,23 +4158,23 @@ L'aria era densa di incenso e di un brusio vibrante, contornato dalle voci coral
 
 \"Che cosa rappresenta?\" chiese a Garnak.
 
-Non ebbe risposta. Una nobildonna si era avvicinata con un lieve inchino. Portava i capelli intrecciati e ornati di perle, coperti da un copricapo rigido che ne accentuava la figura imponente. La pelle scura e flaccida era ammantata di stoffe vivaci, che la rendevano simile a un idolo ambulante.
+Non ebbe risposta. Proprio in quel momento, una nobildonna si era avvicinata con un lieve inchino. Portava i capelli intrecciati e ornati di perle, coperti da un copricapo rigido che ne accentuava la figura imponente. La pelle scura e flaccida era ammantata di stoffe vivaci, che la rendevano simile a un idolo ambulante.
 
 \"Delana,\" disse Garnak, con un sorriso che pareva scolpito sul volto. \"Che piacere incontrarti.\"
 
-La donna ricambiò il sorriso, e il suo sguardo si posò subito su Nadia. \"E questa giovane? Un volto nuovo, e tanto grazioso.\"
+"Lord Garnak." La donna ricambiò il sorriso, e il suo sguardo si posò subito su Nadia. \"E questa giovane? Un volto nuovo, e tanto grazioso.\"
 
 \"Mia nipote,\" rispose Garnak con tono mellifluo, posando una mano sulla spalla di Nadia. \"È venuta a trovarmi dalla periferia.\"
 
-Nadia si inchinò come meglio poté, sentendosi goffa. \"È un onore, mia signora.\"
+Nadia si inchinò come aveva imparato, sentendosi comunque goffa. \"È un onore, mia signora.\"
 
 Delana la studiò con attenzione, con un sorriso appena accennato. \"Una nipote, dunque\... e cosa ti porta a Lisenna, mia cara?\" Il tono sembrava tranquillo, ma Nadia ebbe la spiacevole sensazione che la donna stesse mettendo alla prova la sua identità.
 
-\"Sono venuta dalla città per visitare mio zio e per assistere al Festival del Solstizio,\" recitò Nadia, cercando di essere convincente. \"Ho sentito dire che è meraviglioso.\"
+\"Sono venuta dalla città per visitare mio zio e per assistere al Festival del Solstizio,\" recitò, cercando di essere convincente. \"Ho sentito dire che è meraviglioso.\"
 
 La donna rise piano. \"Oh, lo è. La capitale saprà stupirti. Qui le meraviglie non mancano di certo.\"
 
-\"Ne ho già viste molte, mia signora,\" replicò Nadia con un sorriso timido.
+\"Ne ho già viste molte, mia signora,\" replicò Nadia con un sorriso calcolatamente timido.
 
 Delana rispose con un cenno di assenso, ma poi voltò lo sguardo verso Garnak. Sembrava pendere dalle sue labbra. \"E tu, mio lord? Sempre immerso nei tuoi affari?\"
 
@@ -4143,19 +4186,19 @@ Quando si allontanò, Garnak abbassò la voce. \"Vedi, ragazza? Avere le giuste 
 
 Nadia lo guardò di sottecchi, colpita da quanto l'uomo fosse a suo agio in quell'ambiente di sorrisi finti e frasi a metà. Era un gioco di maschere, e Garnak vi danzava dentro con leggerezza.
 
-Mentre prendevano posto, Garnak salutò molti altri personaggi illustri: nobili dalle vesti ricamate, ministri dall'aria altezzosa, capi di gilda e artisti rinomati. C'era anche il grasso e lucido funzionario che le aveva negato udienza. Per un istante Nadia temette di essere riconosciuta, ma la sua paura era vana: non c'era verso che l'uomo si ricordasse di lei.
+Mentre prendevano posto, Garnak salutò molti altri personaggi illustri: nobili dalle vesti ricamate, ministri dall'aria altezzosa, capi di gilda e artisti rinomati. C'era anche il grasso e lucido funzionario che le aveva negato udienza. Per un istante Nadia temette di essere riconosciuta, ma la sua paura era infondata: non c'era verso che l'uomo si ricordasse di lei. A maggior ragione, agghindata in quel modo.
 
-Nadia svolse con diligenza il suo ruolo, inchinandosi con modestia e ripetendo le frasi di circostanza che aveva imparato a memoria. Rurik aveva avuto ragione: l'attenzione che le persone le prestavano era fatta di sorrisi di facciata e parole vuote, ma nessuno sembrava davvero interessato a lei, al di là dell'apparenza. Beh, avrebbe reso le cose più facili.
+Nadia svolse con diligenza il suo ruolo, inchinandosi con modestia e ripetendo le frasi di circostanza che aveva imparato con dedizione. Rurik aveva ragione: l'attenzione che le persone le prestavano era fatta di sorrisi di facciata e parole vuote. Nessuno sembrava davvero interessato a lei, al di là dell'apparenza.
 
-Eppure, si rese conto che la cosa le creava un certo senso di disagio. Si sentiva più che mai insignificante.
+Avrebbe reso le cose più facili, eppure la cosa le creava un certo senso di disagio. In quel mondo che non le apparteneva, si sentiva più che mai insignificante.
 
 Lentamente, una musica profonda riempì il tempio. Il brusio morì, mentre gli ultimi ritardatari si affrettavano a prendere posto. Nadia non aveva mai sentito nulla di simile: ritmi cadenzati e gutturali di tamburi, uniti a suoni più eterei e lontani, simili a pietre che rotolano nelle viscere di una montagna o a gocce d'acqua che riecheggiano in una caverna smisurata. Il suono aumentò di intensità: le vibrava nel petto come un battito estraneo, quasi fosse il cuore stesso del tempio. Si guardò attorno, alla ricerca della fonte, ma chiunque la eseguisse era ben celato alla vista. La musica sembrava quasi provenire dalle pareti stesse.
 
-Senza preavviso, una lama di luce piovve dal soffitto e tagliò la penombra: un fascio netto e concentrato che andò a colpire la sfera dorata sul capo della statua del Dio-Sole. Subito dopo, altri otto raggi si accesero da tutte le direzioni, convergendo nello stesso punto. La sfera si incendiò di una luminosità accecante, il metallo che risplendeva con una luce tanto intensa che era quasi impossibile fissarla. La polvere in sospensione rivelava la traiettoria dei fasci, che sembravano emanare direttamente dalla statua, trasformando la sfera in una corona radiosa di nove raggi. I presenti trattennero il fiato e abbassarono lo sguardo, piegati da un senso di reverenza.
+Senza preavviso, una lama di luce piovve dal soffitto e tagliò la penombra: un fascio netto e concentrato che andò a colpire la sfera dorata sul capo della statua del Dio-Sole. Subito dopo, altri otto raggi si accesero da tutte le direzioni, convergendo nello stesso punto. La sfera si incendiò di una luminosità accecante, il metallo che risplendeva con una luce così intensa che era quasi impossibile fissarla. La polvere in sospensione rivelava la traiettoria dei fasci, che sembravano emanare direttamente dalla statua, trasformando la sfera in una corona radiosa. I presenti trattennero il fiato e abbassarono lo sguardo, piegati da un senso di reverenza.
 
-Nadia guardò verso la fonte dei raggi. Specchi, realizzò con sorpresa. Restò affascinata dall'ingegno necessario per realizzare lo spettacolo. Le superfici metalliche, lucidate fino a sembrare liquide, erano state disposte con cura in precedenza, coperte da teli e poi scoperte al momento esatto. Tutto era stato orchestrato con una maestria capace di far sembrare reale l'illusione del sole che discendeva in quel luogo.
+Nadia invece alzò lo sguardo, cercando la fonte dei raggi. Specchi, realizzò con sorpresa. Restò affascinata dall'ingegno necessario per realizzare lo spettacolo. Le superfici metalliche, lucidate fino a sembrare liquide, erano state disposte con cura in precedenza, coperte da teli e poi scoperte al momento esatto. Tutto era stato orchestrato con una maestria capace di far sembrare reale l'illusione del sole che discendeva in quel luogo.
 
-La musica si fece più intensa, avvolgendo la sala, mentre l'incenso cominciava a saturare l'aria con volute azzurre. Poi, da un'entrata laterale, una figura si fece strada verso l'altare centrale. Ogni passo era misurato, lento, studiato. L'Alta Sacerdotessa apparve, avvolta in una lunga veste bianca, intessuta di fili dorati che riflettevano la luce. I capelli, scuri e raccolti in elaborate trecce, erano impreziositi da fili metallici e piccole gemme. Portava un copricapo elaborato, a forma di disco solare incorniciato da raggi d\'oro e pietre preziose.
+La musica si fece più intensa, avvolgendo la sala, mentre l'incenso cominciava a saturare l'aria con volute azzurre. Poi, da un'entrata laterale, una figura si fece strada verso l'altare centrale. Ogni passo era misurato, lento, studiato. L'Alta Sacerdotessa si fece strada, avvolta in una lunga veste bianca, intessuta di fili dorati che riflettevano la luce. I capelli, scuri e raccolti in elaborate trecce, erano impreziositi da fili metallici e piccole gemme. Portava un copricapo elaborato, a forma di disco solare incorniciato da raggi d\'oro e pietre preziose.
 
 Nadia la riconobbe: era la donna che aveva visto accanto all'imperatore, durante il grande discorso alla città.
 
@@ -4191,7 +4234,7 @@ La sacerdotessa tese le braccia verso i fedeli. \"Ora, preghiamo.\"
 
 La musica tornò a crescere, ma non era più incalzante come prima. Ora era lieve, eterea, come se i pensieri stessi potessero librarsi e danzare sulle sue note. Dall\'incensiere si levò un fumo lattiginoso, denso e profumato, che saliva verso la volta dipinta come un mare capovolto.
 
-Nadia chiuse gli occhi. Così come Garnak, accanto a lei, e le centinaia di fedeli inginocchiati. Il tempio era un mare immobile, un respiro trattenuto collettivo.
+Nadia chiuse gli occhi. Così come Garnak, accanto a lei, e le centinaia di fedeli inginocchiati. Il tempio era un mare immobile, come se tutti stessero trattenendo il respiro all'unisono.
 
 Cercò di svuotare la mente, di lasciare che i pensieri vorticassero e si sciogliessero come il fumo intorno a lei. Pregò. Pregò intensamente.
 
@@ -4207,11 +4250,11 @@ Con il cuore che le martellava nel petto, Nadia si concentrò su quel filo sotti
 
 Nadia strinse le mani in preghiera, serrandole forte, come a trattenere quella voce. L'odore dell'incenso le riempiva le narici, stordendola e annebbiandole la mente.
 
-*Sommo Rham, dimmi di più. Dimmi cosa devo fare. E l'impero? La setta dice che ci inganna, che chiede più di quanto offre. È così?*
+*Sommo Rham, dimmi di più. Dimmi cosa devo fare. E l'impero? La Setta dice che ci inganna, che chiede più di quanto offre. È così?*
 
 La voce esitò. Per un istante temette che fosse svanita. Poi tornò, fievole come un filo di fumo. *L'impero è pietra e respiro. Senza di esso, il vento disperderebbe la fiamma. Non guardare al volto degli uomini che lo governano, ma alla luce che esso porta. Segui il cammino del sole, e non smarrirai la strada.*
 
-Il respiro le si spezzò a metà. *Sommo Rham... la missione della setta...* Le parole le si attorcigliavano dentro, come se temesse che il silenzio le avrebbe divorate. *Dimmi... ce la farò?*
+Il respiro le si spezzò a metà. *Sommo Rham... la missione della Setta...* Le parole le si attorcigliavano dentro, come se temesse che il silenzio le avrebbe divorate. *Dimmi... ce la farò?*
 
 Attese. I secondi si fecero eterni. Poi la risposta arrivò, lenta e remota, come una nuvola bianca che si forma in un cielo vuoto. *Hai dentro di te più di quanto credi. Fidati di chi ti vuole bene davvero.*
 
@@ -4227,7 +4270,7 @@ Non seppe dire quanto tempo fosse passato. Alla fine, aprì gli occhi. L'inginoc
 
 Sollevò lentamente la testa. Alcuni fedeli erano ancora assorti nella preghiera, altri avevano lo sguardo perso come il suo. Nei loro occhi riconobbe lo stesso riflesso che sentiva nei propri: un'emozione febbrile, un misto di riverenza e meraviglia.
 
-*Rham mi ha appena parlato*, realizzò Nadia, mentre un rivolo di sudore le scendeva lungo la tempia. Per quanto la ragazza pregasse, non succedeva da anni.
+*Rham mi ha appena parlato*, realizzò Nadia, mentre un rivolo di sudore le scendeva lungo la tempia. Nonostante tutte le sue preghiere, non succedeva da anni.
 
 # Diario di Mira
 
@@ -4273,7 +4316,7 @@ Zali tradusse nuovamente.
 
 \"Stasera si terrà un consiglio degli anziani. La questione verrà discussa lì. Nel frattempo, siete ancora i benvenuti al villaggio.\"
 
-Raul annuì appena e tornò al proprio lavoro, ma continuò a seguirli con lo sguardo mentre si allontanavano.
+Leon sospirò. Raul annuì appena e tornò al proprio lavoro, ma continuò a seguirli con lo sguardo mentre si allontanavano.
 
 \[STACCO\]
 
@@ -4301,7 +4344,7 @@ Si alzò, si sciacquò il viso e scese al piano inferiore. Un paio di ospiti sed
 
 Per qualche minuto rimase semplicemente lì, ad ascoltare il brusio delle conversazioni e il frinire degli insetti proveniente dall\'esterno.
 
-Fu allora che sentì le voci di Zali e Alex provenire dalla veranda della guesthouse. Li trovò seduti all\'ombra, davanti a un tavolo di legno consumato dal tempo.
+Fu allora che sentì le voci di Zali e Alex provenire dalla veranda della guesthouse. Li trovò seduti all\'ombra, davanti a un tavolino coperto da una tovaglietta ricamata.
 
 \"Non è possibile, mi hai battuta di nuovo!\" stava esclamando Zali, indignata.
 
@@ -4315,9 +4358,9 @@ La plancia era un lungo asse di legno con due file di cavità scavate a interval
 
 Zali gli lanciò contro un seme. \"Leon, diglielo tu che sta barando.\"
 
-Leon si avvicinò al tavolo. \"Non ascoltarlo. Quando aveva quindici anni è arrivato terzo a un campionato giovanile di scacchi e da allora non si è più ripreso.\"
+Leon si avvicinò al tavolo. \"Non ascoltarlo. Quando aveva quindici anni è arrivato terzo a un campionato giovanile di scacchi e da allora si è montato la testa.\"
 
-\"Ma questo è Wari, non scacchi\" protestò Zali.
+\"Ma questo è wari, non scacchi\" protestò Zali.
 
 \"Le regole sono nuove,\" ribatté Alex. \"Le persone prevedibili, invece, sono sempre quelle.\"
 
@@ -4327,7 +4370,7 @@ Leon si avvicinò al tavolo. \"Non ascoltarlo. Quando aveva quindici anni è arr
 
 \"Perché funziona!\"
 
-\"Non abbastanza.\"
+\"Non quando capisci come contrastarla.\"
 
 \"Fatemi provare,\" intervenne Leon, prendendo posto.
 
@@ -4381,17 +4424,19 @@ Zali gli lanciò un\'occhiata indignata. Delak continuò a prenderla in giro in 
 
 Quando il sole iniziò a scendere verso l\'orizzonte, la veranda era ancora piena di risate. Quella giornata trascorse come una parentesi fuori dal tempo.
 
-Quella notte Leon non riuscì a prendere sonno. La scoperta che aveva fatto poco prima dell\'arrivo di Hale continuava a tornargli in mente come una presenza silenziosa.
+Eppure, quella notte Leon non riuscì a prendere sonno.
+
+La scoperta che aveva fatto poco prima dell\'arrivo di Hale continuava a tornargli in mente con insistenza. Poco prima che i sistemi informatici mondiali andassero in tilt, quella sera in cui aveva analizzato il calendario aveva trovato uno schema. E, se ci aveva visto giusto, era decisamente una cosa su cui valesse la pena vederci chiaro.
 
 Non ne aveva ancora parlato con nessuno, in parte perché non ce n\'era stata occasione, in parte perché voleva essere assolutamente certo di non aver frainteso qualcosa.
 
-Quella giornata era stata una pausa meravigliosa e necessaria, eppure, mentre osservava il soffitto immerso nell\'oscurità della stanza, sentiva che non poteva più rimandare.
+Mentre osservava il soffitto immerso nell\'oscurità della stanza, sentiva che non poteva più rimandare.
 
 Doveva parlare con Alex.
 
 \[STACCO\]
 
-Il giorno seguente, i tre si radunarono di nuovo nella veranda. Leon portò con sé il portatile. Fecero colazione con frutta fresca locale, banane e mango, accompagnata da frittelle di manioca e arachidi tostate. Da bere, un succo a base di fiori di ibisco, dal colore rubino intenso e dal sapore lievemente acidulo.
+Il giorno seguente, Leon, Alex e Zali si diedero appuntamento nella veranda, ormai promossa di fatto a quartier generale. Fecero colazione con frutta fresca locale, banane e mango, accompagnata da frittelle di manioca e arachidi tostate. Da bere, un succo a base di fiori di ibisco, dal colore rubino intenso e dal sapore lievemente acidulo.
 
 \"Gli anziani hanno tenuto un consiglio, ieri,\" disse Zali, mentre spalmava del burro di noci sul pane. \"Hanno deciso di tollerare la presenza degli estranei per un po', in nome del lavoro che hai offerto loro, Leon.\"
 
@@ -4399,11 +4444,11 @@ Il giorno seguente, i tre si radunarono di nuovo nella veranda. Leon portò con 
 
 \"Aspetta: esigono che l'intero territorio sia sgomberato entro un mese. In caso contrario prenderanno provvedimenti.\"
 
-Alex tossì, colto alla sprovvista dall'annuncio di Zali. \"È impossibile che i lavori finiscano entro un mese\" riuscì infine a dire. \"Dovremo trovare un'altra soluzione. Che genere di provvedimenti intendono prendere, comunque?\"
+Alex tossì, colto alla sprovvista dall'annuncio di Zali. \"È impossibile che i lavori finiscano entro un mese\" riuscì a dire infine. \"Dovremo trovare un'altra soluzione. Che genere di provvedimenti intendono prendere, comunque?\"
 
 Zali sembrò rifletterci.
 
-\"Sabotaggi.\" Era stato Leon a parlare. \"Per una popolazione locale, sabotare una spedizione come la nostra è un gioco da ragazzi, considerata la conoscenza del territorio e la protezione mediatica che le organizzazioni non governative possono offrire. Casi del genere sono già successi in precedenti spedizioni. Sono situazioni delicate, in cui non è facile stabilire chi abbia ragione e chi torto.\"
+\"Sabotaggi.\" Fu Leon a parlare. \"Per una popolazione locale, sabotare una spedizione come la nostra è un gioco da ragazzi, considerata la conoscenza del territorio e la protezione mediatica che le organizzazioni non governative possono offrire. Casi del genere sono già successi in precedenti spedizioni. Sono situazioni delicate, in cui non è facile stabilire chi abbia ragione e chi torto.\"
 
 \"Mi sembra chiaro che la ragione sia dalla nostra parte\" disse Zali, lievemente irritata.
 
@@ -4413,99 +4458,127 @@ Zali sembrò rifletterci.
 
 \"Quasi nessuna,\" ammise Leon. \"Ma finora i lavori non hanno danneggiato i Naha in alcun modo, e nessuno della FSU interverrà apertamente contro la tribù. È vero che la situazione potrebbe attirare curiosi e gruppi mediatici, ma, se gestita bene, entrambe le parti potrebbero uscirne arricchite.\"
 
-\"Vedi? È per questo che mi piacciono le culture diverse.\" Alex indicò il tavolo. \"Ci si siede, si mangia qualcosa e si scopre che nessuno è cattivo quanto sembrava cinque minuti prima.\"
+\"Vedi? È per questo che mi piacciono le culture diverse.\" Alex indicò il tavolo con un gesto della mano. \"Ci si siede, si mangia qualcosa e si scopre che nessuno è cattivo quanto sembrava cinque minuti prima.\"
 
-I tre finirono la colazione continuando a discutere della questione. Ma quando ebbero terminato, Leon espresse l'esigenza di parlare ai due compagni della cosa che gli premeva di più. Era arrivato il momento di vuotare il sacco.
+I tre finirono la colazione continuando a discutere della questione. Ma quando ebbero terminato, Leon tirò fuori il portatile.
 
-\"Ho fatto una scoperta importante riguardo al cerchio di incisioni nella Sala del Trono\" esordì, quando ebbe la loro attenzione. \"Non ne ho ancora parlato con nessuno, visto il caos degli scorsi giorni.\"
+Era arrivato il momento di vuotare il sacco.
 
-Alex si versò dell'altro succo di ibisco. \"Continua.\"
+\"Credo di aver qualcosa riguardo al cerchio di incisioni nella sala del trono\" esordì, quando ebbe la loro attenzione. \"Non ne ho ancora parlato con nessuno, visto il caos degli ultimi giorni.\"
 
-\"Prima che l'arrivo di Hale rompesse gli equilibri della spedizione, avevo cominciato a tradurre i numeri sul calendario circolare, supponendo che si trattasse di ere temporali, come mi hai suggerito tu. La cosa strana era che le ere non erano tutte lunghe uguali. Seguivano un andamento decrescente, di tipo esponenziale.\"
+Alex si versò dell'altro succo di ibisco, mentre Zali si sporgeva curiosa verso lo schermo.
+
+\"Prima che l'arrivo di Hale cambiasse gli equilibri della spedizione, avevo iniziato a studiare i numeri incisi sul calendario circolare. Ho seguito la tua ipotesi, Alex: ho supposto che non indicassero mesi di un anno, ma grandi ere temporali.\"
+
+Aprì una delle immagini: una fotografia di un dettaglio del calendario.
+
+\"La prima cosa che ho notato è stata questa: le ere non hanno tutte la stessa durata. Non sono intervalli regolari. Seguono invece una progressione decrescente, con un andamento quasi esponenziale.\"
 
 \"Cosa significa?\" chiese Zali.
 
-\"Che ogni era dura, per esempio, la metà della precedente\" spiegò Alex.
+\"Che ogni era dura meno della precedente\" spiegò Alex. \"Per esempio, ognuna potrebbe durare la metà di quella precedente.\"
 
-\"Esatto, anche se l'esatto coefficiente di riduzione non è proprio due. Ma la parte interessante deve ancora venire. Ho confrontato quelle durate con la storia umana e ho scoperto una corrispondenza sorprendentemente precisa.\"
+\"Esatto, il principio sembra essere quello. E fin qui potrebbe essere soltanto una curiosità matematica. Il problema è quello che ho trovato quando ho confrontato queste durate con la storia umana.\" Fece scorrere alcune immagini. \"Le corrispondenze sono sorprendenti.\"
 
-\"Vuoi dire che il calendario riporta le grandi ere della storia umana?\" esclamò Alex.
+Alex smise di bere e guardò lo schermo. \"Che tipo di corrispondenze?\"
 
-\"Non solo le riporta. Le predice.\"
+\"Guardate la prima era del calendario. Secondo i calcoli dovrebbe durare circa quattromila anni.\"
 
-Mostrò loro sul portatile un'immagine del calendario. Alex e Zali gli si accostarono, uno per lato.
+\"E allora?\"
 
-\"Iniziamo con l'età dell'agricoltura: un'era lunga circa quattromila anni. Ed ecco: anche sul calendario, il primo periodo sembra coincidere con questa durata.\"
+\"È una durata compatibile con il periodo in cui nasce e si sviluppa l'agricoltura. La prima grande trasformazione della società umana.\"
 
-Diede tempo agli amici di osservare l'immagine, poi continuò.
+Alex rimase in silenzio. Era chiaro che considerava tutto una semplice coincidenza.
 
-\"C'è di più. Questi oggetti e animali, che inizialmente credevamo essere rappresentazioni di costellazioni zodiacali, potrebbero simboleggiare ciascuna era.\"
+\"Il secondo periodo invece è molto più breve: circa millequattrocento anni. E anche questa sembra corrispondere a un altro grande cambiamento storico: la nascita delle prime città organizzate e delle civiltà urbane.\"
 
-\"Questo animale mi sembra chiaramente un toro, o forse un bue\" disse Alex, facendo uno zoom sullo schermo.
+\"Vuoi dire che il calendario riporta le grandi ere della storia umana?\" chiese Alex, tamburellando le dita sul bicchiere.
 
-\"Esatto. Non pensi che potrebbe rappresentare la forza del lavoro agricolo? Per millenni animali simili hanno trainato gli aratri.\"
+Leon esitò un istante. \"Non solo le riporta.\" Fece una pausa. \"Le predice.\"
 
-Alex annuì, vagamente scettico. Leon non lo biasimò: anche per lui era stato difficile da digerire.
+Per qualche secondo nessuno parlò.
 
-\"La seconda era è lunga circa millequattrocento anni. Ancora una volta coincide all'incirca con uno dei nostri grandi periodi storici: l'era delle prime urbanizzazioni. E guardate il simbolo corrispondente.\"
+Alex si appoggiò allo schienale. \"Oppure noi stiamo cercando di adattare la storia a un disegno già esistente.\" Il tono era scettico, ma meno deciso di prima.
 
-Il simbolo di una ruota stilizzata era facilmente riconoscibile.
+Leon annuì. \"È esattamente il dubbio che ho avuto anch\'io. Per questo ho cercato altri elementi.\"
 
-Alex si sporse leggermente. \"In effetti\... la ruota è una delle invenzioni che più hanno trasformato le prime civiltà.\"
+Aprì un\'altra immagine.
 
-\"Esatto.\"
+\"All\'inizio avevamo pensato che questi simboli fossero costellazioni zodiacali. Ma forse ci siamo sbagliati. Potrebbero rappresentare le singole ere.\"
 
-Il fisico indicò il simbolo successivo.
+Zali ingrandì uno dei simboli. \"Questo mi sembra chiaramente un toro. O forse un bue.\"
 
-\"Il cavallo è il terzo animale. Potrebbe simboleggiare l'età del bronzo o quella del ferro. L'addomesticamento del cavallo rivoluzionò il trasporto e la guerra.\"
+\"Ed è proprio quello che ho pensato. Se rappresentasse la prima era, avrebbe senso: per migliaia di anni animali simili sono stati il simbolo del lavoro agricolo e hanno permesso lo sviluppo delle prime società.\"
 
-\"Proprio quello che avevo pensato anch'io.\"
+Alex osservò il simbolo. \"Una coincidenza interessante.\"
 
-I tre continuarono a esaminare le varie epoche, riuscendo quasi sempre a trovare una corrispondenza plausibile sia con i simboli sia con le durate approssimative. All'era del bronzo seguivano l'età classica --- rappresentata da un gufo, simbolo di saggezza --- il medioevo, associato a una spada, il Rinascimento, forse raffigurato da una fenice, l'era moderna, il cui simbolo ricordava vagamente un telescopio, e infine l'era delle rivoluzioni, contrassegnata da una sorta di bandiera.
+Leon fece comparire quello successivo.
 
-\"Allora quest'ultimo simbolo dovrebbe rappresentare l'epoca in cui viviamo ora\" disse Alex, arrivati all'era contemporanea. \"Che cos'è? Sembra un cerchio.\"
+\"Questo invece è una ruota\" disse Zali, seguendo il ragionamento con interesse.
 
-\"E se fosse\... un pianeta?\" disse Zali. \"Il mondo globalizzato. L'era delle comunicazioni globali.\"
+Leon zoomò sul piccolo simbolo. \"La ruota è una delle invenzioni che ha trasformato maggiormente le prime civiltà.\"
 
-\"Beh, tutto sembra coincidere\" ammise Alex. \"Ma mi sembra il classico caso di apofenia: il cervello vede uno schema e poi fa di tutto per farcelo tornare.\"
+Leon passò al successivo. \"Poi c\'è questo. Sembra un cavallo. L\'addomesticamento del cavallo coincide con un\'altra grande rivoluzione: il trasporto, la guerra, l\'espansione dei popoli.\"
 
-Leon rimase qualche istante in silenzio. \"Non lo so. Ma a questo punto è difficile ignorare l'evidenza. Dopotutto stiamo parlando di una civiltà fuori da tutti gli schemi. Ricordi il segnale elettromagnetico?\"
+Alex incrociò le braccia. \"Va bene. Alcuni simboli sono compatibili. Ma delle corrispondenze non dimostrano granché.\"
 
-Alex aggrottò le sopracciglia. \"E se quel disco inciso sulla parete fosse stato fatto a posteriori? Da qualcuno che è entrato nelle rovine poco prima di noi?\" disse, dubbioso.
+Il tono era ancora quello di chi cercava una spiegazione alternativa, ma non più quello di chi voleva liquidare la teoria.
 
-\"Perché qualcuno dovrebbe prendersi la briga di entrare in una camera sotterranea completamente bloccata da un crollo, incidere un calendario che probabilmente nessuno vedrà mai, e poi richiudere tutto?\"
+\"Proseguiamo.\" Leon continuò a scorrere le immagini. Uno dopo l\'altro apparvero i simboli successivi.
 
-\"E va bene,\" disse Alex, sospirando. \"Quindi dobbiamo accettare che questo schema provenga davvero da una civiltà vecchia di cinquemila anni. Magari erano in grado di prevedere il futuro.\"
+\"L'età classica: un gufo, probabilmente associato alla conoscenza e alla saggezza. Il medioevo: una spada. Il Rinascimento: una fenice, forse simbolo di rinascita. L'età moderna: qualcosa che ricorda un telescopio o uno strumento di osservazione. E infine l'epoca delle rivoluzioni, rappresentata da una specie di bandiera.\"
 
-\"Forse non di prevederlo, ma di calcolarlo\...\" disse Leon, pensieroso. \"In ogni caso, non notate niente di strano guardando questo calendario?\"
+Alex non disse nulla.
 
-Zali e Alex fissarono il disegno per alcuni istanti.
+Guardò il calendario, poi guardò di nuovo le immagini storiche. \"Ok\...\" mormorò.
 
-\"Beh, forse\...\" cominciò Zali, esitando.
+Leon si fermò. \"Che cosa?\"
 
-Leon le fece un cenno di incoraggiamento.
+\"Non sto dicendo che sia vero.\" Alex sollevò una mano. \"Ma devo ammettere che diventa più difficile parlare solo di coincidenze.\"
 
-\"Pensavo: non è strano che l'ultima era sia proprio quella in cui viviamo noi?\"
+Zali indicò l\'ultimo simbolo. \"E questo?\"
 
-\"È quello che pensavo anch'io\" disse Leon. \"Perché le ere non continuano? Perché il calendario termina proprio nella nostra epoca?\"
+Tutti guardarono il settore finale del calendario. \"Questa dovrebbe essere l'ultima era, quella contemporanea\" disse Leon. \"Ma il simbolo non lo riconosco.\"
 
-\"Forse il calendario è incompleto\" ipotizzò Alex. \"Magari il resto è andato perduto. O non hanno fatto in tempo a completarlo.\"
+Zali inclinò la testa. \"E se fosse un pianeta?\"
 
-Leon scosse la testa.
+Alex la guardò. \"Un pianeta?\"
 
-\"No. Guarda il disegno. Il calendario è una ruota, un cerchio perfetto. Non dà l'impressione di essere incompleto.\"
+\"Il mondo intero. La globalizzazione. Le comunicazioni che collegano ogni parte della Terra.\"
 
-Alex aggrottò la fronte. \"Allora forse non potevano sapere cosa sarebbe successo dopo. Forse siamo entrati in un'epoca in cui il cambiamento è diventato troppo rapido da sfuggire a qualsiasi previsione.\"
+Leon annuì lentamente. \"È possibile.\"
 
-Leon si accigliò. \"Potrebbe essere,\" ammise. \"Ma la mia ipotesi è un'altra.\"
+Alex rimase qualche secondo in silenzio. \"Quindi abbiamo una sequenza di ere con durate compatibili con la storia umana. Ogni era ha un simbolo che sembra rappresentarne l'elemento più importante. E arriviamo esattamente all\'epoca in cui viviamo.\"
+
+Leon indicò il settore finale del calendario. \"E c\'è un altro dettaglio.\"
+
+I due si avvicinarono. \"Guardate qui. Dopo questa era non c\'è niente.\"
+
+Alex aggrottò la fronte. \"Forse il calendario è incompleto.\"
+
+Leon scosse la testa. \"No. Guardalo. È una ruota perfetta. Un ciclo chiuso. Non può essere un\'opera lasciata a metà.\"
+
+\"Allora forse non potevano prevedere oltre\" disse Alex. \"Magari il futuro era semplicemente troppo imprevedibile. Le trasformazioni della nostra epoca sono diventate troppo rapide.\"
+
+Leon rimase in silenzio.
+
+\"Potrebbe essere.\"
 
 Fece una pausa.
 
-\"E se il calendario finisse qui perché, dopo questa era, non c'era più nulla da registrare?\"
+\"Ma c\'è un\'altra possibilità.\"
+
+Alex lo guardò. \"Quale?\"
+
+Leon fissò il cerchio inciso sullo schermo. \"E se il calendario finisse qui perché non c\'era più nulla da registrare?\"
 
 Nessuno rispose.
 
-L'antropologo abbassò lo sguardo sullo schermo. \"Forse,\" disse infine con voce più grave, \"quello che il calendario sta cercando di dirci è che l'era in cui viviamo è l'ultima era della civiltà umana.\"
+Fuori dalla tenda, il rumore della foresta continuava come sempre.
+
+L\'antropologo abbassò lo sguardo sullo schermo. \"Forse,\" disse infine con voce più grave, \"quello che il calendario sta cercando di dirci è che l\'era in cui viviamo è l\'ultima era della civiltà umana.\"
+
+\[STACCO\]
 
 \[STACCO\]
 
@@ -4535,7 +4608,7 @@ Garnak le posò una mano sulla spalla.
 
 Sei uomini stavano predisponendo una portantina su cui caricare la statua. I loro movimenti erano lenti e misurati, ancora parte del cerimoniale.
 
-\"Tutto come previsto: la portano al carro cerimoniale, per la processione. È tempo di entrare in scena.\"
+\"Tutto come previsto: la portano al carro itinerante, per la processione. È tempo di entrare in scena.\"
 
 Nadia annuì. Era ancora stordita, ma si costrinse a muoversi.
 
@@ -4551,7 +4624,7 @@ Attese.
 
 I fedeli pian piano uscirono dal tempio. Per loro la festa era appena cominciata: banchetti, musiche e processioni li avrebbero tenuti occupati fino all'alba.
 
-Nadia trascorse quasi un'ora accucciata nella nicchia, con le ginocchia strette al petto e i muscoli che protestavano sempre più. Alla fine, il tempio si svuotò completamente, e un servitore in un'umile tunica bianca chiuse il portone dall'interno. Il tonfo sordo dei battenti riecheggiò tra le navate come un sigillo, seguito dal rumore metallico della pesante barra che veniva fatta scorrere in posizione.
+Nadia trascorse quasi un'ora accucciata nella nicchia, con le ginocchia strette al petto e i muscoli che protestavano sempre più. Alla fine, il tempio si svuotò completamente, e un servitore in un'umile tunica bianca chiuse il portone dall'interno. Il tonfo sordo dei battenti riecheggiò tra le navate, seguito dal rumore grattante della pesante barra che veniva fatta scorrere in posizione.
 
 I fumi si erano ormai diradati, ma la penombra restava una preziosa alleata. Il servitore si avviò verso un'uscita secondaria e, solo quando i suoi passi si furono allontanati completamente, Nadia uscì silenziosamente dal nascondiglio. Le gambe le si erano irrigidite per la lunga attesa e dovette trattenere una smorfia quando si rimise in piedi.
 
@@ -4569,41 +4642,41 @@ I cardini cigolarono leggermente e per un istante il sangue le si gelò nelle ve
 
 O almeno così sperava.
 
-Al di là della porta, il sole illuminava il corridoio da piccole finestre poste in alto.
+Al di là della porta si apriva un corridoio. Era ben illuminato dalla luce proveniente da piccole finestre poste in alto.
 
-Sentendosi nuda, Nadia varcò la soglia, chiudendosi cautamente la porta alle spalle. I suoi passi erano attutiti dai tappeti consumati. Raggiunse una stanza, poi un altro corridoio. Tutto combaciava con la piantina che Shuua le aveva procurato. Come avevano supposto, non c'era nessuno in giro: in quella giornata di festa tutti i sacerdoti erano occupati nei riti, nei tanti templi cittadini.
+Nadia attese che gli occhi si abituassero. Poi, sentendosi nuda, varcò la soglia, chiudendosi cautamente la porta alle spalle.
 
-Finalmente arrivò in fondo. Una porta che dava al cortile esterno.
+I suoi passi erano attutiti dai tappeti consumati.
+
+A passo svelto, raggiunse una piccola saletta, deserta, poi un altro corridoio. Tutto combaciava con la piantina che Shuua le aveva procurato. Come avevano supposto, non c'era nessuno in giro: in quella giornata di festa tutti i sacerdoti erano occupati nei riti, nei tanti templi cittadini.
+
+Finalmente arrivò in fondo. Una porta che dava sul cortile nel retro del tempio.
 
 Il luogo era quello: lì fuori stavano allestendo il carro.
 
-Non la varcò.
+Non varcò la porta: avrebbe significato trovarsi completamente allo scoperto.
 
-Guardò in su, verso la fila di aperture che illuminavano il corridoio. Con un salto si afferrò a una di esse.
+Guardò in su, verso la fila di finestre che illuminavano il corridoio. Con un salto si afferrò a una di esse.
 
-La sporgenza era più polverosa del previsto. Perse la presa, strisciò le mani sulla ruvidità della pietra e finì con il sedere per terra.
+La sporgenza era più polverosa del previsto. Perse la presa, strisciò le mani sulla ruvidità della pietra e finì col sedere per terra.
 
 Si rialzò.
 
-Al secondo tentativo riuscì a issarsi e, contorcendosi un po', riuscì a infilarsi nell'apertura.
+Al secondo tentativo riuscì a issarsi e, contorcendosi un po', si infilò nell'apertura.
 
 Ecco perché serviva una quattordicenne.
 
 Per un momento restò lì, acquattata in una posizione innaturale sulla soglia della finestra, per riprendere fiato.
 
-Guardò in giù. Da un lato c'era il corridoio da dove si era arrampicata, dall'altro, un tetto, piatto e polveroso, appena poco più in basso.
+Guardò in giù. Da un lato c'era il corridoio da dove si era arrampicata. Dall'altro, la finestra si affacciava su un tetto, piatto e polveroso, appena poco più in basso.
 
 Si guardò attorno. Il tetto era un posto strategico concordato in precedenza. Da lì si aveva una buona visuale, senza rischiare di essere notati.
 
-A meno che qualcuno guardasse in alto.
+Nadia balzò silenziosamente in basso, atterrando in una nuvola di polvere.
 
-Più in là, oltre il tetto, si intravedeva già la cima del carro rituale.
+Chinandosi per non essere vista, avanzò lentamente verso il cortile, più in basso. Arrivata al parapetto, sbirciò l'area sottostante, trattenendo il respiro.
 
-Nadia balzò silenziosamente in basso, atterrando in una nuvola di polvere rossastra.
-
-Chinandosi per non essere vista, avanzò lentamente. Arrivata al parapetto, sbirciò l'area sottostante, trattenendo il respiro.
-
-Sotto di lei si apriva un cortile rettangolare, quasi un chiostro. Era piuttosto ampio, incorniciato su tre lati da porticati, sormontati da tetti simili a quello su cui lei era acquattata. Sull'ultimo lato, proprio davanti a lei, un grosso portone sbarrato separava il cortile dal resto della città. Era da lì che il carro sarebbe uscito.
+Sotto di lei si apriva un'area rettangolare, quasi un chiostro. Era piuttosto ampio, incorniciato su tre lati da porticati, sormontati da tetti simili a quello su cui lei era acquattata. Sull'ultimo lato, proprio davanti a lei, un grosso portone sbarrato separava il cortile dal resto della città. Era da lì che il carro sarebbe uscito.
 
 Il carro era proprio al centro dello spiazzo. Non un semplice mezzo di trasporto, ma un'imponente costruzione rituale.
 
@@ -4647,7 +4720,7 @@ Nadia tese l'orecchio.
 
 \"Che Rham vegli sul viaggio.\"
 
-Dopo aver impartito qualche ultimo ordine ai lavoratori, si allontanarono in gruppo, le vesti bianche che sfioravano il selciato ormai immerso nell'ombra.
+Dopo aver impartito qualche ultimo ordine ai lavoratori, si allontanarono in gruppo, le vesti sontuose che sfioravano il selciato ormai immerso nell'ombra.
 
 \"Certo che lavorare nei giorni di festa...\" si lamentò un uomo non appena gli officianti furono fuori portata.
 
@@ -4657,41 +4730,43 @@ Dopo aver impartito qualche ultimo ordine ai lavoratori, si allontanarono in gru
 
 Qualcuno rise. Poi ripresero a sistemare le ultime corde.
 
-Quando finalmente il gruppo cominciò a raccogliere gli attrezzi, un brivido di tensione le percorse la schiena.
+Quando finalmente il gruppo cominciò a raccogliere gli attrezzi, un brivido di tensione percorse la schiena di Nadia.
 
-Li osservò scomparire sotto i portici, chiacchierando tra loro. Uno si voltò per un istante, come per controllare di non aver dimenticato nulla. Poi si udì il tonfo di una porta che si chiudeva.
+Li osservò scomparire sotto i portici, chiacchierando tra loro. Uno si voltò per un istante, come per controllare di non aver dimenticato nulla. Poi si udì il rumore secco di una porta che si chiudeva.
 
 Silenzio.
 
-Le anfore venivano caricate sul carro. Era quello che la Setta voleva sapere.
+Ciò che veniva caricato sul carro erano anfore. Era quello che la Setta voleva sapere. Anfore. Tutto lì?
 
-Eppure continuava a fissare il vano in cui erano state nascoste. Anfore. Tutto lì?
+Continuò a fissare il vano in cui erano state nascoste, valutando il da farsi.
 
 Se fosse tornata con quell\'unica informazione, avrebbero saputo poco più di prima. Qualunque cosa si nascondesse dietro quei trasporti, il vero segreto era il contenuto.
 
 Le tornò in mente la voce di Shuua.
 
-Osserva e riferisci. Nient\'altro.
+*Osserva e riferisci. Nient\'altro.*
 
-Nadia strinse la mascella.
+Nadia strinse la mascella. Ormai era arrivata fin lì.
 
-Era una pessima idea.
+Scivolò giù dal tetto con un salto agile ma rischioso. Atterrò piegando le ginocchia per assorbire l\'urto. Non sarebbe più riuscita a risalire, non da quella via. Poco male, sarebbe sgattaiolata via dal corridoio di prima.
 
-Ma ormai era arrivata fin lì.
+Il battito accelerò mentre si avvicinava al carro con passi cauti.
 
-Scivolò giù dal tetto con un salto agile ma rischioso. Atterrò piegando le ginocchia per assorbire l\'urto. Non sarebbe più riuscita a risalire, non da quella via, e la cosa le fece accelerare il battito, ma ormai aveva preso la sua decisione.
+La struttura, vista da vicino, era ancora più imponente: il legno odorava di resina e vernice fresca, la sommità catturava l\'ultimo raggio del sole calante. Si arrampicò sulla struttura e sollevò l\'asse che chiudeva il vano. Infilò la mano. Riconobbe la curva liscia di un'anfora. La superficie era fresca, lievemente umida.
 
-Si avvicinò al carro con passi cauti. La struttura, vista da vicino, era ancora più imponente: il legno odorava di resina e vernice fresca, la sommità catturava l\'ultimo raggio del sole calante. Si chinò. Sollevò l\'asse che chiudeva il vano inferiore. Infilò la mano. Riconobbe la curva lucida di un'anfora. La superficie era fresca, lievemente umida.
+Guardando meglio, si accorse che era le anfore erano sigillate con un tappo di metallo ben fissato. Non c'era modo di capire cosa contenessero, a meno di rompere il sigillo. Valutò se ne valesse la pena, ma prima che potesse prendere una decisione, un odore la colpì --- un odore pungente, acido.
 
-Era sigillata: non c'era modo di capire cosa contenesse, a meno di aprirla. Ammesso che ci sarebbe riuscita: il tappo di metallo sembrava ben fissato.
-
-Un odore la colpì --- un odore pungente, acido. Si tirò indietro, sorpresa.
+Si tirò indietro, sorpresa.
 
 Aceto?
 
-Si chinò di nuovo, curiosa, cercando di forzare il tappo metallico.
+Si chinò di nuovo, curiosa.
 
-Un crepitio, poi un dolore improvviso le attraversò le dita e il polso. Un piccolo lampo blu guizzò tra le giunzioni metalliche che collegavano le anfore, e lei ritrasse la mano d'istinto.
+Non poteva essere semplice aceto. Avvicinò la mano, cercando di forzare il tappo metallico.
+
+Un crepitio. Poi un dolore improvviso le attraversò le dita e il polso.
+
+Un piccolo lampo blu guizzò tra le giunzioni metalliche che collegavano le anfore, e lei ritrasse la mano d'istinto.
 
 Il grido le sfuggì senza volerlo, soffocato ma troppo forte nel silenzio.
 
@@ -4703,7 +4778,7 @@ Ascoltò.
 
 Niente. Nessun passo, nessuna voce. Solo il respiro accelerato che le martellava nelle orecchie.
 
-Cosa era appena successo?
+Si fissò le dita formicolanti. Cosa era appena successo?
 
 Un rumore secco la paralizzò.
 
@@ -4739,7 +4814,7 @@ Afferrò d'istinto l\'intelaiatura sopra di sé, mani e piedi in tensione. Il ca
 
 Sentì le dita tradirla, mentre i muscoli, piegati in angolazioni innaturali, chiedevano pietà.
 
-Non posso restare così per molto. Devo scendere.
+Non poteva restare così per molto. Doveva scendere.
 
 Ma non c'era spazio, non c'era tempo.
 
@@ -4757,7 +4832,7 @@ Poi vide la ruota.
 
 L'enorme cerchio di bronzo stava avanzando proprio verso di lei.
 
-Si lanciò di lato d'istinto.
+D'istinto, si lanciò di lato.
 
 La caviglia si piegò sotto il peso del corpo e una fitta acuta le attraversò la gamba. Dovette mordere l'interno della guancia per non gridare.
 
@@ -4775,33 +4850,41 @@ Svoltò l'angolo, tornando verso la piazza. La piramide torreggiava sopra la cit
 
 La caviglia pulsava a ogni passo.
 
-Qualunque cosa fosse nascosta in quelle anfore, non era vino.
-
-# Diario di Mira
-
-Oggi la camera è stata sigillata.
-
-Ciò che racchiude è finalmente completo.
-
-Per realizzarlo ho chiesto il quarzo più puro del regno e gli artigiani più abili della città. Nessuno di loro ne comprendeva appieno lo scopo.
-
-Ma quando le Ere del Caos incomberanno, qualcuno sentirà il suo richiamo. Questo è ciò che conta.
-
-\[STACCO\]
+In qualche modo, ce l'aveva fatta.
 
 # Capitolo 15. Khamal
 
-La caviglia doleva a ogni passo.
+La caviglia di Nadia le mandava fitte di dolore a ogni passo.
 
-Rurik le passò un braccio sotto la spalla, sostenendola senza dire una parola. Attraversarono le vie ancora gremite di gente, mescolandosi ai fedeli diretti verso la processione. Nessuno prestò loro attenzione: una ragazza zoppicante e un uomo che la aiutava a camminare non avevano nulla di insolito, nemmeno in un giorno di festa.
+Tutt'attorno a lei, la città era immersa nella festa. Le strade erano affollate di fedeli, tra banchetti improvvisati, canti e il rumore delle birre versate nei bicchieri.
 
-Dopo alcuni vicoli, Rurik si fermò davanti a una piccola bottega. Dalla porta spalancata proveniva il ritmo regolare di uno scalpello sul legno. Sotto l\'insegna, un uomo dai capelli brizzolati stava rifinendo il piede di uno sgabello.
+Si affrettò lungo le strade del centro, dirigendosi verso il punto d'incontro concordato con Rurik. Lo cercò con lo sguardo tra la folla, fino a quando lo individuò nei pressi dell'uscita secondaria del tempio.
 
-Quando li vide arrivare, posò gli attrezzi e sorrise con cortesia.
+Rurik era appoggiato al muro con le braccia incrociate, nella posizione che ormai Nadia aveva imparato ad associare a lui. Ma quel giorno il suo solito atteggiamento rilassato lasciava spazio a una crescente impazienza: le dita tamburellavano nervosamente sul braccio, tradendo la tensione che cercava di nascondere.
+
+Quando Rurik la vide comparire alle sue spalle, ebbe quasi un sussulto. Sul suo volto comparve per un istante un'espressione di sollievo.
+
+\"Nadia, ti aspettavo dall'uscita sud.\"
+
+Ma bastò un secondo perché la sua espressione lasciasse spazio alla preoccupazione. Doveva essere evidente quanto fosse malridotta: il viso stanco, il passo incerto, il corpo ancora scosso da ciò che aveva appena vissuto.
+
+\"Che cosa è successo?\"
+
+Nadia aprì la bocca per rispondere, ma non riuscì subito a trovare le parole. Era ancora senza fiato, il respiro spezzato dalla corsa e dalla paura.
+
+Rurik non disse altro.
+
+Le passò semplicemente un braccio sotto la spalla, sostenendola. Insieme attraversarono le vie ancora gremite di gente, mescolandosi ai fedeli che si dirigevano verso la processione.
+
+Nessuno prestò loro attenzione. Una ragazza zoppicante aiutata da un uomo che la sosteneva non aveva nulla di insolito, nemmeno in un giorno di festa.
+
+Dopo alcuni vicoli, si fermarono davanti a una piccola bottega. Dalla porta spalancata proveniva il ritmo regolare di uno scalpello sul legno. Sotto l\'insegna, un uomo quasi calvo stava rifinendo il piede di uno sgabello.
+
+Quando li vide arrivare, posò gli attrezzi e sorrise con cortesia, rivelando una dentatura irregolare.
 
 \"Posso esservi utile? Anche nel Festival del Solstizio si trova sempre il tempo per un buon lavoro.\"
 
-Rurik ricambiò appena il sorriso.
+Rurik non ricambiò il sorriso.
 
 \"Sto cercando un tavolo che sappia reggere il peso della verità.\"
 
@@ -4823,13 +4906,11 @@ Solo allora Nadia si accorse che le mani le tremavano. Portò la tazza alle labb
 
 Si lasciò cadere su una panca accanto al tavolo, massaggiandosi le tempie.
 
-\"Me la sono vista brutta,\" mormorò.
-
-Rurik le si sedette accanto. \"Ti aspettavo all\'uscita sud. Il passaggio era libero. Il piano era quello. Per gli dei, che è successo?\"
+Quando si fu calmata un minimo, Rurik le si sedette accanto. \"Ti aspettavo all\'uscita sud. Il passaggio era libero. Il piano era quello. Per gli dei, che è successo?\"
 
 Nadia esitò, fissando il bordo della tazza.
 
-\"Ho\... ho visto qualcosa. Il carro. Le anfore. Dovevo capire.\"
+\"Ho visto il carro. Le anfore. Dovevo capire.\"
 
 Il volto di Rurik si irrigidì. \"Ti sei avvicinata al carro?\"
 
@@ -4853,13 +4934,13 @@ Abbassò gli occhi.
 
 Le tornarono in mente le parole udite nel tempio.
 
-Fidati di chi ti vuole bene davvero.
+*Fidati di chi ti vuole bene davvero.*
 
 Per la prima volta si chiese se quelle parole potessero riferirsi anche a persone incontrate da poco, e non soltanto ad Akil.
 
 Fu Shuua a rompere il silenzio.
 
-\"Beh,\" disse con il suo consueto pragmatismo, \"già che sei tornata viva\... cosa hai scoperto, esattamente?\" Il tono restò ruvido, ma le riempì la tazza.
+\"Beh,\" disse con il suo consueto pragmatismo, \"già che sei tornata viva\... cosa hai scoperto, esattamente?\" Il tono restò ruvido, ma si alzò per riempirle la tazza.
 
 Nadia fece un respiro profondo.
 
@@ -4913,7 +4994,7 @@ Shuua accennò un rispettoso inchino. \"Khamal.\"
 
 Nadia alzò di scatto lo sguardo. Perfino Shuua, che non sembrava avere rispetto per nessuno, aveva abbandonato il tono sprezzante con cui si rivolgeva a chiunque.
 
-Nadia intuì: aveva davanti a sé il capo della setta.
+Nadia intuì: aveva davanti a sé il capo della Setta.
 
 Rurik si alzò. \"Pensavo non riuscissi a liberarti.\"
 
@@ -4941,7 +5022,7 @@ Un sorriso appena accennato gli increspò le labbra.
 
 Nadia lo fissò, senza sapere se scherzasse.
 
-\"Travestirsi è la parte più semplice,\" proseguì lui. \"La parte difficile è imparare ad ascoltare. La gente parla volentieri con chi ritiene invisibile.\"
+\"Travestirsi è la parte più semplice,\" proseguì lui. \"La parte difficile è convincere la gente a parlare. E la gente parla più volentieri con chi ritiene innocuo.\"
 
 Khamal si avvicinò al tavolo.
 
@@ -4967,7 +5048,7 @@ Khamal non la interruppe nemmeno una volta. Rimase immobile, gli avambracci appo
 
 Quando Nadia tacque, nessuno parlò per alcuni secondi.
 
-Rurik fu il primo a parlare, il tono incerto. \"Cosa significa tutto ciò, Khamal? Quelle anfore provocano dolore: pensi possano essere una specie di\... arma?\"
+Rurik fu il primo a rompere il silenzio. \"Cosa significa tutto ciò, Khamal? Quelle anfore provocano dolore: pensi possano essere una specie di\... arma?\"
 
 Khamal si accarezzò lentamente la barba, lo sguardo perso per un momento nel vuoto, come se stesse ripercorrendo mentalmente ogni dettaglio. \"No,\" disse infine, con voce ferma e profonda. \"Non un'arma, almeno non come la intendiamo. Ma contengono potere, questo è certo. Un potere che non comprendiamo appieno. Un potere che non appartiene al nostro tempo.\"
 
@@ -5003,7 +5084,7 @@ Il suo sguardo passò da Shuua a Rurik.
 
 Rurik annuì senza discutere. \"Da chi sarò affiancato?\"
 
-Khamal rimase in silenzio per qualche istante. Il suo sguardo sfiorò Nadia, ma proseguì oltre. "Gillan e Bowa."
+Khamal rimase in silenzio per qualche istante. Il suo sguardo sfiorò Nadia, ma la scelta ricadde altrove. "Gillan e Bowa."
 
 Sia Nadia sia Rurik ebbero la stessa impressione: fino a un momento prima avevano dato quasi per scontato che sarebbero stati insieme.
 
@@ -5044,284 +5125,6 @@ Fece qualche passo nella stanza, riflettendo già sulle mosse successive.
 Si fermò davanti a Nadia.
 
 \"Perché, se il piano riuscirà, non entrerai al servizio di una dama di corte qualunque. Sarai al servizio di Mira, Alta Sacerdotessa del culto del Sole.\"
-
-\[STACCO\]
-
-\[STACCO\]
-
-# Capitolo 16. Il ciclo
-
-Erano passati quattro giorni da quando Alex e Leon erano ospiti al villaggio. L'ombra inquietante della scoperta del calendario aleggiava su di loro, ma senza certezze era difficile dire quanto dovessero preoccuparsi. Alex, deciso a vederci più chiaro, passava ore immerso nei suoi appunti e nelle traduzioni delle scritture antiche, cercando indizi che potessero confermare o smentire la loro ipotesi.
-
-Leon, invece, si dedicava ad aiutare al villaggio. Le giornate erano piene di attività pratiche: c\'era sempre qualcosa da fare. Non solo voleva guadagnarsi la fiducia e il rispetto dei Naha, ma era anche u[na scusa per distrarsi, dare tregua alla sua mente sovraccaricata.]{.mark}
-
-Nei momenti di quiete, però, il pensiero tornava ossessivamente al quesito che più lo tormentava: e se il calendario avesse ragione? Se davvero l'era moderna stava per finire, quale sarebbe stata la causa? La civiltà perduta che aveva creato quel calendario sembrava aver previsto la storia dell'umanità per migliaia di anni. Come potevano aver tralasciato di riportarne la motivazione? E se nemmeno loro la conoscessero?
-
-Leon aveva provato a immaginare ogni possibilità. Un impatto asteroidale abbastanza grande da alterare il clima del pianeta. Una pandemia capace di travolgere la civiltà globale. Una guerra combattuta con armi tanto potenti da riportare l\'umanità a un nuovo medioevo. O magari qualcosa di ancora più imprevedibile: il collasso degli ecosistemi, una crisi energetica irreversibile, un fenomeno naturale che la scienza moderna non aveva ancora scoperto.
-
-Erano scenari estremi, e Leon si guardava bene dal considerarli più di semplici speculazioni. Dopotutto, non possedevano alcuna prova che il calendario stesse davvero annunciando una catastrofe. Eppure il dubbio continuava a insinuarsi nei suoi pensieri. Se quella civiltà aveva previsto con tanta precisione le ere della storia umana, perché fermarsi proprio nel presente?
-
-Come spesso accade quando ci si allontana dalla frenesia della ricerca, la mente trova spazio per riorganizzare i pensieri e lasciar emergere connessioni nascoste. Dopo giorni di riflessioni incessanti, in cui Leon si sentiva bloccato e incapace di dare un senso ai frammenti di informazioni raccolte, [la distrazione data dal lavoro fisico gli offrì un'occasione per distendere i pensieri. Mentre la sua mente riposava, l'inconscio continuava a elaborare in silenzio.]{.mark}
-
-Quel pomeriggio, Zali li aveva spediti a prendere dell'acqua alla sorgente. Il sole stava calando, e l'aria soffocante stava diventando finalmente più respirabile. Le ombre degli alberi si allungavano sul terreno irregolare, mentre una brezza leggera smuoveva il fogliame con un suono [carezzevole]{.mark}. Leon e Alex si avviarono lungo uno dei sentieri che si dipanavano dal villaggio, due grosse taniche strette in ciascuna mano.
-
-Dopo alcuni minuti di cammino, il sentiero li condusse in una piccola radura. Il cicalio insistente degli insetti si intrecciava ai richiami degli uccelli. Circondata da pietre ricoperte di muschio, una sorgente cristallina sgorgava da una fessura tra le rocce, formando una pozza limpida. Le radici contorte di un grande albero si sporgevano verso l'acqua, come se cercassero avidamente di afferrarla.
-
-\"Che bel posticino\" commentò Alex, cominciando a svitare il tappo di una tanica.
-
-Leon si chinò sulla pozza e immerse una mano nell'acqua limpida, lasciando che la corrente gli scivolasse tra le dita. Si sciacquò mani e viso, godendo di quel contatto con l'acqua fresca e pulita.
-
-\"Leon, passami quell'altra tanica.\"
-
-Non ricevette risposta. L'antropologo aveva lo sguardo fisso sull'acqua che scivolava via nel ruscello, tra le radici e la vegetazione. \"Leon?\"
-
-\"Ci sono.\"
-
-Pochi minuti dopo ripresero la strada del ritorno con i contenitori pieni.
-
-\"Sai qual è il vero privilegio della civiltà?\" stava dicendo Alex. \"Non l'intelligenza artificiale, non le navette spaziali. L'acqua potabile. La gente sottovaluta sempre l'acqua potabile.\"
-
-Leon emise un distratto verso d'assenso.
-
-\"Sul serio. Immagina doversi fare tutta questa strada ogni giorno solo per bere. Sempre ammesso che questa sorgente sia davvero potabile.\"
-
-Continuò a parlare ancora per un po', elencando con ricchezza di particolari le conseguenze di aver bevuto acqua contaminata in varie parti del mondo.
-
-Ma Leon non ascoltava.
-
-\"Sai, stavo ripensando al calendario. Mi è venuta in mente una teoria.\"
-
-Alex si interruppe. \"Oh no.\"
-
-\"Potrebbe sembrare folle.\"
-
-Alex posò una tanica a terra e sospirò. \"Leon, da quando ti conosco, le teorie che iniziano con quella frase sono sempre le peggiori. Vai avanti.\"
-
-Leon accennò un sorriso. \"Pensa al calendario. Sommando la durata di tutte le ere arriviamo a circa diecimila anni. Poi il ciclo ricomincia da capo.\" Esitò. \"E se non fosse soltanto una rappresentazione simbolica?\"
-
-Alex inclinò leggermente la testa. \"In che senso?\"
-
-\"Se il tempo stesso fosse ciclico?\"
-
-Il silenzio calò su di loro, rotto soltanto dal fruscio delle foglie e dal lontano richiamo di un uccello.
-
-\"Stai parlando di un loop temporale?\" chiese Alex.
-
-\"Un loop\...? Sì, più\... un ciclo. Un processo che si ripete.\"
-
-\"Ci sono tante civiltà antiche con calendari ciclici. È una metafora per la vita: nascita, morte, rinascita. Una visione cosmica, non una realtà fisica. Perché pensi che questa volta sia diverso?\"
-
-Leon rimase in silenzio per qualche passo. \"Non lo so. Forse non lo è.\" Si fermò a osservare il sentiero davanti a sé. \"Ma pensaci, questo farebbe quadrare tante cose. Il fatto che questa civiltà sembri conoscere eventi della nostra storia come se li avesse già visti. Il calendario che termina proprio nella nostra epoca.\"
-
-Alex non rispose.
-
-\"Magari non significa nulla\" continuò Leon. \"Magari stiamo costruendo castelli in aria.\" Fece una pausa. \"Ma se invece sapessero tutto questo perché lo hanno già vissuto?\"
-
-Lo sguardo di Alex si fece più attento. Leon, ora che aveva iniziato, sembrava ragionare ad alta voce. \"Immagina che il ciclo si sia già ripetuto altre volte. In quel caso, le conoscenze che abbiamo trovato nelle rovine potrebbero non essere invenzioni nate da zero. Potrebbero essere informazioni sopravvissute da un ciclo precedente.\"
-
-Alex non lo interruppe.
-
-\"Ci siamo chiesti per settimane come facessero a conoscere l'elettromagnetismo, la gravitazione e altre idee che sembrano fuori dal loro tempo. Forse la domanda è sbagliata.\" Si fermò. \"Forse non hanno scoperto quelle cose. Forse le ricordavano.\"
-
-\"Stai dicendo che le hanno ereditate dal futuro.\"
-
-Leon esitò. \"Dal loro passato. Che è il nostro futuro. Detta così sembra assurda persino a me.\"
-
-Alex sbuffò una risata. \"È rassicurante.\"
-
-\"Se il tempo fosse ciclico, la distinzione tra passato e futuro non sarebbe netta come crediamo. Ciò che per noi è futuro, per qualcun altro è già accaduto.\"
-
-Alex rimase immobile per qualche secondo. \"Ti rendi conto di quello che stai suggerendo?\"
-
-\"Ci sto ancora provando.\"
-
-\"Perché se fosse vero, non staremmo parlando soltanto di una civiltà misteriosa. Staremmo parlando di qualcosa che riscrive completamente la nostra idea di tempo.\"
-
-Leon annuì lentamente.
-
-Alex passò una mano tra i capelli. \"Ok. Supponiamo per un attimo che tu abbia ragione. Questo significherebbe che, alla fine dell'ultima era del calendario, succederà qualcosa di così catastrofico da riportare il mondo indietro di diecimila anni.\" Si interruppe. \"Una catastrofe su scala planetaria. Stai dicendo che ci stanno lasciando un avvertimento?\"
-
-Un brivido percorse Leon.
-
-Si voltò verso la giungla intorno a loro, dove il crepuscolo rendeva le ombre più lunghe e il canto degli insetti più acuto.
-
-\"O magari un grido d'aiuto. Un modo per dirci che loro non sono riusciti a fermare ciò che stava arrivando.\" Abbassò lo sguardo. \"E che forse noi potremmo riuscirci.\"
-
-\"Questa è l'idea più assurda che io abbia mai sentito. E ne ho sentite tante, nel mio campo. Eppure, è inquietante come sembra far quadrare tutto.\"
-
-\"Se trovassimo delle conferme\...\" mormorò Leon. \"Nelle scritture che abbiamo tradotto, sulle pareti delle rovine. Potrebbe esserci qualche menzione a questa teoria? Qualche credenza religiosa? Qualche indizio che ci siamo persi?\"
-
-Alex socchiuse gli occhi, concentrandosi. \"Forse. Dovrei controllare di nuovo. A volte non si nota quello che non si sta cercando.\"
-
-Rimasero in silenzio, il rumore della foresta a riempire il vuoto tra loro. Alla fine Alex si chinò per sollevare le taniche.
-
-\"Leon, ascolta. Se questa teoria fosse vera, sarebbe il genere di scoperta che costringe a riscrivere metà dei libri di storia e probabilmente anche metà di quelli di fisica. Prima di andare nel panico apocalittico, procuriamoci almeno una prova.\"
-
-Leon sorrise. \"Mi sembra ragionevole.\"
-
-\"Ottimo. Perché preferirei non dover spiegare alla comunità scientifica che stiamo vivendo nel Giorno della Marmotta Cosmica basandoci su un disco di pietra.\"
-
-\"Lo so. Ma se anche c'è solo una possibilità\... dobbiamo verificare.\"
-
-Diede uno sguardo all'ora. \"Sbrighiamoci. Zali si starà chiedendo dove siamo finiti.\"
-
-I due si rimisero in cammino. Il sole basso li accompagnava lungo il sentiero e, per qualche minuto, nessuno dei due parlò.
-
-Poi Alex ruppe il silenzio. \"Come ti è venuta l'idea, comunque?\"
-
-Leon sorrise appena. \"Guardando il ruscello. Non so perché, ma ho immaginato che il tempo fosse come l'acqua che scorre a valle. Poi ho visto una fogliolina. Era rimasta intrappolata in un piccolo vortice e continuava a girare su sé stessa. E se noi fossimo su quella foglia? Costretti a girare in tondo mentre il flusso del tempo scorre altrove?\"
-
-Alex sbuffò. \"Devo chiedere a Zali che spezia ha messo nella zuppa di stamattina. Ne voglio una dose doppia.\"
-
-\[STACCO\]
-
-Nonostante l'idea di Leon rasentasse l'assurdo, Alex non perse tempo. Appena rientrati, portatile e appunti alla mano, si mise al lavoro, riprendendo lo studio delle antiche scritture: ogni dettaglio doveva essere rivisto alla luce delle nuove ipotesi. Si piazzò sotto l'ormai familiare veranda della guesthouse, e lì rimase fino a che Leon non andò a coricarsi.
-
-Nel corso della serata il cielo si era progressivamente coperto. Nuvole scure avevano inghiottito le ultime sfumature del tramonto e, poco dopo il calare della notte, si era abbattuto un violento acquazzone tropicale. Disteso sul letto della sua stanza, Leon rimase per qualche minuto ad ascoltare il tamburellare della pioggia sul tetto e il gorgogliare dell'acqua nelle grondaie.
-
-Quando si alzò, all'alba, la pioggia era cessata, ma le strade erano un pantano di fango color caffellatte. Mentre si vestiva, diede un'occhiata ai titoli dei notiziari sui suoi VisionLink. Una notizia spiccava tra le altre:
-
-\"Civiltà Atlantoidea Scoperta nel Cuore del Congo: Tecnologia Avanzata Risalente a 5000 Anni Fa.\"
-
-Era ufficiale. La scoperta era uscita dal mondo accademico ed era entrata nel circo mediatico. Con sentimenti contrastanti, Leon aprì il trafiletto e lo fece leggere a Marie.
-
-*Un team di archeologi, guidato dal Dr. Hale, ha annunciato una scoperta che potrebbe riscrivere la storia dell\'umanità:* *una civiltà sconosciuta* *è stata trovata nascosta nelle giungle del Congo. Quello che rende questa scoperta rivoluzionaria non è solo l\'antichità della cultura ma la tecnologia incredibilmente avanzata che questa società possedeva.*
-
-*\"Sembra incredibile, ma è stato un segnale elettromagnetico ad attirarci verso il sito,\" ha spiegato Hale. \"Abbiamo inizialmente pensato che fosse una bufala o un\'interferenza naturale, ma quello che abbiamo trovato è un meccanismo estremamente complesso, una sorta di baluardo tecnologico che sembra essere stato progettato per emettere quel segnale cinquemila anni dopo la sua creazione\".*
-
-*La conoscenza avanzata della fisica e dell'ingegneria sembra essere lontanissima dalle capacità tecnologiche di qualsiasi altra civiltà antica conosciuta. \"Non ci sono dubbi,\" ha aggiunto Hale, \"questo ritrovamento cambierà il nostro modo di vedere le civiltà antiche e il progresso umano\".*
-
-\[STACCO\]
-
-L'articolo continuava, ma Leon lo interruppe. Si accorse di stare stringendo il tubetto di dentifricio più forte del necessario.
-
-Per un istante gli bruciò.
-
-Non tanto per il ruolo o per il prestigio. Era la sensazione di aver avuto tra le mani qualcosa di irripetibile e di esserselo visto sfuggire. Per anni aveva lavorato nell'ombra, e adesso che la più grande scoperta della sua carriera era finalmente arrivata, qualcun altro ne stava raccogliendo il merito.
-
-Ma l'amarezza durò poco.
-
-Negli ultimi giorni il problema di chi sarebbe finito sui giornali aveva smesso di sembrargli particolarmente importante. Se il calendario aveva anche solo una minima possibilità di essere autentico, allora stavano affrontando qualcosa di immensamente più grande di una disputa accademica.
-
-Il mistero di quella civiltà, le implicazioni delle loro scoperte, la possibilità stessa che il futuro dell'umanità fosse in pericolo: erano queste le domande che contavano davvero.
-
-Tutto il resto era rumore.
-
-Leon scese le scale di legno fino al piano terra. Trovò Alex già sveglio, nello stesso posto in cui si erano salutati la sera prima. Il portatile era acceso, e il tavolo era ingombro di appunti, formule e fogli pieni di calcoli.
-
-\"Già in piedi?\" si stupì Leon. \"O hai messo le radici qui?\"
-
-\"La seconda.\"
-
-Leon notò le occhiaie del collega e scosse la testa.
-
-\"Come ai tempi del dottorato.\"
-
-\"Già\... erano anni che non lavoravo fino all'alba sotto un acquazzone tropicale. Devo dire che un po' mi era mancato. È come se il mio cervello non vedesse l'ora di tornare a fare il suo lavoro.\"
-
-\"Hai visto i notiziari? Pare che Hale si sia dato da fare con i media\" commentò Leon, con una punta d'amarezza.
-
-\"Ho visto poco fa. Beh, ce lo aspettavamo. Non resta che vedere che conseguenze avrà tutto questo trambusto.\"
-
-Alex sembrava sinceramente poco interessato all'argomento.
-
-Leon lo osservò per qualche secondo. Aveva passato l'intera notte a riesaminare traduzioni e formule nel tentativo di capire se il tempo potesse davvero essere ciclico. Non aveva trascorso nemmeno un minuto a leggere articoli o a controllare quante volte il suo nome comparisse sui giornali.
-
-In quel momento Leon si rese conto di quanto fossero diverse le loro priorità. Per Alex, la scoperta non era mai stata un mezzo per ottenere riconoscimenti. Era il fine.
-
-La questione Hale perse improvvisamente gran parte della sua importanza. Quel che è fatto è fatto, pensò. Non aveva senso continuare a rimuginarci.
-
-\"Cosa hai trovato?\" chiese.
-
-Alex sgomberò il tavolo spingendo da parte una montagna di fogli.
-
-Leon lanciò un'occhiata al caos che aveva davanti: numeri, formule, diagrammi improvvisati, frecce che collegavano concetti apparentemente scollegati, punti interrogativi grandi quanto fogli e annotazioni scritte in fretta nei margini. Sembrava il tavolo di qualcuno che stesse tentando di risolvere contemporaneamente un problema di fisica e un delitto.
-
-\"Forse ho trovato un modo per far stare in piedi la tua teoria di ieri\" disse Alex.
-
-Un framework teorico? Era più di quanto Leon potesse sperare. \"Vediamo.\"
-
-\"Ho provato a capire se esiste un modo per interpretare matematicamente quello che hai suggerito ieri. Credo di aver trovato qualcosa. Ma dobbiamo partire da un concetto molto semplice: il movimento. Immagina un pianeta, come la Terra. Come si muove nello spazio?\"
-
-\"Gira attorno al Sole, suppongo.\"
-
-\"Esatto. Ma ora prova a immaginare: cosa accadrebbe se non ci fosse un Sole?\"
-
-\"Beh, il pianeta viaggerebbe dritto per la sua strada.\"
-
-\"Esatto. Prima legge della dinamica: in assenza di forze un corpo si muove di moto rettilineo uniforme\" recitò a memoria. \"Ma se quel pianeta, viaggiando in linea retta, dovesse passare sufficientemente vicino al campo gravitazionale di una stella, ne sarebbe attratto e comincerebbe a orbitarle intorno.\"
-
-\"Ok, fin qui ci sono\" disse Leon. \"Dove stai andando a parare?\"
-
-\"Ora arriva il salto concettuale. Trasportiamo questa idea al tempo. Abbiamo sempre immaginato il tempo come una linea retta, dal passato al futuro. Ma prova a pensare diversamente: immagina che un pianeta che si muove nel tempo, mentre procede lungo la sua traiettoria, si avvicini a una sorta di massa temporale. Una specie di Sole, ma che esiste nella dimensione del tempo. A quel punto il pianeta comincia a orbitarle intorno, formando una traiettoria chiusa.\"
-
-Leon rimase qualche secondo a riflettere.
-
-\"Stai dicendo che la Terra, in questo momento, starebbe ruotando nello spazio attorno al Sole e, contemporaneamente, nel tempo attorno a una specie di sole temporale?\"
-
-\"Non avrei saputo riassumere meglio.\"
-
-Alex batté la penna su una formula cerchiata due volte.
-
-\"Ecco di cosa parlavano quelle equazioni nella Sala delle Scritture. Ricordi? C\'erano formule simili a quelle gravitazionali, ma con coefficienti che sembravano sbagliati. Non erano sbagliati: descrivevano il moto della Terra nel tempo, non nello spazio.\"
-
-Indicò un\'altra pagina piena di calcoli.
-
-\"La cosa straordinaria è che chiunque abbia inciso quelle formule ci ha lasciato abbastanza informazioni da ricostruire il resto. Senza computer sarebbe stato impossibile risolverle. È quasi come se sapessero che un giorno qualcuno avrebbe completato i calcoli.\"
-
-Leon rimase in silenzio.
-
-La teoria del tempo ciclico era nata come un\'intuizione quasi casuale, una suggestione emersa osservando un vortice in un ruscello. Sentirsela restituire sotto forma di equazioni e risultati numerici era tutt\'altra cosa. All\'improvviso sembrava molto più concreta.
-
-\"Ho fatto i calcoli\" continuò Alex.
-
-Girò il portatile verso di lui.
-
-\"Prima cosa: il periodo di ripetizione è di circa diecimila anni.\"
-
-Leon sentì lo stomaco contrarsi. \"Proprio come il calendario.\"
-
-\"Già.\"
-
-Alex scorse alcune righe. \"Seconda cosa: il ciclo attuale terminerà precisamente nell'anno 2053.\"
-
-Leon sbatté le palpebre. \"Tra cinque anni?\"
-
-\"Tra cinque anni.\"
-
-Fece una breve pausa prima di proseguire. \"Terza cosa: tra la fine di un ciclo e l\'inizio del successivo esiste una fase di transizione. Dura circa duecento anni.\"
-
-Leon impiegò qualche istante a digerire tutto.
-
-\"Se è tutto vero, il mondo come lo conosciamo sta per finire\" disse infine. \"Dovremmo preoccuparci, non sentirci euforici. Quante nuove dimensioni aggiunge questa teoria allo spaziotempo di Einstein?\"
-
-\"In realtà nessuna\" rispose Alex. \"La cosa sorprendente è proprio questa. La teoria si innesta abbastanza bene sulla Relatività Generale. Devi solo aggiungere un termine che descriva questa massa temporale.\"
-
-Leon lo fissò. \"Hai appena detto una frase che contiene almeno tre parole che non capisco.\"
-
-Alex sorrise. \"Innesta?\"
-
-Leon sbuffò.
-
-Le cose erano andate fuori controllo piuttosto in fretta. Il tempo bloccato in un ciclo. Una fine del mondo imminente. Una civiltà di cinquemila anni prima che sembrava conoscere concetti ancora ignoti alla scienza moderna.
-
-Eppure c\'era una domanda che continuava a incombere su tutto il resto. \"Cosa riporterà il mondo allo stato di diecimila anni fa?\"
-
-Alex scosse la testa. \"Hai colto il punto. Le scritture non sembrano parlarne.\"
-
-Leon si passò una mano tra i capelli. \"Forse non lo hanno mai scoperto. Oppure\... è qualcosa che solo noi possiamo calcolare.\"
-
-\"Forse. Ma una cosa è chiara.\" Alex si appoggiò allo schienale della sedia. \"Il motivo per cui ci hanno attirati alle rovine è che stanno davvero cercando di avvertirci. Chiunque abbia predisposto quel timer e inciso quelle scritture là sotto lo ha fatto nella speranza che qualcuno riuscisse a interrompere il ciclo.\"
-
-\"A uscire dall\'orbita della massa temporale.\"
-
-\"Esatto. A tornare sulla retta via. Letteralmente.\"
-
-Un brivido percorse la schiena di Leon. \"E pensi che sia possibile? Voglio dire\... non sappiamo nemmeno cosa sia davvero questa massa temporale, ammesso che esista.\"
-
-Alex rimase in silenzio per qualche secondo. \"Non so se la fisica moderna abbia gli strumenti per affrontare qualcosa del genere\" ammise. \"Ma se hanno fatto tutto questo per avvertirci, allora devono aver creduto che una possibilità c\'è.\"
-
-Leon non era altrettanto ottimista. E anche ammesso che una soluzione esistesse davvero, avrebbero avuto il tempo di trovarla?
 
 \[STACCO\]
 
@@ -5463,23 +5266,323 @@ Per la prima volta dall\'inizio del colloquio, Mira rimase senza risposta immedi
 
 \[STACCO\]
 
+# Capitolo 16. Il ciclo
+
+Erano passati quattro giorni da quando Alex e Leon erano ospiti al villaggio. L'ombra inquietante della scoperta del calendario aleggiava su di loro, ma senza certezze era difficile dire quanto dovessero preoccuparsi. Secondo quanto avevano supposto, il mondo sarebbe finito nella loro epoca storica.
+
+Tuttavia, un\'apocalisse scritta su un antico calendario era qualcosa difficile da prendere sul serio. Soprattutto per dei ricercatori della FSU.
+
+Alex, deciso a vederci più chiaro, passava ore immerso nei suoi appunti e nelle traduzioni delle scritture antiche, cercando indizi che potessero confermare o smentire la loro ipotesi.
+
+Leon, invece, si dedicava ad aiutare al villaggio. Le giornate erano piene di attività pratiche: c\'era sempre qualcosa da fare. Non solo voleva guadagnarsi la fiducia e il rispetto dei Naha, ma era anche una scusa per distrarsi dal lavoro incessante delle ultime settimane. Ciò che aveva detto per convincere Hale aveva un fondo di verità: aveva *davvero* bisogno di una pausa.
+
+Nei momenti di quiete, però, il pensiero tornava ossessivamente al quesito che più lo tormentava: e se il calendario avesse ragione? Se davvero l'era moderna stava per finire, quale sarebbe stata la causa? La civiltà perduta che aveva creato quel calendario sembrava aver previsto la storia dell'umanità per migliaia di anni. Come potevano aver tralasciato di riportarne la motivazione? E se nemmeno loro la conoscessero?
+
+Leon aveva provato a immaginare ogni possibilità. Un impatto asteroidale abbastanza grande da alterare il clima del pianeta. Una pandemia capace di travolgere la civiltà globale. Una guerra combattuta con armi tanto potenti da riportare l\'umanità a un nuovo medioevo. O magari qualcosa di ancora più imprevedibile: il collasso degli ecosistemi, una crisi energetica irreversibile, un fenomeno naturale che la scienza moderna non aveva ancora scoperto.
+
+Erano scenari estremi, e Leon si guardava bene dal considerarli più di semplici speculazioni. Dopotutto, non possedevano alcuna prova che il calendario stesse davvero annunciando una catastrofe. Eppure il dubbio continuava a insinuarsi nei suoi pensieri. Se quella civiltà aveva previsto con tanta precisione le ere della storia umana, perché fermarsi proprio nel presente?
+
+Come spesso accade quando ci si allontana dalla frenesia della ricerca, la mente trova spazio per riorganizzare i pensieri e lasciar emergere connessioni nascoste. Dopo giorni di riflessioni incessanti, in cui Leon si sentiva bloccato e incapace di dare un senso ai frammenti di informazioni raccolte, la distrazione data dal lavoro fisico gli offrì un'occasione per distendere i pensieri. Mentre la sua mente riposava, l'inconscio continuava a elaborare in silenzio.
+
+Quel pomeriggio, Zali li aveva spediti a prendere dell'acqua alla sorgente poco lontana. La fonte era considerata potabile dalla gente del villaggio, ma Leon non era per niente sicuro che lo fosse anche per loro.
+
+Il sole stava calando, e l'aria soffocante stava diventando finalmente più respirabile. Le ombre degli alberi si allungavano sul terreno irregolare, mentre una brezza leggera smuoveva il fogliame con un suono carezzevole. Leon e Alex si avviarono lungo uno dei sentieri che si dipanavano dal villaggio, una grossa tanica strette in ciascuna mano.
+
+Dopo alcuni minuti di cammino, il sentiero li condusse in una piccola radura. Il cicalio insistente degli insetti si intrecciava ai richiami degli uccelli. Circondata da pietre ricoperte di muschio, una sorgente cristallina sgorgava da una fessura tra le rocce, formando una pozza limpida. Le radici contorte di un grande albero si sporgevano verso l'acqua, come se cercassero avidamente di afferrarla.
+
+\"Che bel posticino\" commentò Alex, cominciando a svitare il tappo di una tanica.
+
+Leon si chinò sulla pozza e immerse una mano nell'acqua limpida, lasciando che la corrente gli scivolasse tra le dita. Si sciacquò mani e viso, godendo di quel contatto con l'acqua fresca e pulita.
+
+\"Leon, passami quell'altra tanica.\"
+
+Leon quasi non lo sentì. Aveva lo sguardo fisso sull'acqua che scivolava via nel ruscello, tra le radici e la vegetazione. Quel movimento continuo, quell'acqua che mulinava attorno alle radici, gli aveva fatto venire in mente qualcosa.
+
+\"Leon?\"
+
+\"Ci sono.\"
+
+Pochi minuti dopo ripresero la strada del ritorno con i contenitori pieni.
+
+\"Sai qual è il vero privilegio della civiltà?\" stava dicendo Alex. \"Non l'intelligenza artificiale, non le navette spaziali. L'acqua potabile. La gente sottovaluta sempre l'acqua potabile.\"
+
+Leon emise un distratto verso d'assenso.
+
+\"Sul serio. Immagina doversi fare tutta questa strada ogni giorno solo per bere. Sempre ammesso che questa sorgente sia davvero potabile.\"
+
+Continuò a parlare ancora per un po', elencando con ricchezza di particolari le conseguenze di aver bevuto acqua contaminata in varie parti del mondo.
+
+Ma Leon non ascoltava più. Stava cercando di prendere i pezzi che la sua mente aveva raccolto negli ultimi giorni e di assemblarli.
+
+\"Stavo ripensando al calendario" lo interruppe a un certo punto. "Forse mi è venuta in mente un'idea.\"
+
+Alex si fermò. \"Oh no.\"
+
+\"Potrebbe sembrare folle.\"
+
+Il collega posò una tanica a terra e sospirò. \"Leon, da quando ti conosco, le teorie che iniziano con quella frase sono sempre le peggiori. Vai avanti.\"
+
+\"Pensa al calendario. Sommando la durata di tutte le ere arriviamo a circa diecimila anni. Poi il ciclo ricomincia da capo.\" Leon esitò. Da giorni continuava a tornargli in mente quel dettaglio. \"E se non fosse soltanto una rappresentazione simbolica?\"
+
+Alex inclinò leggermente la testa. \"In che senso?\"
+
+\"Se il tempo stesso fosse ciclico?\"
+
+Il silenzio calò su di loro, rotto soltanto dal fruscio delle foglie e dal lontano richiamo di un uccello.
+
+\"Stai parlando di un loop temporale?\" chiese Alex, alzando un sopracciglio.
+
+\"Sì. Un ciclo. Un processo che si ripete.\"
+
+Alex si asciugò il sudore con l'incavo del gomito. \"Ci sono tante civiltà antiche con calendari ciclici. È una metafora per la vita: nascita, morte, rinascita. Una visione cosmica, non una realtà fisica. Perché pensi che questa volta sia diverso?\"
+
+Leon rimase in silenzio per qualche istante. \"Non lo so. Forse non lo è.\" Si fermò a osservare il sentiero davanti a sé. \"Ma pensaci, questo farebbe quadrare tante cose. Il fatto che questa civiltà sembri conoscere eventi della nostra storia come se li avesse già visti. Il calendario che termina proprio nella nostra epoca.\"
+
+Alex non rispose.
+
+\"Magari non significa nulla\" continuò Leon. \"Magari stiamo costruendo castelli in aria.\" Fece una pausa. \"Ma se invece sapessero tutto questo perché lo hanno già vissuto?\"
+
+Lo sguardo di Alex si fece più attento.
+
+Leon ragionò ad alta voce. \"Immagina che il ciclo si sia già ripetuto altre volte. In quel caso, le conoscenze che abbiamo trovato nelle rovine potrebbero non essere invenzioni nate da zero. Potrebbero essere informazioni sopravvissute da un ciclo precedente.\"
+
+Alex non lo interruppe.
+
+\"Ci siamo chiesti per settimane come facessero a conoscere l'elettromagnetismo, la gravitazione e altre idee che sembrano fuori dal loro tempo. Forse la domanda è sbagliata.\" Si fermò. \"Forse non hanno scoperto quelle cose. Forse le ricordavano.\"
+
+\"Stai dicendo che le hanno ereditate dal futuro.\"
+
+Leon esitò. \"Dal loro passato. Che è il nostro futuro. Detta così sembra assurda persino a me.\"
+
+Alex sbuffò una risata. \"È rassicurante.\"
+
+\"Se il tempo fosse ciclico, la distinzione tra passato e futuro non sarebbe netta come crediamo. Ciò che per noi è futuro, per qualcun altro è già accaduto.\"
+
+Alex rimase immobile per qualche secondo. \"Ti rendi conto di quello che stai suggerendo?\"
+
+\"Ci sto ancora provando.\"
+
+\"Perché se fosse vero, non staremmo parlando soltanto di una civiltà misteriosa. Staremmo parlando di qualcosa che riscrive completamente la nostra idea di tempo.\"
+
+Leon annuì lentamente.
+
+Alex passò una mano tra i capelli. \"Ok. Supponiamo per un attimo che tu abbia ragione. Questo significherebbe che, alla fine dell'ultima era del calendario, succederà qualcosa di così catastrofico da riportare il mondo indietro di diecimila anni.\" Si interruppe. \"Una catastrofe su scala planetaria. Stai dicendo che ci stanno lasciando un avvertimento?\"
+
+Un brivido percorse Leon.
+
+Si voltò verso la giungla intorno a loro, dove il crepuscolo rendeva le ombre più lunghe e il canto degli insetti più acuto.
+
+\"O magari un grido d'aiuto. Un modo per dirci che loro non sono riusciti a fermare ciò che stava arrivando.\" Abbassò lo sguardo. \"E che forse noi potremmo riuscirci.\"
+
+\"Questa è l'idea più assurda che io abbia mai sentito. E ne ho sentite tante, nel mio campo. Eppure, è inquietante come sembra far quadrare tutto.\"
+
+\"Se trovassimo altri indizi\... o delle conferme\...\" mormorò Leon. \"Le scritture che abbiamo tradotto, sulle pareti delle rovine. Potrebbe esserci qualche menzione a questa teoria? Qualche credenza religiosa? Qualche indizio che ci siamo persi?\"
+
+Alex socchiuse gli occhi, concentrandosi. \"Forse. Dovrei controllare di nuovo. A volte non si nota quello che non si sta cercando.\"
+
+Rimasero in silenzio, il rumore della foresta a riempire il vuoto tra loro. Alla fine Alex si chinò per sollevare le taniche.
+
+\"Leon, ascolta. Se questa teoria fosse vera, sarebbe il genere di scoperta che costringe a riscrivere metà dei libri di storia e probabilmente anche metà di quelli di fisica. Prima di andare nel panico apocalittico, procuriamoci almeno una prova.\"
+
+Leon sorrise. \"Mi sembra ragionevole.\"
+
+\"Ottimo. Perché preferirei non dover spiegare alla comunità scientifica che stiamo vivendo nel Giorno della Marmotta Cosmica basandoci su un disco di pietra.\"
+
+\"Lo so. Ma se anche c'è solo una possibilità\... dobbiamo verificare.\"
+
+Diede uno sguardo al Sole, già basso sul sentiero. \"Sbrighiamoci. Zali si starà chiedendo dove siamo finiti.\"
+
+I due si rimisero in cammino. Per qualche minuto, nessuno dei due parlò.
+
+Poi Alex ruppe il silenzio. \"Come ti è venuta l'idea, comunque?\"
+
+Leon sorrise appena. \"Guardando il ruscello. Non so perché, ma ho immaginato che il tempo fosse come l'acqua che scorre a valle. Poi ho visto una fogliolina. Era rimasta intrappolata in un piccolo vortice e continuava a girare su sé stessa. E se noi fossimo stati su quella foglia? Costretti a girare in tondo mentre il flusso del tempo scorre altrove?\"
+
+Alex sbuffò. \"Devo chiedere a Zali che spezia ha messo nella zuppa di stamattina. Ne voglio una dose doppia.\"
+
+\[STACCO\]
+
+Nonostante l'idea di Leon rasentasse l'assurdo, Alex non perse tempo. Appena rientrati, portatile e appunti alla mano, si mise al lavoro, riprendendo lo studio delle antiche scritture: ogni dettaglio doveva essere rivisto alla luce delle nuove ipotesi. Si piazzò sotto l'ormai familiare veranda della guesthouse, e lì rimase fino a che Leon non andò a coricarsi.
+
+Nel corso della serata il cielo si era progressivamente coperto. Nuvole scure avevano inghiottito le ultime sfumature del tramonto e, poco dopo il calare della notte, sul villaggio si era abbattuto un violento acquazzone tropicale. Disteso sul letto della sua stanza, Leon rimase per qualche minuto ad ascoltare il tamburellare della pioggia sul tetto e il gorgogliare dell'acqua nelle grondaie. Un loop temporale? Ripensandoci a mente lucida sembrava una sciocchezza. Eppure valeva la pena di approfondire.
+
+Quando si alzò, all'alba, la pioggia era cessata, ma le strade erano un pantano di fango color caffellatte. Mentre si vestiva, diede un'occhiata ai titoli dei notiziari sui suoi VisionLink. Una notizia spiccava tra le altre:
+
+\"Civiltà Atlantoidea Scoperta nel Cuore del Congo: Tecnologia Avanzata Risalente a 5000 Anni Fa.\"
+
+Era ufficiale. La scoperta era uscita dal mondo accademico ed era entrata nel circo mediatico. Con sentimenti contrastanti, Leon aprì il trafiletto e lo fece leggere a Marie.
+
+*Un team di archeologi, guidato dal Dr. Hale, ha annunciato una scoperta che potrebbe riscrivere la storia dell\'umanità: i resti di una civiltà sconosciuta sono stati trovati nelle giungle del Congo. Quello che rende questa scoperta rivoluzionaria non è solo l\'antichità della cultura ma la tecnologia incredibilmente avanzata che questa società possedeva.*
+
+*\"Sembra incredibile, ma è stato un segnale elettromagnetico ad attirarci verso il sito,\" ha spiegato Hale. \"Abbiamo inizialmente pensato che fosse una bufala o un\'interferenza naturale, ma quello che abbiamo trovato è un meccanismo estremamente complesso, una sorta di baluardo tecnologico che sembra essere stato progettato per emettere quel segnale cinquemila anni dopo la sua creazione\".*
+
+*La conoscenza avanzata della fisica e dell'ingegneria sembra essere lontanissima dalle capacità tecnologiche di qualsiasi altra civiltà antica conosciuta. \"Non ci sono dubbi,\" ha aggiunto Hale, \"questo ritrovamento cambierà il nostro modo di vedere le civiltà antiche e il progresso umano\".*
+
+\[STACCO\]
+
+L'articolo continuava, ma Leon lo interruppe. Si accorse di stare stringendo il tubetto di dentifricio più forte del necessario.
+
+Per un istante gli bruciò.
+
+Non tanto per il ruolo o per il prestigio. Era la sensazione di aver avuto tra le mani qualcosa di irripetibile e di esserselo visto sfuggire. Per anni aveva lavorato nell'ombra, e adesso che la più grande scoperta della sua carriera era finalmente arrivata, qualcun altro ne stava raccogliendo il merito.
+
+Ma l'amarezza durò poco.
+
+Negli ultimi giorni il problema di chi sarebbe finito sui giornali aveva smesso di sembrargli particolarmente importante. Se il calendario aveva anche solo una minima possibilità di essere autentico, allora stavano affrontando qualcosa di immensamente più grande di una disputa accademica.
+
+Il mistero di quella civiltà, le implicazioni delle loro scoperte, la possibilità stessa che il futuro dell'umanità fosse in pericolo: erano queste le domande che contavano davvero.
+
+Tutto il resto era rumore.
+
+Leon scese le scale di legno fino al piano terra. Trovò Alex già sveglio, nello stesso posto in cui si erano salutati la sera prima. Il portatile era acceso, e il tavolo era ingombro di appunti, formule e fogli pieni di calcoli.
+
+\"Già in piedi?\" si stupì Leon. \"O hai messo le radici qui?\"
+
+\"La seconda.\"
+
+Leon notò le occhiaie del collega e scosse la testa.
+
+\"Come ai tempi del dottorato.\"
+
+\"Già. Erano anni che non lavoravo fino all'alba. Devo dire che un po' mi era mancato. È come se il mio cervello non vedesse l'ora di tornare a fare il suo lavoro. E sotto un acquazzone tropicale è tutto ancora più epico. \"
+
+\"Hai visto i notiziari? Pare che Hale si sia dato da fare con i media\" commentò Leon, con una punta d'amarezza.
+
+\"Ho visto poco fa. Beh, ce lo aspettavamo. Non resta che vedere che conseguenze avrà tutto questo trambusto.\"
+
+Alex sembrava sinceramente poco interessato all'argomento.
+
+Leon lo osservò per qualche secondo. Aveva passato l'intera notte a riesaminare traduzioni e formule nel tentativo di capire se il tempo potesse davvero essere ciclico. Non aveva trascorso nemmeno un minuto a leggere articoli o a controllare quante volte il suo nome comparisse sui giornali.
+
+In quel momento Leon si rese conto di quanto fossero diverse le loro priorità. Per Alex, la scoperta non era mai stata un mezzo per ottenere riconoscimenti. Era la scoperta stessa ciò che contava davvero.
+
+La questione Hale perse improvvisamente gran parte della sua importanza. Quel che è fatto è fatto, pensò. Non aveva senso continuare a rimuginarci.
+
+\"Cosa hai trovato?\" chiese.
+
+Alex sgomberò il tavolo spingendo da parte una montagna di fogli.
+
+Leon lanciò un'occhiata al caos che aveva davanti: numeri, formule, diagrammi improvvisati, frecce che collegavano concetti apparentemente scollegati, punti interrogativi grandi quanto fogli e annotazioni scritte in fretta nei margini. Sembrava il tavolo di qualcuno che stesse tentando di risolvere contemporaneamente un problema di fisica e un delitto.
+
+\"Forse ho trovato un modo per far stare in piedi la tua teoria di ieri\" disse Alex.
+
+Un framework teorico? Era più di quanto Leon potesse sperare. \"Vediamo.\"
+
+\"Ho provato a capire se esiste un modo per interpretare matematicamente quello che hai suggerito ieri. Credo di aver trovato qualcosa. Ma dobbiamo partire da un concetto molto semplice: il movimento. Immagina un pianeta, come la Terra. Come si muove nello spazio?\"
+
+Ecco che Alex era entrato in modalità *professore universitario*. Leon lo assecondò, sorridendo tra sé. \"Gira attorno al Sole, suppongo.\"
+
+\"Esatto. Ma ora prova a immaginare: cosa accadrebbe se non ci fosse un Sole?\"
+
+\"Beh, il pianeta viaggerebbe dritto per la sua strada.\"
+
+\"Esatto. Prima legge della dinamica: in assenza di forze un corpo si muove di moto rettilineo uniforme\" recitò a memoria. \"Ma se quel pianeta, viaggiando in linea retta, dovesse passare sufficientemente vicino al campo gravitazionale di una stella, ne sarebbe attratto e comincerebbe a orbitarle intorno.\"
+
+\"Ok, fin qui ci sono\" disse Leon. \"Dove stai andando a parare?\"
+
+\"Ora arriva il salto concettuale. Trasportiamo questa idea al tempo. Abbiamo sempre immaginato il tempo come una linea retta, dal passato al futuro. Ma prova a pensare diversamente: immagina che un pianeta che si muove nel tempo, mentre procede lungo la sua traiettoria, si avvicini a una sorta di massa temporale. Una specie di Sole, ma che esiste nella dimensione del tempo. A quel punto il pianeta comincia a orbitarle intorno, formando una traiettoria chiusa.\"
+
+Leon rimase qualche secondo a riflettere.
+
+\"Stai dicendo che la Terra, in questo momento, starebbe ruotando nello spazio attorno al Sole e, contemporaneamente, nel tempo attorno a una specie di sole temporale?\"
+
+\"Non avrei saputo riassumere meglio.\"
+
+Alex batté la penna su una formula cerchiata due volte.
+
+\"Ecco di cosa parlavano quelle equazioni nella Sala delle Scritture. Ricordi? C\'erano formule simili a quelle gravitazionali, ma con coefficienti che sembravano sbagliati. Non erano sbagliati: descrivevano il moto della Terra nel tempo, non nello spazio.\"
+
+Indicò un\'altra pagina piena di calcoli.
+
+\"La cosa straordinaria è che chiunque abbia inciso quelle formule ci ha lasciato abbastanza informazioni da ricostruire il resto. Senza computer sarebbe stato impossibile risolverle. È quasi come se sapessero che un giorno qualcuno avrebbe completato i calcoli.\"
+
+Leon rimase in silenzio.
+
+La teoria del tempo ciclico era nata come un\'intuizione quasi casuale, una suggestione emersa osservando un vortice in un ruscello. Sentirsela restituire sotto forma di equazioni e risultati numerici era tutt\'altra cosa. All\'improvviso sembrava molto più concreta.
+
+\"Ho fatto i calcoli\" continuò Alex.
+
+Girò il portatile verso di lui.
+
+\"Prima cosa: il periodo di ripetizione è di circa diecimila anni.\"
+
+Leon sentì lo stomaco contrarsi. \"Proprio come il calendario.\"
+
+\"Già.\"
+
+Alex scorse alcune righe. \"Seconda cosa: il ciclo attuale terminerà precisamente nell'anno 2052.\"
+
+Leon sbatté le palpebre. \"Tra cinque anni?\"
+
+\"Tra cinque anni.\"
+
+Fece una breve pausa prima di proseguire. \"Terza cosa: tra la fine di un ciclo e l\'inizio del successivo esiste una fase di transizione. Dura circa duecento anni.\"
+
+Leon impiegò qualche istante a digerire tutto.
+
+\"Se è tutto vero, il mondo come lo conosciamo sta per finire\" disse infine. \"Dovremmo preoccuparci, non sentirci euforici. Quante nuove dimensioni aggiunge questa teoria allo spaziotempo di Einstein?\"
+
+\"In realtà nessuna\" rispose Alex. \"È quasi inquietante quanto sia compatibile. L\'equazione di campo di Einstein non va riscritta: basta introdurre un nuovo termine nel tensore energia-impulso, una componente che rappresenti questa massa temporale. Poi la geometria dello spaziotempo si adatta di conseguenza.\"
+
+Leon lo fissò. \"Hai appena detto una frase che contiene almeno tre parole che non capisco.\"
+
+Alex sorrise. \"Vero. Forse ho saltato qualche passaggio."
+
+Le cose erano andate fuori controllo piuttosto in fretta. Il tempo bloccato in un ciclo. Una fine del mondo imminente. Una civiltà di cinquemila anni prima che sembrava conoscere concetti ancora ignoti alla scienza moderna.
+
+Eppure c\'era una domanda che continuava a incombere su tutto il resto. \"Cosa riporterà il mondo allo stato di diecimila anni fa?\"
+
+Alex scosse la testa. \"Hai colto il punto. Le scritture non sembrano parlarne.\"
+
+Leon si passò una mano tra i capelli. \"Forse non lo hanno mai scoperto. Oppure\... è qualcosa che solo noi possiamo calcolare.\"
+
+\"Forse. Ma una cosa è chiara.\" Alex si appoggiò allo schienale della sedia. \"Il motivo per cui ci hanno attirati alle rovine è che stanno davvero cercando di avvertirci. Chiunque abbia predisposto quel timer e inciso quelle scritture là sotto lo ha fatto nella speranza che qualcuno riuscisse a interrompere il ciclo.\"
+
+\"A uscire dall\'orbita della massa temporale.\"
+
+\"Esatto. A tornare sulla retta via. Letteralmente.\"
+
+Un brivido percorse la schiena di Leon. \"E pensi che sia possibile? Voglio dire\... non sappiamo nemmeno cosa sia davvero questa massa temporale, ammesso che esista.\"
+
+Alex rimase in silenzio per qualche secondo. \"Non so se la fisica moderna abbia gli strumenti per affrontare qualcosa del genere\" ammise. \"Ma se hanno fatto tutto questo per avvertirci, allora devono aver creduto che una possibilità c\'è.\"
+
+Leon non era altrettanto ottimista. E anche ammesso che una soluzione esistesse davvero, avrebbero avuto il tempo di trovarla?
+
+\[STACCO\]
+
+\[STACCO\]
+
+# Diario di Mira
+
+Oggi la camera è stata sigillata.
+
+Ciò che racchiude è finalmente completo.
+
+Per realizzarlo ho chiesto il quarzo più puro del regno e gli artigiani più abili della città. Nessuno di loro ne comprendeva appieno lo scopo.
+
+Ma quando le Ere del Caos incomberanno di nuovo, qualcuno sentirà il suo richiamo. Questo è ciò che conta.
+
+\[STACCO\]
+
 # Capitolo 18. A corte 
 
 Le dita di Nadia scorrevano rapide tra i lunghi capelli neri di Mira, separando con precisione una ciocca dopo l\'altra prima di intrecciarle insieme ai sottili fili dorati che ne attraversavano la chioma. Il gesto era diventato così naturale che non aveva più bisogno di pensarci: le mani si muovevano da sole, seguendo una sequenza ormai impressa nella memoria, mentre il pettine d\'osso scivolava senza incontrare nodi.
 
-Mira sedeva immobile davanti allo specchio di bronzo lucidato, il volto rivolto verso la finestra aperta. Attraverso il riflesso, Nadia scorgeva i piccoli orecchini ad anello che oscillavano appena a ogni respiro e una sottile collana d\'oro che le poggiava alla base del collo, semplice ma così finemente lavorata da sembrare un unico filo di luce. Il suo volto era austero, quasi inespressivo, come se avesse perennemente la testa altrove. Come ogni mattina, non aveva pronunciato quasi una parola.
+Mira sedeva immobile davanti allo specchio di bronzo lucidato, il volto rivolto da un lato, verso la finestra aperta. Attraverso il riflesso, Nadia scorgeva i piccoli orecchini ad anello che oscillavano appena a ogni respiro e una sottile collana d\'oro che le poggiava alla base del collo, semplice ma così finemente lavorata da sembrare un unico filo di luce. Il suo volto era austero, quasi inespressivo, come se avesse perennemente la testa altrove. Come ogni mattina, non aveva pronunciato quasi una parola.
 
 Nadia terminò l\'ultima treccia e la fissò con un piccolo fermaglio cesellato. Prese quindi la tunica preparata sul supporto di legno e l\'aiutò a indossarla. Il tessuto bianco, leggero ma ricco, scese morbido fino alle caviglie; lungo l\'orlo e i polsi correvano motivi ricamati in filo d\'oro. Sul petto, appena sotto il collo, brillava il triangolo dorato di Rham. Era un abito semplice solo in apparenza: bastava guardare la qualità del lino e la precisione dei ricami per capire che apparteneva alla donna più importante del tempio.
 
 Fece un passo indietro e attese in silenzio. Garnak le aveva insegnato che un\'ancella non doveva mai dare l\'impressione di aver finito il proprio lavoro: doveva restare disponibile, pronta a cogliere un ordine ancora prima che venisse pronunciato. Anche il modo di stare ferma richiedeva esercizio. Schiena dritta, mani raccolte davanti al grembo, lo sguardo abbassato senza sembrare impacciata.
 
-Le prime settimane erano state un tormento. Ogni gesto le pareva innaturale; dimenticava un\'inclinazione del capo, si voltava troppo in fretta, camminava con passi troppo pesanti per quei corridoi dove perfino il rumore dei sandali sembrava fuori luogo. Garnak l\'aveva costretta a ripetere gli stessi movimenti fino allo sfinimento, correggendola con severità. Ora, invece, attraversare il palazzo senza attirare l\'attenzione le riusciva quasi spontaneo. Era diventata una presenza discreta, una delle tante figure silenziose che popolavano le stanze della corte, invisibili finché qualcuno non aveva bisogno di loro.
+Le prime settimane di addestramento erano state un tormento. Ogni gesto le pareva innaturale; dimenticava un\'inclinazione del capo, si voltava troppo in fretta, camminava con passi troppo pesanti. Garnak l\'aveva costretta a ripetere gli stessi movimenti fino allo sfinimento, correggendola con severità, quasi trovando gusto a farle ripetere alla nausea i metodici esercizi.
+
+Ma Nadia doveva ammettere che era stato necessario. Ora attraversare il palazzo senza attirare l\'attenzione le riusciva spontaneo. Era diventata una presenza discreta, una delle tante figure silenziose che popolavano le stanze della corte, invisibili finché qualcuno non aveva bisogno di loro.
 
 Mira si alzò con la consueta eleganza. I lunghi bracciali di bronzo tintinnarono piano mentre raggiungeva la finestra. Per un momento rimase immobile a osservare l\'esterno, e Nadia seguì istintivamente la direzione del suo sguardo.
 
-Oltre i tetti del palazzo si innalzava la piramide, immensa, la vetta già illuminata dalla luce dell\'alba. Sotto quella massa di pietra, nascosti agli occhi della città, si trovavano i sotterranei dove Hual era rinchiuso. Ogni volta che il suo sguardo cadeva su quel monumento, Nadia sentiva riaffiorare lo stesso pensiero: era così vicino da poterlo vedere ogni giorno, eppure infinitamente lontano.
+Oltre i tetti del palazzo si intravedeva il tempio, la torre astronomica, la piazza ricolma di gente. Poco più in là si innalzava la piramide, immensa, la vetta già illuminata dalla luce dell\'alba. Sotto quella massa di pietra, nascosti agli occhi della città, si trovavano i sotterranei dove suo padre era rinchiuso. Ogni volta che il suo sguardo cadeva su quel monumento, Nadia sentiva riaffiorare lo stesso pensiero: suo padre era così vicino, eppure così lontano da sembrare irraggiungibile.
 
-Nadia si avvicinò al tavolino degli ornamenti e sistemò con cura il piccolo braciere rituale, riallineando anche una ciotola d\'incenso che una delle altre ancelle aveva lasciato leggermente fuori posto.
+Nadia si avvicinò al tavolino degli ornamenti e sistemò con cura il piccolo braciere rituale, i rotoli di papiro e riallineando anche una ciotola d\'incenso che una delle altre ancelle aveva lasciato leggermente fuori posto.
 
 \"Grazie, Nadia.\"
 
@@ -5493,17 +5596,21 @@ Mira non aggiunse altro. Non un sorriso, non uno sguardo. Continuava a osservare
 
 Attraversarono una delle gallerie principali, dove il soffitto si apriva in alte e luminose arcate e le colonne scolpite proiettavano ombre lunghe sul pavimento coperto da tappeti decorati.
 
-In fondo al corridoio, vicino a una sala laterale da cui provenivano voci concitate, un funzionario stava discutendo con due scribi, i rotoli dispiegati tra le mani e il volto contratto in un'espressione di irritazione malcelata. La sua voce riempiva lo spazio, spezzata da frasi rapide e ordini secchi, finché il movimento di Mira non entrò nel suo campo visivo.
+Nadia aveva ormai imparato a riconoscere l'effetto che la presenza di Mira aveva sul palazzo. Non era necessario che la sacerdotessa parlasse o impartisse ordini: bastava il suo arrivo perché l'atmosfera cambiasse.
 
-Non fu necessario che lei parlasse o si fermasse.
+Lo vide accadere ancora una volta poco più avanti.
 
-L'uomo lasciò la frase in sospeso, come se il filo stesso del discorso fosse stato tagliato, e rimase immobile. Poi si piegò in un inchino improvviso, più profondo di quanto Nadia avesse mai visto a corte, e il gesto si propagò agli scribi come un riflesso: anche loro abbassarono lo sguardo, interrompendo ogni movimento.
+In fondo al corridoio, vicino a una sala laterale da cui provenivano voci concitate, un funzionario stava discutendo con due scribi. I rotoli erano ancora dispiegati tra le loro mani e il volto dell'uomo era contratto in un'espressione di irritazione malcelata. La sua voce riempiva lo spazio, spezzata da frasi rapide e ordini secchi.
 
-Mira proseguì senza deviare, senza accelerare né rallentare, e senza concedere nemmeno un'ombra di attenzione. Solo quando il suono dei suoi passi si allontanò oltre il punto in cui la luce cambiava, Nadia vide con la coda dell'occhio il funzionario si rialzarsi lentamente, riprendendo a parlare con una voce più bassa. Quasi come se lo spazio fosse rimasto alterato dal suo passaggio.
+Poi si accorse di Mira.
 
-Nadia l'aveva notato diverse volte: ogni volta che Mira passava, la corte non si limitava a tacere, ma sembrava trattenere il respiro, come se l'intero palazzo si fermasse per un istante prima di riprendere vita.
+Non fu necessario che lei parlasse o rallentasse il passo.
 
-Proseguirono attraverso i corridoi più interni, dove la luce si faceva più filtrata e l'odore delle resine bruciate diventava più intenso. Raggiunsero il familiare passaggio che Nadia aveva percorso, ormai quasi due mesi prima, nella sua intrusione nel retro del tempio.
+L'uomo lasciò la frase in sospeso, come se il filo stesso del discorso fosse stato tagliato, e rimase immobile per un istante. Poi si piegò in un inchino, più profondo di quanto Nadia avesse mai visto a corte, e il gesto si propagò agli scribi come un riflesso: anche loro abbassarono lo sguardo, interrompendo ogni movimento.
+
+Mira proseguì senza deviare, senza accelerare né rallentare, senza concedere loro nemmeno un'ombra di attenzione. Solo quando il suono dei suoi passi si allontanò oltre il punto in cui la luce cambiava, Nadia vide con la coda dell'occhio il funzionario rialzarsi lentamente e riprendere a parlare con una voce più bassa.
+
+Proseguirono attraverso i corridoi più interni, dove la luce si faceva più filtrata e l'odore delle resine bruciate diventava più intenso. Raggiunsero il familiare passaggio che Nadia aveva percorso ormai quasi due mesi prima, durante la sua intrusione nel retro del tempio.
 
 Lo percorsero in senso inverso, i passi attuti dal vecchio tappeto, finché sbucarono nel grande spazio circolare del tempio del Sole.
 
@@ -5537,23 +5644,31 @@ Erano osservazioni, non prove. Eppure, se Khamal aveva ragione, erano proprio le
 
 Lasciò asciugare l\'inchiostro, arrotolò con cura il papiro e lo legò con un sottile filo di lino. Poi lo nascose nella manica della tunica e uscì dalla stanza.
 
-Attraversò i corridoi del palazzo con passo misurato, lasciando che i sandali sfiorassero appena il pavimento levigato. Ogni volta che un servo compariva in fondo a una galleria o una guardia cambiava posizione presso una porta, Nadia rallentava senza darlo a vedere, come se stesse semplicemente seguendo il ritmo quieto del palazzo. Aveva imparato che chi cerca di passare inosservato finisce spesso per attirare l'attenzione; eppure, in quel tratto di corridoio, le sembrò di sentire il peso di ogni sguardo possibile, anche di quelli che non c'erano.
+Attraversò i corridoi del palazzo con passo misurato, il rumore dei sandali attutito dalle numerose stuoie che tappezzavano ogni stanza. Ogni volta che un servo compariva in fondo a una galleria o una guardia cambiava posizione presso una porta, Nadia rallentava senza darlo a vedere, come se stesse semplicemente seguendo il ritmo quieto del palazzo.
 
-Raggiunse infine la statua d'ebano di un antico condottiero imperiale. Alla luce obliqua del mattino, il volto scolpito pareva quasi vivo, severo e immobile, mentre il piedistallo gettava un'ombra netta sul pavimento. Chiunque fosse passato di lì avrebbe visto soltanto un monumento come tanti altri; nessuno avrebbe immaginato che, dietro il pesante basamento, tra il legno e il muro, si aprisse una fessura tanto stretta da sembrare un difetto della muratura. Eppure era proprio lì che il messaggio doveva sparire, in un punto che nessuno avrebbe dovuto notare, ma che bastava un'occhiata più attenta per tradire.
+Raggiunse infine la statua d'ebano di un antico condottiero imperiale. Alla luce obliqua del mattino, il volto scolpito pareva quasi vivo, severo e immobile, mentre il piedistallo gettava un'ombra netta sul pavimento. Chiunque fosse passato di lì avrebbe visto soltanto una statua come tante altre; nessuno avrebbe immaginato che, dietro il basamento, tra il legno e il muro, si aprisse una fessura tanto stretta da sembrare un difetto della muratura. Era proprio lì che il messaggio doveva sparire, in un punto che nessuno avrebbe notato, a meno di cercarlo.
 
-Nadia si chinò fingendo di sistemare il laccio di un sandalo. Il gesto fu breve, quasi distratto, ma le dita le tremarono appena quando fece scivolare il rotolo nel nascondiglio. Restò immobile un istante, in ascolto, con il fiato sospeso: un passo nel corridoio, una voce, il fruscio di una veste sarebbero bastati a farla voltare di scatto. Solo quando non udì nulla rialzò lentamente il capo, trattenendo l'impulso di guardarsi alle spalle.
+Nadia si chinò fingendo di sistemare il laccio di un sandalo. Il gesto fu breve, quasi casuale, mentre con mano ferma faceva scivolare il rotolo nel nascondiglio.
+
+Si rialzò con naturalezza, lisciandosi la tunica. Restò immobile un istante, in ascolto. Nessun passo, nessuna voce, nessun fruscio di veste. Ma se anche qualcuno la stesse osservando, avrebbe solo visto un\'ancella sistemarsi i sandali.
 
 Lord Garnak sarebbe passato di lì entro un paio di giorni. Fino ad allora, il messaggio sarebbe rimasto nascosto in quel punto cieco del palazzo.
 
-Mentre si allontanava a passo rapido lungo il corridoio, un pensiero tornò a tormentarla. Due volte alla settimana Mira lasciava i suoi alloggi e attraversava il complesso della piramide per raggiungere gli appartamenti dell'imperatore. Spariva al tramonto e non faceva ritorno fino all'alba.
+Si allontanò a passo regolare lungo il corridoio.
 
-A corte nessuno ne parlava apertamente, ma era uno di quei fatti che esistevano proprio perché nessuno li nominava con precisione. Mira veniva ricevuta dall'imperatore nelle ore private della notte, e tutto ciò che accadeva tra il suo ingresso e la sua uscita rimaneva fuori dal linguaggio della corte.
+\[STACCO\]
 
-Nadia non capiva perché il pensiero che Mira potesse essere la concubina dell\'imperatore la mettesse a disagio. Eppure, non riusciva a ignorare quello strano sentimento. Forse perché Mira le sembrava troppo al di sopra di certe cose. Troppo distante dal mondo terreno. La immaginava come una creatura di un altro tempo, quasi intoccabile, e l\'idea che potesse appartenere a qualcuno la infastidiva.
+I giorni a palazzo scorrevano lenti, senza troppe novità. La sacerdotessa seguiva una routine serrata, fatta di ore passate nello studio privato nei suoi alloggi e tempo trascorso al tempio, a pregare. A dire il vero, non era insolito vederla pregare anche nel suo appartamento, talvolta persino durante i pasti o nei momenti in cui le sue ancelle si curavano di lei. Dopotutto Mira era l'Alta Sacerdotessa, e Nadia immaginava che tutto ciò fosse la normalità per chi rivestiva tale ruolo.
+
+Solo una cosa la turbava davvero. Due volte alla settimana Mira lasciava i suoi alloggi e attraversava il complesso della piramide per raggiungere gli appartamenti dell'imperatore. Spariva al tramonto e faceva ritorno solo all'alba.
+
+A corte nessuno ne parlava apertamente, ma era uno di quei fatti che esistevano proprio perché nessuno li nominava con precisione. Mira veniva ricevuta dall'imperatore nelle ore private della notte, e tutto ciò che accadeva in quei lassi di tempo rimaneva fuori dal linguaggio della corte.
+
+Nadia non capiva perché il pensiero che Mira potesse essere la concubina dell\'imperatore la mettesse a disagio. Eppure, non riusciva a ignorare quello strano sentimento. Forse perché Mira le sembrava troppo al di sopra di certe cose. Troppo distante dal mondo terreno. La immaginava come una creatura di un altro tempo, quasi intoccabile, e l\'idea che potesse appartenere fisicamente a qualcuno la infastidiva.
 
 Se fosse stato solo questo, se ne sarebbe fatta una ragione. Ma un altro pensiero continuava a tornare. E se quelle visite notturne nascondessero qualcosa di diverso? Qualcosa che non aveva nulla a che fare con il letto dell\'imperatore?
 
-Per un momento pensò di riferirlo alla Setta. Bastava aggiungere una riga al prossimo messaggio: *Mira trascorre due notti alla settimana negli appartamenti imperiali*. Ma già immaginava Shuua leggere quelle parole, o Rurik, o perfino Khamal. Sentì le guance scaldarsi. Non sapeva nemmeno come scriverlo senza far sembrare che stesse riportando i pettegolezzi delle ancelle.
+Più di una volta aveva pensato di riferirlo alla Setta. Bastava aggiungere una riga al prossimo messaggio: *Mira trascorre due notti alla settimana negli appartamenti imperiali*. Ma già immaginava Shuua leggere quelle parole, o Rurik, o perfino Khamal. Sentì le guance scaldarsi. Non sapeva nemmeno come scriverlo senza far sembrare che stesse riportando i pettegolezzi delle ancelle.
 
 No, non ancora.
 
@@ -5565,7 +5680,7 @@ Una sera, si decise ad agire.
 
 Come sempre, salutò Mira con un lieve inchino e si ritirò nella camera che divideva con le altre due ancelle. Le compagne erano già coricate. Nadia si cambiò, spense la piccola lampada a olio e si infilò nel suo giaciglio, fingendo di abbandonarsi al sonno.
 
-Attese a lungo, ascoltando il respiro delle due ragazze farsi sempre più lento e regolare. Solo quando fu certa che dormissero davvero, sollevò con cautela la coperta e mise i piedi sul pavimento.
+Attese a lungo, ascoltando il respiro delle due ragazze farsi sempre più lento e regolare. Solo quando fu certa che dormissero davvero, sollevò con cautela la coperta e mise i piedi sul pavimento. Urtò inavvertitamente il vaso da notte, che quasi si rovesciò.
 
 \"Che fai?\"
 
@@ -5573,13 +5688,13 @@ Il sussurro la fece trasalire.
 
 Joira la osservava con gli occhi socchiusi.
 
-\"Vado ai servizi,\" rispose Nadia a bassa voce, cercando di sembrare infastidita più che sorpresa.
+\"Prendo un po' d'aria,\" rispose Nadia a bassa voce, cercando di sembrare infastidita più che sorpresa.
 
 L\'altra emise un verso assonnato e si rigirò dall\'altra parte.
 
 Nadia rimase immobile ancora qualche istante, finché il respiro della compagna tornò regolare. Aprì lentamente la porta e uscì nel corridoio.
 
-Solo fuori dalla stanza iniziò a vestirsi. Aveva portato gli abiti sottobraccio proprio per evitare il fruscio dei tessuti nella camera. Indossò la tunica in fretta e si strinse la cintura.
+Solo fuori dalla stanza iniziò a vestirsi. Aveva portato gli abiti sottobraccio proprio per evitare il fruscio dei tessuti nella camera. Calzò i sandali, indossò la tunica in fretta e si strinse la cintura.
 
 L\'aria notturna del palazzo era fresca e immobile.
 
@@ -5661,7 +5776,7 @@ Seguì una pausa. Quando Mira parlò di nuovo, la sua voce era bassa, misurata.
 
 Il cuore di Nadia accelerò. Stavano parlando della Setta?
 
-\"Non dobbiamo commettere l\'errore di sottovalutare chi sa attendere. I nemici più pericolosi sono quelli che imparano nell\'ombra.\" Per la prima volta, Nadia colse una sfumatura diversa nella voce di Mira. Non era dubbio, era prudenza.
+La voce femminile proseguì. \"Non dobbiamo commettere l\'errore di sottovalutare chi sa attendere. I nemici più pericolosi sono quelli che imparano nell\'ombra.\" Per la prima volta, Nadia colse una sfumatura diversa nella voce di Mira. Non era dubbio, era prudenza.
 
 L\'imperatore rimase in silenzio. Si sentì il tintinnio attutito di un bicchiere. \"E Lord Garnak?\"
 
@@ -5671,9 +5786,7 @@ La voce di Mira era quasi un sussurro. "Lord Garnak si è rivelato prezioso nel 
 
 Una pausa, poi la voce dell'imperatore. \"Tutti pensano prima a sé stessi. So cosa vuole, e quando sai i desideri delle persone esse diventano prevedibili. Ma se vuole rimanere dalla parte vincente, ci dirà ciò che sa. E se non lo farà, lo costringeremo.\"
 
-Nadia rifletté freneticamente.
-
-Stando alle parole dell'imperatore, Garnak era un doppiogiochista che doveva ancora scegliere da che parte stare. Nadia era certa che avrebbe tradito la setta alla prima occasione.
+Nadia ripensò ai modi ambigui del nobile. Istintivamente non si era mai fidata davvero di quell'uomo. Ora aveva la certezza che avrebbe tradito la setta alla prima occasione.
 
 Ancora peggio, lei era entrata a corte proprio tramite il nobile, fingendosi sua nipote. E ora Garnak era sospettato di essere dalla parte della Setta. Possibile allora che Mira non sospettasse di lei?
 
@@ -5809,7 +5922,7 @@ La ragazza si avviò lenta fino al proprio alloggio. Le rivelazioni sulla Corona
 
 Il possibile tradimento di Garnak.
 
-Ma la sua mente tornava sempre a Mira. La sacerdotessa non aveva chiesto spiegazioni, non aveva mostrato sorpresa. L\'aveva semplicemente protetta, quasi sapesse già perché si trovasse lì.
+Ma la sua mente tornava sempre a Mira. La sacerdotessa non aveva chiesto spiegazioni, non aveva mostrato sorpresa. L\'aveva semplicemente protetta, quasi sapesse già perché si trovava lì.
 
 Se Mira aveva davvero capito che stava origliando quella conversazione, allora conosceva anche il rischio che Nadia rappresentava. Eppure aveva scelto di tacere.
 
@@ -5887,7 +6000,7 @@ Leon annuì. \"Probabilmente hai ragione.\"
 
 Per qualche istante nessuno parlò.
 
-\"La cosa assurda,\" riprese Alex, \"è che una settimana fa sarei stato qui a chiedermi se abbia senso affezionarsi a qualcuno che vive dall\'altra parte del mondo.\"
+\"La cosa assurda,\" riprese Alex, \"è che una settimana ero qui a chiedermi se avesse senso affezionarsi a qualcuno che vive dall\'altra parte del mondo.\"
 
 Leon lo lasciò continuare.
 
@@ -5905,7 +6018,7 @@ Leon sorseggiò il caffè. \"Bisogna riconoscerle anche un altro merito non da p
 
 \"Essere riuscita ad ascoltare dieci minuti di spiegazione sull\'entropia senza scappare.\"
 
-Alex aprì la bocca per replicare.
+Alex alzò gli occhi al cielo. Stava aprendo la bocca per replicare, quando si fermò.
 
 Aggrottò la fronte.
 
@@ -5921,7 +6034,7 @@ Gli occhi gli si spalancarono. \"L'entropia.\"
 
 Leon lo fissò, interdetto. \"Prego?\"
 
-Alex sembrava non sentirlo più. Aveva lo sguardo perso nel vuoto, completamente assorbito da quella nuova intuizione. \"Nella teoria del tempo ciclico\...\" disse lentamente. \"Non abbiamo pensato all'entropia.\"
+Alex sembrava non sentirlo più. Aveva lo sguardo perso nel vuoto, completamente assorbito dal filo dei suoi pensieri. \"Nella teoria del tempo ciclico\...\" disse lentamente. \"Non abbiamo pensato all'entropia.\"
 
 Leon inarcò un sopracciglio. \"L'entropia? La misura del disordine di un sistema? Cosa c'entra con il tempo?\"
 
@@ -5929,7 +6042,7 @@ Gli occhi di Alex si illuminarono. \"L'entropia è uno dei pochi fenomeni che ci
 
 \"Spiegati meglio.\"
 
-\"Immagina di filmare un bicchiere che cade da un tavolo. Sapresti subito se il video è riprodotto normalmente o al contrario. Perché i cocci non si rimettono insieme da soli. Il disordine aumenta, non diminuisce. È quello che chiamiamo direzione del tempo.\"
+\"Immagina di filmare una goccia di inchiostro lasciata cadere in un bicchiere di acqua. Sapresti subito se il video è riprodotto normalmente o al contrario. Perché l\'inchiostro non potrebbe mai tornare 'goccia'. Il disordine aumenta, non diminuisce. È quello che chiamiamo direzione del tempo.\"
 
 Leon annuì lentamente. \"Ok. Il tempo scorre nel verso in cui l'entropia aumenta. E cosa cambia se il tempo è ciclico?\"
 
@@ -5939,7 +6052,7 @@ Alex si passò una mano tra i capelli.
 
 Leon rifletté per qualche secondo.
 
-\"Non vedo il problema. Se il tempo segue un'orbita chiusa, come un pianeta attorno a una stella, l'entropia potrebbe continuare ad aumentare a ogni ciclo.\"
+\"Non ti seguo. Se il tempo segue un'orbita chiusa, come un pianeta attorno a una stella, l'entropia potrebbe continuare ad aumentare a ogni ciclo.\"
 
 \"Ed è qui che le cose si complicano.\" Alex accennò un sorriso nervoso. \"Ciclo dopo ciclo, il disordine aumenterebbe sempre di più. Dopo abbastanza giri, il cosmo assomiglierebbe a una stanza dimenticata da uno studente universitario.\"
 
@@ -5953,11 +6066,15 @@ Leon rifletté per qualche secondo.
 
 \"Ma va contro tutto quello che sappiamo della fisica.\"
 
-\"Leon, stiamo discutendo dell'ipotesi che il tempo giri in tondo attorno a una specie di sole temporale invisibile. Direi che abbiamo già infranto qualche regoletta.\"
+\"Leon, stiamo discutendo dell'ipotesi che il tempo giri in tondo come una trottola. Direi che abbiamo già infranto una regoletta o due.\"
 
 Leon si massaggiò le tempie. \"Fammi capire se ho seguito il ragionamento. Il mondo procede normalmente per diecimila anni. Poi, in qualche modo, deve tornare allo stato iniziale.\"
 
 \"Sì.\"
+
+"E se torna allo stato inziale, anche l'entropia deve tornare al livello di partenza."
+
+"Esatto."
 
 \"E questo come ci aiuta a capire cosa metterà fine alla civiltà?\"
 
@@ -5975,7 +6092,7 @@ Leon lo osservò. \"Che altro aumenta? La popolazione?\"
 
 Alex annuì.
 
-\"Sì. Ma credo esista una parola più generale. La complessità.\" Alex riprese a parlare, ragionando a voce alta. \"La vita diventa più complessa. Gli organismi diventano più complessi. Le società diventano più complesse. Le reti economiche, le infrastrutture, la tecnologia\... tutto cresce in sofisticazione.\"
+\"Sì. Ma credo esista una parola più generale. La complessità.\" Alex riprese a parlare, ragionando a voce alta. \"La vita diventa più complessa. Gli organismi diventano più complessi. Le società diventano più complesse. Le reti economiche, le infrastrutture, la tecnologia\... tutto cresce in complessità.\"
 
 \"Stai dicendo che la complessità segue la stessa direzione dell'entropia.\"
 
@@ -5997,9 +6114,11 @@ Un pensiero improvviso attraversò la mente di Leon.
 
 \"I guasti informatici. I malfunzionamenti di cui sentiamo parlare da settimane. I sistemi che smettono di funzionare senza motivo.\"
 
-Alex imprecò ad alta voce. \"Il processo potrebbe essere già cominciato.\"
+Alex imprecò ad alta voce. \"Il processo è già cominciato.\"
 
-La tensione era diventata insopportabile. Senza quasi accorgersene presero a camminare, imboccando uno dei sentieri che attraversavano la foresta attorno al villaggio.
+Non era un'ipotesi. Era un'affermazione.
+
+Senza quasi accorgersene, presero a camminare per alleviare la tensione. Imboccarono uno qualsiasi dei sentieri che attraversavano la foresta attorno al villaggio.
 
 \"Diecimila anni fa sulla Terra vivevano pochi milioni di persone. Oggi siamo miliardi. Un pianeta riportato a quelle condizioni non potrebbe sostenere una popolazione come l\'attuale.\"
 
@@ -6008,6 +6127,8 @@ Leon immaginò città immense prive di elettricità, catene di approvvigionament
 \"Computer, reti, archivi digitali saranno le prime vittime\" ragionò Leon.
 
 \"Ovvio: sono strutture estremamente sofisticate e delicate. L\'apice della complessità.\"
+
+"Poi toccherà ai macchinari, ai veicoli, alle industrie." Leon pensò alla storia dell'umanità. Era come se i secoli venissero presi a ritroso e smontati delle loro più importanti innovazioni.
 
 \"Tutto ciò che abbiamo costruito non si limiterà a deteriorarsi\" rifletté il fisico.
 
@@ -6023,7 +6144,7 @@ Leon si fermò. \"Stai dicendo che le nostre tecnologie diventeranno sorgenti di
 
 \"Forse per un breve periodo. Calore, soprattutto. È difficile prevedere i dettagli. Ma in linea di principio dovrebbe essere così.\"
 
-L\'immagine che si formò nella mente di Leon fu inquietante: tecnologie in decadimento che esalavano l'ultimo respiro: l'energia impiegata a costruirle. Lo scenario era apocalittico.
+L\'immagine che si formò nella mente di Leon fu inquietante: tecnologie in decadimento che esalavano l'ultimo respiro, emettendo l'energia impiegata a costruirle. Lo scenario era apocalittico.
 
 Tra le fronde il sole stava scendendo verso l\'orizzonte. Leon osservò il disco arancione filtrare tra gli alberi. \"E tutta quell\'energia liberata\... dove va a finire?\"
 
@@ -6031,81 +6152,157 @@ Alex seguì il suo sguardo. \"Esattamente da dove è arrivata.\"
 
 La risposta era di fronte a loro.
 
-\"Al sole.\" Gran parte dell\'energia che aveva alimentato la vita, l\'agricoltura, l\'industria e l\'intera civiltà umana proveniva, direttamente o indirettamente, dal Sole.
+\"Al sole.\" Gran parte dell\'energia che aveva alimentato la vita, l\'agricoltura, l\'industria e l\'intera civiltà umana proveniva, direttamente o indirettamente, dal Sole. Il fisico si fermò. \"Il rilascio entropico non è altro che un gigantesco riequilibrio. Diecimila anni di ordine che vengono restituiti al sistema.\"
 
-\"Il rilascio entropico non sarebbe altro che un gigantesco riequilibrio. Diecimila anni di ordine che vengono restituiti al sistema.\"
-
-\"Una cosa è certa,\" disse infine Leon. \"I guasti alle infrastrutture informatiche sono la prima avvisaglia, la prova che le nostre teorie potrebbero essere corrette. Dobbiamo assolutamente parlarne alla FSU.\"
+\"Una cosa è certa,\" disse infine Leon. \"I guasti alle infrastrutture informatiche sono la prima avvisaglia, la prova definitiva delle nostre teorie. Dobbiamo assolutamente parlarne alla FSU.\"
 
 \[STACCO\]
 
-Venti minuti dopo, Leon chiuse il portatile con uno scatto.
+Fecero ritorno al villaggio. Prima ancora di raggiungere la guesthouse, Leon chiese a Marie di comporre un messaggio per il consiglio amministrativo della FSU.
 
-\"Ecco. È fatta.\" Nel messaggio diretto al presidente Carlson aveva riassunto tutte le scoperte e le conclusioni a cui erano arrivati. \"Ora non si torna più indietro.\"
+Inclusero tutti i dettagli, cercando il modo più semplice per rendere plausibile l'assurda conseguenza delle loro scoperte.
+
+Venti minuti dopo, Leon inviò il report completo.
+
+\"Ecco, è fatta. Ora non si torna più indietro.\"
 
 Proprio in quel momento Zali raggiunse la veranda. Doveva essere tornata per aggiornare la situazione al villaggio, ma si fermò non appena incrociò i loro sguardi.
 
 \"Che succede?\"
 
-Fu Alex a risponderle. Le raccontò in poche parole dell\'ipotesi sul ciclo temporale e sull'entropia.
+Fu Alex a risponderle. Le raccontò in poche parole dell\'ipotesi sul ciclo temporale, dell\'entropia, della possibilità che la crisi fosse molto più vicina di quanto avessero immaginato, e della decisione di contattare la FSU.
 
-E della decisione di contattare la FSU.
+\"Ci richiameranno molto presto,\" concluse. \"Se quello che pensiamo è vero, la situazione è troppo importante perché ci lascino qui senza intervenire.\"
 
-\"Probabilmente ci richiameranno molto presto,\" concluse. \"A breve\... dovremo tornare a New York.\"
+Zali rimase interdetta. \"Quanto presto?\"
 
-Zali rimase in silenzio. \"Così presto?\" Di tutte quelle rivelazioni, sembrava essere ciò che più la preoccupava.
+Di tutte le rivelazioni appena ricevute, sembrava essere quella che l\'aveva colpita di più.
 
-Alex abbassò appena lo sguardo. \"Temo di sì.\"
+Alex abbassò appena lo sguardo. \"Settimane. Forse giorni.\"
 
-Il silenzio che seguì sembrò più lungo del necessario.
+Il silenzio che seguì sembrò allungarsi più del necessario.
 
-\"Capisco,\" disse infine Zali. La voce era tranquilla, ma Leon colse quel leggero irrigidirsi delle spalle che aveva imparato ad associare alle notizie difficili. \"È quello che devi fare.\"
+\"Capisco,\" disse infine Zali. La sua voce era tranquilla, ma Leon colse quel lieve irrigidirsi delle spalle che aveva imparato ad associare alle notizie difficili. \"È quello che devi fare.\"
 
-Alex annuì senza convinzione. \"Sì.\"
+Alex annuì senza particolare convinzione. \"Sì.\"
 
-Un\'altra pausa.
+Per qualche istante nessuno aggiunse altro.
 
-Poi Alex sorrise appena, quasi a disagio. \"Quando sono arrivato qui ero convinto che la parte complicata di questa spedizione sarebbero state le rovine.\" Alzò gli occhi verso di lei.
+Poi Alex lasciò affiorare un sorriso appena accennato. \"Quando sono arrivato qui ero convinto che la parte complicata di questa spedizione sarebbero state le rovine.\"
 
-Zali ricambiò lo sguardo. Per un momento sembrò cercare una risposta, ma non disse nulla.
+Alzò gli occhi verso di lei.
 
-Leon abbassò lo sguardo sul bicchiere ormai vuoto. Ebbe l\'impressione di essere di troppo.
+Zali sostenne il suo sguardo e, per un momento, sembrò sul punto di rispondere. Alla fine si limitò a sorridere appena.
 
-\"Vado a prendere qualcosa da bere.\"
+Leon abbassò gli occhi, con la netta sensazione di essere diventato improvvisamente superfluo. \"Vado a prendere qualcosa da bere.\"
 
 Nessuno dei due rispose. Non sembrarono nemmeno sentirlo.
 
-Leon riempì due bicchieri dalla brocca appoggiata sul tavolo poco distante, prendendosi ben più del tempo necessario.
+Leon raggiunse la brocca appoggiata sul tavolo poco distante e iniziò a riempire tre bicchieri, prendendosi deliberatamente più tempo del necessario.
 
-"Da noi esiste una tradizione," disse infine Zali, tormentando un tovagliolo di carta.
+Sentì Zali espirare lentamente. \"Non tornerete, vero?\"
 
-Alex la guardò senza interromperla.
+Era formulata come una domanda, ma suonava più come una constatazione.
 
-\"Due persone possono fare una promessa davanti agli anziani. Non è un matrimonio,\" precisò subito, con un lieve rossore sulle guance. \"È soltanto un modo per dirsi che, qualunque cosa accada nel frattempo, proveranno a ritrovarsi.\"
+Alex rimase in silenzio per qualche secondo.
 
-Alex rimase in silenzio.
+\"Qualcuno dovrà tornare. Ci saranno mesi di analisi, nuovi scavi, altri studi.\" Esitò appena. \"Ma non so se servirà ancora un fisico qui. Potrebbero assegnarmi ad altro.\"
 
-\"Non devi rispondermi adesso,\" aggiunse Zali. \"Anzi\... preferisco che ci pensi bene. Se dirai di sì, ne sarò felice. Se dirai di no\...\" abbassò gli occhi per un istante. \"Capirò anche quello.\"
+Zali annuì senza commentare.
 
-Per qualche secondo nessuno parlò.
+\"D\'altra parte,\" continuò lui, \"se dipendesse da me, farei il possibile per essere tra quelli che torneranno.\"
 
-\"Io\...\" iniziò Alex. Ma Zali gli posò l'indice sulla bocca in un gesto delicato.
+Per qualche secondo Zali rimase a osservare il villaggio oltre la veranda.
 
-\"Non ora. Pensaci.\"
+Alcuni bambini correvano tra le case, mentre un motorino di passaggio alzò una nuvola di polvere rossastra.
 
-Poi si voltò in fretta e sparì tra le case del villaggio.
+Non sembrava particolarmente convinta. \"Solo per lavoro?\"
 
-Alex rimase a seguirla con lo sguardo. Solo allora Leon gli porse uno dei bicchieri.
+La domanda colse Alex alla sprovvista.
 
-Alex lo prese senza nemmeno guardarlo. Sul suo volto si leggeva un miscuglio quasi comico di stupore, felicità e assoluto panico.
+\"No.\" La risposta arrivò quasi immediatamente. \"Non solo per quello.\"
 
-Bevve un sorso.
+Per la prima volta da quando era iniziata la conversazione, qualcosa si rilassò nell\'espressione di Zali.
+
+Rimase in silenzio ancora qualche istante.
+
+Poi sorrise.
+
+Un sorriso diverso dai soliti. Più incerto.
+
+\"Da noi esiste una tradizione.\"
+
+Alex inclinò leggermente la testa. \"Che tipo di tradizione?\"
+
+\"Due persone possono fare una promessa davanti agli anziani.\"
+
+Alex non disse nulla.
+
+\"Non è un fidanzamento,\" si affrettò a precisare lei, quasi anticipando un\'obiezione. \"E non è nemmeno qualcosa che obbliga a restare insieme.\"
+
+Abbassò lo sguardo verso le proprie mani.
+
+\"È solo un modo per dire che, qualunque strada prenderanno, due persone proveranno a ritrovarsi.\"
+
+\"Ah.\"
+
+Leon chiuse gli occhi per un istante. Era probabilmente la risposta meno brillante che avesse mai sentito pronunciare ad Alex.
+
+Zali lasciò sfuggire una breve risata nervosa. \"Vedi? Per questo non volevo dirtelo.\"
+
+\"No, aspetta. Non è che\...\" Alex si grattò i capelli.
+
+Per la prima volta da quando Leon lo conosceva, sembrava completamente privo di parole. Lo aveva visto discutere con ministri, dirigenti della FSU e premi Nobel senza il minimo imbarazzo.
+
+Adesso invece sembrava uno studente impreparato davanti alla domanda più importante dell\'esame.
+
+E, cosa ancora più strana, non sembrava affatto contrariato; anzi, Leon colse in quel suo imbarazzo qualcosa che somigliava chiaramente a un assenso, come se stesse già accettando.
+
+Zali, però, parve interpretare quel silenzio in modo diverso. Il suo sorriso vacillò appena. \"Forse è una sciocchezza.\"
+
+\"No.\" La risposta di Alex arrivò troppo in fretta per essere studiata. \"No, non è questo.\" Per un istante cercò le parole giuste. \"È che non me l\'aspettavo.\"
+
+Zali lo osservò attentamente.
+
+Alex lasciò sfuggire una breve risata incredula. \"Sto solo cercando di capire come rispondere senza sembrare un completo idiota.\"
+
+Questa volta il sorriso che comparve sul volto di Zali fu autentico.
+
+Anche il lieve imbarazzo che le colorò le guance sembrò dissolversi.
+
+Nel frattempo Leon si accorse che il bicchiere che stava riempiendo aveva ormai superato il limite da parecchi secondi. Una piccola cascata di succo stava scendendo sul tavolo.
+
+Posò rapidamente la brocca e cercò della carta assorbente. Forse, pensò mentre asciugava il disastro, aveva sottovalutato quanto quei due fossero diventati vicini.
+
+\"Non devi rispondere adesso,\" disse Zali. \"Anzi, preferisco che tu non lo faccia.\"
+
+Alex sembrò sul punto di replicare. Poi rinunciò.
+
+Zali si alzò. \"Prendi il tuo tempo e pensaci seriamente.\"
+
+Si voltò e uscì dalla veranda prima che Alex riuscisse a fermarla.
+
+Lui rimase a seguirla con lo sguardo finché non scomparve tra le case del villaggio.
+
+Solo allora Leon tornò verso il tavolo e gli porse uno dei bicchieri.
+
+Alex lo prese distrattamente, come se non si fosse nemmeno accorto del gesto.
+
+Rimase immobile per qualche secondo, lo sguardo ancora perso nel punto in cui Zali era sparita. Sembrava completamente disorientato, come se qualcuno gli avesse appena riorganizzato la realtà senza preavviso.
+
+\"Ok,\" disse infine, più a se stesso che a Leon. \"Questa non me l'aspettavo.\" Lasciò uscire una risata breve. Sembrava ancora sotto shock.
+
+Leon non poteva dargli torto. A dispetto di quel che dicesse Zali, a lui quella sembrava una proposta di fidanzamento bella e buona.
+
+\"Non sono sicuro che mi abbiano dato un manuale per questa parte della missione.\"
+
+\"Non esiste un manuale per questa parte della missione,\" rispose Leon.
+
+Alex annuì lentamente, come se la cosa peggiorasse la situazione invece di migliorarla.
+
+Bevve un lungo sorso.
 
 \"Non hai qualcosa di alcolico?\"
-
-\[STACCO\]
-
-\[STACCO\]
 
 \[STACCO\]
 
@@ -6117,7 +6314,7 @@ Nadia era sicura che Mira fosse pronta ad affrontarla da un momento all'altro. E
 
 La routine quotidiana ebbe inizio come se nulla fosse successo, ma Nadia, nervosa, fece cadere più volte il pettine mentre acconciava i capelli della donna. Ogni tanto i loro sguardi si sfioravano, ma il gelo che lei temeva non c'era. C\'era solo quella stessa compostezza, quella presenza solenne. Capì che Mira era determinata a far finta che nulla fosse successo la scorsa notte.
 
-Alla fine, terminati i suoi compiti, Nadia si ritirò. Simpatia, aveva detto Mira. Nadia voleva crederci, ma non ci riusciva: Mira l\'aveva protetta perché aveva ancora bisogno di lei. Forse la vedeva come una pedina, un ingranaggio del suo piano. Non voleva ancora sacrificarla. Ma quando non sarebbe più stata utile, sarebbe stata tolta di torno*.* Questa consapevolezza le serrava la gola.
+Alla fine, terminati i suoi compiti, Nadia si ritirò. Simpatia, aveva detto Mira. Nadia voleva crederci, ma non ci riusciva: Mira l\'aveva protetta perché aveva ancora bisogno di lei. Forse la vedeva come una pedina, un ingranaggio del suo piano. Forse un modo per arrivare alla Setta. Non voleva ancora sacrificarla, ma quando non sarebbe più stata utile, sarebbe stata tolta di torno*.* Questa consapevolezza le serrava la gola.
 
 Entrò nella sua piccola stanza, chiudendosi la porta alle spalle. D'un tratto si sentì in trappola, in un palazzo dal quale non poteva uscire, circondata da persone di cui non poteva fidarsi. Lacrime di disperazione le sgorgarono dagli occhi contro la sua volontà. Nadia pianse per minuti, singhiozzando come non faceva da anni.
 
@@ -6131,7 +6328,7 @@ Joira si fermò di colpo, la camicetta abbottonata a metà, e girò lentamente l
 
 Nadia mantenne lo sguardo fermo. \"So che vedi qualcuno,\" ripeté. \"Fuori dal palazzo.\"
 
-Joira sembrava agitata, e Nadia seppe che la sua intuizione era giusta. \"È un uomo, vero?\" indovinò, con la precisione di un investigatore.
+Joira sembrava agitata, e Nadia seppe di averci preso. \"È un uomo, vero?\" indovinò, con la precisione di un investigatore.
 
 \"Non sono affari tuoi\" disse lei con decisione.
 
@@ -6143,7 +6340,7 @@ Nadia inspirò profondamente. \"Ho bisogno di uscire, e non posso essere scopert
 
 Joira incrociò le braccia, i suoi occhi ancora fissi su di lei, come a studiare le sue vere intenzioni.
 
-\"Il tuo segreto in cambio del mio silenzio,\" azzardò lei. Cercò di far passare la proposta come un accordo tra amiche, più che come una minaccia. Non aveva intenzione di ricattare la ragazza: aveva già abbastanza nemici all'interno del palazzo.
+\"Il tuo segreto in cambio del mio silenzio,\" azzardò lei. Cercò di far passare la proposta come un accordo tra amiche, più che come una minaccia.
 
 Joira valutò rapidamente la situazione, poi abbassò la voce, guardandosi intorno con circospezione. \"C'è una stanza non custodita nell'ala est. È al piano terra, e la finestra dà proprio sul giardino. Ma il corridoio che porta laggiù non è sempre accessibile. Di solito è sorvegliato.\"
 
@@ -6169,9 +6366,11 @@ Nadia esitò solo un istante, poi lasciò scivolare l\'antico pendente nella man
 
 L'idea di coinvolgere suo fratello la faceva stare male: non tanto per il modo brusco in cui si erano lasciati, ma perché non voleva costringerlo nella situazione rischiosa in cui si era ficcata. Ma per quanto ci rimuginasse, non vedeva opzioni migliori.
 
+Stringendo il messaggio saldo nel pugno, si diresse verso la statua di ebano.
+
 \[STACCO\]
 
-Quel venerdì sera, Nadia aprì la porta della sua stanza con un lieve cigolio e scivolò fuori. Si diresse verso l\'ala est del palazzo, come Joira le aveva indicato. Il pensiero di aver sacrificato il prezioso pendente le pesava nella mente, e non poteva fare a meno di chiedersi se tutto ciò fosse inutile: la setta non aveva avuto modo di farle avere una risposta scritta. Akil aveva davvero ricevuto il messaggio? O Nadia aveva ceduto il suo gioiello per nulla?
+Quel venerdì sera, Nadia aprì la porta della sua stanza con un lieve cigolio e scivolò fuori. Si diresse verso l\'ala est del palazzo, come Joira le aveva indicato. Il pensiero di aver sacrificato il prezioso pendente le pesava nella mente, e non poteva fare a meno di chiedersi se tutto ciò fosse inutile: la Setta non aveva avuto modo di farle avere una risposta scritta. Akil aveva davvero ricevuto il messaggio? O Nadia aveva ceduto il suo gioiello per nulla?
 
 Senza intoppi, raggiunse la stanza di cui Joira aveva parlato. Era una sala con un largo tavolo al centro, forse adibita a riunioni o consigli. Tre grandi finestre si affacciavano sul buio della notte. Cautamente, Nadia si affacciò verso il giardino sottostante. L\'aria notturna le carezzò il viso, tiepida e profumata di fiori. Inspirò profondamente: ora che era praticamente in detenzione nel palazzo, quella boccata d'aria estiva sapeva più che mai di libertà.
 
@@ -6203,17 +6402,17 @@ Lei annuì, trattenendo le lacrime. \"Anche tu mi sei mancato. Non so perché ci
 
 Akil non la rimproverò. Non accennò a quanto fosse stata incauta Nadia ad accettare quella missione per la Setta, e Nadia le fu profondamente grata: sapeva benissimo che quella missione era un rischio tremendo. \"Come posso aiutarti?\" disse semplicemente il fratello.
 
-Nadia prese un respiro profondo, cercando di mantenere la calma. \"La setta sta cercando di aiutarmi a liberare papà, ma ho bisogno di un modo per farli infiltrare nel palazzo. Akil, tu lavori alla piramide. C'è qualcosa che possiamo usare? Qualche passaggio segreto, qualcosa che non sia sorvegliato?\"
+Nadia prese un respiro profondo, cercando di mantenere la calma. \"La Setta sta cercando di aiutarmi a liberare papà, ma ho bisogno di un modo per farli infiltrare nel palazzo. Akil, tu lavori alla piramide. C'è qualcosa che possiamo usare? Qualche passaggio segreto, qualcosa che non sia sorvegliato?\"
 
-Akil sembrò preoccupato, il viso seminascosto nell'ombra di un arbusto. \"Nadia, sei sicura che la setta voglia davvero liberare nostro padre? Non hai pensato che potresti essere parte di\... un piano più grande?\" Akil scelse con cura le parole, Nadia capì che non voleva offenderla.
+Akil sembrò preoccupato, il viso seminascosto nell'ombra di un arbusto. \"Nadia, sei sicura che la Setta voglia davvero liberare nostro padre? Non hai pensato che potresti essere parte di\... un piano più grande?\" Akil scelse con cura le parole, Nadia capì che non voleva offenderla.
 
-\"Non lo so,\" ammise lei, scuotendo il capo. Finora aveva riposto piena fiducia nella setta, ma le accuse velate di Akil risuonarono come una possibilità concreta. Forse Nadia si stava abituando a essere trattata come una pedina al punto che non le importava neanche più.
+\"Non lo so,\" ammise lei, scuotendo il capo. Finora aveva riposto piena fiducia nella Setta, ma le accuse velate di Akil risuonarono come una possibilità concreta. Forse Nadia si stava abituando a essere trattata come una pedina al punto che non le importava neanche più.
 
 Per un attimo tra i due calò il silenzio.
 
 \"C'è un passaggio temporaneo, riservato ai lavoratori,\" disse infine il fratello. \"Lo usiamo per trasportare materiali fuori e dentro la piramide. È uno stretto cunicolo collocato circa a due terzi dell'altezza della piramide stessa, e verrà chiuso presto, non appena non sarà più necessario. Bisogna salire tramite un montacarichi, e poi entrare. Ma non sarà facile, le guardie lo controllano durante i turni di lavoro.\"
 
-Nadia sentì una scintilla di speranza. \"Dobbiamo farcelo bastare. Akil, resta in contatto con la setta. Devi collaborare con loro d'ora in poi,\" disse, la voce supplicante. \"Organizzeremo un piano, sfruttando quella falla. Io creerò un diversivo. Ti farò sapere presto cosa fare, ma ora devo andare. Scusami per averti coinvolto in questa situazione.\"
+Nadia sentì una scintilla di speranza. \"Dobbiamo farcelo bastare. Akil, resta in contatto con la Setta. Devi collaborare con loro d'ora in poi,\" disse, la voce supplicante. \"Organizzeremo un piano, sfruttando quella falla. Io creerò un diversivo. Ti farò sapere presto cosa fare, ma ora devo andare. Scusami per averti coinvolto in questa situazione.\"
 
 Ma Akil la trattenne per la manica. \"Nadia,\" disse con tono quasi supplicante. \"Lascia perdere tutto questo. È troppo rischioso. Possiamo andarcene insieme, lontano da qui. Nessuno ci troverà.\"
 
@@ -6225,9 +6424,9 @@ Nadia esitò. Non ci aveva quasi pensato. Ora che era fuori dal palazzo, poteva 
 
 Nadia deglutì. Stava per ribattere che non avrebbe rischiato la vita, ma avrebbe solo mentito a sé stessa. \"Non posso arrendermi,\" disse invece. \"Non adesso. La Setta delle Ombre ci sta aiutando, e ora che sappiamo come entrare\...\"
 
-Akil si morse il labbro. Che si fosse pentito di aver rivelato l'esistenza di quel passaggio, di aver dato alla sorella una speranza? Ma ormai il danno era fatto. Non c'era modo di convincere Nadia. \"Sei sempre stata testarda,\" mormorò. \"D'accordo. Sono dei vostri. Mi terrò in contatto con la setta, puoi contare su di me.\"
+Akil si morse il labbro. Che si fosse pentito di aver rivelato l'esistenza di quel passaggio, di aver dato alla sorella una speranza? Ma ormai il danno era fatto. Non c'era modo di convincere Nadia. \"Sei sempre stata testarda,\" mormorò. \"D'accordo. Sono dei vostri. Mi terrò in contatto con la Setta, puoi contare su di me.\"
 
-\"Grazie\" disse Nadia, colma di riconoscenza. Il divario tra loro era improvvisamente scomparso, e questo era più importante di qualsiasi rischio, di qualsiasi missione.
+\"Grazie\" disse Nadia, sentendo il peso sul petto alleviarsi un poco. Il divario tra loro era scomparso, e questo era più importante di qualsiasi rischio, di qualsiasi missione.
 
 Lui la strinse di nuovo brevemente. \"Stai attenta, Nadia. Non voglio perderti di nuovo.\"
 
@@ -6239,7 +6438,7 @@ Nei giorni successivi, un piano cominciò a prendere forma nel cervello laborios
 
 Naturalmente non poteva comunicare i dettagli del piano tramite il sistema del messaggio dietro la statua: Lord Garnak avrebbe potuto rivelare il tentativo d'intrusione all'imperatore, che avrebbe sicuramente teso una trappola. Ma il piano di Nadia era sfruttare questo fatto a proprio vantaggio.
 
-Non appena le condizioni lo permisero, estrasse penna e inchiostro e meditò per vari minuti sulle parole esatte da scrivere. Quando fu soddisfatta del risultato, Nadia piegò il messaggio, infilandoselo nella tasca più nascosta della tunica.
+Non appena le condizioni lo permisero, estrasse penna e inchiostro e meditò per vari minuti sulle parole esatte da scrivere. Quando fu soddisfatta del risultato, Nadia rilesse il messaggio, prima di infilarselo nella tasca più nascosta della tunica.
 
 \[STACCO\]
 
@@ -6266,11 +6465,11 @@ Nadia alzò le spalle, senza preoccuparsi di nascondere nulla. Sentì uno strano
 
 \[STACCO\]
 
-Il lavoro di Nadia come ancella doveva continuare fino all'ultimo, impeccabile come sempre per non destare sospetti. Anche se quello sembrava un giorno come un altro, Nadia sapeva bene che non era così. In un modo o nell'altro quella routine si sarebbe conclusa presto. Mancavano due giorni all'intrusione della setta, e Lord Garnak avrebbe già dovuto prelevare il messaggio, stando ai tempi con cui di solito controllava il retro della statua. Il dado era tratto, non restava che aspettare.
+Il lavoro di Nadia come ancella doveva continuare fino all'ultimo, impeccabile come sempre per non destare sospetti. Anche se quello sembrava un giorno come un altro, Nadia sapeva bene che non era così. In un modo o nell'altro quella routine si sarebbe conclusa presto. Mancavano due giorni all'intrusione della Setta, e Lord Garnak avrebbe già dovuto prelevare il messaggio, stando ai tempi con cui di solito controllava il retro della statua. Il dado era tratto, non restava che aspettare.
 
 Come ogni mercoledì, la ragazza entrò nella stanza da bagno di Mira, chiudendo la porta alle sue spalle con un leggero scatto. La luce del tardo pomeriggio filtrava dalle ampie finestre, dorata e morbida, scivolando sui marmi bianchi e sulle tende di seta. Il silenzio della stanza sembrava denso, come se ogni suono fosse assorbito dai tessuti preziosi e dalle pareti.
 
-Mira era già immersa nell\'acqua del suo bagno, il corpo slanciato che si rilassava tra i vapori caldi. I suoi capelli, scuri e ondulati, erano raccolti sulla nuca, lasciando intravedere un paio di semplici orecchini, unico dettaglio che separava la donna dalla completa nudità. Il volto era privo di espressione, immerso in quella calma impenetrabile che Nadia aveva imparato a conoscere così bene. Non c\'era nulla che potesse tradire cosa stesse pensando, quali segreti potesse nascondere dietro quegli occhi impenetrabili.
+Mira era già immersa nell\'acqua del suo bagno, il corpo morbido che si rilassava tra i vapori caldi. I suoi capelli, scuri e ondulati, erano raccolti sulla nuca, lasciando intravedere un paio di semplici orecchini, unico dettaglio che separava la donna dalla completa nudità. Il volto era privo di espressione, immerso in quella calma impenetrabile che Nadia aveva imparato a conoscere così bene. Non c\'era nulla che potesse tradire cosa stesse pensando, quali segreti potesse nascondere dietro quegli occhi impenetrabili.
 
 \"Eccoti.\" La voce di Mira, eterea e distante, rimbalzò sulle pareti del bagno. Nadia abbassò lo sguardo mentre si avvicinava al bordo della vasca. L\'acqua era limpida, e sembrava amplificare la presenza di Mira, come se il suo corpo fosse parte di quell\'elemento fluido e intoccabile. Lo sguardo di Nadia si soffermò quasi contro la sua volontà su quel corpo morbido e seducente.
 
@@ -6294,7 +6493,7 @@ Era immersa nell'acqua calda, i capelli raccolti sulla nuca e la testa leggermen
 
 \[STACCO\]
 
-Nadia chiamò a raccolta tutte le ore trascorse con Lord Garnak e con gli uomini della setta. La storia era stata preparata da tempo, costruita con cura e dettagli verosimili. Non c'era niente da temere: cercò di rilassare le spalle e di assumere un tono naturale.
+Nadia chiamò a raccolta tutte le ore trascorse con Lord Garnak e con gli uomini della Setta. La storia era stata preparata da tempo, costruita con cura e dettagli verosimili. Non c'era niente da temere: cercò di rilassare le spalle e di assumere un tono naturale.
 
 \"Sono cresciuta nella tenuta di mio zio, Lord Garnak, nella provincia di Jenna. La vita laggiù è molto diversa da quella della capitale. Non mancano le comodità, naturalmente, ma tutto procede con più lentezza. Quando ero bambina passavo molto tempo nei giardini e nei frutteti della proprietà, e per anni ho pensato che il mondo finisse poco oltre i confini della tenuta.\"
 
@@ -6334,7 +6533,7 @@ Fu Mira a rompere il silenzio.
 
 \"Sai perché sei stata scelta come mia ancella?\"
 
-La domanda la colse completamente impreparata. Aveva sempre attribuito la propria presenza a corte alle manovre di Garnak e della setta, senza interrogarsi troppo sulle ragioni ufficiali della scelta. Era davvero la candidata migliore? O c'era una ragione diversa?
+La domanda la colse completamente impreparata. Aveva sempre attribuito la propria presenza a corte alle manovre di Garnak e della Setta, senza interrogarsi troppo sulle ragioni ufficiali della scelta. Era davvero la candidata migliore? O c'era una ragione diversa?
 
 \"Immagino per la mia famiglia,\" rispose. \"Per il mio lignaggio.\"
 
@@ -6368,7 +6567,7 @@ Nadia sentì il cuore accelerare.
 
 Per un istante, Nadia rimase immobile. Non sapeva come interpretare quell\'invito. Una parte di lei temeva di essere stata attirata in una trappola; un\'altra sospettava che Mira volesse confidarle qualcosa. Forse avrebbe ottenuto finalmente le risposte che cercava.
 
-Ma tutto ciò non importava: se i piani fossero andati come previsto, quel colloquio non sarebbe mai arrivato. La setta avrebbe fatto irruzione prima dell'appuntamento, e lei sarebbe scappata lontana, con suo fratello e suo padre. Non avrebbe mai saputo cosa Mira avrebbe voluto dirle.
+Ma tutto ciò non importava: se i piani fossero andati come previsto, quel colloquio non sarebbe mai arrivato. La Setta avrebbe fatto irruzione prima dell'appuntamento, e lei sarebbe scappata lontana, con suo fratello e suo padre. Non avrebbe mai saputo cosa Mira avrebbe voluto dirle.
 
 Esitò, indecisa se insistere per parlarne ora, chiedere cosa l'Alta Sacerdotessa potesse mai volere da lei, ma non trovò il coraggio. Abbassò il capo per nascondere il turbamento.
 
@@ -6458,7 +6657,7 @@ Il cuore mancò un battito.
 
 La corona.
 
-L\'aveva vista raffigurata nella Sala del Trono, nelle profondità delle rovine, sul capo dei sovrani rappresentati nei bassorilievi. E prima ancora l\'aveva notata proprio lì, durante la sua prima visita al santuario.
+L\'aveva vista raffigurata nella sala del trono, nelle profondità delle rovine, sul capo dei sovrani rappresentati nei bassorilievi. E prima ancora l\'aveva notata proprio lì, durante la sua prima visita al santuario.
 
 Per un istante dimenticò il rito in corso. Con un battito di ciglia i VisionLink scattarono una foto al monile.
 
@@ -6498,7 +6697,7 @@ Leon attivò i suoi occhiali e aprì l\'archivio delle immagini. Dopo qualche is
 
 \"Guarda questa.\"
 
-L\'immagine ritraeva il bassorilievo della Sala del Trono. Al centro sedeva uno dei sovrani, avvolto nelle sue vesti scolpite nella pietra. E sul capo portava una corona.
+L\'immagine ritraeva il bassorilievo della sala del trono. Al centro sedeva uno dei sovrani, avvolto nelle sue vesti scolpite nella pietra. E sul capo portava una corona.
 
 Zali osservò lo schermo per qualche secondo.
 
@@ -6788,9 +6987,9 @@ Ma era un diversivo.
 
 Il vero messaggio, naturalmente, era nascosto nelle prime parole di ciascuna riga: \"Non è il vero piano. Varco nella piramide, stessa ora, stesso giorno.\"
 
-Il messaggio criptato non era al livello di quello che la setta aveva usato con lei, ma aveva fatto del suo meglio. Si era sentita soddisfatta della sua idea, quasi compiaciuta dell'acume con cui aveva soggiogato Garnak.
+Il messaggio criptato non era al livello di quello che la Setta aveva usato con lei, ma aveva fatto del suo meglio. Si era sentita soddisfatta della sua idea, quasi compiaciuta dell'acume con cui aveva soggiogato Garnak.
 
-L\'idea era semplice: secondo i suoi calcoli, il nobile avrebbe preso il messaggio e l'avrebbe immediatamente riferito all'imperatore. Le guardie si sarebbero appostate nell'ala est, per tendere un'imboscata alla setta, che invece si sarebbe trovata da tutt'altra parte, con sorveglianza minima e facile accesso.
+L\'idea era semplice: secondo i suoi calcoli, il nobile avrebbe preso il messaggio e l'avrebbe immediatamente riferito all'imperatore. Le guardie si sarebbero appostate nell'ala est, per tendere un'imboscata alla Setta, che invece si sarebbe trovata da tutt'altra parte, con sorveglianza minima e facile accesso.
 
 O almeno così sperava.
 
@@ -7474,7 +7673,7 @@ Sentì le braccia rudi di uno degli uomini sollevarla di peso. \"Cammina!\" le o
 
 La condussero giù, lungo i corridoi della piramide. Attraversarono la sala delle scritture, dove le incisioni brillavano debolmente alla luce delle torce. Nadia inciampò su uno scalino, e cadde a terra con violenza. La guardia non si fermò, tirandola su per un braccio con uno strattone brutale. Il dolore che le attraversava il corpo era lancinante, ma peggio ancora era la paura.
 
-Le ombre del corridoio si aprirono all\'improvviso in un\'esplosione di luce. Oltre la soglia, una sala immensa la accolse con la sua maestosità quasi irreale. Nadia sollevò a fatica lo sguardo: colonne imponenti, arazzi ricamati, bassorilievi dai colori vividi. Sul fondo, il grande calendario rituale. Era nella Sala del Trono.
+Le ombre del corridoio si aprirono all\'improvviso in un\'esplosione di luce. Oltre la soglia, una sala immensa la accolse con la sua maestosità quasi irreale. Nadia sollevò a fatica lo sguardo: colonne imponenti, arazzi ricamati, bassorilievi dai colori vividi. Sul fondo, il grande calendario rituale. Era nella sala del trono.
 
 Tutto sembrava appartenere a un altro mondo, lontano anni luce dalla polvere e dal sangue che le ricoprivano la pelle.
 
@@ -7532,7 +7731,7 @@ Nadia sostenne il suo sguardo. \"Non lo sapevo, maestà.\"
 
 \"Non osare mentirmi. Sei in combutta con i ribelli?\"
 
-Nadia esitò. Era ironico: era stata lei a orchestrare l'arrivo della setta, e ora veniva accusata di qualcosa che, in realtà, era accaduto quasi per caso.
+Nadia esitò. Era ironico: era stata lei a orchestrare l'arrivo della Setta, e ora veniva accusata di qualcosa che, in realtà, era accaduto quasi per caso.
 
 \"Mi accusate di essere in combutta con i ribelli, mio signore.\" si asciugò un rivolo di sangue dalla fronte. \"Vi siete mai chiesti perché esistono dei ribelli, là fuori?\"
 
@@ -7616,9 +7815,9 @@ Le guardie imperiali si lanciarono contro i ribelli, e la sala si trasformò in 
 
 Nadia, che era riuscita a trascinarsi in un angolo, rimase immobile, paralizzata dal dolore e dal rimorso. Quella carneficina. Era stata lei a renderla possibile. Tutto ciò che aveva fatto per salvare suo padre, per porre fine alle ingiustizie, si era trasformato in morte e vendetta. Solo ora che il sangue le schizzava i vestiti si rese conto di non aver mai desiderato niente di tutto ciò.
 
-I ribelli erano in superiorità numerica, ma le guardie erano meglio addestrate e meglio armate. La setta doveva ritirarsi e lasciare la sala del trono alla prima occasione. Combattere era futile, la loro missione era stata compiuta.
+I ribelli erano in superiorità numerica, ma le guardie erano meglio addestrate e meglio armate. La Setta doveva ritirarsi e lasciare la sala del trono alla prima occasione. Combattere era futile, la loro missione era stata compiuta.
 
-Mira era in un angolo. Khamal, dopo un breve scambio di colpi, trafisse a morte il soldato che la proteggeva. L'uomo crollò con un tonfo e un clangore di armatura. Il leader della setta era un combattente eccezionale, non c'era da stupirsi fosse stato uno dei migliori generali dell'imperatore.
+Mira era in un angolo. Khamal, dopo un breve scambio di colpi, trafisse a morte il soldato che la proteggeva. L'uomo crollò con un tonfo e un clangore di armatura. Il leader della Setta era un combattente eccezionale, non c'era da stupirsi fosse stato uno dei migliori generali dell'imperatore.
 
 Il leader ribelle si rivolse a Mira, con la spada a pochi centimetri dal suo petto. \"Ecco qui, il volto della religione dell'impero. Un concentrato di falsità e menzogne.\"
 
@@ -8650,7 +8849,7 @@ Cercando di frenare il tremito che le percorreva il corpo, Nadia raccontò cosa 
 
 \"Alla fine ho visto me stessa.\" La sua voce era un sussurro. \"Indossavo la corona... ma non accadeva nulla. Era come se fossi un'altra me, in una storia che avrebbe potuto avere un finale diverso.\"
 
-\"Ciò che dici non ha alcun senso\", disse Khamal, con tono aggressivo, il coltello stretto saldamente nella mano. \"Guardati Nadia: ti sei fatta soggiogare dalle loro stregonerie.\" L'uomo ragionevole e saggio che Nadia aveva conosciuto era scomparso. Il leader della setta sembrava spiritato, la bramosia di vendetta lo accecava completamente.
+\"Ciò che dici non ha alcun senso\", disse Khamal, con tono aggressivo, il coltello stretto saldamente nella mano. \"Guardati Nadia: ti sei fatta soggiogare dalle loro stregonerie.\" L'uomo ragionevole e saggio che Nadia aveva conosciuto era scomparso. Il leader della Setta sembrava spiritato, la bramosia di vendetta lo accecava completamente.
 
 L'imperatore fece un passo avanti, senza distogliere lo sguardo da Mira, ancora saldamente trattenuta dai ribelli. Nemmeno lui, il sovrano dell'impero, aveva compreso appieno la posta in gioco. Ma sapeva di chi fidarsi. \"Lasciate parlare Mira. Lei saprà spiegarvi tutta la storia.\"
 
