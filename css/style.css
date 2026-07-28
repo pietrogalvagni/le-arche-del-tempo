@@ -505,11 +505,14 @@ button.button{
     flex-shrink: 0;
 }
 
-.info-capitolo {
+.info-capitolo{
     display:flex;
     flex-direction:column;
     justify-content:center;
+    min-width:0;
+    padding-right:40px;
 }
+
 
 
 .info-capitolo h3,
@@ -527,7 +530,8 @@ button.button{
     display:-webkit-box;
     -webkit-box-orient:vertical;
     -webkit-line-clamp:2;
-    line-clamp:2;
+    line-clamp:2;    
+    overflow-wrap:anywhere;
 }
 
 
@@ -550,6 +554,29 @@ button.button{
     gap:6px;
     font-size:14px;
     opacity:0.8;
+    z-index:2;
+}
+
+.card.aperta .info-capitolo p{
+
+    display:block;
+
+    overflow:visible;
+
+    -webkit-line-clamp:unset;
+
+    line-clamp:unset;
+
+}
+
+
+.parti{
+    display:none;
+}
+
+
+.parti.aperta{
+    display:block;
 }
 
 /* =====================================
@@ -702,6 +729,22 @@ button.button{
 
 #tema{
     font-size:24px;
+}
+
+.gestione-lettura{
+    padding:20px;
+    text-align:center;
+}
+
+.gestione-lettura h3{
+    margin:0 0 10px;
+    font-size:16px;
+}
+
+.gestione-lettura p{
+    margin:0 0 15px;
+    font-size:14px;
+    opacity:0.75;
 }
 
 /* =====================================

@@ -203,9 +203,6 @@ function mostraParte(risultato){
             risultato.parte.testo
         );
 
-    console.log(risultato.parte.testo);
-    console.log(marked.parse(risultato.parte.testo));
-
 
     document.getElementById("testo")
     .innerHTML =

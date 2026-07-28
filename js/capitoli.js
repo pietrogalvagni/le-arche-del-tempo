@@ -124,12 +124,41 @@ function creaBottoneLettura(){
 }
 
 
+function creaAreaReset(){
+
+    const pulsanteReset =
+    document.getElementById("reset-progresso");
+
+
+    if(pulsanteReset){
+
+        pulsanteReset.addEventListener(
+            "click",
+            ()=>{
+
+                if(confirm(
+                    "Vuoi cancellare il progresso di lettura?"
+                )){
+
+                    resetProgresso();
+
+                    location.reload();
+
+                }
+
+            }
+        );
+
+    }
+}
 
 (async function(){
 
     await caricaRomanzo();
 
     creaIndice();
+
+    creaAreaReset();
 
     creaBottoneLettura();
 

@@ -146,6 +146,13 @@ function salvaCapitoloAperto(idCapitolo) {
 }
 
 
+function resetProgresso(){
+
+    localStorage.removeItem(
+        "progresso"
+    );
+
+}
 
 function getCapitoloAperto() {
 

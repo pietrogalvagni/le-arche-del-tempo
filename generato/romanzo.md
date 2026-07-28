@@ -3184,7 +3184,7 @@ id: la_setta
 tipo: capitolo
 titolo: La Setta
 descrizione: Nadia segue le tracce lasciate da suo padre e trova dei nuovi alleati.
-immagine: img/capitoli/la_setta.jpg
+immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
@@ -3552,7 +3552,7 @@ id: cambio_di_equilibri
 tipo: capitolo
 titolo: Cambio di equilibri
 descrizione: Il mondo è improvvisamente scosso da un evento imprevisto. Questo ha ripercussioni anche sul lavoro di Leon.
-immagine: img/capitoli/cambio_di_equilibri.jpg
+immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 

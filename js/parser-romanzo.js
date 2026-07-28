@@ -4,6 +4,7 @@ const PAROLE_PER_PARTE = 1200;
 
 async function caricaRomanzo(){
 
+    console.time("carica romanzo");
     let risposta =
         await fetch("generato/romanzo.md");
 
@@ -11,10 +12,14 @@ async function caricaRomanzo(){
     let testo =
         await risposta.text();
 
-
+console.timeLog(
+        "carica romanzo",
+        "fetch completato"
+    );
     romanzo =
         analizzaRomanzo(testo);
 
+    console.timeEnd("carica romanzo");
 
 }
 

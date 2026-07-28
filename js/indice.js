@@ -3,272 +3,301 @@ const contenitore = document.getElementById("indice");
 let capitoloAperto = getCapitoloAperto();
 
 
-function creaIndice() {
+function creaIndice(){
 
-    for (let cap of romanzo) {
+    for(let cap of romanzo){
 
         if(cap.tipo === "interludio"){
-
-            let elementoInterludio =
-                document.createElement("div");
-
-            elementoInterludio.className =
-                "interludio";
-
-
-            elementoInterludio.innerHTML = `
-
-                <div class="card card-interludio">
-
-                    <img 
-                        class="immagine-interludio"
-                        src="${cap.immagine}"
-                        alt="${cap.titolo}"
-                    >
-
-                    <div class="info-interludio">
-
-                        <h3>
-                            Interludio
-                        </h3>
-
-                        <h2>
-                            ${cap.titolo}
-                        </h2>
-
-                    </div>
-
-                    <div class="progresso-interludio">
-                </div>
-
-                
-
-            `;  
-
-            let stato =
-            elementoInterludio.querySelector(".progresso-interludio");
-
-
-            if(parteLetta(cap.id)){
-
-                stato.innerHTML = `
-                    <div class="icona-progresso letto">
-                        ✓
-                    </div>
-                `;
-
-            }
-            let cardInterludio =
-                elementoInterludio.querySelector(".card-interludio");
-
-
-            cardInterludio.onclick=function(){
-
-                window.location.href =
-                "lettura.html?id=" + cap.id;
-
-            };
-
-
-            contenitore.appendChild(elementoInterludio);
-
-            continue;
-
+            creaCardInterludio(cap);
         }
-
-        let elementoCapitolo = document.createElement("div");
-
-        elementoCapitolo.className = "capitolo";
-
-
-        elementoCapitolo.dataset.id = cap.id;
-
-
-
-        elementoCapitolo.innerHTML = `
-
-
-            <div class="card card-capitolo">
-
-
-                <img 
-                    class="immagine-capitolo"
-                    src="${cap.immagine}"
-                    alt="${cap.titolo}"
-                >
-
-
-                <div class="info-capitolo">
-
-
-                    <h3>
-                        Capitolo ${cap.numero}
-                    </h3>
-
-
-                    <h2>
-                        ${cap.titolo}
-                    </h2>
-
-
-                    <p>
-                        ${cap.descrizione}
-                    </p>
-
-
-                </div>
-
-                <div class="progresso-capitolo">
-                </div>
-
-               
-
-
-            </div>
-
-
-
-            <div class="parti"></div>
-
-
-        `;
-
-
-
-        let listaParti =
-            elementoCapitolo.querySelector(".parti");
-        
-        let partiLette =
-            cap.parti.filter(
-                parte => parteLetta(parte.id)
-            ).length;
-
-
-        let totaleParti =
-            cap.parti.length;
-
-
-
-        let stato =
-            elementoCapitolo.querySelector(".progresso-capitolo");
-
-
-        let statoCap =
-            statoCapitolo(cap);
-
-
-        let icona="";
-
-        if(statoCap==="letto"){
-            icona="✓";
+        else{
+            creaCardCapitolo(cap);
         }
-        else if(statoCap==="lettura"){
-            icona="▶";
-        }
-
-
-        stato.innerHTML=`
-
-        <div class="icona-progresso ${statoCap}">
-        ${icona}
-        </div>
-
-        <div>
-        ${partiLette}/${totaleParti}
-        </div>
-
-        `;
-
-        cap.parti.forEach(parte => {
-            
-            let stato = statoParte(parte.id);
-
-            let simbolo = "";
-
-            if(stato === "letto"){
-                simbolo = "✓";
-            }
-
-            let numeroParte =
-                cap.parti.indexOf(parte) + 1;
-            
-            let elementoParte=document.createElement("div");
-
-            elementoParte.className="scheda-parte";
-
-            elementoParte.innerHTML = `
-
-                <span>
-                    Parte ${numeroParte}
-                </span>
-
-                <span class="stato">
-                ${simbolo}
-                </span>
-
-            `;
-
-            elementoParte.onclick=function(){
-
-                window.location.href=
-                "lettura.html?id=" + parte.id;
-
-            };
-
-            listaParti.appendChild(elementoParte);
-
-
-        });
-
-
-
-        elementoCapitolo
-        .querySelector(".card-capitolo")
-        .onclick=function(){
-
-            let aperto=
-            listaParti.classList.contains("aperta");
-
-
-            if (aperto){
-
-                listaParti.classList.remove("aperta");
-
-                salvaCapitoloAperto(null);
-
-            }
-
-            else{
-
-                chiudiTutti();
-
-                listaParti.classList.add("aperta");
-
-                salvaCapitoloAperto(cap.id);
-
-            }
-
-        };
-
-
-
-        contenitore.appendChild(elementoCapitolo);
-
-
-
-        // ripristino stato precedente
-
-        if (cap.id === capitoloAperto) {
-
-            listaParti.classList.add("aperta");
-
-        }
-
 
     }
 
 }
 
+function creaCardInterludio(cap){
+
+    let elemento =
+        document.createElement("div");
+
+    elemento.className="interludio";
+
+
+    elemento.innerHTML = `
+
+        <div class="card card-interludio">
+
+            <img 
+                class="immagine-interludio"
+                src="${cap.immagine}"
+                alt="${cap.titolo}"
+            >
+
+            <div class="info-interludio">
+
+                <h3>Interludio</h3>
+
+                <h2>
+                    ${cap.titolo}
+                </h2>
+
+            </div>
+
+            <div class="progresso-interludio">
+            </div>
+
+        </div>
+
+    `;
+
+
+    let stato =
+        elemento.querySelector(
+            ".progresso-interludio"
+        );
+
+
+    if(parteLetta(cap.id)){
+
+        stato.innerHTML=`
+            <div class="icona-progresso letto">
+                ✓
+            </div>
+        `;
+
+    }
+
+
+    elemento
+    .querySelector(".card-interludio")
+    .onclick=function(){
+
+        window.location.href =
+            "lettura.html?id=" + cap.id;
+
+    };
+
+
+    contenitore.appendChild(elemento);
+
+}
+
+function aggiornaProgressoCapitolo(elemento, cap){
+
+    let partiLette =
+        cap.parti.filter(
+            parte => parteLetta(parte.id)
+        ).length;
+
+
+    let totaleParti =
+        cap.parti.length;
+
+
+    let stato =
+        elemento.querySelector(".progresso-capitolo");
+
+
+    let statoCap =
+        statoCapitolo(cap);
+
+
+    let icona="";
+
+
+    if(statoCap==="letto"){
+        icona="✓";
+    }
+    else if(statoCap==="lettura"){
+        icona="▶";
+    }
+
+
+    stato.innerHTML=`
+
+        <div class="icona-progresso ${statoCap}">
+            ${icona}
+        </div>
+
+        <div>
+            ${partiLette}/${totaleParti}
+        </div>
+
+    `;
+
+}
+
+function creaCardCapitolo(cap){
+
+    let elemento =
+        document.createElement("div");
+
+
+    elemento.className="capitolo";
+
+    elemento.dataset.id=cap.id;
+
+
+    elemento.innerHTML=`
+
+        <div class="card card-capitolo">
+
+            <img 
+                class="immagine-capitolo"
+                src="${cap.immagine}"
+                alt="${cap.titolo}"
+            >
+
+            <div class="info-capitolo">
+
+                <h3>
+                    Capitolo ${cap.numero}
+                </h3>
+
+                <h2>
+                    ${cap.titolo}
+                </h2>
+
+                <p>
+                    ${cap.descrizione}
+                </p>
+
+            </div>
+
+            <div class="progresso-capitolo">
+            </div>
+
+        </div>
+
+        <div class="parti"></div>
+
+    `;
+
+
+    aggiornaProgressoCapitolo(
+        elemento,
+        cap
+    );
+    
+    creaPartiCapitolo(
+        elemento,
+        cap
+    );
+
+
+    gestisciAperturaCapitolo(
+        elemento,
+        cap
+    );
+
+
+    contenitore.appendChild(elemento);
+
+
+    if(cap.id === capitoloAperto){
+
+        elemento
+        .querySelector(".parti")
+        .classList.add("aperta");
+
+    }
+
+}
+
+function creaPartiCapitolo(elemento, cap){
+
+    let lista =
+        elemento.querySelector(".parti");
+
+
+    cap.parti.forEach((parte,index)=>{
+
+        let scheda =
+            document.createElement("div");
+
+
+        scheda.className="scheda-parte";
+
+
+        let simbolo =
+            statoParte(parte.id)==="letto"
+            ? "✓"
+            : "";
+
+
+        scheda.innerHTML=`
+
+            <span>
+                Parte ${index+1}
+            </span>
+
+            <span class="stato">
+                ${simbolo}
+            </span>
+
+        `;
+
+
+        scheda.onclick=function(e){
+
+            e.stopPropagation();
+
+            window.location.href =
+                "lettura.html?id=" + parte.id;
+
+        };
+
+
+        lista.appendChild(scheda);
+
+    });
+
+
+}
+
+function gestisciAperturaCapitolo(elemento, cap){
+
+    let card =
+        elemento.querySelector(".card-capitolo");
+
+
+    let lista =
+        elemento.querySelector(".parti");
+
+
+    card.onclick=function(){
+
+        let aperto =
+            lista.classList.contains("aperta");
+
+
+        if(aperto){
+
+            lista.classList.remove("aperta");
+
+            card.classList.remove("aperta");
+
+            salvaCapitoloAperto(null);
+
+        }
+        else{
+
+            chiudiTutti();
+
+            lista.classList.add("aperta");
+
+            card.classList.add("aperta");
+
+            salvaCapitoloAperto(cap.id);
+
+        }
+
+    };
+
+}
 
 function chiudiTutti(){
 
