@@ -4,22 +4,34 @@ const PAROLE_PER_PARTE = 1200;
 
 async function caricaRomanzo(){
 
-    console.time("carica romanzo");
-    let risposta =
-        await fetch("generato/romanzo.md");
-
-
     let testo =
-        await risposta.text();
+        sessionStorage.getItem(
+            "romanzo_md"
+        );
 
-console.timeLog(
-        "carica romanzo",
-        "fetch completato"
-    );
+
+    if(!testo){
+
+        let risposta =
+            await fetch(
+                "generato/romanzo.md"
+            );
+
+
+        testo =
+            await risposta.text();
+
+
+        sessionStorage.setItem(
+            "romanzo_md",
+            testo
+        );
+
+    }
+
+
     romanzo =
         analizzaRomanzo(testo);
-
-    console.timeEnd("carica romanzo");
 
 }
 
