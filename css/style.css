@@ -152,9 +152,6 @@ header {
     padding-bottom:10px;
 }
 
-#menu{
-    min-height:60px;
-}
 
 nav a {
     margin: 15px;
@@ -893,6 +890,13 @@ li::before{
     position:absolute;
     left:0;
     color:var(--oro);
+}
+
+.storia-footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 /* =====================================
