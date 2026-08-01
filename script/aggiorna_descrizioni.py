@@ -157,7 +157,7 @@ def main():
 
     aggiorna_versione()
 
-    print("Descrizioni aggiornate.")
+    print("Descrizioni e immagini aggiornate.")
 
 
 

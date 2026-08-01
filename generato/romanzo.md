@@ -3304,7 +3304,7 @@ id: la_setta
 tipo: capitolo
 titolo: La Setta
 descrizione: Nadia segue le tracce lasciate da suo padre e trova dei nuovi alleati.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/la_setta.jpg
 
 --- FINE METADATI ---
 
@@ -3672,7 +3672,7 @@ id: cambio_di_equilibri
 tipo: capitolo
 titolo: Cambio di equilibri
 descrizione: Il mondo è improvvisamente scosso da un evento imprevisto. Questo ha ripercussioni anche sul lavoro di Leon.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/cambio_di_equilibri.jpg
 
 --- FINE METADATI ---
 
@@ -4206,7 +4206,7 @@ id: il_tempio
 tipo: capitolo
 titolo: Il tempio
 descrizione: Cosa succede davvero durante il Festival del Solstizio? La setta affida a Nadia un compito che la manderà per la prima volta al centro dell'azione.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_tempio.jpg
 
 --- FINE METADATI ---
 
@@ -4552,7 +4552,7 @@ id: il_calendario
 tipo: capitolo
 titolo: Il calendario
 descrizione: L'incisione trovata nella sala del trono nasconde un'informazione cruciale. Quando Leon la decodifica, il vero obiettivo della civiltà perduta diventa chiaro.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_calendario.jpg
 
 --- FINE METADATI ---
 
@@ -4850,7 +4850,7 @@ id: il_carro
 tipo: capitolo
 titolo: Il carro
 descrizione: La missione di Nadia entra nel vivo. Quello che il carro cerimoniale trasporta non è ciò che si aspettava di trovare.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_carro.jpg
 
 --- FINE METADATI ---
 
@@ -5124,7 +5124,7 @@ id: khamal
 tipo: capitolo
 titolo: Khamal
 descrizione: Dopo l'incidente, Rurik conduce Nadia in uno dei covi della setta. Qui per la prima volta farà conoscenza con la mente dietro alla Setta delle Ombre
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/khamal.jpg
 
 --- FINE METADATI ---
 
@@ -5410,7 +5410,7 @@ id: l_eretico
 tipo: capitolo
 titolo: L'eretico
 descrizione: Nelle celle imperiali, un prigioniero speciale viene svegliato dalla donna più importante del regno.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/l_eretico.jpg
 
 --- FINE METADATI ---
 
@@ -5556,7 +5556,7 @@ id: il_ciclo
 tipo: capitolo
 titolo: Il ciclo
 descrizione: Se l'intuizione di Leon è vera, metà dei libri di storia devono essere riscritti. E metà di quelli di fisica.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/il_ciclo.jpg
 
 --- FINE METADATI ---
 
@@ -5874,7 +5874,7 @@ id: a_corte
 tipo: capitolo
 titolo: A corte
 descrizione: Nadia è a corte, a servizio dell'Alta Sacerdotessa. Ciò che scopre getta nuova luce sulla gerarchia sociale dell'impero.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/a_corte.jpg
 
 --- FINE METADATI ---
 
@@ -6254,7 +6254,7 @@ id: entropia
 tipo: capitolo
 titolo: Entropia
 descrizione: La spiegazione trovata da Alex per le instabilità tecnologiche getta una luce inquietante sull'era contemporanea.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/entropia.jpg
 
 --- FINE METADATI ---
 
@@ -10195,7 +10195,7 @@ id: nelle_segrete
 tipo: capitolo
 titolo: Nelle segrete
 descrizione: Nadia segue Mira nei sotterranei della piramide. Qui, Nadia scoprirà una verità sconvolgente.
-immagine: img/capitoli/la_squadra.jpg
+immagine: img/capitoli/nelle_segrete.jpg
 
 --- FINE METADATI ---
 

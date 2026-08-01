@@ -67,16 +67,16 @@
 
     "la_setta": {
         "descrizione": "Nadia segue le tracce lasciate da suo padre e trova dei nuovi alleati.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/la_setta.jpg"
     },
 
     "cambio_di_equilibri": {
         "descrizione": "Il mondo è improvvisamente scosso da un evento imprevisto. Questo ha ripercussioni anche sul lavoro di Leon.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/cambio_di_equilibri.jpg"
     },
     "il_tempio": {
         "descrizione": "Cosa succede davvero durante il Festival del Solstizio? La setta affida a Nadia un compito che la manderà per la prima volta al centro dell'azione.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/il_tempio.jpg"
     },
 
     "diario_di_mira_4": {
@@ -85,25 +85,25 @@
     },
     "il_calendario": {
         "descrizione": "L'incisione trovata nella sala del trono nasconde un'informazione cruciale. Quando Leon la decodifica, il vero obiettivo della civiltà perduta diventa chiaro.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/il_calendario.jpg"
     },
     "il_carro": {
         "descrizione": "La missione di Nadia entra nel vivo. Quello che il carro cerimoniale trasporta non è ciò che si aspettava di trovare.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/il_carro.jpg"
     },
     
     "khamal": {
         "descrizione": "Dopo l'incidente, Rurik conduce Nadia in uno dei covi della setta. Qui per la prima volta farà conoscenza con la mente dietro alla Setta delle Ombre",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/khamal.jpg"
     },
     "l_eretico": {
         "descrizione": "Nelle celle imperiali, un prigioniero speciale viene svegliato dalla donna più importante del regno.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/l_eretico.jpg"
     },
     
     "il_ciclo": {
         "descrizione": "Se l'intuizione di Leon è vera, metà dei libri di storia devono essere riscritti. E metà di quelli di fisica.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/il_ciclo.jpg"
     },
     "diario_di_mira_5": {
         "descrizione": "L'incisione trovata nella sala del trono nasconde un'informazione cruciale. Quando Leon la decodifica, il vero obiettivo della civiltà perduta diventa chiaro.",
@@ -111,11 +111,11 @@
     },
     "a_corte": {
         "descrizione": "Nadia è a corte, a servizio dell'Alta Sacerdotessa. Ciò che scopre getta nuova luce sulla gerarchia sociale dell'impero.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/a_corte.jpg"
     },
     "entropia": {
         "descrizione": "La spiegazione trovata da Alex per le instabilità tecnologiche getta una luce inquietante sull'era contemporanea.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/entropia.jpg"
     },
     "ricongiungimento": {
         "descrizione": "Nadia non ha più niente da perdere. Un incontro notturno le ridarà una via d'uscita, mentre l'obiettivo della Setta giunge alla sua fase finale.",
@@ -147,7 +147,7 @@
     },
     "nelle_segrete": {
         "descrizione": "Nadia segue Mira nei sotterranei della piramide. Qui, Nadia scoprirà una verità sconvolgente.",
-        "immagine": "img/capitoli/la_squadra.jpg"
+        "immagine": "img/capitoli/nelle_segrete.jpg"
     },
     "l_arca_del_tempo": {
         "descrizione": "Il piano per salvare il futuro prende forma, uno dei progetti più audaci e disperati che l'umanità abbia mai conosciuto. ",
