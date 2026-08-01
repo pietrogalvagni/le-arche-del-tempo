@@ -11,7 +11,10 @@
         "descrizione": "Un giorno, la vita di Nadia viene scossa da un evento imprevisto.",
         "immagine": "img/capitoli/lo_studio.jpg"
     },
-
+    "il_libro": {
+        "descrizione": "Dopo che suo padre viene portato via, Nadia cerca indizi nel suo studio.",
+        "immagine": "img/capitoli/il_libro.jpg"
+    },
     "le_rovine": {
         "descrizione": "Il ritrovamento di misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.",
         "immagine": "img/capitoli/le_rovine.jpg"
@@ -93,7 +96,7 @@
         "descrizione": "Dopo l'incidente, Rurik conduce Nadia in uno dei covi della setta. Qui per la prima volta farà conoscenza con la mente dietro alla Setta delle Ombre",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
-    "dopo_il_festival": {
+    "l_eretico": {
         "descrizione": "Nelle celle imperiali, un prigioniero speciale viene svegliato dalla donna più importante del regno.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
@@ -154,15 +157,15 @@
         "descrizione": "Il Dio-Sole, guida dell'Alta Sacerdotessa, non è chi lei pensava che fosse.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },    
-    "quattro_anni_dopo": {
-        "descrizione": "Il piano Arca è riucito, ma il dubbio che attanaglia Leon potrebbe rimettere tutto in discussione.",
+    "marie": {
+        "descrizione": "Il piano Arca è riuscito, ma il dubbio che attanaglia Leon potrebbe rimettere tutto in discussione.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
     "la_scintilla": {
         "descrizione": "L'impero crolla, e il sapere dell'umanità si dissolve nel caos della guerra. Gli sforzi dell'umanità sembrano non portare a nulla. ",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
-    "diecimila_anni_dopo_visioni": {
+    "visioni": {
         "descrizione": "Quando Nadia indossa la corona, viene travolta dalle visioni. All'improvviso, sa chi è Mira e scopre chi era Leon.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },

@@ -12,7 +12,11 @@ L'elicottero avanzava sopra l'immensa foresta dell'Africa centrale.
 
 Leon si sporse per guardare oltre lo spesso vetro del finestrino. Dall'alto la distesa verde sembrava compatta, uniforme, quasi immobile. Chilometri e chilometri di chiome si rincorrevano fino all'orizzonte, interrotte soltanto dal nastro scuro del fiume che serpeggiava tra gli alberi. Qua e là emergevano piccole radure, ma ancora nessun segno di presenza umana.
 
-Lanciò un'occhiata al tablet, dove un puntino lampeggiava sulla mappa: il segnale anomalo era a poche decine di chilometri dalla loro posizione.
+Leon lanciò un'occhiata al tablet. Per un istante lo schermo nero gli restituì il riflesso del suo volto magro e stanco, segnato dalla mancanza di riposo. Poi il puntino sulla mappa tornò a lampeggiare.
+
+Il segnale anomalo.
+
+Ormai erano a poche decine di chilometri dalla posizione indicata.
 
 Leon spense lo schermo con impazienza. "Non dovrebbe mancare molto."
 
@@ -28,11 +32,11 @@ Il villaggio sarebbe stato il punto di appoggio perfetto per la loro ricerca. Al
 
 Man mano che si avvicinavano al terreno, le pale cominciarono a sollevare nuvole di polvere rossastra. Le cime degli alberi si piegarono sotto il vento. Foglie e rametti vennero trascinati in vortici disordinati. Sul fiume, due canoe a motore rallentarono fino quasi a fermarsi. I pescatori osservarono l'elicottero con evidente curiosità.
 
-Infine, il velivolo toccò terra con un lieve sobbalzo. Alex spense il motore e aprì i portelli con un pulsante.
+Infine, il velivolo toccò terra con un lieve sobbalzo. Alex spense il motore e slacciò le cinture.
 
-Per qualche secondo il rumore delle pale continuò a diminuire, finché sulla radura non sì udì solo il brusio della foresta: insetti, richiami di uccelli e il lontano scorrere dell'acqua.
+Il rumore delle pale diminuì, finché sulla radura sì udì solo il brusio della foresta: insetti, richiami di uccelli e il lontano scorrere dell'acqua.
 
-Alex slacciò le cinture. "Ultima possibilità per tornare indietro."
+Alex aprì i portelli con un pulsante. "Ultima possibilità per tornare indietro."
 
 "Non abbiamo fatto trecento chilometri per tornare indietro."
 
@@ -40,17 +44,19 @@ Alex slacciò le cinture. "Ultima possibilità per tornare indietro."
 
 "Lo so."
 
-Raccolsero gli zaini e scesero. Il caldo li colpì immediatamente come una parete invisibile, un netto contrasto con l'abitacolo climatizzato.
+Raccolsero gli zaini e scesero. Alex atterrò per primo sulla terra rossa con l'agilità di chi aveva ancora dieci anni meno di lui. Leon lo seguì subito dopo, stirando inconsciamente la schiena irrigidita dalle ore di volo.
 
-Imboccarono il sentiero che conduceva al centro abitato, insinuandosi tra alberi giganteschi, radici affioranti e cespugli dalle foglie larghe quanto vele.
+Il caldo li colpì immediatamente come una parete invisibile, un netto contrasto con l'abitacolo climatizzato. Attorno a loro, alberi giganteschi, radici affioranti e cespugli dalle foglie larghe quanto vele.
+
+Imboccarono il sentiero che conduceva al centro abitato.
 
 Quando furono tra le prime case, comparvero i bambini. Due, poi quattro, poi una decina. Spuntarono da ogni direzione come se l'intero villaggio fosse stato avvisato del loro arrivo. Alcuni rallentavano a pochi metri di distanza, studiandoli con curiosità. Altri si avvicinavano senza alcuna timidezza. Un ragazzino teneva in mano un telefono e stava chiaramente registrando un video.
 
-Alex salutò lo schermo con la mano. "Penso di essere già finito sui social locali."
+Alex salutò lo schermo con la mano. Il ciuffo nero gli ricadde davanti agli occhiali e lui lo scostò con un gesto automatico. "Penso di essere già finito sui social locali."
 
 Mentre proseguivano per le vie di terra battuta, gli sguardi li seguivano. Una donna con un neonato legato alla schiena, due uomini che trasportavano una cassa verso il fiume, un anziano seduto all'ombra di una veranda. Tutti li guardavano con curiosità, ma nessuno sembrava particolarmente sorpreso.
 
-Leon studiò l'ambiente, non senza una certa dose di deformazione professionale. Il villaggio si dispiegava seguendo l'andamento del fiume più che qualsiasi progetto urbanistico. Non esisteva una vera piazza centrale. Le abitazioni erano collegate da sentieri che si intrecciavano tra alberi, orti e piccoli spazi comuni.
+Leon lasciò correre lo sguardo sulle abitazioni, non senza una certa dose di deformazione professionale. Il villaggio si dispiegava seguendo l'andamento del fiume più che qualsiasi progetto urbanistico. Non esisteva una vera piazza centrale. Le abitazioni erano collegate da sentieri che si intrecciavano tra alberi, orti e piccoli spazi comuni.
 
 Sul fiume c'era movimento continuo. Canoe a remi e piccole imbarcazioni a motore attraversavano lentamente la corrente. Alcuni pescatori stavano riparando delle reti all'ombra di una tettoia. C'erano motociclette parcheggiate accanto a vecchie canoe scrostate. Secchi di plastica accanto a cesti intrecciati a mano. La modernità non aveva sostituito il resto, vi si era semplicemente sovrapposta.
 
@@ -64,7 +70,7 @@ L'edificio era più solido di tanti altri che aveva visto al villaggio. Le fonda
 
 La reception era un ampio spazio aperto affacciato sul fiume. Da una parte si intravedeva una sala da pranzo con alcuni tavoli di legno. Dall'altra, una serie di corridoi conduceva probabilmente alle camere.
 
-Una giovane donna era in piedi dietro a un bancone. Stava osservando qualcosa sullo schermo di un tablet e parlava contemporaneamente attraverso un auricolare, in un fluido inglese con un lieve accento locale.
+Una giovane donna era in piedi dietro a un bancone. Stava osservando qualcosa sullo schermo di un portatile e parlava contemporaneamente attraverso un auricolare, in un fluido inglese con un lieve accento locale.
 
 "\...se il motore arriva venerdì va bene, ma non pagherò il supplemento. Non è un mio problema se la barca ha perso una settimana."
 
@@ -84,13 +90,15 @@ Alex indicò Leon con il pollice. "Se esiste una prenotazione, lo sa lui."
 
 Leon estrasse il cellulare dal taschino della giacca leggera e recuperò la conferma. "La prenotazione è a nome Leon Walker e Alex Robinson."
 
-La giovane diede una rapida occhiata allo schermo che lui le porgeva. "Perfetto. Due singole." Fece scorrere alcune informazioni sul proprio tablet. "Benvenuti." Fece il giro del bancone e tese la mano. "Io sono Zali."
+La giovane diede una rapida occhiata allo schermo che lui le porgeva. "Perfetto. Due singole." Fece scorrere alcune informazioni sul proprio tablet. "Benvenuti." Fece il giro del bancone. "Io sono Zali."
 
-Leon la strinse. Avrà avuto poco più di venticinque anni. I capelli neri erano raccolti dietro la testa in modo pratico e indossava maglietta e shorts di jeans. Abiti semplici, adatti al clima e al lavoro. Niente nella sua postura o nel suo modo di parlare ricordava una receptionist da albergo. Sembrava piuttosto qualcuno abituato a risolvere problemi.
+Avrà avuto poco più di venticinque anni. I capelli neri, organizzati in lunghe treccine, erano raccolti dietro la testa in modo pratico. Indossava maglietta e shorts di jeans: abiti semplici, adatti al clima e al lavoro. Niente nella sua postura o nel suo modo di parlare ricordava una receptionist da albergo. Sembrava piuttosto qualcuno abituato a risolvere problemi.
 
 "Viaggiate leggeri per essere arrivati in elicottero," osservò.
 
-A nessuno era sfuggito il loro arrivo, notò Leon. "Abbiamo lasciato il grosso dell'attrezzatura a bordo."
+A nessuno era sfuggito il loro arrivo, notò Leon.
+
+"Abbiamo lasciato il grosso dell'attrezzatura a bordo."
 
 Zali annuì come se la cosa confermasse un sospetto. "Ricercatori?"
 
@@ -122,7 +130,7 @@ Leon finalmente alzò lo sguardo. "Lo chiedi come se dovessi adeguarti alla vita
 
 "Non mi dispiacerebbe abitare qui per un po'."
 
-Leon si guardò attorno. Oltre la veranda il fiume scorreva lento tra le canoe attraccate ai pontili. Qualcuno stava scaricando delle casse da una barca, mentre poco più in là alcuni bambini correvano lungo la riva inseguendosi tra gli alberi. Dalla cucina arrivava l'odore di qualcosa che stava cuocendo e, per la prima volta dopo ore di viaggio, stava seduto su una poltroncina comoda.
+Leon si guardò attorno. Oltre la veranda il fiume scorreva lento tra le canoe attraccate ai pontili. Qualcuno stava scaricando delle casse da una barca, mentre poco più in là alcuni bambini correvano lungo la riva inseguendosi tra gli alberi. Dalla cucina arrivava l'odore speziato di qualcosa che stava cuocendo e, per la prima volta dopo ore di viaggio, stava seduto su una poltroncina comoda.
 
 Doveva ammetterlo: era un posto più tranquillo del suo ufficio a New York.
 
@@ -150,7 +158,7 @@ Zali sorrise, lievemente compiaciuta. Doveva aver investito molto in quella gues
 
 Le camere non erano davvero perfette. Il materasso era un po' troppo rigido, una persiana non chiudeva completamente e il ventilatore da soffitto sembrava sul punto di perdere una lenta battaglia contro la gravità. Ma le lenzuola erano fresche, la stanza pulita e aveva persino trovato sul comodino un vaso di fiori appena raccolti.
 
-Dopo anni passati tra scavi archeologici e spedizioni, Leon considerava un lusso qualsiasi stanza con un tetto, un letto e una porta che si chiudesse.
+Dopo vent'anni anni passati tra scavi archeologici e spedizioni, Leon considerava un lusso qualsiasi stanza con un tetto, un letto e una porta dotata di serratura.
 
 Si accomodò su una sedia. Per qualche secondo rimasero in silenzio.
 
@@ -224,7 +232,7 @@ Leon sospirò.
 
 Leon chiuse gli occhi per un istante.
 
-Dietro il bancone, Zali abbassò lo sguardo sul portatile, improvvisamente assorta nei documenti davanti a sé.
+Dietro il bancone, Zali abbassò lo sguardo sul portatile, improvvisamente assorta nelle prenotazioni davanti a sé.
 
 Alex si diresse verso il tavolino. "È una vera fortuna: adoro le docce calde. Non facevo una doccia così da mesi. Anche le lenzuola. Pulitissime."
 
@@ -294,8 +302,6 @@ immagine: img/capitoli/il_villaggio.jpg
 
 --- FINE METADATI ---
 
-\[STACCO\]
-
 "Quella è la scuola."
 
 Zali indicò un edificio rettangolare poco distante dal fiume.
@@ -308,7 +314,7 @@ La scuola era un edificio semplice ma ben tenuto. Sul tetto spiccavano diversi p
 
 Proprio in quel momento una classe stava terminando le lezioni pomeridiane.
 
-Una ventina di bambini uscirono dall'ingresso in una sorta di esplosione di energia trattenuta troppo a lungo. Alcuni si precipitarono verso il campo da gioco poco distante, altri si fermarono a parlare tra loro. Una bambina riconobbe Zali e le corse incontro per mostrarle qualcosa sul proprio terminale portatile.
+Una ventina di bambini di tutte le età uscirono dall'ingresso in una sorta di esplosione di energia trattenuta troppo a lungo. Alcuni si precipitarono verso il campo da gioco poco distante, altri si fermarono a parlare tra loro. Una bambina riconobbe Zali e le corse incontro per mostrarle qualcosa sul proprio cellulare.
 
 Zali ascoltò con pazienza, annuì e la congedò con una carezza sulla testa.
 
@@ -396,11 +402,11 @@ Zali sembrò sorpresa. "Pensavo voleste stare per conto vostro."
 
 Alex guardò il collega come se lo stesse valutando. "Ti voglio bene, Leon, ma spero tu non ti offenda se per stasera evitiamo la cena al lume di candela."
 
-Per la prima volta Zali scoppiò a ridere apertamente. "D'accordo."
+Per la prima volta Zali scoppiò a ridere apertamente. "D'accordo allora."
 
 I nuovi arrivati non passarono inosservati, ma nemmeno provocarono particolare agitazione. Leon ebbe l'impressione che l'intero villaggio fosse già al corrente della loro presenza da ore. Alcuni li osservarono con curiosità, altri si limitarono a un cenno di saluto. Molti continuarono semplicemente quello che stavano facendo.
 
-Un gruppo di bambini si avvicinò abbastanza da studiarli apertamente, poi scoppiò a ridere e si allontanò di corsa quando Alex rivolse loro un saluto.
+Un gruppo di bambini si avvicinò abbastanza da studiarli, poi scoppiò a ridere e si allontanò di corsa quando Alex rivolse loro un saluto.
 
 Due minuti dopo erano tornati. Poi erano fuggiti di nuovo. Poi erano tornati ancora.
 
@@ -450,7 +456,7 @@ I locali ridacchiarono tra loro.
 
 "Hai reso l'idea," commentò Leon.
 
-Alex fece spallucce. "Il tuo turno amico."
+Alex fece spallucce. "Il tuo turno, amico."
 
 Leon sospirò leggermente. "Mi occupo di archeologia cognitiva."
 
@@ -508,7 +514,7 @@ Zali alzò un sopracciglio.
 
 Zali sembrò sinceramente delusa.
 
-Leon intervenne. "Abbiamo rilevato qualcosa di insolito."
+Leon intervenne, il tono cauto. "Abbiamo rilevato qualcosa di insolito."
 
 Una risposta semplice, volutamente vaga.
 
@@ -524,9 +530,11 @@ Zali sorrise. "Ha detto che se sapeste già cos'è, non avreste bisogno di cerca
 
 Con sorprendente naturalezza la conversazione scivolò verso altri argomenti. Forse, pensò Leon osservando i volti rilassati attorno al tavolo, quelle persone avevano imparato che la curiosità non richiede sempre una risposta immediata. Certe storie vengono raccontate solo quando arriva il momento giusto.
 
-Con il passare del tempo la tavolata iniziò lentamente a sciogliersi. Alcune famiglie tornarono alle proprie abitazioni. I bambini scomparvero uno dopo l'altro, richiamati dai genitori. I tavoli si svuotarono gradualmente, mentre le conversazioni si riducevano a piccoli gruppi sparsi sotto la tettoia.
+Con il passare del tempo la tavolata iniziò lentamente a sciogliersi. Alcune famiglie tornarono alle proprie abitazioni. I bambini scomparvero uno dopo l'altro, richiamati dai genitori, mentre le conversazioni si riducevano a piccoli gruppi sparsi sotto la tettoia.
 
-La notte era ormai scesa completamente sul villaggio. Restavano il rumore costante del fiume, il canto degli insetti nascosti nella vegetazione e le ultime voci che si perdevano nell'oscurità. Poco dopo, anche i due ricercatori si ritirarono.
+Poco dopo, anche i due ricercatori si ritirarono.
+
+La notte era ormai scesa completamente sul villaggio. Restavano il rumore costante del fiume, il canto degli insetti nascosti nella vegetazione e le ultime voci che si perdevano nell'oscurità.
 
 \[STACCO\]
 
@@ -534,7 +542,15 @@ Leon si alzò prima della sveglia.
 
 Per qualche secondo rimase immobile ad ascoltare i suoni provenienti dall'esterno. Il villaggio era già sveglio. Dal fiume arrivava il rumore dei primi motori, mescolato alle voci lontane di persone che iniziavano la giornata. Attraverso la finestra filtrava una luce azzurra ancora incerta.
 
-Guardò l'ora: 5:25. Non era ancora l'alba.
+Si infilò gli occhiali e l'interfaccia si attivò automaticamente. 5:25. Non era ancora l'alba.
+
+Una piccola notifica comparve nell'angolo delle lenti.
+
+*Buongiorno, Leon. Temperatura esterna: 24 gradi. Tasso di umidità 89%. Hai dormito 6 ore e 29 minuti, valore inferiore alla media consigliata.*
+
+"Grazie Marie," borbottò.
+
+Archiviò l'avviso con un battito di ciglia.
 
 Quando scese nella sala comune trovò Alex con una tazza di caffè in mano. Anche lui era già sveglio.
 
@@ -556,13 +572,13 @@ Poi passò a Leon. "Tu almeno hai scelto le maniche lunghe. Però quei pantaloni
 
 "Sì. Ma non in questa foresta."
 
-Li costrinse a una breve revisione dell'equipaggiamento. Dalla guesthouse recuperò alcune ghette leggere contro fango e serpenti, cappelli a tesa larga trattati contro la pioggia tropicale e sottili mantelle impermeabili comprimibili.
+Li costrinse a una breve revisione dell'equipaggiamento. Dal retro della guesthouse recuperò alcune ghette leggere contro fango e serpenti, cappelli a tesa larga trattati contro la pioggia tropicale e sottili mantelle impermeabili comprimibili.
 
 Le ghette sparirono sotto i pantaloni, gli zaini vennero stretti un'ultima volta e i cappelli calati sugli occhi. Nel giro di pochi minuti avevano perso l'aspetto di due ricercatori appena arrivati e assunto quello di persone pronte a entrare nella giungla.
 
-Mezz'ora dopo lasciarono il villaggio.
+Quando mezz'ora dopo lasciarono il villaggio, il clima era ancora fresco, e i tre erano pronti per la lunga marcia.
 
-Il clima era ancora fresco, e i tre erano pronti per la lunga marcia. All'inizio seguirono il fiume, camminando lungo un sentiero ben visibile. Alcuni pescatori li salutarono dalle canoe, mentre le ultime abitazioni si diradavano alle loro spalle e il rumore delle attività mattutine cedeva il passo ai suoni della foresta. I versi degli uccelli al mattino erano più chiassosi che in qualsiasi momento della giornata.
+All'inizio seguirono il fiume, camminando lungo un sentiero ben visibile. Alcuni pescatori li salutarono dalle canoe, mentre le ultime abitazioni si diradavano alle loro spalle e il rumore delle attività mattutine cedeva il passo ai suoni della foresta. I versi degli uccelli al mattino erano più chiassosi che in qualsiasi momento della giornata.
 
 A poco a poco gli spazi aperti scomparvero e la foresta prese il sopravvento. Le chiome degli alberi si richiusero sopra le loro teste, formando una volta verde che filtrava la luce del sole in mille sfumature diverse. L'aria divenne più umida, più opprimente.
 
@@ -644,7 +660,7 @@ Zali continuò a osservare il display. Alex strappò distrattamente una foglia. 
 
 Leon annuì. "La sequenza implica un'intenzione. Qualcosa che conosce la matematica la sta producendo."
 
-Per la prima volta Zali sembrò realmente incuriosita. "O qualcuno." Poi aggiunse: "Da quanto tempo va avanti?"
+Per la prima volta Zali sembrò realmente incuriosita. "Da quanto tempo va avanti?"
 
 "Lo abbiamo rilevato solo da alcune settimane," disse Alex, mentre metteva via l'attrezzatura. "È un segnale molto debole, ma c'è. Preso da solo è indistinguibile dal rumore di fondo. Lo abbiamo trovato solo perché i nostri sistemi hanno confrontato misurazioni provenienti da migliaia di sensori diversi. Una rete globale di monitoraggio."
 
@@ -666,7 +682,7 @@ Leon estrasse un secondo dispositivo dallo zaino: un cilindro metallico poco pi�
 
 Una serie di indicatori iniziò a scorrere sul display: campi elettromagnetici, emissioni radio, spettri di frequenze. Ma di apparecchiature elettroniche nelle vicinanze nemmeno l'ombra, fatta esclusione per ciò che avevano negli zaini.
 
-Alex sbatté una mano sull'apparecchio, come a verificarne il corretto funzionamento. Ancora niente. Guardò il collega, alzando le spalle.
+Alex sbatté una mano sull'apparecchio, come a verificarne il corretto funzionamento. Guardò il collega, alzando le spalle.
 
 Leon si asciugò il sudore della fronte con la manica. "Questo non ha alcun senso."
 
@@ -676,29 +692,47 @@ Leon chiuse lo zaino. "Dividiamoci e cerchiamo."
 
 Zali sollevò un sopracciglio. "Non è quello che fanno sempre nei film poco prima che succeda qualcosa di terribile?"
 
-Leon aprì una custodia rigida fissata allo zaino. All'interno erano custoditi tre paia di occhiali a realtà aumentata, leggeri e trasparenti. Sull'asticella si leggeva il marchio VisionLink. Li distribuì.
+"Ecco perché usiamo questi."
 
-Una volta indossati, una sottile interfaccia comparve nel campo visivo: bussola, coordinate, mappa locale, indicatori biometrici, sistema di riconoscimento automatico per piante e animali, canale vocale di squadra, messaggistica.
+Leon aprì una custodia rigida fissata allo zaino ed estrasse un paio di occhiali a realtà aumentata. Glieli porse.
 
-Zali osservò affascinata le informazioni che comparivano davanti ai suoi occhi.
+Zali li osservò per un istante prima di infilarli. Sull'asticella era inciso il marchio VisionLink.
 
-"Non male."
+Alex sbuffò. "Hai ancora quel vecchio modello?"
 
-"Ti abituerai in fretta."
+"Funzionano benissimo. E poi hanno solo tre anni."
 
-Tanto per testarli, Leon inquadrò una pianta vicina. Un piccolo riquadro comparve automaticamente. Nome. Famiglia. Distribuzione geografica. Possibili utilizzi medicinali.
+"Appunto."
 
-Ottimo.
+Leon attese qualche secondo, mentre il sistema completava la sincronizzazione.
 
-"Buona fortuna," disse Alex.
+"Vedi quella pianta?" Indicò un cespuglio poco distante.
+
+Zali annuì.
+
+"Inquadrala."
+
+Leon fece lo stesso. Immediatamente comparve un riquadro informativo: nome scientifico, distribuzione geografica, possibili utilizzi medicinali.
+
+Dal modo in cui Zali girò la testa e sbatté le palpebre un paio di volte, intuì le lenti erano in funzione. "Interessante."
+
+"Canale vocale, mappa locale, coordinate e tracciamento della posizione," spiegò Leon. "Se trovi qualcosa, lo vedremo tutti."
+
+Zali continuò a osservare il cespuglio per qualche secondo. "Capisco perché ogni tanto sembrate fissare il vuoto."
+
+Alex scoppiò a ridere.
+
+"Buona fortuna," disse Leon.
 
 Si separarono.
 
+\[STACCO\]
+
 Leon iniziò a esplorare la zona procedendo lentamente tra gli alberi.
 
-Gli occhiali identificavano continuamente dettagli dell'ambiente. Un turaco verde che attraversò una radura. Una colonia di formiche legionarie in marcia. Una coppia di piccoli cefalofi che scomparvero tra la vegetazione prima ancora che riuscisse a fotografarli. Attivò brevemente la visione termica.
+Gli occhiali identificavano dettagli dell'ambiente. Un turaco verde che attraversò una radura. Una colonia di formiche legionarie in marcia. Una coppia di piccoli cefalofi che scomparvero tra la vegetazione prima ancora che riuscisse a fotografarli. Attivò brevemente la visione termica.
 
-Il sottobosco si riempì immediatamente di sagome luminose. Uccelli. Mammiferi. Insetti più grandi. Ma non i serpenti: la temperatura del terreno e quella dei rettili erano troppo simili perché il sistema riuscisse a distinguerli in modo affidabile.
+Il sottobosco si riempì subito di sagome luminose. Uccelli. Mammiferi. Insetti più grandi. Ma non i serpenti: la temperatura del terreno e quella dei rettili erano troppo simili perché il sistema riuscisse a distinguerli in modo affidabile.
 
 Passarono dieci minuti. Forse quindici. La foresta era piena di cose interessanti, ma nessuna che potesse essere la fonte di quel segnale anomalo.
 
@@ -708,7 +742,9 @@ Un messaggio di Alex comparve sulle lenti. "Ho trovato qualcosa."
 
 Prima che Leon potesse rispondere, un'immagine si aprì automaticamente sulle lenti.
 
-Per un istante Leon rimase senza fiato. "Che diavolo è quello?"
+Per un istante Leon rimase senza fiato.
+
+"Che diavolo è quello?"
 
 \[STACCO\]
 
@@ -726,7 +762,7 @@ Nadia camminava a passo lento nella via affollata del mercato, lo sguardo attrat
 
 "Nadia, aspettami!" Safa, dietro di lei, s'era attardata a dar retta a un venditore di dolci, e raggiunse Nadia facendosi strada a fatica tra la gente. "Non lasciarmi indietro. Se ci perdiamo\..." Sembrava lievemente irritata, ma ritrovò il sorriso quando raggiunse l'amica.
 
-*Rham! Quella ragazza a volte è così apprensiva!* Nadia scosse la testa, mentre Safa, sgranando gli occhi, si avvicinava a un mercante di animali vivi: uccelli colorati in gabbie di ogni forma e dimensione.
+Quella ragazza a volte era così apprensiva. Nadia scosse la testa, mentre Safa, sgranando gli occhi, si avvicinava a un mercante di animali vivi: uccelli colorati in gabbie di ogni forma e dimensione.
 
 "Oh, come sono belli" esclamò, gli occhi che luccicavano.
 
@@ -734,7 +770,7 @@ Nadia camminava a passo lento nella via affollata del mercato, lo sguardo attrat
 
 "Cosa se ne fa la gente di questi uccelli colorati?" Safa cercò di infilare il mignolo nelle strette sbarre di una gabbietta di legno.
 
-"Ho sentito che hanno un ottimo sapore" fece Nadia con noncuranza. Sul volto di Safa si dipinse per un istante un'espressione di orrore.
+"Ho sentito che hanno un ottimo sapore" fece Nadia con noncuranza. Per un istante, sul volto di Safa si dipinse un'espressione di orrore.
 
 "Ah-ah, simpatica." Diede le spalle a Nadia, cercando di attirare l'attenzione del pennuto, che dal canto suo non era molto interessato a darle retta.
 
@@ -877,6 +913,18 @@ Uno dei due lo fissò per qualche istante, come a studiare il suo volto, poi len
 "Questo lo vedremo. È pregato di seguirci."
 
 \[STACCO\]
+
+\[STACCO\]
+
+# CAPITOLO
+
+id: il_libro
+tipo: capitolo
+titolo: Il Libro
+descrizione: Dopo che suo padre viene portato via, Nadia cerca indizi nel suo studio.
+immagine: img/capitoli/il_libro.jpg
+
+--- FINE METADATI ---
 
 Nadia continuava a svegliarsi ogni mattina sperando che gli avvenimenti degli ultimi giorni fossero solo un brutto sogno. Ma bastava un attimo, un battito d'occhi, e l'illusione svaniva. Si ritrovava con un nodo allo stomaco che non sapeva sciogliere.
 
@@ -1074,7 +1122,7 @@ immagine: img/capitoli/le_rovine.jpg
 
 --- FINE METADATI ---
 
-Leon, Alex e Zali si trovavano in cima a una sorta di piccola collina, nel folto della foresta. Raggiungere la posizione segnalata da Alex non era stato affatto semplice: la via era impervia, e la giungla pareva opporsi con ostacoli a ogni passo.
+Leon, Alex e Zali si trovavano nei pressi di una piccola collina, nel folto della foresta. Raggiungere la posizione segnalata da Alex non era stato affatto semplice: la via era impervia, e la giungla pareva opporsi con ostacoli a ogni passo.
 
 Quando, alla fine, erano giunti sul posto, la foresta si era aperta quel tanto che bastava per lasciare emergere un'antica struttura di pietra, come se per secoli alberi e radici avessero tentato di nasconderla senza riuscirci del tutto.
 
@@ -1114,15 +1162,23 @@ Leon scattò un'ultima foto. "Sono più colpito da ciò che manca."
 
 "Nessuna iscrizione, nessuna decorazione evidente, nessuna statua, nessun simbolo riconoscibile. Le superfici esposte sono sorprendentemente spoglie. Quasi anonime. Qui le opzioni sono due. O questa struttura è stata fatta da una popolazione senza alcun senso estetico, o è talmente antica che ogni traccia di decorazione è andata perduta."
 
-Dopo qualche istante comparvero le prime conclusioni di Marie.
+Dopo qualche istante, la voce di Marie restituì l'analisi preliminare.
+
+\[STACCO\]
 
 *Confronto con database archeologici completato.*
 
-*Corrispondenze affidabili: nessuna.*
+*Corrispondenze significative: nessuna.*
 
-*Attribuzione culturale: impossibile con i dati disponibili.*
+*Probabilità di appartenenza a culture note: 20%.*
 
-"Utile." Alex rimase a fissare il responso per qualche secondo. "Questa è una buona notizia o una cattiva notizia?"
+*Vuoi che ti mostri le corrispondenze più probabili?*
+
+\[STACCO\]
+
+Leon non rispose. Non era il risultato che si era aspettato.
+
+"Utile" commentò Alex. "Questa è una buona notizia o una cattiva notizia?"
 
 "Se persino Marie non trova nulla, potremmo esserci imbattuti in qualcosa di davvero anomalo."
 
@@ -1728,7 +1784,7 @@ Erano accampati in pianta stabile da giorni, a poche decine di metri dalle rovin
 
 Leon bevve un sorso, mentre una serie di titoli scorrevano sulle lenti degli occhiali a realtà aumentata.
 
-" Nuove corruzioni di dati paralizzano il Sud-est asiatico."
+"Nuove corruzioni di dati paralizzano il Sud-est asiatico."
 
 Leon si soffermò qualche istante. Era il terzo articolo simile che gli capitava di leggere quella settimana. Sempre lo stesso schema: database danneggiati, archivi corrotti, anomalie che gli esperti definivano rare ma non abbastanza da spiegare perché continuassero a verificarsi. Con un battito di ciglia passò alla notizia successiva.
 
@@ -1836,7 +1892,7 @@ La battuta si rivelò profetica.
 
 Nel giro di mezz'ora, il campo base sembrò trasformarsi. Emily aveva già organizzato una ricognizione completa dell'area emersa, Lisa stava verificando la stabilità del terreno attorno alla collina, Robert discuteva con alcuni lavoratori Naha osservando la composizione degli strati di terra esposti dagli sbancamenti, mentre Georg si aggirava tra i blocchi di pietra con l'espressione di chi spera disperatamente di trovare qualcosa che gli altri non hanno ancora notato.
 
-Alla fine, tutti si ritrovarono sotto la tenda principale per il pranzo.
+Era già primo pomeriggio quando tutti si ritrovarono sotto la tenda principale per il pranzo.
 
 "Questo cibo in scatola mi farà impazzire" disse Robert Brooks, togliendo il coperchio a una lattina di piselli.
 
@@ -1908,7 +1964,7 @@ Quando il cielo divenne completamente scuro e il campo iniziò a svuotarsi, l'ec
 
 Leon rimase seduto da solo davanti al tavolo da lavoro.
 
-Sul display del tablet scorrevano le immagini della scalinata e le scansioni del sottosuolo. Marie aveva già archiviato migliaia di fotografie e rilievi, catalogando automaticamente ogni informazione raccolta durante la giornata, eppure il mistero rimaneva intatto.
+Sul display del tablet scorrevano le immagini della scalinata e le scansioni del sottosuolo. Marie aveva già analizzato migliaia di fotografie e rilievi, confrontandoli con ogni dato disponibile e organizzando automaticamente le informazioni raccolte durante la giornata, eppure il mistero rimaneva intatto.
 
 Leon si passò una mano sugli occhi. Sarebbe dovuto andare a dormire, invece si ritrovò ad alzarsi. Pochi minuti dopo stava percorrendo il sentiero che conduceva alle rovine.
 
@@ -2302,7 +2358,7 @@ Leon osservò Robert allontanarsi con passo allegro e non poté fare a meno di r
 
 \[STACCO\]
 
-Il resto della giornata trascorse rapidamente. In qualità di coordinatore della spedizione, Leon si trovava continuamente a passare da un settore all'altro del campo, verificando procedure, risolvendo problemi logistici e coordinando il lavoro dei vari gruppi.
+Il resto della giornata trascorse rapidamente. In qualità di coordinatore della spedizione, Leon si trovava continuamente a passare da un settore all'altro del campo, verificando procedure, risolvendo problemi logistici e coordinando il lavoro dei vari gruppi. Le informazioni arrivavano sul suo tablet man mano che venivano aggiornate, già ordinate e filtrate da Marie.
 
 Tra le decisioni di cui era più soddisfatto c'era il coinvolgimento diretto dei Naha. L'idea era stata davvero azzeccata: in parte per rispettare gli accordi presi con il consiglio degli anziani, in parte perché riteneva assurdo escludere gli abitanti del luogo da una scoperta che riguardava anche la loro storia.
 
@@ -3076,17 +3132,51 @@ Nel tempo libero, Leon cominciò a dedicarsi alla traduzione di ogni numero pres
 
 Quella sera, terminate le incombenze della giornata, si sedette al tavolino fuori dalla sua tenda deciso a dedicare qualche ora allo studio di quella peculiare iscrizione. La notte era calda e umida, e il frinire degli insetti riempiva l'aria. La luce della torcia elettrica attirava una nuvola di moscerini, che sembravano gettarsi contro di essa con la stessa insistenza con cui lui si accaniva sul problema del calendario inciso.
 
-Prese il portatile, un taccuino e una penna. L'idea di Emily lo intrigava: e se quel grande disco scolpito dietro il trono fosse davvero un calendario?
+Fece per richiamare Marie, ma si fermò.
 
-Si immerse nei numeri, cercando schemi, correlazioni, qualcosa che desse senso a quelle strane suddivisioni. Stava appuntando delle cifre quando una voce lo distolse dai suoi pensieri.
+Si tolse gli occhiali a realtà aumentata e li appoggiò sul tavolo. Per qualche ora avrebbe lavorato senza assistenza, affidandosi soltanto alle proprie intuizioni. Prese il tablet, un taccuino e una penna e cominciò.
+
+Si immerse nei numeri, cercando schemi, correlazioni, qualcosa che desse senso a quelle strane suddivisioni. L'idea di Emily lo intrigava: e se quel grande disco scolpito dietro il trono fosse davvero un calendario?
+
+Trascrisse sul taccuino tutti i valori che erano riusciti a decifrare, costruendo una tabella ordinata settore per settore. Poi cominciò a confrontare le durate.
+
+Era il primo dettaglio che lo aveva colpito.
+
+Se quei simboli rappresentavano davvero intervalli temporali, allora qualcosa non tornava: le sezioni del cerchio non sembravano avere la stessa ampiezza. Ogni periodo appariva più breve del precedente, come se la scala temporale si restringesse progressivamente.
+
+Era solo una pista, ma era abbastanza per continuare.
 
 "Ancora al lavoro?"
 
 Alzò lo sguardo. Alex lo osservava con un mezzo sorriso, le mani in tasca.
 
-"Ho appena iniziato," rispose Leon, allontanando alcuni fogli per fargli spazio. "Sto provando ad analizzarlo come un calendario. Ho notato una cosa interessante: se ogni settore rappresenta un intervallo di tempo, le durate non sono uguali. Seguono un andamento decrescente."
+"Ho appena iniziato," rispose Leon, allontanando alcuni fogli per fargli spazio.
 
-Alex si avvicinò, sbirciando lo schermo del portatile.
+Alex passò lo sguardo sui fogli annotati a mano, alzando un sopracciglio. "Non dirmi che\..."
+
+"Già."
+
+"Com'è che le chiami? Sessioni analogiche?"
+
+"Sessioni di ragionamento analogico, sì."
+
+"Non ho mai capito se è una tua fissa, o è una cosa comune tra voi antropologi quarantenni con una passione per gli strumenti del secolo scorso."
+
+Leon ci rifletté. "Che io sappia, è una mia fissazione."
+
+Cercare una risposta da Marie era ormai un'abitudine: davanti a un problema complesso bastava una richiesta e in pochi secondi avrebbe avuto correlazioni, analisi statistiche, possibili interpretazioni.
+
+Ed era proprio per questo che, ogni tanto, si imponeva di lavorare alla vecchia.
+
+Non perché diffidasse della tecnologia: Marie era uno degli strumenti più utili che avesse mai avuto a disposizione. Ma negli ultimi anni si era accorto che delegava troppo alla tecnologia.
+
+Voleva dimostrare a sé stesso di essere ancora capace di lavorare da solo. Anche se questo spesso voleva dire diminuire drasticamente l'efficienza.
+
+Leon tornò a scorrere la tabella.
+
+"Sto provando ad analizzarle l'iscrizione come un calendario. Ho notato una cosa interessante: se ogni settore rappresenta un intervallo di tempo, le durate non sono uguali. Seguono un andamento decrescente."
+
+Alex si avvicinò, sbirciando lo schermo del tablet.
 
 "Quindi ogni mese ha una durata diversa?"
 
@@ -3112,21 +3202,21 @@ Alex inclinò leggermente la testa. "Sarebbe già più interessante."
 
 Era un'idea affascinante. Leon stava per approfondire quando Alex smise di osservare il tavolo e guardò oltre la sua spalla.
 
-"Per quanto mi riguarda, il resto può aspettare."
+"Credo che il resto del ragionamento dovrà aspettare."
 
 Leon seguì il suo sguardo e vide Zali che si stava avvicinando lungo il sentiero.
 
 "Ah."
 
-"Già."
+"Già. Buon proseguimento."
 
-Alex si allontanò senza aggiungere altro e andò incontro alla ragazza.
+Senza aggiungere altro, Alex andò incontro alla ragazza.
 
 Leon rimase per qualche istante a guardarli. In tutti gli anni in cui aveva conosciuto Alex, non lo aveva mai visto interrompere spontaneamente un ragionamento interessante.
 
-Evidentemente esistevano forze più potenti della matematica.
+Evidentemente esistevano forze più potenti della matematica, sorrise tra sé.
 
-Scosse la testa e tornò al calendario.
+Si riscosse, tornando al calendario.
 
 Anche supponendo che quei settori indicassero epoche, restava una domanda da risolvere: qual era l'unità temporale? Un anno? Un secolo? Qualcos'altro? E poi, perché la durata delle epoche avrebbe dovuto ridursi progressivamente?
 
@@ -3134,27 +3224,57 @@ A meno che\...
 
 Ebbe un'intuizione.
 
-Era assurda. Improbabile. Sicuramente una perdita di tempo. Ma se quella civiltà aveva costruito un emettitore di onde elettromagnetiche cinquemila anni prima, poteva essere capace di qualsiasi cosa.
+Era improbabile. Assurda. Sicuramente una perdita di tempo.
 
-Con rinnovato entusiasmo si rimboccò le maniche e si mise a calcolare.
+Ma se quella civiltà aveva costruito un emettitore di onde elettromagnetiche cinquemila anni prima, poteva essere capace di qualsiasi cosa.
 
-Dopo mezz'ora posò la penna con un sospiro. Aveva riempito diverse pagine di appunti e compilato una tabella con precisione maniacale. Ora serviva soltanto un ultimo controllo per verificare se la sua ipotesi reggesse davvero. Anche se, ne era quasi certo, aveva appena buttato via buona parte della serata.
+Leon si sgranchì le braccia. Aveva accettato di perdere tempo quando aveva deciso di rinunciare all'assistente integrato. Ora però voleva sapere se quella strana intuizione avesse almeno una possibilità di essere corretta.
 
-Accese il portatile e accedette al database della FSU. Quel sistema conteneva praticamente ogni sequenza numerica catalogata negli ultimi decenni: testi antichi, calendari, sistemi di misura, progressioni matematiche, dati astronomici, modelli statistici. Se da qualche parte esisteva una corrispondenza, era lì che l'avrebbe trovata.
+Si rimboccò le maniche e ricominciò da capo.
 
-Inserì le credenziali e avviò la ricerca. Per un istante il sistema sembrò funzionare normalmente. Poi la schermata si bloccò.
+Passò quasi un'ora prima che appoggiasse la penna. Aveva riempito diverse pagine di appunti e compilato una tabella con precisione quasi maniacale. Ora serviva soltanto un ultimo controllo: verificare se la sua ipotesi reggesse davvero.
 
-> DATABASE IRRAGGIUNGIBILE
->
-> ERRORE DI INTEGRITÀ
->
-> CORRUZIONE DEI DATI
+Prese gli occhiali dal tavolo.
 
-Leon aggrottò la fronte.
+"Marie, verifica la sequenza che sto per passarti. Cerca corrispondenze nei database della FSU."
 
-La FSU gestiva alcuni dei sistemi informatici più affidabili del pianeta. Guasti temporanei potevano capitare. Una corruzione improvvisa dell'archivio centrale era un'altra storia.
+Se la sequenza che aveva trovato esisteva, era nei database della FSU che l'avrebbe trovata. Quel sistema conteneva praticamente ogni sequenza numerica catalogata negli ultimi decenni: testi antichi, calendari, sistemi di misura, progressioni matematiche, dati astronomici, modelli statistici.
 
-Rimase a fissare lo schermo per qualche secondo. Che diavolo stava succedendo?
+Leon attese, ma Marie non reagiva.
+
+Aspettò qualche altro secondo.
+
+"Marie?"
+
+Ancora nulla.
+
+Per un momento ebbe quasi la sensazione assurda che l'assistente lo stesse ignorando. Si era offesa?
+
+No. Gli assistenti integrati non si offendevano. Allora cosa stava succedendo?
+
+Riavviò la richiesta manualmente.
+
+Niente.
+
+Aprì il collegamento diretto al database della FSU. Per un istante il sistema sembrò funzionare normalmente.
+
+Poi la schermata si bloccò.
+
+\[STACCO\]
+
+DATABASE IRRAGGIUNGIBILE
+
+ERRORE DI INTEGRITÀ
+
+CORRUZIONE DEI DATI
+
+\[STACCO\]
+
+Leon rimase a fissare lo schermo per qualche secondo.
+
+Che diavolo stava succedendo?
+
+\[STACCO\]
 
 # CAPITOLO
 
@@ -3562,11 +3682,11 @@ immagine: img/capitoli/la_squadra.jpg
 
 Il team era radunato nella tenda che faceva da quartier generale e il notiziario arrivava da uno schermo che normalmente veniva usato per visualizzare grafici e dati di scavo.
 
-Leon si alzò. "Per un attimo ho pensato che fosse un problema della FSU. Ieri sera ho provato ad accedere al database e non ci sono riuscito." Aveva riprovato quella mattina e il sistema sembrava funzionare normalmente, ma la coincidenza continuava a infastidirlo.
+Leon si alzò. "Per un attimo ho pensato che fosse un problema della FSU. Ieri sera ho provato in tutti i modi ad accedere al database e non ci sono riuscito." Aveva riprovato quella mattina e il sistema sembrava funzionare normalmente, ma la connessione era ancora instabile.
 
-Non era stato l'unico inconveniente. Durante la notte erano diventati irraggiungibili diversi archivi archeologici, una parte dei database linguistici che Schmidt stava consultando e persino alcuni servizi di elaborazione remota utilizzati dalla Carter per confrontare i risultati delle analisi. Nessun problema era davvero critico, almeno preso singolarmente. Eppure il lavoro dell'intera spedizione aveva rallentato bruscamente.
+Non era stato l'unico inconveniente. Durante la notte erano diventati irraggiungibili diversi archivi archeologici, una parte dei database linguistici che Schmidt stava consultando e persino alcuni servizi di elaborazione remota utilizzati dalla Carter per confrontare i risultati delle analisi.
 
-Era quasi incredibile quanto il mondo moderno dipendesse dalla tecnologia. Bastavano poche ore di instabilità nei sistemi digitali perché una moderna spedizione scientifica si trovasse improvvisamente incapace di lavorare.
+Fino alla sera prima nessuno aveva mai considerato seriamente la possibilità che strumenti come Marie potessero semplicemente non esserci. Erano diventati una presenza talmente costante da risultare invisibile, come la corrente elettrica o la rete idrica. Solo quando erano venuti meno, tutti si erano accorti di quanto della loro vita dipendesse da loro.
 
 "La cosa preoccupante non è il guasto," osservò Emily Carter. "I guasti capitano. È che nessuno sembra capire perché sia successo."
 
@@ -4564,7 +4684,7 @@ Quando il sole iniziò a scendere verso l'orizzonte, la veranda era ancora piena
 
 Eppure, quella notte Leon non riuscì a prendere sonno.
 
-La scoperta che aveva fatto poco prima dell'arrivo di Hale continuava a tornargli in mente con insistenza. Poco prima che i sistemi informatici mondiali andassero in tilt, quella sera in cui aveva analizzato il calendario aveva trovato uno schema. E, se ci aveva visto giusto, era decisamente una cosa su cui valesse la pena vederci chiaro.
+La scoperta che aveva fatto poco prima dell'arrivo di Hale continuava a tornargli in mente con insistenza. Poco prima che i sistemi informatici mondiali andassero in tilt, quella sera in cui aveva analizzato il calendario aveva trovato uno schema. E, se ci aveva visto giusto, era decisamente una cosa che non poteva essere tralasciata.
 
 Non ne aveva ancora parlato con nessuno, in parte perché non ce n'era stata occasione, in parte perché voleva essere assolutamente certo di non aver frainteso qualcosa.
 
@@ -5286,9 +5406,9 @@ Si fermò davanti a Nadia.
 
 # CAPITOLO
 
-id: dopo_il_festival
+id: l_eretico
 tipo: capitolo
-titolo: Dopo il Festival
+titolo: L'eretico
 descrizione: Nelle celle imperiali, un prigioniero speciale viene svegliato dalla donna più importante del regno.
 immagine: img/capitoli/la_squadra.jpg
 
@@ -5296,7 +5416,9 @@ immagine: img/capitoli/la_squadra.jpg
 
 La torcia crepitò mentre Mira percorreva il corridoio sotterraneo.
 
-L'aria era umida, pesante di pietra bagnata e muffa. Le guardie davanti a lei si fermarono di fronte all'ultima porta della fila.
+L'aria era umida, pesante di pietra bagnata e muffa. Distante, nella piazza cittadina, il vociare dei festeggiamenti arrivava debole, ovattato dagli spessi strati di pietra.
+
+Le guardie davanti a lei si fermarono di fronte all'ultima porta della fila.
 
 "Siete sicuri che sia lui?" chiese.
 
@@ -5610,9 +5732,13 @@ Leon scese le scale di legno fino al piano terra. Trovò Alex già sveglio, nell
 
 "La seconda."
 
-Leon notò le occhiaie del collega e scosse la testa.
+Leon indicò il tavolo.
 
-"Come ai tempi del dottorato."
+"Fammi indovinare. Sessione di ragionamento analogico?"
+
+Alex guardò i fogli sparsi davanti a sé. "Molto divertente."
+
+Leon notò le occhiaie del collega. "Come ai tempi del dottorato."
 
 "Già. Erano anni che non lavoravo fino all'alba. Devo dire che un po' mi era mancato. È come se il mio cervello non vedesse l'ora di tornare a fare il suo lavoro. E sotto un acquazzone tropicale è tutto ancora più epico. "
 
@@ -5766,7 +5892,7 @@ Ma Nadia doveva ammettere che era stato necessario. Ora attraversare il palazzo 
 
 Mira si alzò con la consueta eleganza. I lunghi bracciali di bronzo tintinnarono piano mentre raggiungeva la finestra. Per un momento rimase immobile a osservare l'esterno, e Nadia seguì istintivamente la direzione del suo sguardo.
 
-Oltre i tetti del palazzo si intravedeva il tempio, la torre astronomica, la piazza ricolma di gente. Poco più in là si innalzava la piramide, immensa, la vetta già illuminata dalla luce dell'alba. Sotto quella massa di pietra, nascosti agli occhi della città, si trovavano i sotterranei dove suo padre era rinchiuso. Ogni volta che il suo sguardo cadeva su quel monumento, Nadia sentiva riaffiorare lo stesso pensiero: suo padre era così vicino, eppure così lontano da sembrare irraggiungibile.
+Oltre i tetti del palazzo si intravedevano il tempio, la torre astronomica, la piazza ricolma di gente. Poco più in là si innalzava la piramide, immensa, la vetta già illuminata dalla luce dell'alba. Sotto quella massa di pietra, nascosti agli occhi della città, si trovavano i sotterranei dove suo padre era rinchiuso. Ogni volta che il suo sguardo cadeva su quel monumento, Nadia sentiva riaffiorare lo stesso pensiero: suo padre era così vicino, eppure così lontano da sembrare irraggiungibile.
 
 Nadia si avvicinò al tavolino degli ornamenti e sistemò con cura il piccolo braciere rituale, i rotoli di papiro e riallineando anche una ciotola d'incenso che una delle altre ancelle aveva lasciato leggermente fuori posto.
 
@@ -5950,11 +6076,13 @@ Seguì qualche secondo di silenzio.
 
 Nadia immaginò la scena oltre quella porta. Li vedeva seduti uno di fronte all'altra, intenti a discutere come due pari, non come un sovrano e la sua sacerdotessa. L'impressione le sembrò assurda, eppure era esattamente ciò che stava ascoltando.
 
-Passarono alcuni minuti. La conversazione deviò verso questioni amministrative che Nadia comprendeva solo in parte: raccolti, tributi provenienti dalle province meridionali, una disputa commerciale con alcune città oltre il grande fiume. Stava quasi convincendosi che non avrebbe sentito altro di utile quando la voce dell'imperatore cambiò tono.
+Passarono alcuni minuti. La conversazione deviò verso questioni amministrative che Nadia comprendeva solo in parte: raccolti, tributi provenienti dalle province meridionali, una disputa commerciale con alcune città oltre il grande fiume.
+
+Poi la voce dell'imperatore cambiò tono.
 
 "Cosa mi dici dei nostri avversari?"
 
-Quella semplice domanda cancellò ogni altro pensiero.
+Nadia tese l'orecchio con più attenzione.
 
 Seguì una pausa. Quando Mira parlò di nuovo, la sua voce era bassa, misurata.
 
@@ -5964,7 +6092,7 @@ Il cuore di Nadia accelerò. Stavano parlando della Setta?
 
 La voce femminile proseguì. "Non dobbiamo commettere l'errore di sottovalutare chi sa attendere. I nemici più pericolosi sono quelli che imparano nell'ombra." Per la prima volta, Nadia colse una sfumatura diversa nella voce di Mira. Non era dubbio, era prudenza.
 
-L'imperatore rimase in silenzio. Si sentì il tintinnio attutito di un bicchiere. "E Lord Garnak?"
+L'imperatore rimase in silenzio. Si udì il tintinnio attutito di un bicchiere. "E Lord Garnak?"
 
 Nadia si irrigidì.
 
@@ -6130,15 +6258,17 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Il sole del pomeriggio batteva implacabile sul villaggio Naha, quando un suono ormai familiare riempì l'aria. Attirati dal rombo delle pale, Leon e Alex uscirono dalla guesthouse e alzarono lo sguardo al cielo appena in tempo per vedere un elicottero virare sopra la giungla. Altri due velivoli simili si muovevano in formazione. Quando passarono abbastanza vicini da lasciar distinguere le insegne sulle fiancate, Leon riconobbe i loghi di alcune emittenti internazionali.
+Il sole del pomeriggio batteva implacabile sul villaggio Naha, quando un suono ormai familiare riempì l'aria. Attirati dal rombo delle pale, Leon e Alex uscirono dalla guesthouse e alzarono lo sguardo al cielo appena in tempo per vedere un elicottero virare sopra la foresta. Altri due velivoli simili si muovevano in formazione. Quando passarono sopra il villaggio, Leon riconobbe i loghi di alcune emittenti internazionali.
 
 Sospirò.
 
-"Ci siamo."
+"La FSU ha dato libero accesso ai giornalisti. Dovevano controllarli, invece li hanno scatenati."
 
-Alex annuì senza distogliere lo sguardo, il sudore che gli incollava i capelli alla fronte. Non era una sorpresa: avevano avvertito i Naha che la scoperta delle rovine avrebbe attirato l'attenzione del mondo, ma una cosa era anticiparlo, un'altra era vederlo accadere.
+\[STACCO\]
 
-"La FSU ha dato libero accesso ai giornalisti" disse Leon, scrollando le spalle. "Dovevano controllarli, invece li hanno scatenati."
+Alex annuì senza distogliere lo sguardo, il sudore che gli incollava il ciuffo nero alla fronte.
+
+Non era una sorpresa: avevano avvertito i Naha che la scoperta delle rovine avrebbe attirato l'attenzione del mondo, ma una cosa era anticiparlo, un'altra era vederlo accadere.
 
 Al villaggio si percepiva un'aria carica di aspettativa. Alcuni ragazzi erano usciti dalle botteghe e indicavano gli elicotteri ridendo tra loro. Un paio di pescatori avevano interrotto il lavoro sul molo per seguire i velivoli con lo sguardo. Le novità erano sempre oggetto di interesse, ma in tanti non erano ancora consapevoli delle conseguenze che quelle novità avrebbero portato.
 
@@ -6146,9 +6276,9 @@ Leon si passò una mano sulla nuca. Se n'erano andati dal sito, sì, ma questo n
 
 Zali non si fece vedere per tutta la mattina. Quando finalmente si presentò all'ora di pranzo, il suo umore era nero come un temporale in arrivo.
 
-"Quanto starà qui questa gente?" esordì senza preamboli, varcando la soglia della guesthouse.
+"Quanto starà qui questa gente?" esordì senza mezzi termini, varcando la soglia della guesthouse.
 
-Leon scosse la testa. "Temo che non se ne andranno presto." Lo disse con cautela, ma senza girarci attorno.
+Leon scosse la testa. "Temo che non se ne andranno presto." Non serviva girarci attorno.
 
 Zali incrociò le braccia.
 
@@ -6164,13 +6294,11 @@ Zali non sembrava convinta. "Voi due siete importanti per la FSU, no? Siete venu
 
 "Dico solo che potreste fare pressione. Dire pubblicamente che non siete d'accordo. Se due dei ricercatori più importanti della spedizione prendessero posizione, qualcuno sarebbe costretto ad ascoltarvi."
 
-Leon sospirò. "Non possiamo. Non ora che c'è in ballo tutto questo."
+Leon si massaggiò gli occhi. "Non possiamo. Non ora che c'è in ballo tutto questo."
 
 "Perché no? Potete continuare a indagare per conto vostro. Quell'Hale, da solo\... scommetto che non durerebbe un giorno senza di voi."
 
-Leon si lasciò sfuggire un sorriso di soddisfazione.
-
-Per un istante fu davvero tentato di seguire il consiglio di Zali.
+Leon si lasciò sfuggire un sorriso di soddisfazione. Per un istante fu davvero tentato di seguire il consiglio di Zali.
 
 "Capisco cosa provi, davvero. Ma se ci dimettiamo perdiamo accesso ai dati, alle risorse, a tutto. Ascolta, Zali: tu sei l'unica al villaggio a sapere qual è la posta in gioco. Se ci abbiamo visto giusto, qui c'è in ballo\... beh, il destino del mondo. Tranquillizza la tua gente, cerca di rassicurarli. Non ti chiediamo di mentire, ma\..."
 
@@ -6178,11 +6306,11 @@ Per un istante fu davvero tentato di seguire il consiglio di Zali.
 
 Zali esitò.
 
-Poi sospirò. "D'accordo. Parlerò con gli anziani. Cercherò di tenere tutti tranquilli, ma non assicuro niente."
+Poi sospirò. "D'accordo. Parlerò di nuovo con gli anziani. Cercherò di tenere tutti tranquilli, ma non assicuro niente."
 
 Fece per andarsene, poi si voltò un'ultima volta. "Mi fido di voi."
 
-Alex annuì. "La cosa è reciproca."
+"La cosa è reciproca."
 
 Per la prima volta quel giorno, la ragazza accennò un sorriso. Poi uscì.
 
@@ -6194,11 +6322,11 @@ Leon annuì. "Probabilmente hai ragione."
 
 Per qualche istante nessuno parlò.
 
-"La cosa assurda," riprese Alex, "è che una settimana ero qui a chiedermi se avesse senso affezionarsi a qualcuno che vive dall'altra parte del mondo."
+"La cosa assurda," riprese Alex, "è che una settimana fa ero qui a chiedermi se avesse senso affezionarsi a qualcuno che vive dall'altra parte del mondo."
 
 Leon lo lasciò continuare.
 
-"Adesso\..." Alex fece un piccolo gesto con la mano, come a scacciare il pensiero. "Adesso faccio fatica a considerarlo un problema."
+"Adesso\..." Alex fece un piccolo gesto con la mano, come a scacciare il pensiero. Abbassò lo sguardo per un istante, quasi sorpreso dalle sue stesse parole "Adesso faccio fatica a considerarlo un problema."
 
 Leon sorrise appena. "Quando scopri che il tempo potrebbe essere intrappolato in un ciclo destinato a chiudersi tra pochi anni, le convenzioni sociali perdono un po' della loro importanza."
 
@@ -6212,15 +6340,13 @@ Leon sorseggiò il caffè. "Bisogna riconoscerle anche un altro merito non da po
 
 "Essere riuscita ad ascoltare dieci minuti di spiegazione sull'entropia senza scappare."
 
-Alex alzò gli occhi al cielo. Stava aprendo la bocca per replicare, quando si fermò.
-
-Aggrottò la fronte.
+Alex alzò gli occhi al cielo. Stava aprendo la bocca per replicare, ma la battuta gli rimase sulle labbra. Aggrottò la fronte, come se un dettaglio appena sfuggito avesse attirato la sua attenzione.
 
 "Aspetta."
 
 Leon sbatté le palpebre. "Non mi muovo."
 
-Alex si passò una mano sul mento. "C'è qualcosa che non torna." Per un istante sembrò rincorrere un pensiero che rischiava di sfuggirgli. "Se il tempo si ripete davvero\..." mormorò.
+Alex si passò una mano sul mento. "C'è qualcosa che non torna." Per un istante rimase immobile, lo sguardo perso davanti a sé, mentre ricostruiva mentalmente il ragionamento. "Se il tempo si ripete davvero\..." mormorò.
 
 Si interruppe.
 
@@ -6248,7 +6374,7 @@ Leon rifletté per qualche secondo.
 
 "Non ti seguo. Se il tempo segue un'orbita chiusa, come un pianeta attorno a una stella, l'entropia potrebbe continuare ad aumentare a ogni ciclo."
 
-"Ed è qui che le cose si complicano." Alex accennò un sorriso nervoso. "Ciclo dopo ciclo, il disordine aumenterebbe sempre di più. Dopo abbastanza giri, il cosmo assomiglierebbe a una stanza dimenticata da uno studente universitario."
+"Ed è qui che le cose si complicano." Alex si tolse gli occhiali e li pulì distrattamente. "Ciclo dopo ciclo, il disordine aumenterebbe sempre di più. Dopo abbastanza giri, il cosmo assomiglierebbe a una stanza dimenticata da uno studente universitario."
 
 "Capisco\..." disse Leon. "Quindi, se il ciclo esiste davvero, a un certo punto l'entropia deve diminuire."
 
@@ -6510,43 +6636,59 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Come ogni mattina, Nadia si presentò alla stanza di Mira. Quella notte aveva dormito poco e male. Solo alle prime luci dell'alba era sprofondata in un sonno breve e inquieto.
+Come ogni mattina, Nadia si presentò alla stanza di Mira. Quella notte aveva dormito poco e male, e solo alle prime luci dell'alba era sprofondata in un sonno breve e inquieto.
 
 Nadia era sicura che Mira fosse pronta ad affrontarla da un momento all'altro. Eppure, quando aprì la porta ed entrò negli appartamenti della sacerdotessa, tutto sembrava immutato. Mira era perfetta, distante, inviolabile. Seduta alla scrivania, mentre scorreva alcuni documenti, non alzò nemmeno lo sguardo. "Sei in ritardo," disse con il solito tono che Nadia conosceva bene: in qualche modo, freddo e dolce allo stesso tempo.
 
 La routine quotidiana ebbe inizio come se nulla fosse successo, ma Nadia, nervosa, fece cadere più volte il pettine mentre acconciava i capelli della donna. Ogni tanto i loro sguardi si sfioravano, ma il gelo che lei temeva non c'era. C'era solo quella stessa compostezza, quella presenza solenne. Capì che Mira era determinata a far finta che nulla fosse successo la scorsa notte.
 
-Alla fine, terminati i suoi compiti, Nadia si ritirò. Simpatia, aveva detto Mira. Nadia voleva crederci, ma non ci riusciva: Mira l'aveva protetta perché aveva ancora bisogno di lei. Forse la vedeva come una pedina, un ingranaggio del suo piano. Forse un modo per arrivare alla Setta. Non voleva ancora sacrificarla, ma quando non sarebbe più stata utile, sarebbe stata tolta di torno*.* Questa consapevolezza le serrava la gola.
+Terminati i suoi compiti, Nadia si diresse verso la camera delle ancelle. Si sforzò di mantenere il passo regolare, ma avrebbe voluto correre. Simpatia, aveva detto Mira. Nadia voleva crederci, ma non ci riusciva: Mira l'aveva protetta perché aveva ancora bisogno di lei. Forse la vedeva come una pedina, un ingranaggio del suo piano. Forse un modo per arrivare alla Setta. Non voleva ancora sacrificarla, ma quando non sarebbe più stata utile, sarebbe stata tolta di torno*.* Questa consapevolezza le serrava la gola.
 
-Entrò nella sua piccola stanza, chiudendosi la porta alle spalle. D'un tratto si sentì in trappola, in un palazzo dal quale non poteva uscire, circondata da persone di cui non poteva fidarsi. Lacrime di disperazione le sgorgarono dagli occhi contro la sua volontà. Nadia pianse per minuti, singhiozzando come non faceva da anni.
+Entrò nella sua piccola stanza, chiudendosi la porta alle spalle. Rimase ferma per qualche secondo con la schiena appoggiata al legno.
 
-Quando il picco di panico si affievolì, riuscì finalmente ad analizzare la situazione con più chiarezza. Doveva agire. Non poteva più aspettare che Mira decidesse il suo destino.
+D'un tratto si sentì in trappola, in un palazzo dal quale non poteva uscire, circondata da persone di cui non poteva fidarsi. Si guardò intorno, quasi cercando una via d'uscita che sapeva non esserci.
 
-In quel momento entrò Joira, la sua compagna di camera. Nadia si affrettò a ricomporsi. Mentre guardava distrattamente la ragazza cambiarsi l'abito, ebbe un'idea.
+Le lacrime arrivarono prima che potesse impedirlo. Provò a ricacciarle indietro, quasi con rabbia, ma ormai era troppo tardi. Si rannicchiò sul letto, il volto nascosto tra le mani, e pianse come non faceva da anni.
+
+Quando il picco di panico si affievolì, rimase seduta sul letto, svuotata, lo sguardo fisso nel vuoto mentre cercava di rallentare il respiro. Riuscì finalmente ad analizzare la situazione con più chiarezza.
+
+Doveva agire. Si asciugò il volto con il dorso della mano. Non poteva più aspettare che Mira decidesse il suo destino.
+
+In quel momento entrò Joira, la sua compagna di camera. Nadia si affrettò a ricomporsi, ma la ragazza non badò minimamente a lei,
+
+Mentre Nadia la guardava distrattamente cambiarsi l'abito, ebbe un'idea.
 
 "Joira," iniziò con voce bassa. "So che ogni venerdì incontri qualcuno."
 
-Joira si fermò di colpo, la camicetta abbottonata a metà, e girò lentamente la testa verso Nadia. I suoi occhi si spalancarono per un istante, poi si strinsero in una fessura sospettosa. "Cosa vuoi dire?"
+Joira si fermò di colpo, l'abito infilato a metà, e girò lentamente la testa verso Nadia. Per un istante rimase immobile, come se stesse valutando se avesse sentito bene, poi i suoi occhi si strinsero in una fessura sospettosa.
+
+"Cosa vuoi dire?"
 
 Nadia mantenne lo sguardo fermo. "So che vedi qualcuno," ripeté. "Fuori dal palazzo."
 
-Joira sembrava agitata, e Nadia seppe di averci preso. "È un uomo, vero?" indovinò, con la precisione di un investigatore.
+Joira rimase con le mani ferme sull'abito, senza più preoccuparsi di sistemarlo.
+
+"È un uomo, vero?" indovinò, con la precisione di un investigatore.
 
 "Non sono affari tuoi" disse lei con decisione.
 
 Nadia si affrettò a tranquillizzarla: "Voglio solo sapere come fai. Come esci dal palazzo senza essere vista?"
 
-Joira si voltò, ancora diffidente. "Perché te lo chiedi? Non hai mai mostrato interesse per queste cose."
+Joira si voltò, ancora diffidente. Le diede le spalle per qualche secondo, come se avesse bisogno di nascondere la propria reazione. Poi tornò a guardarla.
+
+"Perché te lo chiedi? Non hai mai mostrato interesse per queste cose."
 
 Nadia inspirò profondamente. "Ho bisogno di uscire, e non posso essere scoperta. So che lo fai ogni settimana, voglio solo sapere come."
 
 Joira incrociò le braccia, i suoi occhi ancora fissi su di lei, come a studiare le sue vere intenzioni.
 
-"Il tuo segreto in cambio del mio silenzio," azzardò lei. Cercò di far passare la proposta come un accordo tra amiche, più che come una minaccia.
+"Il tuo segreto in cambio del mio silenzio," azzardò lei, abbozzando un sorriso complice. Cercò di far passare la proposta come un accordo tra amiche, più che come una minaccia.
 
-Joira valutò rapidamente la situazione, poi abbassò la voce, guardandosi intorno con circospezione. "C'è una stanza non custodita nell'ala est. È al piano terra, e la finestra dà proprio sul giardino. Ma il corridoio che porta laggiù non è sempre accessibile. Di solito è sorvegliato."
+Joira valutò rapidamente la situazione, poi abbassò la voce, lanciando un'occhiata alla porta prima di avvicinarsi.
 
-"Quand'è che non è sorvegliato?" Insistette Nadia, il cuore che le batteva forte mentre si avvicinava alla risposta che cercava.
+"C'è una stanza non custodita nell'ala est. È al piano terra, e la finestra dà proprio sul giardino. Ma il corridoio che porta laggiù non è sempre accessibile. Di solito è sorvegliato."
+
+"Quand'è che non è sorvegliato?" Insistette Nadia, cercando di mantenere ferma la voce nonostante il cuore avesse iniziato ad accelerare.
 
 "Che io sappia, solo venerdì, poco prima del calar della notte," rispose Joira. "Ma bisogna tornare nel palazzo in tempo, prima del cambio della guardia."
 
@@ -6554,11 +6696,17 @@ Nadia sospirò stancamente. A quell'ora aveva un impegno: il turno di pulizia de
 
 Il tono di Nadia era implorante, ma Joira alzò un sopracciglio. "Perché dovrei farlo? Rinunciare alla mia serata? Per coprirti? Non siamo nemmeno amiche."
 
-Nadia avvampò di delusione e irritazione. Nessuno in quel palazzo l'avrebbe aiutata senza avere niente in cambio, ormai avrebbe dovuto impararlo. Con riluttanza, si portò la mano al petto, toccando da sopra la camicia il metallo freddo. Sfilò lentamente il ciondolo e tenne la catenella tra due dita, con il pendente che oscillava lucente. Il prezioso portafortuna della madre.
+Nadia rimase in silenzio per qualche secondo. La risposta le fece più male di quanto volesse mostrare. Nessuno in quel palazzo l'avrebbe aiutata senza avere niente in cambio, ormai avrebbe dovuto impararlo.
 
-"Questo potrebbe farti cambiare idea?" I cinque petali argentati danzavano alla luce della lampada a olio, con la gemma che brillava al centro, riflessa negli occhi bramosi di Joira. L'espressione della ragazza cambiò all'istante. "D'accordo," disse, la voce ora molto più morbida. "Farò come dici."
+Con riluttanza, si portò la mano al petto, toccando da sopra la camicia il metallo freddo. Le dita rimasero ferme sul ciondolo più a lungo del necessario, come se lasciarlo andare significasse perdere qualcosa di sé. Sfilò lentamente il ciondolo e tenne la catenella tra due dita, con il pendente che oscillava lucente. Il prezioso portafortuna della madre.
 
-Nadia esitò solo un istante, poi lasciò scivolare l'antico pendente nella mano tesa di Joira. Un piano aveva preso forma nella sua mente. Era in una brutta situazione, ma non era sola. C'era una sola persona di cui era certa di potersi fidare. Una sola, in tutta l'immensità della capitale. Non appena Joira ebbe finito di cambiarsi e se ne fu andata, rigirandosi tra le dita il suo nuovo tesoro, Nadia estrasse penna e inchiostro.
+"Questo potrebbe farti cambiare idea?" I cinque petali argentati danzavano alla luce della lampada a olio, con la gemma che brillava al centro, riflessa negli occhi bramosi di Joira. Per un istante Joira dimenticò perfino di nascondere la propria reazione.
+
+"D'accordo," disse, la voce ora molto più morbida. "Farò come dici."
+
+Nadia esitò solo un istante, poi lasciò scivolare l'antico pendente nella mano tesa di Joira. Quando le dita dell'altra ragazza si richiusero sull'oggetto, Nadia abbassò lo sguardo per un istante.
+
+Un piano aveva preso forma nella sua mente. Era in una brutta situazione, ma non era sola. C'era una sola persona di cui era certa di potersi fidare. Una sola, in tutta l'immensità della capitale. Non appena Joira ebbe finito di cambiarsi e se ne fu andata, rigirandosi tra le dita il suo nuovo tesoro, Nadia estrasse penna e inchiostro.
 
 \[STACCO\]
 
@@ -6566,17 +6714,21 @@ Nadia esitò solo un istante, poi lasciò scivolare l'antico pendente nella mano
 
 \[STACCO\]
 
-L'idea di coinvolgere suo fratello la faceva stare male: non tanto per il modo brusco in cui si erano lasciati, ma perché non voleva costringerlo nella situazione rischiosa in cui si era ficcata. Ma per quanto ci rimuginasse, non vedeva opzioni migliori.
-
 Stringendo il messaggio saldo nel pugno, si diresse verso la statua di ebano.
+
+L'idea di coinvolgere suo fratello la faceva stare male: non tanto per il modo brusco in cui si erano lasciati, ma perché non voleva costringerlo nella situazione rischiosa in cui si era ficcata. Ma per quanto ci rimuginasse, non vedeva opzioni migliori.
 
 \[STACCO\]
 
-Quel venerdì sera, Nadia aprì la porta della sua stanza con un lieve cigolio e scivolò fuori. Si diresse verso l'ala est del palazzo, come Joira le aveva indicato. Il pensiero di aver sacrificato il prezioso pendente le pesava nella mente, e non poteva fare a meno di chiedersi se tutto ciò fosse inutile: la Setta non aveva avuto modo di farle avere una risposta scritta. Akil aveva davvero ricevuto il messaggio? O Nadia aveva ceduto il suo gioiello per nulla?
+Quel venerdì sera, Nadia aprì la porta della sua stanza con un lieve cigolio e scivolò fuori. Aveva lasciato i sandali sotto al letto, per evitare qualsiasi rumore indesiderato.
 
-Senza intoppi, raggiunse la stanza di cui Joira aveva parlato. Era una sala con un largo tavolo al centro, forse adibita a riunioni o consigli. Tre grandi finestre si affacciavano sul buio della notte. Cautamente, Nadia si affacciò verso il giardino sottostante. L'aria notturna le carezzò il viso, tiepida e profumata di fiori. Inspirò profondamente: ora che era praticamente in detenzione nel palazzo, quella boccata d'aria estiva sapeva più che mai di libertà.
+A passo rapido, si diresse verso l'ala est, sentendo il tessuto confortevole dei tappeti sotto ai piedi scalzi.
 
-Si calò con cautela, atterrando silenziosamente tra le ombre degli alberi ornamentali e delle aiuole. Il terreno era soffice sotto i suoi piedi. Si accovacciò per non essere vista.
+Il pensiero di aver sacrificato il prezioso pendente le pesava nella mente, e non poteva fare a meno di chiedersi se tutto ciò fosse inutile. Troppe cose potevano essere andate storte. La Setta aveva ricevuto il messaggio? L'aveva consegnato ad Akil? E Akil aveva accettato, nonostante tutto quello che era successo tra loro?
+
+Raggiunse senza intoppi la stanza di cui Joira aveva parlato. Era una sala con un largo tavolo al centro, forse adibita a riunioni o consigli. Tre grandi finestre si affacciavano sul buio della notte. Cautamente, Nadia si affacciò verso il giardino sottostante. L'aria notturna le carezzò il viso, tiepida e profumata di fiori. Inspirò profondamente: ora che era praticamente in detenzione nel palazzo, quella boccata d'aria estiva sapeva più che mai di libertà.
+
+Si calò con cautela, atterrando silenziosamente tra le ombre degli alberi ornamentali e delle aiuole. L'erba le solleticò i piedi. Si accovacciò per non essere vista, portandosi dietro un cespuglio.
 
 A pochi passi di distanza, tra le ombre, scorse una figura. Il cuore le balzò in gola. "Akil\...?" sussurrò, mentre si avvicinava con cautela.
 
@@ -6586,9 +6738,11 @@ Ma quando l'uomo si voltò, Nadia trattenne il respiro. Non era Akil. Era uno sc
 
 "Ah\... Capisco\..." L'uomo la guardò con uno sguardo misto di delusione e confusione. Senza ringraziarla, se ne andò, sparendo nell'oscurità con espressione afflitta.
 
-Nadia rimase immobile, il respiro teso mentre osservava l'ombra dell'uomo che si allontanava. Non si sentiva particolarmente in colpa per aver mandato all'aria quell'incontro romantico.
+Nadia rimase immobile, il respiro teso mentre osservava l'ombra dell'uomo che si allontanava. Non si sentiva affatto in colpa per aver mandato all'aria quell'incontro romantico.
 
-Il giardino tornò ad essere silenzioso. Attese. E attese ancora. Ogni minuto che passava sembrava un'eternità, e il dubbio iniziò a insinuarsi di nuovo: forse Akil non sarebbe venuto. Forse aveva fatto tutto questo invano.
+Il giardino tornò deserto. Attese. E attese ancora. Ogni minuto che passava sembrava un'eternità, e il dubbio iniziò a insinuarsi di nuovo. Akil non sarebbe venuto. Aveva fatto tutto questo invano.
+
+Si strinse le braccia intorno al corpo, nonostante la nottata fosse tiepida.
 
 Ma poi, dal buio, sentì un sussurro. "Nadia, sei tu?"
 
@@ -6624,11 +6778,13 @@ Nadia esitò. Non ci aveva quasi pensato. Ora che era fuori dal palazzo, poteva 
 
 "Papà vorrebbe solo che fossimo al sicuro," insistette lui, stringendo i pugni. "Non avrebbe mai voluto vederti rischiare la vita."
 
-Nadia deglutì. Stava per ribattere che non avrebbe rischiato la vita, ma avrebbe solo mentito a sé stessa. "Non posso arrendermi," disse invece. "Non adesso. La Setta delle Ombre ci sta aiutando, e ora che sappiamo come entrare\..."
+Nadia deglutì. Le parole rimasero sospese per un momento. Una parte di lei sapeva che Akil aveva ragione.
+
+"Non posso arrendermi," disse infine. "Non adesso. La Setta delle Ombre ci sta aiutando, e ora che sappiamo come entrare\..."
 
 Akil si morse il labbro. Che si fosse pentito di aver rivelato l'esistenza di quel passaggio, di aver dato alla sorella una speranza? Ma ormai il danno era fatto. Non c'era modo di convincere Nadia. "Sei sempre stata testarda," mormorò. "D'accordo. Sono dei vostri. Mi terrò in contatto con la Setta, puoi contare su di me."
 
-"Grazie" disse Nadia, sentendo il peso sul petto alleviarsi un poco. Il divario tra loro era scomparso, e questo era più importante di qualsiasi rischio, di qualsiasi missione.
+"Grazie" disse Nadia, sentendo il peso sul petto alleviarsi un poco. Per la prima volta dopo settimane sentì le spalle rilassarsi. Il divario tra loro era scomparso, e questo era più importante di qualsiasi rischio, di qualsiasi missione.
 
 Lui la strinse di nuovo brevemente. "Stai attenta, Nadia. Non voglio perderti di nuovo."
 
@@ -6653,7 +6809,7 @@ Non appena le condizioni lo permisero, estrasse penna e inchiostro e meditò per
 > *nella sala riunioni in disuso, all'ombra della*\
 > *piramide. È un ingresso che io*\
 > *stessa ho usato in passato, ma non è importante*\
-> *ora. Ricordate: per accedere dovete usare lo*\
+> *ora. Ricordate: per entrare dovete usare lo*\
 > *stesso metodo che avete usato con me, il*\
 > *giorno che mi sono unita a voi.*
 
@@ -6661,149 +6817,435 @@ Non appena le condizioni lo permisero, estrasse penna e inchiostro e meditò per
 
 Aveva fatto il possibile. Se fosse abbastanza o meno, lo avrebbe scoperto presto. Proprio in quel momento, Joira entrò nella camera. "Cosa stai facendo con quella penna?" Il tono della ragazza era sospettoso.
 
-Nadia alzò le spalle, senza preoccuparsi di nascondere nulla. Sentì uno strano sorriso allargarsi sul suo volto, e all'improvviso si sentì ebbra del senso di sollievo di chi è già oltre alla normale disperazione, e riesce ad attingere a quelle risorse interiori normalmente inaccessibili. In quel momento Nadia era disposta a tutto.
+Nadia alzò le spalle, senza nemmeno preoccuparsi di coprire il foglio. Per la prima volta da giorni non sentiva più il bisogno di nascondere ogni sua mossa.
+
+La disperazione che l'aveva schiacciata fino a quel momento aveva lasciato spazio a qualcosa di più semplice e pericoloso: la determinazione.
+
+In quel momento Nadia era disposta a tutto.
 
 "Fossi in te, Joira, non andrei a incontrare il tuo uomo venerdì prossimo," le disse, uscendo dalla camera.
 
 \[STACCO\]
 
-Il lavoro di Nadia come ancella doveva continuare fino all'ultimo, impeccabile come sempre per non destare sospetti. Anche se quello sembrava un giorno come un altro, Nadia sapeva bene che non era così. In un modo o nell'altro quella routine si sarebbe conclusa presto. Mancavano due giorni all'intrusione della Setta, e Lord Garnak avrebbe già dovuto prelevare il messaggio, stando ai tempi con cui di solito controllava il retro della statua. Il dado era tratto, non restava che aspettare.
+Il lavoro di Nadia come ancella doveva continuare fino all'ultimo, impeccabile come sempre. Non poteva permettersi distrazioni, non ora che ogni dettaglio poteva fare la differenza.
 
-Come ogni mercoledì, la ragazza entrò nella stanza da bagno di Mira, chiudendo la porta alle sue spalle con un leggero scatto. La luce del tardo pomeriggio filtrava dalle ampie finestre, dorata e morbida, scivolando sui marmi bianchi e sulle tende di seta. Il silenzio della stanza sembrava denso, come se ogni suono fosse assorbito dai tessuti preziosi e dalle pareti.
+Camminava lungo i corridoi interni del palazzo portando tra le braccia oli profumati, petali di ibisco rosso e piccole ciotole di resine aromatiche, diretta verso la sala dell'acqua. Il rumore attutito dei suoi passi si perdeva tra le pareti decorate e le grandi aperture da cui entrava l'aria calda del pomeriggio.
 
-Mira era già immersa nell'acqua del suo bagno, il corpo morbido che si rilassava tra i vapori caldi. I suoi capelli, scuri e ondulati, erano raccolti sulla nuca, lasciando intravedere un paio di semplici orecchini, unico dettaglio che separava la donna dalla completa nudità. Il volto era privo di espressione, immerso in quella calma impenetrabile che Nadia aveva imparato a conoscere così bene. Non c'era nulla che potesse tradire cosa stesse pensando, quali segreti potesse nascondere dietro quegli occhi impenetrabili.
+Tra due giorni la Setta sarebbe entrata in azione.
 
-"Eccoti." La voce di Mira, eterea e distante, rimbalzò sulle pareti del bagno. Nadia abbassò lo sguardo mentre si avvicinava al bordo della vasca. L'acqua era limpida, e sembrava amplificare la presenza di Mira, come se il suo corpo fosse parte di quell'elemento fluido e intoccabile. Lo sguardo di Nadia si soffermò quasi contro la sua volontà su quel corpo morbido e seducente.
+Lord Garnak avrebbe già dovuto recuperare il messaggio nascosto dietro la statua, seguendo la solita routine con cui controllava quel passaggio. Se tutto era andato come previsto, ogni elemento del piano era ormai al suo posto.
 
-Mira sembrò percepire lo sguardo della sua ancella. "Non sono più giovane come un tempo."
+Non restava che aspettare.
 
-"Siete molto bella" si sentì dire Nadia, quasi contro la sua volontà. Con una punta di imbarazzo, si accucciò e, con mani delicate, iniziò a passare un panno di seta lungo le braccia di Mira, con la stessa cura che si dedica a un rituale sacro. Era un gesto ormai abitudinario, ma oggi aveva un peso diverso. Sapeva che sarebbe stata l'ultima volta, un pensiero che per qualche motivo la mise a disagio.
+Continuò a camminare, concentrandosi sui gesti che avrebbe dovuto compiere di lì a poco. Ma un pensiero continuava a tornare.
 
-Mira chiuse gli occhi, il respiro appena percettibile. Per un istante, nella tranquillità del bagno, Nadia quasi dimenticò la posta in gioco. Le sue mani scivolavano sulla pelle liscia di Mira, seguendo il contorno delle sue spalle e delle braccia. Era un momento di intimità forzata, ma anche l'unico in cui le due donne sembravano vicine. Non amiche, non complici, ma legate da una necessità silenziosa.
+Presto quei corridoi non sarebbero più stati il suo mondo. Non avrebbe più aperto quella porta, non avrebbe più preparato il bagno dell'Alta Sacerdotessa, non avrebbe più ascoltato quella voce calma e distante chiamarla per nome.
 
-Nadia sapeva che Mira sapeva. Forse non tutto, forse solo brandelli, ma abbastanza per metterla in pericolo. Questa donna, distante e impassibile, era la sua più grande minaccia. Eppure, in quel momento, a Nadia non importava. Continuò a lavare e massaggiare il corpo della sacerdotessa come se fosse l'unica cosa al mondo che contasse.
+Quella sarebbe stata l'ultima volta che avrebbe servito Mira.
+
+Non riusciva a spiegarsi perché la cosa le lasciasse addosso una sensazione così strana.
+
+Arrivata davanti alla porta, inspirò lentamente e lasciò che il volto tornasse neutro prima di entrare.
+
+La prima volta che aveva varcato quella soglia era rimasta colpita da quel luogo. Oltre una piccola anticamera si apriva una sala ampia e luminosa, con una grande vasca ricavata da un unico blocco di pietra chiara, liscia come acqua ghiacciata. Le pareti della stanza erano decorate con motivi intrecciati che ricordavano fiori, animali e forme astratte; tende leggere ondeggiavano davanti alle aperture, lasciando filtrare la luce dorata del tramonto. Nell'aria il profumo delle resine bruciate si mescolava al vapore dell'acqua calda.
+
+Nemmeno nella tenuta di Lord Garnak aveva mai visto qualcosa di simile. Anche dopo settimane trascorse lì, Nadia non riusciva a considerarla una stanza normale: era un lusso riservato a pochissimi, e lei vi aveva avuto accesso soltanto perché era diventata l'ancella dell'Alta Sacerdotessa.
+
+"Eccoti."
+
+La voce di Mira la riportò al presente.
+
+L'Alta Sacerdotessa era seduta su uno sgabello vicino alla vasca, ancora vestita. Davanti a uno specchio di bronzo lucido, stava togliendo i gioielli che portava durante il giorno: prima la collana, poi i bracciali che le cingevano i polsi. Come sempre, gli orecchini rimasero al loro posto.
+
+Nadia l'aveva notato fin dal primo giorno. Mira li indossava sempre. Non li aveva mai visti togliere, nemmeno quando si preparava per il bagno.
+
+La ragazza si inchinò.
+
+"Permettete?"
+
+Mira fece un lieve cenno di assenso.
+
+Nadia si avvicinò alla vasca e aprì il condotto dell'acqua calda. Ancora una volta si ritrovò a pensare alla prima volta in cui aveva visto quell'acqua sgorgare dalle pareti del palazzo, senza bisogno di essere trasportata a mano o riscaldata sul fuoco.
+
+Per lei, cresciuta nella provincia di Junna, era sembrata quasi una magia.
+
+Attese che la vasca fosse pronta, poi aiutò Mira a liberarsi degli abiti cerimoniali. Era un gesto che aveva compiuto molte volte, ma quella sera ogni movimento sembrava avere un peso diverso.
+
+Pochi minuti dopo, la sacerdotessa era immersa nell'acqua calda. I suoi capelli scuri, raccolti sulla nuca in trecce ordinate e decorate, lasciavano scoperti il collo e le spalle. Il vapore avvolgeva la stanza, sfumando i contorni e rendendo la sua figura quasi irreale.
+
+In quei mesi Nadia aveva imparato a conoscerla più di quanto aveva immaginato: il modo in cui inclinava appena il capo quando rifletteva, la calma con cui ascoltava ogni parola, quell'espressione impenetrabile che sembrava non abbandonarla mai.
+
+Ed era proprio questo a renderle difficile ricordare che, dietro quella calma, si nascondeva la persona che più di tutte avrebbe potuto smascherarla.
+
+Nadia si inginocchiò accanto alla vasca. L'acqua limpida tremava appena sotto il movimento delle sue mani, mentre nell'aria si diffondeva il profumo degli oli aromatici: essenze dolci e speziate, con note di fiori esotici e legni resinosi che non aveva mai sentito a Junna.
+
+Il suo sguardo rimase fermo sulla figura della sacerdotessa più a lungo del necessario.
+
+Mira se ne accorse.
+
+"Non sono più giovane come un tempo."
+
+Nadia abbassò subito gli occhi, sorpresa. "Siete molto bella."
+
+Le parole le uscirono prima che potesse fermarle.
+
+Non erano una frase di cortesia imparata per compiacere la sua padrona. Era semplicemente ciò che pensava.
+
+Con un lieve imbarazzo prese il panno di seta e iniziò a passarlo sulle braccia di Mira, seguendo gli stessi gesti che aveva ripetuto decine di volte. Con la cura riservata a qualcosa di prezioso.
+
+Mira chiuse gli occhi, lasciandosi avvolgere dal silenzio della stanza.
+
+Un tempo Nadia avrebbe trovato quel silenzio imbarazzante. All'inizio aveva cercato di riempirlo con parole inutili, timorosa di sbagliare anche solo un gesto. Ora, invece, aveva imparato ad accettarlo. In qualche modo, quella quiete era diventata familiare.
+
+Per qualche istante Nadia dimenticò tutto: la Setta, il piano, suo padre rinchiuso nelle segrete.
+
+Rimasero soltanto il rumore dell'acqua, il profumo degli oli e il respiro tranquillo della sacerdotessa.
+
+Era una vicinanza strana, nata da una situazione che nessuna delle due aveva scelto. Mira era la persona più pericolosa per lei. Eppure era anche l'unica che, in quei mesi, le aveva riservato parole di ringraziamento. Forse stima.
+
+Nadia continuò il suo lavoro in silenzio.
+
+Sapeva che Mira sospettava qualcosa. Forse non conosceva tutta la verità, forse aveva soltanto intuito che dietro quella ragazza apparentemente innocente si nascondeva altro.
+
+Ma in quel momento non riusciva a guardarla come una nemica.
 
 "Parlami di te, Nadia."
 
-Nadia si bloccò per un istante. Era la prima volta che Mira le chiedeva qualcosa di personale e, per quanto la domanda fosse semplice, la colse impreparata. Fino a quel momento i loro scambi si erano limitati alle necessità quotidiane del servizio: abiti, pasti, appuntamenti, ordini da eseguire. Non si era mai interessata a lei come persona.
+La ragazza rimase immobile per un istante, con il panno ancora sospeso tra le mani. Era la prima volta che Mira le chiedeva qualcosa che non riguardasse il servizio, qualcosa che non fosse un ordine o una semplice necessità quotidiana. Fino a quel momento i loro scambi erano sempre rimasti confinati a gesti ripetuti e parole misurate: preparare gli abiti, assisterla durante i riti, occuparsi delle sue stanze. Nulla che avesse a che fare con chi fosse davvero Nadia.
 
-"Ma certo. Cosa volete sapere, mia signora?" chiese.
+"Ma certo. Cosa desiderate sapere, mia signora?"
 
-Mira non si voltò nemmeno verso di lei. "Quello che vuoi."
+La domanda le uscì più formale del necessario. Lord Garnak l'aveva preparata a conversazioni di questo tipo, a racconti studiati nei dettagli per intrattenere nobili e funzionari. Ma con Mira non era mai stato necessario. L'Alta Sacerdotessa sembrava sempre distante da quel genere di cortesia.
 
-Era immersa nell'acqua calda, i capelli raccolti sulla nuca e la testa leggermente reclinata all'indietro, come se quella conversazione fosse soltanto un pensiero capitato per caso, una distrazione dai suoi doveri di Alta Sacerdotessa. Era davvero così?
+Mira non si voltò nemmeno verso di lei.
 
-\[STACCO\]
+"Quello che vuoi."
 
-Nadia chiamò a raccolta tutte le ore trascorse con Lord Garnak e con gli uomini della Setta. La storia era stata preparata da tempo, costruita con cura e dettagli verosimili. Non c'era niente da temere: cercò di rilassare le spalle e di assumere un tono naturale.
+Era immersa nell'acqua calda, gli occhi chiusi e la testa appoggiata al bordo della vasca. Per un momento sembrò semplicemente una donna stanca, lontana dagli intrighi della corte e dal peso del ruolo che portava sulle spalle. Quasi come se quella conversazione fosse nata per caso, un pensiero passato nella sua mente senza particolare importanza.
 
-"Sono cresciuta nella tenuta di mio zio, Lord Garnak, nella provincia di Jenna. La vita laggiù è molto diversa da quella della capitale. Non mancano le comodità, naturalmente, ma tutto procede con più lentezza. Quando ero bambina passavo molto tempo nei giardini e nei frutteti della proprietà, e per anni ho pensato che il mondo finisse poco oltre i confini della tenuta."
+Possibile che Mira stesse davvero cercando una conversazione frivola?
 
-Mira ascoltava in silenzio.
+Richiamò alla mente le storie preparate con Garnak e con la Setta e cercò di rilassare le spalle.
 
-"In realtà non mi è mai mancato nulla. La casa era grande, c'erano diversi cortili interni e una biblioteca che mio zio teneva in grande considerazione. Gli insegnanti venivano direttamente da noi e non avevamo motivo di lasciare spesso la proprietà."
+"Sono cresciuta nella tenuta di mio zio, Lord Garnak, nella provincia di Junna. La vita laggiù è molto diversa da quella della capitale. Più lenta, più silenziosa. Quando ero bambina trascorrevo molto tempo nei giardini e nei frutteti della proprietà. Per anni ho pensato che il mondo finisse poco oltre quei confini."
 
-"Chi ti accompagnava quando uscivi?" domandò Mira con apparente distrazione.
+Mira ascoltava senza interromperla.
 
-"Le guardie di famiglia, di solito. Talvolta il precettore."
+"In realtà non mi è mai mancato nulla. La casa era grande, con diversi cortili interni e una biblioteca che mio zio teneva in grande considerazione. Avevamo degli insegnanti privati e non c'era molto motivo di lasciare la tenuta."
 
-"E uscivi spesso?"
+"Viaggiavi spesso fuori?" chiese Mira distrattamente.
 
-"Non molto. Le celebrazioni religiose, qualche visita ai villaggi vicini, le occasioni ufficiali. Nulla di particolare."
+"Non molto. Per le celebrazioni religiose, qualche visita ai villaggi vicini, occasioni ufficiali. Nulla di particolare."
 
-Mentre parlava, Nadia continuava a lavare lentamente i capelli di Mira, cercando di mantenere il tono leggero e spontaneo che aveva provato decine di volte.
+Mentre parlava, Nadia cominciò a lavare lentamente i capelli di Mira, lasciando che l'acqua profumata di oli e resine scivolasse tra le dita.
 
-"Non sembri cresciuta in una casa che lascia uscire così poco i propri figli."
+"Non sembri una ragazza cresciuta passando tutta la vita dentro una tenuta."
 
-"Non era una casa severa," spiegò con un sorriso che sperò apparisse sincero. "La tenuta era molto estesa. Anche restando entro i suoi confini, avevo la sensazione di essere libera. Potevo cavalcare, passeggiare nei campi, trascorrere ore vicino al lago. Non mi sono mai sentita rinchiusa."
+Nadia abbassò appena lo sguardo.
 
-Mira non replicò immediatamente. Restò per qualche secondo ad osservare l'acqua che increspava la superficie della vasca, e Nadia ebbe la spiacevole impressione che la donna stesse valutando ogni sua parola molto più attentamente di quanto lasciasse intendere.
-
-"Eppure," disse infine, "non sembri una ragazza cresciuta nell'agio."
-
-Nadia esitò. Mira non la stava accusando di mentire, sembrava piuttosto constatare qualcosa che aveva già intuito.
+Mira non aveva pronunciato quelle parole come un'accusa. Non c'era sospetto nella sua voce, solo una constatazione.
 
 "La provincia insegna a cavarsela da soli," rispose dopo un attimo. "Anche ai nobili."
 
-"È possibile."
+Mira rimase in silenzio per qualche secondo. "È possibile."
 
-Ancora una volta il tono era neutro, ma Nadia non riusciva a scrollarsi di dosso l'impressione di essere osservata da una posizione di vantaggio.
+Nadia non riuscì a capire se quella risposta fosse un'approvazione o semplicemente il modo della donna di chiudere il discorso.
 
-Per qualche istante nessuna delle due parlò.
-
-Fu Mira a rompere il silenzio.
+Continuò il suo lavoro, seguendo il movimento lento delle mani tra i capelli di Mira, mentre il rumore dell'acqua riempiva la stanza.
 
 "Sai perché sei stata scelta come mia ancella?"
 
-La domanda la colse completamente impreparata. Aveva sempre attribuito la propria presenza a corte alle manovre di Garnak e della Setta, senza interrogarsi troppo sulle ragioni ufficiali della scelta. Era davvero la candidata migliore? O c'era una ragione diversa?
+La domanda la colse impreparata.
+
+Fino a quel momento Nadia aveva dato per scontato che la sua presenza a palazzo fosse soltanto il risultato dei piani di Garnak e della Setta. Un ruolo costruito ad arte per avvicinarla a Mira. Non si era mai chiesta quale fosse la spiegazione ufficiale, quale motivo avesse spinto l'Alta Sacerdotessa ad accettarla tra le proprie ancelle.
 
 "Immagino per la mia famiglia," rispose. "Per il mio lignaggio."
 
-"Capisco."
+Mira aprì lentamente gli occhi. "Il tuo lignaggio conta. Ma non è l'unica ragione."
 
-Nadia avrebbe preferito una risposta diversa. Un'approvazione, una smentita, persino una critica. Quel semplice "capisco" non le diceva nulla. Cosa stava cercando di ottenere Mira da lei? Era una normale conversazione per ammazzare la noia o un interrogatorio velato? Per l'ennesima volta le tornò in mente la sera in cui Mira l'aveva praticamente scoperta a origliare: la donna sospettava di lei e voleva vedere se si fosse contraddetta? O peggio, voleva usarla per risalire ai suoi mandanti?
+Nadia si fermò appena.
 
-Eppure, istintivamente, qualcosa le diceva che poteva fidarsi di Mira. Forse il fatto che quella sera l'avesse protetta, o forse semplicemente il suo modo di fare così distaccato, quasi fosse al di sopra di cose umane come le menzogne.
+"Quale altra ragione c'è?"
 
-*E se le dicessi la verità?* Le sarebbe bastato pronunciare poche parole: "mio padre è stato arrestato." Era quello il vero motivo della sua presenza a palazzo, il motivo per cui aveva accettato rischi che nessuno avrebbe mai preso in considerazione.
+Per un istante pensò di aver osato troppo. Ma Mira non sembrò infastidita.
+
+Era un modo per metterla alla prova?
+
+Per l'ennesima volta Nadia ripensò alla sera in cui Mira l'aveva scoperta a origliare. Avrebbe potuto denunciarla. Avrebbe potuto consegnarla alla guardia imperiale.
+
+Eppure, in quel momento, mentre le sue mani si muovevano con delicatezza tra i capelli della sacerdotessa, non riusciva a provare soltanto diffidenza.
+
+E se le avesse detto la verità?
+
+Le sarebbe bastato pronunciare poche parole.
+
+Mio padre è stato arrestato.
+
+Era quello il motivo per cui era arrivata lì. Il motivo per cui aveva accettato di mentire, rischiare la vita, entrare in un mondo che non comprendeva.
 
 Le parole arrivarono fino alla gola.
 
 Ma vi rimasero.
 
-Lo sciabordio dell'acqua continuò a riempire il silenzio, mentre la luce del tardo pomeriggio riluceva sul soffitto, riflessa in motivi cangianti.
+Lo sciabordio dell'acqua continuò a riempire il silenzio della stanza.
 
 "Se ti venisse chiesto di restare qui per molto tempo, lo faresti?"
 
-La domanda era stata posta con leggerezza, eppure Nadia ebbe la sensazione che la risposta fosse importante.
+La domanda era stata posta con naturalezza, quasi senza peso. Eppure ebbe la sensazione che per Mira la risposta avesse un significato preciso.
 
-"Io\... naturalmente, mia signora. Tutto il tempo che riterrete opportuno."
+"Io\..." esitò appena. "Naturalmente, mia signora. Tutto il tempo che riterrete opportuno."
 
-Mira annuì lentamente, come se stesse riflettendo su qualcosa che esisteva soltanto nella sua mente.
+Mira rimase in silenzio per qualche istante. Lo sguardo era rivolto verso la superficie dell'acqua, dove la luce del pomeriggio tremolava in riflessi dorati.
+
+Per la prima volta, la sacerdotessa si voltò impercettibilmente verso di lei.
 
 "C'è una questione di cui vorrei parlarti, Nadia. Una questione importante. Temo però che questo non sia il momento adatto."
 
 Nadia sentì il cuore accelerare.
 
+Importante.
+
+Per un attimo dimenticò la Setta, il piano, persino suo padre.
+
 "Sabato," continuò Mira. "Vieni nei miei appartamenti dopo il tramonto."
 
-Per un istante, Nadia rimase immobile. Non sapeva come interpretare quell'invito. Una parte di lei temeva di essere stata attirata in una trappola; un'altra sospettava che Mira volesse confidarle qualcosa. Forse avrebbe ottenuto finalmente le risposte che cercava.
+Il silenzio che seguì sembrò dilatarsi.
 
-Ma tutto ciò non importava: se i piani fossero andati come previsto, quel colloquio non sarebbe mai arrivato. La Setta avrebbe fatto irruzione prima dell'appuntamento, e lei sarebbe scappata lontana, con suo fratello e suo padre. Non avrebbe mai saputo cosa Mira avrebbe voluto dirle.
+Nadia cercò di interpretare quelle parole. Era una convocazione? Un incarico? Oppure qualcosa di più personale?
 
-Esitò, indecisa se insistere per parlarne ora, chiedere cosa l'Alta Sacerdotessa potesse mai volere da lei, ma non trovò il coraggio. Abbassò il capo per nascondere il turbamento.
+Per la prima volta da quando era arrivata a palazzo ebbe la sensazione che Mira stesse cercando di mostrarle una parte di sé che aveva sempre tenuto nascosta.
 
-"Come desiderate, mia signora."
+E questo rendeva tutto più difficile.
 
-Qualcuno bussò con forza alla porta della stanza, interrompendo bruscamente il momento. Mira si girò verso la fonte del suono, e Nadia andò ad aprire.
+Se il piano della Setta fosse riuscito, quell'incontro non avrebbe mai avuto luogo. Suo padre sarebbe stato libero, lei sarebbe fuggita.
 
-"La signora Mira è convocata con urgenza nella sala del trono," disse trafelato il messaggero, con un inchino appena accennato. "L'imperatore sottolinea che è una questione di capitale importanza."
+E qualunque cosa Mira avesse voluto dirle sarebbe rimasta per sempre un mistero.
 
-Nadia, il cuore che le martellava nel petto, annuì. "La signora sarà dall'imperatore il prima possibile." Richiuse la porta, volgendosi verso la sacerdotessa.
+Mira era la donna che stava ingannando. La donna che avrebbe dovuto usare per raggiungere il proprio scopo. Eppure ora desiderava conoscere con tutta sé stessa il motivo di quella convocazione improvvisa.
 
-Mira si alzò dall'acqua con fluidità, senza scomporsi minimamente. Stava aspettando quella convocazione, o la cosa coglieva alla sprovvista anche lei? Impossibile dirlo. "Preparami," ordinò semplicemente, le sue forme sinuose che gocciolavano acqua limpida. In pochi minuti, la veste candida scivolò sul corpo ancora umido di Mira, mentre i suoi capelli venivano rapidamente sistemati.
+Le dita si fermarono per un istante tra le trecce ancora umide della sacerdotessa.
 
-Nadia sentiva ogni secondo sfuggirle, ogni movimento di Mira sembrava avvicinare il momento in cui la verità sarebbe venuta a galla. Quell'urgenza improvvisa non lasciava dubbi: Lord Garnak aveva letto il messaggio e aveva rivelato il contenuto all'imperatore. La domanda era: *quanto* aveva rivelato? Se Garnak, nel suo tradimento, aveva fatto il nome di Nadia, la ragazza era bella che spacciata. A prescindere dalla riuscita del piano.
+Per la seconda volta, il pensiero si fece strada con insistenza.
 
-Senza un'altra parola, Mira uscì dalla stanza, lasciando Nadia sola con i suoi pensieri. Nella mente di Nadia, la sensazione di panico cedette il posto a qualcosa di diverso. C'era un'urgenza feroce, un bisogno inarrestabile di sapere la verità prima che fosse troppo tardi. Quel contatto ravvicinato con Mira le aveva riacceso una domanda alla quale doveva assolutamente trovare risposta: chi era Mira veramente? E soprattutto, cos'era Nadia per lei?
+Le bastava parlare, confessare tutto. Dirle di Hual. Della Setta. Del motivo per cui era entrata a palazzo.
 
-Nadia riordinò meccanicamente il bagno, con movimenti rapidi ed efficienti, ma la sua mente vorticava. Si accorse all'improvviso di stare buttando tempo prezioso. Posò la pila di asciugamani che stava portando. Era un'occasione irripetibile di trovarsi negli alloggi di Mira in sua assenza!
+Per un fugace istante la tentazione fu così forte da spaventarla. Ma il momento passò.
 
-Dopo essersi guardata attorno con circospezione, si diresse verso il suo studio e vi si intrufolò, svelta come una gatta.
+Abbassò lo sguardo. "Come desiderate, mia signora."
 
-Nadia aveva visto quella stanza solo di sfuggita, e ne era sempre rimasta affascinata. Alle pareti, vari scaffali di legno erano ingombri di rotoli e oggetti disparati. Alcune mappe erano appese alle pareti: Nadia distinse una pianta della capitale, e una della piramide. Sul fondo della stanza, una grande finestra si apriva nello studio, illuminando una scrivania ordinata. In un angolo erano impilati alcuni volumi. Nell'altro, numerosi fogli con appunti di Mira erano ammucchiati disordinatamente. Travolta da un senso di urgenza, la ragazza si diresse verso questi ultimi, sfogliandoli freneticamente. Nemmeno lei sapeva di preciso cosa stesse cercando.
+Qualcuno bussò con forza alla porta della stanza, facendola sobbalzare. Il pettine le scivolò, perdendosi dell'acqua della vasca.
 
-Dopo pochi minuti dovette rinunciare: quegli scritti si rivelarono pieni di simboli indecifrabili, qualcosa che poteva somigliare vagamente a dei calcoli o dei disegni geometrici. Nadia non ci trovò indizi utili. Cominciò a estrarre rotoli a casaccio dagli scaffali. Li apriva, li scorreva velocemente, e li ammucchiava sulla scrivania. Trattati di ingegneria, biologia, architettura, idraulica\... Di quante cose si era interessata Mira nella sua vita? Nadia non sapeva nulla di lei, nonostante tutto il tempo passato insieme.
+Non capitava spesso di essere disturbati nella stanza dell'acqua. Nadia si asciugò e andò ad aprire.
 
-Ma non era questo ciò che Nadia cercava. Voleva indizi sull'animo più intimo di Mira, sulla sua vera natura. Voleva scoprire cosa si celava davvero dietro quella presenza eterea e calcolatrice.
+"La signora Mira è convocata con urgenza nella sala del trono," annunciò il messaggero, visibilmente affannato. "L'imperatore sottolinea che si tratta di una questione di capitale importanza."
 
-Finalmente lo trovò. Bastò leggere una frase di quel rotolo per capire che si trattava esattamente di ciò che stava cercando. Aveva trovato il diario personale di Mira. Nadia trattenne il respiro, mentre l'impeto della ricerca si arrestava bruscamente di fronte a quella scoperta.
+Il cuore di Nadia sprofondò.
 
-D'improvviso, la sua coscienza vacillò: davvero leggere quelle memorie era la cosa giusta da fare? Sapeva che stava tradendo ogni fiducia che Mira poteva riporre in lei, e che quel gesto sarebbe stato imperdonabile da parte sua.
+"La signora sarà dall'imperatore il prima possibile."
 
-Ma qualcosa la turbava ancora di più. All'improvviso si accorse di temere il contenuto di quelle pagine. Quali intrighi, quali giochi di potere, quali rivelazioni sconvolgenti poteva nascondere quell'innocuo rotolo di papiro?
+Quando richiuse la porta e si voltò, Mira era già uscita dalla vasca.
 
-La curiosità era troppa. Nadia prese un profondo respiro, e con il cuore in gola si immerse nella lettura.
+L'acqua scivolava lungo la pelle e cadeva a terra in piccole gocce silenziose, mentre la sacerdotessa raggiungeva il paravento senza mostrare alcuna fretta.
+
+Se la convocazione l'aveva sorpresa, non lo diede a vedere.
+
+"Preparami."
+
+Nadia si affrettò a recuperare asciugamani e abiti cerimoniali.
+
+La veste candida scivolò sulle spalle di Mira mentre le mani ferme dell'ancella sistemavano le trecce decorate. Ma dentro di sé, Nadia era un vortice di emozioni contrastanti.
+
+Sentiva ogni secondo sfuggirle tra le dita. La convocazione improvvisa dell'imperatore continuava a ronzarle nella mente. Forse non significava nulla. Forse era soltanto uno dei mille impegni che gravavano sulle spalle dell'Alta Sacerdotessa.
+
+Oppure no.
+
+Lord Garnak avrebbe già dovuto trovare il messaggio. Se l'aveva letto, poteva aver avvertito l'imperatore. E se l'aveva avvertito\... quanto gli aveva raccontato? Da che parte aveva scelto di schierarsi?
+
+Nadia si costrinse a non tremare mentre fissava l'ultima spilla dorata tra le trecce di Mira.
+
+Se il suo nome fosse stato pronunciato, tutto sarebbe finito.
+
+"Grazie," disse semplicemente Mira.
+
+Senza aggiungere altro, uscì dalla stanza. La porta si richiuse alle sue spalle.
+
+Per qualche istante Nadia rimase immobile. Il panico lasciò lentamente spazio a qualcos'altro: un'urgenza diversa, più profonda.
+
+Da quando era entrata al servizio di Mira aveva accumulato domande su domande. Chi era davvero quella donna? Perché, nonostante la sua posizione, sembrava così sola? Perché aveva protetto Nadia quando avrebbe potuto smascherarla? E soprattutto, cosa avrebbe voluto dirle quel sabato sera che non sarebbe mai arrivato?
+
+Se il piano della Setta fosse riuscito, entro due giorni tutto sarebbe finito. Mira sarebbe rimasta soltanto un enigma irrisolto.
+
+Nadia abbassò lo sguardo sugli asciugamani che teneva ancora tra le braccia. Li posò.
+
+Era sola negli appartamenti dell'Alta Sacerdotessa.
+
+Forse per l'ultima volta.
+
+Il pensiero le fece accelerare il battito.
+
+Dopo essersi assicurata che il corridoio fosse deserto, attraversò rapidamente le stanze private e raggiunse lo studio di Mira.
+
+Entrò e richiuse la porta.
+
+Aveva intravisto quel luogo soltanto poche volte. Gli scaffali erano carichi di rotoli e volumi provenienti da ogni parte dell'impero. Alle pareti erano appese mappe della capitale, della piramide e di regioni che Nadia non aveva mai sentito nominare. La luce della grande finestra illuminava una scrivania sorprendentemente ordinata.
+
+Per qualche istante rimase semplicemente a guardarsi attorno.
+
+Quella stanza raccontava di Mira molto più dei suoi appartamenti sontuosi. Molto più dei suoi abiti.
+
+Cercò lettere personali. Appunti privati. Qualsiasi cosa potesse parlarle della donna dietro il ruolo di Alta Sacerdotessa.
+
+Invece trovò soltanto studi. Trattati di ingegneria, schemi architettonici, rotoli pieni di annotazioni su irrigazione, agricoltura e costruzioni. Ogni nuovo documento sembrava confermare la stessa impressione: Mira passava il proprio tempo a pensare all'impero.
+
+Non a sé stessa.
+
+Nadia iniziò a sfogliare gli scaffali con più imprudenza. Il tempo stringeva. Possibile che non esistesse nulla di più personale?
+
+Poi lo vide.
+
+Un piccolo rotolo legato con un cordoncino. Non era riposto insieme agli altri documenti di studio. Era infilato in una nicchia laterale, quasi nascosto.
+
+Nadia lo prese.
+
+La grafia della prima riga non era quella di Mira. Era più incerta, quasi infantile.
+
+Quando lo dispiegò, si accorse che qualcosa non tornava. Dopo poche pagine la calligrafia cambiava completamente. Più avanti cambiava ancora. E ancora.
+
+Decine di mani diverse avevano lasciato traccia su quel papiro.
+
+Nadia fece scorrere lo sguardo fino alle ultime pagine, dove riconobbe finalmente la grafia ordinata e precisa di Mira.
+
+Corrugò la fronte.
+
+Era un diario.
+
+Non il diario di una sola persona. Sembrava una memoria tramandata nel tempo, raccolta e continuata da generazioni diverse.
+
+Per un lungo istante rimase immobile con il rotolo tra le mani. Nadia sapeva che leggere quelle pagine avrebbe rappresentato un tradimento. Forse il peggiore di tutti.
+
+Ma c'era qualcosa che la turbava ancora di più: all'improvviso si accorse di temere ciò che avrebbe trovato.
+
+Fino a quel momento aveva desiderato conoscere la verità. Adesso non era più sicura di volerla davvero.
+
+Se quelle pagine avessero rivelato che Mira era soltanto una manipolatrice senza scrupoli, sarebbe stato più semplice attenersi al piano che aveva architettato.
+
+Partendo dal presupposto che **non vuoi ripetere al lettore informazioni che ha già letto negli interludi**, io eviterei un riassunto troppo esplicito. È più efficace mostrare Nadia che collega i pezzi.
+
+Proverei qualcosa del genere:
+
+\[STACCO\]
+
+Ma se avessero raccontato altro?
+
+Se avessero mostrato una persona diversa da quella che Nadia si era sforzata di immaginare per settimane?
+
+Strinse il papiro.
+
+Poi iniziò a leggere.
+
+All'inizio procedette lentamente, soffermandosi su ogni riga. Ben presto, però, si rese conto che non avrebbe avuto il tempo di leggere tutto. Cominciò allora a scorrere le pagine più velocemente, fermandosi qua e là quando un passaggio attirava la sua attenzione.
+
+Le diverse calligrafie si susseguivano davanti ai suoi occhi.
+
+Donne diverse, epoche diverse, eppure, in qualche modo, la stessa vita.
+
+Non stava leggendo il diario di Mira.
+
+Stava leggendo il diario *delle* Mira.
+
+Pagina dopo pagina il quadro che emerse la lasciò senza fiato. Ogni sacerdotessa veniva scelta ancora bambina. Ognuna riceveva dalla precedente qualcosa di molto più grande di una semplice carica religiosa. Ricordi. Conoscenze. Responsabilità. E un qualcosa che consentiva di comunicare direttamente con Rham.
+
+Le mani di Nadia tremarono leggermente.
+
+Continuò a leggere.
+
+Le annotazioni cambiavano, le persone cambiavano, persino il linguaggio mutava nel corso delle generazioni. Ma c'era un elemento che ritornava sempre.
+
+Proteggere il regno. Guidarlo. Prepararlo al futuro.
+
+Nadia trovò racconti di carestie affrontate, guerre evitate, decisioni prese nell'ombra da donne il cui vero nome era stato dimenticato da tutti. Donne che avevano rinunciato alla propria vita per dedicarsi a qualcosa di immensamente più grande.
+
+Era questo che aveva scoperto suo padre?
+
+Era questo il segreto che aveva inseguito per anni?
+
+Sfogliò altre pagine.
+
+La costruzione della piramide compariva più volte. Prima come possibilità remota. Poi come strategia concreta. Poi come decisione reale.
+
+Ogni riferimento lasciava intuire urgenza. Preparativi. Calcoli. Decisioni prese contro il parere di molti.
+
+La piramide non era un mai stato un monumento alla gloria personale, né il capriccio di un sovrano. Era qualcosa di necessario. Come se Mira stesse cercando di prevenire qualcosa.
+
+Il cuore di Nadia accelerò. Voleva saperne di più, ma i minuti passavano.
+
+Passò a un'altra pagina, poi un'altra, fino a raggiungere le ultime annotazioni, quelle più recenti, scritte dalla donna che conosceva.
+
+Mentre leggeva, l'immagine di Mira che si era costruita nella mente cominciò a incrinarsi.
+
+La donna che emergeva da quelle righe non assomigliava alla figura fredda e manipolatrice che aveva immaginato tante volte. Né alla figura divina che il popolo venerava.
+
+Era qualcosa di molto più difficile da comprendere.
+
+Nadia esitò. Restava una sola pagina da leggere.
+
+L'ultima. Per qualche motivo, ebbe la sensazione che ciò che stava per trovare fosse più importante di tutto il resto.
+
+Inspirò lentamente.
+
+Poi abbassò lo sguardo e iniziò a leggere.
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+# CAPITOLO
+
+id: diario_di_mira_6
+tipo: interludio
+titolo: Diario di Mira
+descrizione: 
+immagine: img/capitoli/diario_di_mira.jpg
+
+--- FINE METADATI ---
+
+Il piano è fallito.
+
+Non perché abbia commesso un errore. Non perché i nostri nemici siano stati più abili. È qualcosa di più profondo.
+
+I segnali erano sempre stati davanti a me. Ho soltanto impiegato troppo tempo per comprenderli.
+
+L'Impero cadrà. Come doveva cadere.
+
+La genealogia delle Mira ha trascorso secoli a preservare questo regno. Io stessa ho dedicato la vita a rimandarne il declino, a costruire opere che potessero sopravvivere alla nostra epoca, a lasciare qualcosa che avesse un significato quando tutto il resto sarebbe svanito.
+
+Ma nessuna conoscenza può fermare ciò che sta arrivando.
+
+\*\*\*
+
+Poche notti fa ho sorpreso la mia ancella fuori dagli alloggi dell'imperatore. Se non fossi intervenuta, la sua vita sarebbe stata distrutta.
+
+L'ho protetta.
+
+È stata una scelta irrazionale. Forse dettata dal fatto che sto cominciando a vederla davvero come Erede.
+
+Ma in fondo, credo che sia solo una profonda simpatia.
+
+Mi ricorda come sarei potuta diventare, se il Dono non fosse giunto a me.
+
+Per la prima volta dopo mesi, mi è sembrata l'unica cosa che valesse la pena fare.
+
+Il mio gesto non ha avuto significato: il suo destino è già scritto, come quello di chiunque altro.
+
+Ma l'ignoranza è una benedizione.
+
+Finché non conosco il finale della sua storia, posso ancora fingere di averla cambiata.
+
+\[STACCO\]
 
 \[STACCO\]
 
@@ -7005,15 +7447,11 @@ Il fisico alzò lo sguardo appena lo vide arrivare. "Ti stavo cercando. Credo di
 
 Leon si fermò accanto a lui. Alex indicò una serie di grafici scarabocchiati su un foglio.
 
-"I duecento anni di regressione. All'inizio sembravano arbitrari, ma forse non lo sono. Se il nostro modello è corretto, la traiettoria temporale della Terra non è circolare. Potrebbe essere un'orbita ellittica, molto schiacciata."
-
-Parlò per qualche minuto, sempre più coinvolto dal ragionamento. Come accadeva spesso, le parole sembravano rincorrere i pensieri.
-
-"Pensa alle comete. Trascorrono la maggior parte del tempo lontano dal Sole e accelerano solo quando si avvicinano. Potrebbe accadere qualcosa di simile anche qui. Per quasi diecimila anni il sistema evolve lentamente, poi, quando si avvicina alla massa temporale, tutto accelera. Da qui la fase finale di regressione."
+"I duecento anni di regressione. All'inizio sembravano arbitrari, ma forse non lo sono. Se il nostro modello è corretto, la traiettoria temporale della Terra non è circolare. Potrebbe essere un'orbita ellittica, molto schiacciata. Pensa alle comete. Trascorrono la maggior parte del tempo lontano dal Sole e accelerano solo quando si avvicinano. Potrebbe accadere qualcosa di simile anche qui. Per quasi diecimila anni il sistema evolve lentamente, poi, quando si avvicina alla massa temporale, tutto accelera. Da qui la fase finale di regressione."
 
 Leon annuì. "Una sorta di perielio temporale."
 
-"Esattamente. Ho sentito Schmidt per sapere cosa ne pensava. Si è limitato a lamentarsi di come stanno andando le cose alle rovine. Pare che i lavori siano sono fermi da un pezzo."
+"Esattamente. Ho sentito Schmidt per sapere cosa ne pensava. Si è limitato a lamentarsi di come stanno andando le cose alle rovine. Pare che i lavori siano fermi da un pezzo."
 
 Solo allora Alex si accorse dell'oggetto che Leon teneva in mano. Aggrottò la fronte. "Quello è uno spettrometro?"
 
@@ -7159,42 +7597,6 @@ Tese la mano ad Alex. "Potete avere la corona."
 
 # CAPITOLO
 
-id: diario_di_mira_6
-tipo: interludio
-titolo: Diario di Mira
-descrizione: 
-immagine: img/capitoli/diario_di_mira.jpg
-
---- FINE METADATI ---
-
-Il piano è fallito.
-
-Non perché abbia commesso un errore. Non perché i nostri nemici siano stati più abili. È qualcosa di più profondo.
-
-I segnali erano sempre stati davanti a me. Ho soltanto impiegato troppo tempo per comprenderli.
-
-L'Impero cadrà. Come doveva cadere.
-
-Poche notti fa ho sorpreso la mia ancella fuori dagli alloggi dell'imperatore. Se non fossi intervenuta, la sua vita sarebbe stata distrutta.
-
-L'ho protetta.
-
-È una scelta irrazionale. Forse dettata dal fatto che sto cominciando a vederla davvero come Erede. Oppure solo da una profonda simpatia. Mi ricorda come sarei potuta diventare, se il Dono non fosse giunto a me.
-
-Per la prima volta dopo molti anni, mi è sembrata l'unica cosa che valesse la pena fare.
-
-Il suo destino è già scritto, come quello di chiunque altro.
-
-Ma l'ignoranza è una benedizione.
-
-Finché non conosco il finale della sua storia, posso ancora fingere di averla cambiata.
-
-\[STACCO\]
-
-\[STACCO\]
-
-# CAPITOLO
-
 id: la_piramide
 tipo: capitolo
 titolo: La piramide
@@ -7203,57 +7605,117 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Fuori dalle finestre del palazzo, la luna risplendeva sui tetti delle case di argilla. Nadia uscì di soppiatto dalla sua camera.
+Quel venerdì, una luna quasi piena risplendeva sui tetti delle case di argilla della capitale. Nadia uscì di soppiatto dalla sua camera, richiudendo la porta alle proprie spalle con estrema attenzione.
 
-I corridoi erano deserti. Era un buon segno: la faceva sperare che tutto stesse andando come previsto.
+I corridoi erano deserti.
 
-Aveva consegnato a Lord Garnak il messaggio contenente il presunto luogo di accesso dei ribelli. Il nobile aveva prelevato il messaggio dal retro della statua di ebano, il solito mezzo di comunicazione che avevano usato in precedenza. Il luogo dell'intrusione era plausibile: l'ala est del palazzo, dove lei stessa aveva incontrato Akil poche settimane prima. In quella zona, come aveva constatato personalmente, la sorveglianza era minima.
+Era un buon segno: significava che tutto sembrava procedere come previsto.
 
-Ma era un diversivo.
+Avanzò affrettando il passo. Mentre percorreva le sale silenziose del palazzo, ripassò mentalmente ogni dettaglio del piano.
 
-Il vero messaggio, naturalmente, era nascosto nelle prime parole di ciascuna riga: "Non è il vero piano. Varco nella piramide, stessa ora, stesso giorno."
+Aveva consegnato a Lord Garnak il messaggio contenente il presunto luogo di accesso dei ribelli. Il nobile aveva recuperato il foglio dal retro della statua di ebano, lo stesso sistema che avevano utilizzato per comunicare in precedenza. L'indicazione era credibile: l'ala est del palazzo, proprio la zona dove lei stessa aveva incontrato Akil poche settimane prima e dove aveva potuto constatare personalmente quanto la sorveglianza fosse più debole rispetto al resto della struttura.
 
-Il messaggio criptato non era al livello di quello che la Setta aveva usato con lei, ma aveva fatto del suo meglio. Si era sentita soddisfatta della sua idea, quasi compiaciuta dell'acume con cui aveva soggiogato Garnak.
+Ma quello era soltanto un diversivo.
 
-L'idea era semplice: secondo i suoi calcoli, il nobile avrebbe preso il messaggio e l'avrebbe immediatamente riferito all'imperatore. Le guardie si sarebbero appostate nell'ala est, per tendere un'imboscata alla Setta, che invece si sarebbe trovata da tutt'altra parte, con sorveglianza minima e facile accesso.
+Il vero messaggio era nascosto nelle prime parole di ogni riga: "Non è il vero piano. Varco nella piramide, stessa ora, stesso giorno."
 
-O almeno così sperava.
+Non era un messaggio raffinato come quello della Setta, ma aveva fatto del suo meglio.
 
-Nadia avanzò con passo sicuro.
+L'idea era semplice. Il nobile, per conquistarsi i favori dell'imperatore, avrebbe riferito immediatamente il presunto contenuto del messaggio. Le guardie si sarebbero concentrate sull'ala est, preparando un'imboscata contro un gruppo che non sarebbe mai arrivato. Nel frattempo, la Setta sarebbe entrata dalla piramide, dove la sorveglianza sarebbe stata molto più limitata.
 
-Esisteva un noto corridoio che collegava il palazzo alla piramide, una scorciatoia per muoversi tra i due edifici senza passare dall'esterno. Evitando abilmente le poche guardie rimaste, si diresse verso il passaggio. Da lì sarebbe arrivata nel cuore della piramide, e poi su, su, fino all'ingresso indicatole da Akil. A un certo punto, sperava di intercettare i ribelli e unirsi a loro.
+Almeno, quella era la speranza.
 
-Non riusciva a smettere di tornare con la mente a ciò che aveva letto nel diario personale di Mira. Aveva sempre creduto che Mira l'avesse protetta per convenienza, come parte di un disegno più grande che coinvolgeva il palazzo e le sue dinamiche interne, qualcosa di calcolato e utile, ma aveva trovato qualcosa che aveva incrinato quella certezza in un modo che non riusciva più a ignorare. Mira non aveva parlato di strategia, ma di una sorta di esitazione, quasi di errore, come se il gesto stesso di salvarla fosse stato in contrasto con qualcosa di più profondo e inevitabile.
+Nadia attraversò un corridoio laterale, poi imboccò una scala secondaria che portava verso i livelli inferiori del palazzo. Da lì, esisteva un passaggio che portava direttamente alla piramide. Serviva ai sacerdoti e agli imperatori per muoversi senza attraversare le strade della capitale.
 
-Arrivò al passaggio. Scese una breve rampa di gradini e l'aria cambiò leggermente: più fredda e più ferma. Si stava avvicinando al cuore della piramide.
+Mentre camminava a passo rapido tra i corridoi deserti del palazzo, il diario di Mira continuava a tornarle alla mente.
 
-Si fermò un istante a una biforcazione, ascoltando.
+Aveva sempre creduto che l'Alta Sacerdotessa l'avesse protetta per interesse. Una mossa calcolata, un modo per sfruttarla, per arrivare alla Setta tramite Nadia.
 
-Solo silenzio.
+Ma quelle pagine avevano raccontato qualcosa di diverso.
 
-Riprese a sinistra, come ricordava dal percorso.
+Simpatia.
 
-Tra quelle stesse righe del diario, c'era anche il riferimento alla possibilità che Mira la considerasse sua erede. Cosa significava? Nella sua mente affioravano ipotesi, una meno verosimile dell'altra. Non riusciva a venirne a capo.
+Forse persino affetto.
 
-Un rumore lontano, forse una goccia che cadeva da qualche punto della volta, la riportò per un attimo al presente. Il suono rimbalzò lungo il corridoio vuoto e poi scomparve, lasciando di nuovo soltanto il fruscio dei suoi passi.
+Mira l'aveva salvata non perché fosse utile, ma perché aveva scelto di farlo.
 
-Giunse in una grande anticamera, con varie porte. Su un lato, una rampa di scale saliva nelle viscere della piramide.
+E ora lei stava per tradirla.
 
-La imboccò.
+Nadia vide un soldato di pattuglia. Rallentò appena il passo, quasi senza fermarsi. Lo evitò con facilità, i tappeti che attutivano i suoi passi leggeri. Scese silenziosa una rampa di scale.
 
-Ogni tanto l'aria cambiava ancora, diventando più densa, quasi più pesante, come se la piramide reagisse al suo movimento verso l'alto. Nadia si rese conto di avere l'abito fradicio di sudore freddo.
+E poi c'era quella parola. *Erede*.
 
-Ritrovare suo padre era ancora la priorità. Eppure, per la prima volta, Nadia aveva la sensazione che la risposta che cercava non riguardasse soltanto lui. Mira sembrava conoscere qualcosa che nessun altro vedeva, e in qualche modo aveva deciso di coinvolgere proprio lei. La domanda era: perché?
+Una parola che continuava a sembrarle assurda ogni volta che tornava alla mente. Lei? La persona destinata a prendere il posto di Mira?
 
-Nadia continuò a risalire i corridoi stretti della piramide, il respiro sempre più affannoso per il ripido dislivello. Ogni angolo che svoltava le sembrava uguale al precedente, ma sapeva che stava avanzando nella direzione giusta.
+Non era che una ragazzina di quattordici anni che, fino a pochi mesi prima, non sapeva nemmeno dell'esistenza della Setta, degli intrighi della capitale, delle verità nascoste dietro l'Impero.
 
-Aguzzò l'orecchio: nessun rumore. Voleva dire nessuna guardia, ma anche nessun alleato.
+Eppure quelle parole erano lì, scritte dalla stessa mano della donna.
 
-Si trovò improvvisamente davanti a una sala vasta, diversa dalle altre: le pareti erano completamente ricoperte da incisioni, simboli che si intrecciavano, frammentati da disegni geometrici.
+Un rumore lontano, forse una goccia d'acqua che cadeva da qualche punto della volta, la riportò al presente. Il suono rimbalzò lungo il corridoio vuoto e poi svanì, lasciando soltanto il fruscio dei suoi passi.
 
-Nadia si fermò solo per un istante, colpita dalla maestosità della stanza. I muri sembravano pulsare di energia propria, come se stessero cercando di raccontare qualcosa, di trasmettere un messaggio. Conosceva la scrittura, era quella comunemente usata nelle province dell'impero, ma il contenuto sfuggiva alla sua comprensione. Per un attimo si chiese a cosa servisse quel luogo.
+La cosa che non riusciva a dimenticare era una frase del diario.
 
-Ma non c'era tempo. Non ora.
+*Il piano è fallito.*
+
+Non sembrava parlare di una sconfitta politica, di un errore o di un complotto andato male. Mira sembrava parlare di qualcosa di molto più grande: di un destino già scritto, di un tentativo durato secoli e comunque destinato a fallire.
+
+Una cosa era certa: Mira conosceva qualcosa che nessuno dei suoi nemici aveva mai nemmeno immaginato.
+
+Nadia ebbe di nuovo la stessa, orribile impressione.
+
+Quella di star combattendo dalla parte sbagliata.
+
+No.
+
+Non poteva permettersi di pensarci.
+
+Suo padre era ancora rinchiuso nelle segrete della piramide. La Setta aveva costruito tutto il piano sulla possibilità di entrare e liberare i prigionieri.
+
+Non poteva tirarsi indietro. Non dopo essere arrivata fin lì.
+
+Finalmente Nadia raggiunse il passaggio che conduceva alla piramide. Non si era mai spinta così in là nei suoi incarichi di ancella. Si impose la massima concentrazione.
+
+Scese una breve rampa di gradini e l'aria cambiò quasi subito: più fredda, più pesante.
+
+Davanti a lei, un tunnel lungo e spoglio conduceva direttamente nel cuore della piramide. Tirò fuori dalla tunica una piccola lampada ad olio e la accese. Per un istante fissò la luce tremolante, chiedendosi se quella fosse davvero la strada che voleva percorrere.
+
+Per un istante ebbe la sensazione di essere sospesa tra due mondi. Alle sue spalle lasciava il palazzo, il luogo dove aveva trascorso le ultime settimane fingendo di essere soltanto un'ancella. Davanti a lei, la piramide, il luogo dove era imprigionato suo padre e dove i ribelli avrebbero fatto irruzione grazie al suo piano.
+
+Cominciò ad avanzare, mentre l'aria si faceva più densa. Il passaggio era completamente buio, tranne per la piccola lucerna che teneva in mano. Appoggiò l'altra mano sulla parete, usandola come guida. La pietra era fredda e leggermente umida.
+
+Dopo alcuni lunghi minuti, sbucò in una piccola camera, altrettanto buia. Si trovava sottoterra, nelle fondamenta della piramide.
+
+Le pareti erano grezze e spoglie. Nessuna finestra, nessun arazzo, drappo o decorazione. Da lì, si aprivano alcuni passaggi. Sapeva che uno di essi portava verso la sala del trono, centro operativo della piramide. Probabilmente era lì che si era arroccato l'imperatore, circondato dai suoi uomini.
+
+Un altro tunnel portava alle segrete. Un pensiero la attraversò: non era mai stata tanto vicina a suo padre.
+
+Ma durò solo un istante. Non era il momento. Doveva restare concentrata.
+
+Imboccò il terzo passaggio, una ripida scala di pietra che saliva verso i livelli più alti. Chinò la testa per entrare nello stretto cunicolo e prese a salire.
+
+Il respiro si fece più affannoso per il ripido dislivello. Ogni angolo che svoltava le sembrava uguale al precedente, ma sapeva di essere nella direzione giusta.
+
+Aguzzò l'orecchio.
+
+Nessun rumore.
+
+Era un buon segno: significava che non c'erano guardie.
+
+Ma significava anche che non c'erano ancora alleati.
+
+La scalinata terminò, e Nadia sbucò in una stanza. Era una sala spaziosa, diversa dalle altre.
+
+Le pareti erano completamente ricoperte da incisioni, simboli che si intrecciavano, frammentati da disegni geometrici.
+
+Nadia avvicinò la lampada al perimetro. I muri non erano di pietra grezza, ma accuratamente levigati e finemente incisi, quasi fossero le pagine di un libro.
+
+Come se stessero cercando di raccontare qualcosa, di trasmettere un messaggio.
+
+Conosceva la scrittura, era quella comunemente usata nelle province dell'impero, ma il contenuto sfuggiva alla sua comprensione. Per un attimo si chiese a cosa servisse quel luogo.
+
+Ma non c'era tempo.
+
+Non ora.
 
 Con un ultimo sguardo alle pareti incise, riprese a camminare, il passo sempre più rapido. Il silenzio assoluto della piramide cominciava a infonderle una sensazione di pericolo, come se qualcosa di oscuro si nascondesse in fondo a ogni corridoio.
 
@@ -7899,420 +8361,6 @@ Il 3 maggio 2047, il progetto Arca del Tempo venne presentato ufficialmente all'
 
 # CAPITOLO
 
-id: la_caduta
-tipo: capitolo
-titolo: La caduta
-descrizione: Il confronto finale tra la Setta e l'impero assume dimensioni che Nadia non sa più controllare.
-immagine: img/capitoli/la_squadra.jpg
-
---- FINE METADATI ---
-
-Con un misto di disperazione e senso di assurdità, Nadia chiuse gli occhi e si mise la corona sulla testa.
-
-Trattenne il respiro. Un battito di cuore, poi un altro. Aspettò. Qualcosa doveva accadere. Qualcosa doveva cambiare. Per un istante, le parve che qualcosa vibrasse nell'aria.
-
-Ma non accadde nulla.
-
-Solo il peso freddo del metallo sulla pelle, solo il silenzio.
-
-Qualcosa la colpì di lato. Un impatto secco, che le mozzò il fiato nei polmoni. Il pavimento le venne incontro e, un attimo dopo, il sangue le inondava la bocca. La corona scivolò dalla sua testa, rotolando sul pavimento di pietra con un clangore assordante.
-
-"Cosa pensi di fare, misera?" sbraitò la guardia che l'aveva colpita, la voce roca, distante, come proveniente da un mondo lontano. Nadia cercò di rimanere cosciente, ma tutto ciò che riusciva a vedere era il motivo a scacchi del pavimento, sfocato, e le sue mani sporche di polvere e sangue.
-
-Sentì le braccia rudi di uno degli uomini sollevarla di peso. "Cammina!" le ordinò la guardia, strattonandola avanti. Le gambe cedevano, ma Nadia cercò di non lasciarsi trascinare. L'orgoglio era l'unica cosa che le rimaneva.
-
-La condussero giù, lungo i corridoi della piramide. Attraversarono la sala delle scritture, dove le incisioni brillavano debolmente alla luce delle torce. Nadia inciampò su uno scalino, e cadde a terra con violenza. La guardia non si fermò, tirandola su per un braccio con uno strattone brutale. Il dolore che le attraversava il corpo era lancinante, ma peggio ancora era la paura.
-
-Le ombre del corridoio si aprirono all'improvviso in un'esplosione di luce. Oltre la soglia, una sala immensa la accolse con la sua maestosità quasi irreale. Nadia sollevò a fatica lo sguardo: colonne imponenti, arazzi ricamati, bassorilievi dai colori vividi. Sul fondo, il grande calendario rituale. Era nella sala del trono.
-
-Tutto sembrava appartenere a un altro mondo, lontano anni luce dalla polvere e dal sangue che le ricoprivano la pelle.
-
-Al centro, su una pedana rialzata, l'imperatore sedeva sul suo trono intarsiato, circondato da consiglieri, generali e funzionari. Doveva essere in corso un consiglio di guerra. La sua figura regale era quasi perfetta. Un solo dettaglio stonava in quel quadretto: la mancanza della corona sulla sua fronte.
-
-Il brusio si affievolì mentre i soldati la trascinavano verso il trono. Le facce dell'aristocrazia la seguivano con lo sguardo.
-
-Mira era tra le ombre, in disparte. Era sempre lì, vicina all'imperatore ma mai sotto la piena luce. Nadia percepì gli occhi della sacerdotessa su di lei. Cosa comunicava quello sguardo? Delusione? Rabbia? Compassione? Nadia, umiliata e impotente, non ebbe il coraggio di scoprirlo.
-
-Le guardie la costrinsero a inginocchiarsi. Il silenzio calò improvviso sulla sala.
-
-"Mio signore," disse una delle guardie, inchinandosi, "abbiamo trovato questa ragazza nei piani alti della piramide. Stava tentando la fuga."
-
-L'imperatore la fissò dall'alto, il volto severo. "Chi sei, ragazza?"
-
-Nadia era paralizzata sotto lo sguardo del sovrano. Da lontano, lo aveva sempre visto come una figura imponente, una leggenda vivente, circondata da un'aura divina; ora, a pochi passi da lui, poteva cogliere dettagli che rendevano quella presenza ancora più intimidatoria ma, in un certo senso, umana. Sottili rughe marcavano il volto dipinto di linee rituali, tratti scavati dal peso del potere e della responsabilità, occhi cerchiati di stanchezza e preoccupazione.
-
-Le parole le si bloccavano in gola.
-
-La guardia interpretò quel silenzio come una mancanza di collaborazione. Con uno stivale pesante la colpì di nuovo, questa volta nel fianco. Nadia gemette, crollando su sé stessa.
-
-"Allora? Parla!" insistette il soldato. Nadia aprì la bocca, ma il coraggio la abbandonò di nuovo. Fu Mira a interrompere il silenzio, avanzando di qualche passo con la stessa grazia composta di sempre.
-
-"Maestà," disse, la voce calma e controllata, "questa ragazza è la mia ancella." Il tono era impeccabile, distaccato, quasi etereo. Mira non sembrava minimamente turbata, non un'ombra di vergogna o di esitazione tradiva la sua espressione perfetta. Quell'espressione neutra era come un peso insostenibile sulle spalle di Nadia, che sentiva di aver infranto la fiducia di Mira in ogni modo possibile. Lei, che l'aveva protetta e difesa, ora doveva giustificare il comportamento della sua sciocca serva.
-
-"Mira. Dovresti scegliere meglio le tue ancelle," la rimproverò freddamente l'imperatore, con un'ombra di sorpresa nella voce. Poi tornò a rivolgersi direttamente a Nadia. "Sarai punita severamente per il tuo vagabondaggio. Ora portatela lontana dalla mia vista, abbiamo cose più importanti di cui occuparci, stanotte."
-
-La guardia esitò. Poi fece un passo avanti. "Maestà, la ragazza aveva questa."
-
-Tra le mani del soldato, la corona sfavillò alla luce dei bracieri.
-
-Un'espressione di furia si dipinse negli occhi del monarca. "Chi era responsabile della custodia?"
-
-Una guardia avanzò lentamente.
-
-"Io, Maestà."
-
-L'imperatore lo fissò.
-
-"Portatelo fuori."
-
-L'uomo impallidì.
-
-"Maestà, io\..."
-
-"Fuori."
-
-Due soldati lo afferrarono immediatamente, trascinandolo via. "Capitano della guardia: riporta la corona al suo posto. Niente scherzi stavolta."
-
-Poi l'imperatore tornò a fissare Nadia, lo sguardo ancora più freddo.
-
-"Come sapevi dov'era la corona?"
-
-Nadia sostenne il suo sguardo. "Non lo sapevo, maestà."
-
-"Non osare mentirmi. Sei in combutta con i ribelli?"
-
-Nadia esitò. Era ironico: era stata lei a orchestrare l'arrivo della Setta, e ora veniva accusata di qualcosa che, in realtà, era accaduto quasi per caso.
-
-"Mi accusate di essere in combutta con i ribelli, mio signore." si asciugò un rivolo di sangue dalla fronte. "Vi siete mai chiesti perché esistono dei ribelli, là fuori?"
-
-La risposta le arrivò immediata, sotto forma di un calcio al fianco. Crollò in ginocchio con un gemito.
-
-Violenza, ingiustizia, prepotenza: quello era il linguaggio dell'impero.
-
-L'imperatore le si avvicinò di qualche passo. "Ti credi coraggiosa, ragazza?" Non la stava deridendo: la stava misurando. "Non lo sei. Sei solo una sciocca ignorante che pretende di capire cose più grandi di lei. Non farmi perdere tempo e dimmi quello che sai. Prima che debba tirartelo fuori con la forza."
-
-"Adesso volete sentire cosa ho da dire, maestà? Eppure, quando chiedevo giustizia per mio padre nessuno mi ha ascoltata." Nadia si rese conto, mentre parlava, di star andando troppo oltre, ma non si fermò. La sua unica possibilità era guadagnare tempo.
-
-L'imperatore non rispose. Fece solo un cenno a due soldati.
-
-"Mio padre. Hual," continuò Nadia mentre le guardie le si avvicinavano, armi sguainate. "Imprigionato senza processo. Accuse false. Questo è ciò che chiamate giustizia?"
-
-Le presero, una per lato.
-
-"Hual, contabile di Jenna... questo nome vi dice qualcosa, maestà?" aggiunse, con le ultime forze.
-
-"Arconte Nazir," ordinò l'imperatore senza distogliere lo sguardo, "fate parlare la ragazza. Ora. Con qualunque mezzo."
-
-Nadia lanciò un ultimo sguardo verso Mira. Non cercava aiuto, ma una reazione.
-
-Non arrivò. Il volto della sacerdotessa rimase immobile, imperscrutabile. Eppure, per un istante appena percettibile, le sembrò che stesse valutando.
-
-Poi, all'improvviso, grida. Il suono delle armi.
-
-Provenivano dall'esterno.
-
-L'intera sala si irrigidì, lo sguardo di tutti si spostò verso il grande portone di ebano che sigillava la sala del trono. Un cigolio risuonò nell'aria, come il lamento di un gigante ferito. Le porte si spalancarono come un sipario su una tragedia inevitabile. Il silenzio si fece totale. Passi decisi, sicuri. Un'eco che riempì la sala, accompagnata dal tintinnio metallico delle armi.
-
-"Khamal," sibilò l'imperatore, con una nota di disprezzo nella voce. "Hai avuto il coraggio di presentarti qui, davanti a me, dopo tutto."
-
-Khamal avanzò con decisione nella sala del trono, seguito dai suoi alleati. "Sirios. Vedo che non hai dimenticato la mia faccia."
-
-"Come siete entrati?" La domanda era casuale, come se non fosse che una curiosità, un'inezia. Ma i pugni dell'monarca erano serrati, il volto contratto in un'espressione di sorpresa e rabbia.
-
-Khamal rise freddamente. "Sembra che abbiate grossi problemi di sicurezza, nonostante tutti i vostri grandiosi progetti." Il suo sguardo si posò brevemente su Garnak, il nobile corrotto al fianco del trono.
-
-L'imperatore si voltò lentamente verso Garnak, il cui volto si era fatto pallido. "Eri stato avvertito, Garnak. Pensavi non sapessimo del tuo sporco doppiogioco? Ma devo ammetterlo, ti ho sottovalutato: pensavo che in fondo fossi dalla parte giusta."
-
-Il nobile fece un passo indietro, sudando freddo. Per la prima volta, abbandonò la sua maschera di supponente sicurezza. "Maestà, vi giuro... Sono stato ingannato! Quella ragazza\... Mi ha raggirato con un trucco! Non sapevo\..."
-
-"Non hai mai saputo nulla, Garnak," lo interruppe l'imperatore con voce fredda. "Non so cosa speravi di ottenere schierandoti con i ribelli, e non mi interessa. La tua utilità è finita."
-
-Con un gesto rapido dell'imperatore, le guardie lasciarono Nadia e si diressero verso il nobile. Le sue suppliche si persero nel caos generale, mentre veniva trascinato via.
-
-L'imperatore, impassibile, rivolse di nuovo a Khamal la sua attenzione. Nadia notò che il gruppo dei ribelli si era notevolmente avvicinato al trono, e che i suoi guerrieri fidati si stavano lentamente disponendo in assetto da guerra. Riconobbe tra essi Rurik e Shuua.
-
-Ma l'imperatore aveva occhi solo per il leader.
-
-"Dunque, Khamal. A cosa devo il piacere della tua visita?" La rabbia dell'imperatore si era trasformata in spietato sarcasmo.
-
-"Avere giustizia, Sirios, che altro? Il tuo regno è giunto alla fine, ed è tempo che qualcuno ti sostituisca."
-
-"Di chi stiamo parlando? Di te?" L'imperatore rise amaramente. "Hai avuto più di quanto meritassi. Ti ho affidato il comando delle mie armate, ho lasciato che ti coprissi di gloria. E come mi hai ripagato? Con ambizione e tradimento."
-
-"Tradimento?" Le parole del ribelle erano cariche di risentimento. "Non è stato tradimento. Ero fedele a te, al nostro popolo! Quando costruivamo qualcosa di vero, quando espandevamo il regno per dare alle generazioni future un futuro prospero, allora ero al tuo fianco. Ma tutto è cambiato, e sai perché."
-
-"Stiamo costruendo qualcosa di eterno. Qualcosa che lascerà un segno nel tempo, ma tu sei troppo sciocco per rendertene conto. Cosa può saperne un generale caduto in disgrazia del volere degli dei, del bene superiore?"
-
-"Hai distolto fondi e uomini dalle opere che contavano. Hai fermato l'espansione, la crescita del nostro popolo, per cosa? Per un'opera egoistica e megalomane! Hai deciso che la tua memoria era più importante delle vite che stavi sacrificando."
-
-"Non è la mia memoria, è il futuro dell'intera umanità. Il potere che queste pietre racchiudono va ben oltre la tua comprensione, non cercare di capire cose oltre la tua portata."
-
-"Parole vuote, Sirios. Forse puoi gettare fumo negli occhi al popolo, ma non nei miei. Io conosco il tuo egoismo. Sei diventato ossessionato, cieco, e hai tradito il popolo per inseguire un sogno di immortalità che non esiste."
-
-L'imperatore scosse il capo, erompendo in una risata folle. Non sembrava rendersi conto del pericolo che correva, mentre i ribelli accerchiavano lentamente il manipolo di funzionari e guardie stretti attorno al trono. "Non capisci. Non potrai mai capire. Sono stato scelto per una missione più grande, una missione molto più grande di qualunque rancore tra noi piccole formiche. Ora togliti dai piedi, Khamal, non renderti ridicolo."
-
-Ma Khamal non lo ascoltava nemmeno. "Ora!" gridò, e con un movimento fulmineo, estrasse la lama nascosta sotto il mantello. Prima che l'imperatore potesse reagire, Khamal lo colpì al petto con un fendente brutale.
-
-Il sangue schizzò sul pavimento della sala del trono. Gli occhi del sovrano erano dilatati dall'incredulità. "Tu... Tu\..."
-
-Con un tonfo sordo, il corpo dell'imperatore cadde a terra senza vita.
-
-Per un istante l'intera sala rimase come sospesa.
-
-Poi, il caos.
-
-Le guardie imperiali si lanciarono contro i ribelli, e la sala si trasformò in un campo di battaglia. Le urla di uomini e il clangore delle armi riempirono l'aria.
-
-Nadia, che era riuscita a trascinarsi in un angolo, rimase immobile, paralizzata dal dolore e dal rimorso. Quella carneficina. Era stata lei a renderla possibile. Tutto ciò che aveva fatto per salvare suo padre, per porre fine alle ingiustizie, si era trasformato in morte e vendetta. Solo ora che il sangue le schizzava i vestiti si rese conto di non aver mai desiderato niente di tutto ciò.
-
-I ribelli erano in superiorità numerica, ma le guardie erano meglio addestrate e meglio armate. La Setta doveva ritirarsi e lasciare la sala del trono alla prima occasione. Combattere era futile, la loro missione era stata compiuta.
-
-Mira era in un angolo. Khamal, dopo un breve scambio di colpi, trafisse a morte il soldato che la proteggeva. L'uomo crollò con un tonfo e un clangore di armatura. Il leader della Setta era un combattente eccezionale, non c'era da stupirsi fosse stato uno dei migliori generali dell'imperatore.
-
-Il leader ribelle si rivolse a Mira, con la spada a pochi centimetri dal suo petto. "Ecco qui, il volto della religione dell'impero. Un concentrato di falsità e menzogne."
-
-Per la prima volta da che Nadia ricordasse, Mira era spaventata. Ma la sua risposta fu ferma, quasi calma. "Ho solo cercato di portare pace e prosperità. È come ha detto Sirios, ci sono cose che non puoi comprendere. Ma ormai non ha importanza."
-
-Khamal rafforzò la presa sull'elsa. "Lo trovate divertente, fare tanto i superiori? Non hai fermato le follie di quell'uomo, anzi le hai incentivate. Non c'è pietà per te, strega."
-
-Alzò la spada.
-
-Un urto, poi Khamal si sbilanciò, finendo a terra. Nadia si rialzò, tremante ma decisa. Aveva caricato l'uomo con tutte le sue forze, nel tentativo di fermarlo.
-
-"Non farlo". Sentiva dolore ovunque ed era sul punto di perdere i sensi. *Tutto ciò di buono che l'impero ha costruito è grazie a lei.* Fu ciò che avrebbe voluto dire. Invece le uscì solo un debole "ti prego."
-
-Khamal si rialzò e fece un passo indietro. Abbassò l'arma. Uno sguardo verso Nadia, un minuscolo gesto di assenso.
-
-Era tutto ciò che Nadia avrebbe ottenuto in cambio dei suoi sforzi e dei rischi che aveva corso.
-
-Ma le bastò.
-
-"Ritiriamoci!" tuonò Khamal, facendo un gesto eloquente con la mano. "Ritirata! Ritirata!" Lentamente i ribelli arretrarono verso il portone, ancora impegnati in scontri di spada. "Nadia, ora andiamo!"
-
-Nadia fece per seguirlo, le gambe che la reggevano a fatica, ma qualcosa la trattenne. Mira, accasciata a terra, la teneva per la manica.
-
-"Nadia. Fermati. Ti condurrò da tuo padre."
-
-Nadia la guardò. Aveva mille motivi per lasciare la sacerdotessa sul pavimento e seguire Khamal. Eppure, il suo istinto le suggeriva che non era la cosa giusta da fare.
-
-Si voltò.
-
-"Khamal, io resto" disse semplicemente. Non si preoccupò della reazione dell'uomo. Non lo guardò neppure.
-
-Si chinò sulla sacerdotessa e la aiutò goffamente a rialzarsi.
-
-Le gambe le cedettero. Cadde in ginocchio.
-
-Aveva perso troppo sangue, stava per perdere i sensi.
-
-Fu Mira a sostenerla, cingendole un braccio attorno al corpo esile.
-
-Khamal e i suoi uomini scomparvero uno dopo l'altro oltre il portone della sala, lasciando solo il rumore lontano dei passi che si affievoliva. Le urla si allontanarono finché il silenzio calò come un velo sopra le macerie della battaglia. Alcuni soldati soccorrevano i compagni feriti, ma molti corpi giacevano senza vita sparpagliati in ogni angolo della sala. C'erano state perdite da entrambe le fazioni.
-
-Nadia si guardava intorno, sconvolta. Trattenne un conato di vomito. Tutto ciò era accaduto per causa sua. Solo per causa sua.
-
-"Sarei morta se non fossi intervenuta tu."
-
-Per la prima volta, la voce della sacerdotessa vibrava di umanità, ma Nadia abbassò la testa, incapace di sostenere quegli occhi riconoscenti. Si sentì invadere gli occhi di lacrime, di nuovo.
-
-"Non devi ringraziarmi. È colpa mia se tutto questo è accaduto." Nadia si coprì il volto con le mani, le parole interrotte da violenti singhiozzi.
-
-"Non è colpa tua, Nadia. Alcune cose erano destinate ad accadere. Non tutto è sotto il nostro controllo."
-
-Nadia sollevò lo sguardo, le lacrime che le rigavano il viso. "Ma se non fossi andata da Khamal\... se non avessi fatto nulla\..."
-
-Mira la interruppe dolcemente e la strinse in un abbraccio caldo. Stavolta fu Nadia a rimanere sorpresa. Lentamente, la ragazzina ferita e spaventata si sciolse tra le braccia della donna. Il vuoto che sentiva dentro cominciò a pesare un po' meno.
-
-"Siamo solo pedine su una scacchiera molto più grande di quanto possiamo capire," mormorò Mira. "Non fartene una colpa."
-
-Non c'era spazio per esitare ancora. Nadia aveva fatto tutto ciò per una sola ragione.
-
-"Mia signora. Mio padre, è vivo? Sta bene?"
-
-Mira la guardò. Annuì.
-
-"Vieni, ti condurrò da lui."
-
-# CAPITOLO
-
-id: nelle_segrete
-tipo: capitolo
-titolo: Nelle segrete
-descrizione: Nadia segue Mira nei sotterranei della piramide. Qui, Nadia scoprirà una verità sconvolgente.
-immagine: img/capitoli/la_squadra.jpg
-
---- FINE METADATI ---
-
-Al di là delle spesse mura della piramide, il caos infuriava ancora. Clangore di spade e grida lontane riempivano l'aria, svegliando l'intera aristocrazia. Ma nel momento in cui Nadia e Mira imboccarono la stretta scala che conduceva ai sotterranei, il silenzio piombò su di loro.
-
-Non c'erano torce a illuminare i corridoi. Tantomeno, magiluci. L'unica fonte di luce proveniva da una lampada a olio tra le mani della sacerdotessa.
-
-Scesero alcuni metri, fino a raggiungere un complesso con varie stanze. Magazzini, depositi, archivi, forse laboratori. Alcune piccole finestre poste in alto dovevano far entrare della luce solare, ma in piena notte nemmeno la luna piena raggiungeva quelle camere.
-
-Proseguirono.
-
-Il corridoio ora si apriva su una quarantina di celle: le porte erano piccole e strette. Qualche colpo di tosse qua e là faceva intendere che tante celle erano occupate. Un custode era seduto su una sedia, addormentato.
-
-Nessun indizio, lì sotto, faceva intuire il caos scoppiato in superficie.
-
-"Vorrei vedere il prigioniero ventisei" disse Mira, senza preamboli.
-
-Il custode si svegliò di soprassalto, sgranando gli occhi nel vedere che l'Alta Sacerdotessa in persona chiedeva di vedere un carcerato. In altre circostanze Nadia avrebbe persino trovato comica la scena. Borbottando le sue scuse e profondendosi in inchini, si mise a cercare la chiave giusta su un grosso mazzo arrugginito. Ci volle un attimo perché facesse caso all'abito di Mira, strappato e malridotto. Qualche attimo ancora per notare anche Nadia, il volto tumefatto e il vestito intriso di sangue.
-
-Non osò fare domande.
-
-Proseguirono fino a una piccola porta, non dissimile dalle altre. Il custode la aprì con un cigolio.
-
-Entrarono.
-
-La lucerna illuminò una piccola stanza quadrata. Un catino per l'acqua da un lato. Un secchio per i bisogni fisici dall'altro. La stanza puzzava. Sdraiato su un misero giaciglio di paglia sudicia, un uomo era rannicchiato. Lentamente, disturbato dal rumore e dalla luce, si alzò a sedere.
-
-"Mia signora Mira" disse, con un debole sarcasmo. "A cosa devo la visita a quest'ora della\..." Poi, i suoi occhi misero a fuoco la ragazza. "Nadia?" In una frazione di secondo, l'espressione del suo volto passò da sarcasmo a incredula gioia.
-
-Nadia non attese oltre. Gli corse incontro e gli si gettò addosso, stringendolo con tutte le forze che le erano rimaste. Non sentì il dolore delle contusioni, né il bruciore del fianco colpito, né il sangue secco che le incrostava la pelle. Per un istante esistette soltanto quell'abbraccio.
-
-Suo padre era vivo.
-
-Sentì il tessuto ruvido e sporco della sua tunica. Hual era più magro di come lo ricordava. Le spalle sembravano più strette, il viso scavato, la barba incolta.
-
-"Bambina mia\..." mormorò Hual, quasi senza fiato. Le prese il volto tra le mani, come per assicurarsi che fosse reale. "Non posso crederci. Sei davvero tu."
-
-Nadia annuì, incapace di parlare. Sentiva gli occhi bruciare. Aveva immaginato quel momento per settimane, temendo ogni giorno di arrivare troppo tardi, o peggio ancora di trovare una cella vuota. E invece lui era lì, davanti a lei.
-
-Hual le sfiorò i capelli, poi alzò lo sguardo verso Mira, ancora ferma sulla soglia della cella. L'abito candido riluceva nell'oscurità, dando alla sua figura un'aura quasi surreale.
-
-"Mia signora\..." disse con voce roca. C'era gratitudine nei suoi occhi, ma anche smarrimento. Lui e Nadia si separarono lentamente, restando ancora vicini, le mani intrecciate, come se entrambi temessero che l'altro potesse svanire nel nulla.
-
-"Voi due vi conoscete?" Nadia si sciugò gli occhi nella manica del vestito insanguinato.
-
-"Abbiamo parlato in passato" rispose semplicemente Mira.
-
-Nadia esitò. "Sapevi che era mio padre?"
-
-"L'ho scoperto soltanto stanotte. Nella sala del trono."
-
-Per un istante, un pensiero attraversò la mente di Nadia. Se Mira lo avesse saputo prima, avrebbe capito immediatamente che lei non era la ragazza di nobili natali che aveva finto di essere. L'avrebbe cacciata? Protetta? Costretta a dire la verità? Nadia non lo sapeva. Ma ebbe l'impressione fugace che, in qualche modo, quella notte avrebbe potuto prendere una piega completamente diversa.
-
-Le parole della sacerdotessa la riportarono alla realtà.
-
-"L'imperatore è morto."
-
-Hual sgranò gli occhi, la felicità del momento incrinata da quella rivelazione. "Che\... che cosa?"
-
-"L'imperatore è morto" ripeté Mira, calma. "E con lui è morto anche il vecchio ordine."
-
-Hual la fissò in silenzio, incapace di dare un senso a quelle parole. Poi si lasciò cadere lentamente sul bordo del giaciglio di pietra. Si prese la testa fra le mani e rimase così per qualche istante, lo sguardo perduto nel vuoto.
-
-Quando parlò di nuovo, la sua voce era diversa. Più stanca. Più vecchia.
-
-"Io\... non pensavo\..." mormorò, quasi parlando a sé stesso. "Non pensavo che sarebbe successo questo." Nei suoi occhi c'era qualcosa che coglieva Nadia di sorpresa: sgomento. Rimorso. Si passò una mano sul volto, come se fosse improvvisamente invecchiato di dieci anni.
-
-"Papà, che succede?" Nadia lo guardava senza capire. Aveva rischiato tutto per arrivare fin lì. Aveva tradito la fiducia di Mira, aperto le porte ai ribelli, visto uomini morire nella sala del trono e un impero crollare in pochi istanti. Una parte di lei si era convinta che, una volta ritrovato suo padre, ogni cosa avrebbe finalmente avuto un senso.
-
-"Nadia\... piccola mia\..." disse piano. "Ti devo delle scuse. E ti devo delle spiegazioni." Hual alzò lo sguardo e incrociò quello di Mira. La sua voce era un mormorio intriso di una stanchezza nuova, più profonda di quella fisica. "Ormai non ha più importanza nascondere la verità." Guardò di nuovo sua figlia. "È ora che tu sappia tutta la storia."
-
-Restò in silenzio un momento, come se dovesse decidere da dove iniziare davvero. Nadia non si mosse, gli occhi confusi fissi sul volto dell'uomo.
-
-Poi, Hual cominciò.
-
-"Per molto tempo ho viaggiato nelle provincie, per il mio mestiere di contabile imperiale. Registri, tasse, approvvigionamenti, raccolti..." Fece un mezzo sorriso senza allegria. "Un lavoro diverso da quello della maggior parte della mia gente. Un lavoro che mi ha dato una visione generale dell'impero, della sua grandezza\... e delle sue incongruenze.
-
-"Più vedevo, più mi interrogavo. E la domanda era sempre la stessa: come poteva un impero di queste proporzioni essere così stabile, così fiorente, mentre il resto del mondo era centinaia, se non migliaia, di anni più arretrato? No, non parlo della forza militare o della ricchezza. Strade sicure, agricoltura avanzata, scuole, architettura, idraulica, scrittura, stampa, metallurgia\... Era un qualcosa che nessun'altra nazione poteva vantare."
-
-Guardò Mira, forse cercando una conferma definitiva.
-
-"All'inizio la mia era curiosità. Normale. Da contabile, da uomo abituato a notare incongruenze." Continuò Hual, più lentamente. "Poi è diventata una specie di... attrazione. Come quando vedi una porta socchiusa e capisci che dietro c'è qualcosa che non dovresti vedere, ma non riesci a smettere di pensarci.
-
-"Ho iniziato a cercare un'origine. Un punto di partenza. Pensavo ai Precursori, a tecnologie perdute, a libri antichi contenenti antiche conoscenze. Ho studiato a fondo le *Parole*, in cerca della soluzione. Ma solo indizi e nuovi misteri, in un puzzle sempre più fitto e, dovevo ammetterlo, sempre più intrigante.
-
-"Naturalmente ho pensato anche alla corona dell'imperatore: la storia di Isil e la Stella Cadente sembra citarla quasi letteralmente. Una fonte di conoscenza, un monile che potesse rendere l'indossatore praticamente onnisciente. Ma appoggiarsi a un vecchio mito non mi bastava, volevo saperne di più, volevo la verità."
-
-Una luce antica sembrò brillare negli occhi stanchi dell'uomo.
-
-"La svolta è arrivata il giorno del solstizio di cinque anni fa. Il carro itinerante: sempre lo stesso percorso. Sempre la stessa statua trasportata di città in città. Tutto ciò era qualcosa di sacro... ma anche di necessario.
-
-"Una notte ho trovato le conferme che cercavo. Un sistema di collegamenti, un'energia invisibile che il nostro tempo non dovrebbe conoscere. Una serie di anfore, contenenti una sostanza acida. Aceto. Limone. Non ho idea di come funzionasse, ma tutto questo serviva a mantenere attiva la sfera."
-
-Nadia ricordò: c'era una grande sfera dorata incastonata sulla testa della statua di Rham, nel grande tempio. Quella stessa statua che veniva portata in processione di città in città.
-
-"A cosa serve la sfera?"
-
-Per un istante, Hual incrociò lo sguardo di Mira. "Un ponte di collegamento con Dio. Un artefatto creato dai Precursori in grado di comunicare con il sommo Rham. La sola e unica fonte della conoscenza dell'impero.
-
-"Fu allora che capii che stavo guardando nella direzione sbagliata. Tutti vedevano il potere nell'Imperatore. Io ho iniziato a cercarlo altrove. Nella sua sacerdotessa."
-
-Mira abbassò leggermente lo sguardo, senza reagire.
-
-"C'erano tracce. Sempre più chiare man mano che le seguivo. Una genealogia di donne che attraversava i secoli. Non una dinastia di sangue, non una successione politica... ma un trasferimento di potere. Una carica che deve essere preservata meticolosamente attraverso il tempo."
-
-Fece una pausa. I passi della guardia, fuori dalla cella, erano l'unico suono udibile.
-
-"Una cosa non mi era ancora chiara. Perché avvicinandosi alla sfera nessuno percepiva nulla, mentre lei sì?"
-
-Nadia rifletté. Non era certa di aver capito la domanda. Mira era l'Alta Sacerdotessa: non era già questa una risposta soddisfacente? Ma presto capì il punto. Doveva esserci un qualcosa di fisico che dirottasse la voce di Rham verso Mira e non verso una persona qualunque. Suo padre non lasciava spazio a spiegazioni mistiche: ogni pezzo del puzzle doveva combaciare con fredda razionalità.
-
-"Durante il festival" sussurrò Nadia. "Lì tutti noi abbiamo sentito la voce del sommo Rham."
-
-"Esatto, Nadia" sorrise stancamente Hual. "Quella rara comunione con Dio. Noi possiamo sperimentarla solo ogni cinque anni\... per Mira è la normalità. Dico bene, mia signora?"
-
-Mira non rispose, il volto impassibile nonostante tutto.
-
-Hual proseguì. "Credo che durante il solstizio il potere di Rham sia così forte da riuscire a giungere a tutto il popolo. Dopotutto, è del dio del Sole che stiamo parlando. Forse in quell'occasione la vicinanza diretta con la sfera è sufficiente per sentire la voce di Dio a chiunque sia nelle vicinanze."
-
-Nadia ripensò a quel giorno, al grande tempio, dove la voce di Rham si era intrecciata direttamente con i suoi pensieri. E rivide la sfera dorata che sovrastava i fedeli, dalla cima della statua.
-
-Hual abbassò lo sguardo sulle proprie mani. "Se tutto questo era vero... se c'era un sistema, una trasmissione, una continuità... allora serviva qualcuno." Continuò più piano. "Qualcuno capace. Un erede."
-
-Fece una pausa.
-
-"Ho deciso che tu saresti diventata la prossima Mira."
-
-La rivelazione piombò su Nadia come una doccia fredda.
-
-"Pensavo di farlo per ordine. Per stabilità. Per... equilibrio. Credevo che mia figlia fosse la persona giusta: coraggiosa, capace, intelligente. Come nella leggenda di Isil: colei che non vuole il dono, è la persona più adatta a riceverlo." Una risata breve, senza gioia. "Ma non era vero. Il mio era egoismo."
-
-Nadia lo guardava, incredula. "Io\... sacerdotessa?"
-
-Hual proseguì. "Solo qui, tra le mura di questa cella, mi sono reso conto del rischio enorme in cui ti ho messa. Non sai quanto mi pento della mia ingenuità: non solo ho messo a rischio l'impero, ma -- cosa molto più grave -- la vita della mia stessa figlia."
-
-Ora che Hual aveva cominciato, la confessione fluiva come acqua da una sorgente.
-
-"Ho chiesto al vecchio Belan, il sacerdote di Jenna, di denunciarmi all'impero. Era l'unico modo per entrare in contatto con Mira\... e per metterti sulla strada della capitale. Sapevo che saresti venuta, soprattutto dopo che Belan ti avrebbe messo la pulce nell'orecchio. Quanto alla Setta delle Ombre, era il mezzo per farti mettere in contatto con Mira."
-
-Nadia lo fissò, come se quelle parole arrivassero da troppo lontano per essere subito afferrate.
-
-"Volevi introdurre Nadia a corte, avvicinarla a me." Era stata Mira a parlare, per la prima volta. "Sapevi che il tempo per la scelta dell'erede era limitato, con la Setta delle Ombre che stringeva sempre di più." Fece una pausa breve, misurata. "Non sei mai stato della Setta. Anzi, il tuo obiettivo era l'opposto di quello che loro desideravano: continuità dell'Impero, stabilità... con tua figlia al centro di tutto questo."
-
-Hual abbassò lo sguardo.
-
-Mira continuò, con assoluta lucidità. "Ma hai sottovalutato la Setta. E hai sottovalutato Nadia. Credevi che la minaccia esterna fosse controllabile, che potesse essere guidata o contenuta. Invece, attraverso lei, è accaduto ciò che non avevi previsto." Un breve silenzio. "L'Impero è crollato. L'Imperatore è morto. Una cosa che avevi ritenuto impossibile."
-
-Hual lasciò uscire un respiro spezzato, come se ogni parola lo avesse colpito più di un'arma. "Ho fallito su tutta la linea. Come stratega\..." la voce gli tremò appena "e come padre."
-
-Nadia fece un passo appena percettibile verso di lui, ma si fermò. Per tutto quel tempo aveva creduto di inseguire le tracce lasciate da suo padre per ritrovarlo. Ora capiva che era stato lui, fin dall'inizio, a guidare ogni suo passo. Il viaggio verso la capitale, l'incontro con la Setta, l'ingresso a corte, perfino Mira\... nulla era accaduto per caso.
-
-Si sentì mancare il terreno sotto i piedi. Avrebbe voluto essere furiosa, chiedergli come avesse potuto usarla in quel modo, ma la rabbia non arrivava. C'era solo un senso di vertigine, come se tutta la storia che aveva vissuto fino a quel momento appartenesse a qualcun altro.
-
-"Che ne sarà di noi ora?" La domanda di Hual non lasciava presagire alcuna pianificazione, né calcolo. Solo una forma grezza di paura.
-
-Mira rimase immobile per un istante più lungo del necessario.
-
-"Il vostro fato non mi interessa" disse infine. "Andatevene. Salvatevi dal caos." Abbassò leggermente lo sguardo, come se ciò che vedeva non fosse la cella, ma qualcosa di molto più lontano. "Ormai nulla ha più importanza. La mia missione è fallita. Il ciclo del tempo non verrà spezzato. Neanche questa volta."
-
-Hual sollevò la testa. "Ciclo...?"
-
-Mira non rispose subito. Lo sguardo si fece distante.
-
-"Non serve che tu capisca" disse infine. "Sono cose che non riguardano la nostra epoca. Sono l'unica che deve portarne il peso."
-
-Poi, più piano, quasi senza accorgersi di essere ascoltata. "Tu non sai cosa si prova a essere me. Nessun padre vorrebbe per sua figlia il fardello che io devo portare."
-
-\[STACCO\]
-
-\[STACCO\]
-
-# CAPITOLO
-
 id: l_arca_del_tempo
 tipo: capitolo
 titolo: L'Arca del Tempo
@@ -8321,55 +8369,9 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Leon passeggiava lentamente per i corridoi del quartier generale della FSU, cercando di calmare i nervi. La riunione decisiva sarebbe stata quel pomeriggio, e nonostante i progressi fatti, un'ombra di incertezza continuava a incombere su di lui. Aveva bisogno di distrarsi, di allontanarsi per un attimo dal peso delle decisioni imminenti. Senza pensarci troppo, si diresse verso il laboratorio, che da parecchie settimane era la nuova dimora della corona. Nell'anticamera, un tecnico era intento a sfogliare dei documenti.
+Quando Leon prese posto sulla poltroncina vellutata dell'assemblea generale della FSU, l'atmosfera nella sala era diversa dall'ultima volta.
 
-"Novità?"
-
-No. Nessun progresso, nessuna rivelazione.
-
-Entrò nel laboratorio.
-
-La corona era lì, adagiata sul tavolo come un manufatto antico e tecnologico al tempo stesso, silenziosa e immobile. Leon si avvicinò. Era sempre stato affascinato dal suo aspetto: così alieno eppure così\... inerte. Era strano pensare che quell'oggetto potesse avere un qualche potere. Era mai servita davvero a qualcosa? Leon cominciava a dubitarne.
-
-Mentre stava fissando la corona, un pensiero lo colpì all'improvviso.
-
-Un lampo di genio.
-
-Come aveva fatto a non pensarci prima?
-
-Fino a quel momento la corona era stata trattata come un reperto da osservare, un antico cimelio di valore storico. Così presi dalle loro ricerche e dalle loro analisi modernissime, avevano dimenticato la cosa più scontata da fare.
-
-Eppure, ora che ci pensava, era ovvio.
-
-Era ovvio che una corona dovesse essere *indossata*.
-
-Il suo cuore accelerò.
-
-Si sorprese a guardarsi attorno come un ladro. Era assurdo. Era uno dei responsabili del progetto e quella corona si trovava lì proprio perché lui aveva insistito per studiarla.
-
-Con mani tremanti e il cuore che martellava, prese delicatamente la corona dal suo supporto e, dopo un attimo di esitazione, la posò sulla sua fronte.
-
-Chiuse gli occhi, cercando di percepire una variazione nei suoi pensieri. Un messaggio nascosto che l'oggetto gli stava trasmettendo.
-
-Niente.
-
-Nemmeno un fremito. Nemmeno un'ombra di intuizione.
-
-Sentì un nodo stringergli lo stomaco.
-
-Era ridicolo.
-
-Era ridicolo anche solo aver pensato che qualcosa potesse accadere. Con un gesto brusco, si tolse la corona e la rimise sul tavolo, con più forza di quanta avrebbe voluto. Si passò una mano sul viso, esausto. Che sciocchezza.
-
-A lunghi passi, uscì dal laboratorio.
-
-Non avrebbe mai saputo quanto fosse stato significativo quel momento.
-
-\[STACCO\]
-
-Poche ore dopo, l'assemblea generale della FSU si riunì nuovamente.
-
-L'atmosfera nella sala era diversa rispetto alle settimane precedenti. Non c'era più l'incredulità che aveva accompagnato l'annuncio della crisi entropica, né il caos delle prime discussioni. Ora tutti conoscevano la situazione. Tutti sapevano che il mondo era condannato.
+Non c'era più l'incredulità che aveva accompagnato l'annuncio della crisi entropica, né il caos delle prime discussioni. Ora tutti conoscevano la situazione. Tutti sapevano che il mondo era condannato.
 
 Rimaneva una sola domanda: cosa lasciare e come lasciarlo.
 
@@ -8559,6 +8561,862 @@ Ora era arrivato il momento di ricambiare.
 
 \[STACCO\]
 
+Leon uscì dalla sala riunioni insieme agli altri membri della FSU, mentre attorno a lui le conversazioni riprendevano a bassa voce e ciascuno cominciava già a ragionare sui compiti che lo attendevano. Avevano un piano, e avevano fatto tutto ciò che era umanamente possibile per dare al futuro una possibilità di rinascita.
+
+Eppure un dubbio continuava a tormentarlo.
+
+Da giorni cercava di ignorarlo, ma tornava sempre, insinuandosi nei momenti di silenzio.
+
+Leon scosse il capo.
+
+No. Non doveva pensarci.
+
+Riprese a camminare lungo il corridoio, ma dopo pochi passi si rese conto di essersi diretto quasi senza volerlo verso il laboratorio in cui, da parecchie settimane, era custodita la corona. Le parole pronunciate da Zhang poco prima continuavano a risuonargli nella mente: nessun segno di attivazione, nessuna indicazione utile sul suo funzionamento.
+
+Nell'anticamera, un tecnico era intento a consultare alcuni documenti. Leon si fermò sulla soglia.
+
+«Novità?»
+
+L'uomo sollevò lo sguardo e scosse la testa.
+
+«Nessuna.»
+
+Leon annuì. Non si era aspettato una risposta diversa.
+
+Quando entrò nel laboratorio, la corona era adagiata sul proprio supporto, immobile sotto la luce fredda dei pannelli, con quell'aspetto insieme antico e tecnologico che continuava a renderla estranea a tutto ciò che la circondava. L'avevano analizzata con ogni strumento disponibile, sottoponendola a scansioni, rilevazioni e simulazioni, ma non erano riusciti a ottenere nulla che suggerisse quale fosse la sua funzione.
+
+Eppure Leon non riusciva ad accettare che fosse soltanto un reperto.
+
+Continuò a fissarla, finché un pensiero tanto semplice da apparirgli quasi assurdo non gli attraversò la mente.
+
+Come avevano fatto a non pensarci prima?
+
+Fino a quel momento avevano trattato la corona come un manufatto da osservare e proteggere. Le procedure di sicurezza avevano imposto prudenza e, col passare delle settimane, quella prudenza era diventata un'abitudine che nessuno aveva più pensato di mettere in discussione.
+
+Eppure una corona, prima di ogni altra cosa, era fatta per essere indossata.
+
+Il cuore gli accelerò. Per un attimo si guardò attorno, con la sensazione irrazionale di stare per commettere qualcosa di proibito.
+
+Si avvicinò al tavolo e sollevò la corona con entrambe le mani, trattenendo il respiro mentre ne avvertiva il peso. Esitò ancora per qualche secondo, ripensando alle precauzioni che avevano seguito fino a quel momento, poi la posò lentamente sul capo.
+
+Chiuse gli occhi e rimase immobile, cercando di cogliere qualunque variazione nei propri pensieri, un'immagine improvvisa, una voce o anche soltanto una sensazione che non gli appartenesse.
+
+Non accadde nulla.
+
+Attese ancora, mentre il ronzio sommesso delle apparecchiature riempiva il silenzio del laboratorio, ma non percepì alcun fremito né alcun cambiamento, soltanto il battito del proprio cuore che rallentava insieme all'entusiasmo di pochi istanti prima.
+
+Aprì gli occhi, mentre un sorriso amaro gli sfuggì dalle labbra.
+
+Che sciocchezza.
+
+Si tolse la corona e la rimise sul supporto con più decisione di quanto avrebbe voluto. Si passò una mano sul viso, irritato con se stesso per aver davvero creduto che un gesto così banale potesse offrire la risposta sfuggita a mesi di ricerche.
+
+Uscì dal laboratorio senza voltarsi.
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+# CAPITOLO
+
+id: la_caduta
+tipo: capitolo
+titolo: La caduta
+descrizione: Il confronto finale tra la Setta e l'impero assume dimensioni che Nadia non sa più controllare.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Con un misto di disperazione e senso di assurdità, Nadia chiuse gli occhi e si mise la corona sulla testa.
+
+Trattenne il respiro. Un battito di cuore, poi un altro. Aspettò. Qualcosa doveva accadere. Qualcosa doveva cambiare. Per un istante, le parve che qualcosa vibrasse nell'aria.
+
+Ma non accadde nulla.
+
+Solo il peso freddo del metallo sulla pelle, solo il silenzio.
+
+Qualcosa la colpì di lato. Un impatto secco, che le mozzò il fiato nei polmoni. Il pavimento le venne incontro e, un attimo dopo, il sangue le inondava la bocca. La corona scivolò dalla sua testa, rotolando sul pavimento di pietra con un clangore assordante.
+
+"Cosa pensi di fare, misera?" sbraitò la guardia che l'aveva colpita, la voce roca, distante, come proveniente da un mondo lontano. Nadia cercò di rimanere cosciente, ma tutto ciò che riusciva a vedere era il motivo a scacchi del pavimento, sfocato, e le sue mani sporche di polvere e sangue.
+
+Sentì le braccia rudi di uno degli uomini sollevarla di peso. "Cammina!" le ordinò la guardia, strattonandola avanti. Le gambe cedevano, ma Nadia cercò di non lasciarsi trascinare. L'orgoglio era l'unica cosa che le rimaneva.
+
+La condussero giù, lungo i corridoi della piramide. Attraversarono la sala delle scritture, dove le incisioni brillavano debolmente alla luce delle torce. Nadia inciampò su uno scalino, e cadde a terra con violenza. La guardia non si fermò, tirandola su per un braccio con uno strattone brutale. Il dolore che le attraversava il corpo era lancinante, ma peggio ancora era la paura.
+
+Le ombre del corridoio si aprirono all'improvviso in un'esplosione di luce. Oltre la soglia, una sala immensa la accolse con la sua maestosità quasi irreale. Nadia sollevò a fatica lo sguardo: colonne imponenti, arazzi ricamati, bassorilievi dai colori vividi. Sul fondo, il grande calendario rituale. Era nella sala del trono.
+
+Tutto sembrava appartenere a un altro mondo, lontano anni luce dalla polvere e dal sangue che le ricoprivano la pelle.
+
+Al centro, su una pedana rialzata, l'imperatore sedeva sul suo trono intarsiato, circondato da consiglieri, generali e funzionari. Doveva essere in corso un consiglio di guerra. La sua figura regale era quasi perfetta. Un solo dettaglio stonava in quel quadretto: la mancanza della corona sulla sua fronte.
+
+Il brusio si affievolì mentre i soldati la trascinavano verso il trono. Le facce dell'aristocrazia la seguivano con lo sguardo.
+
+Mira era tra le ombre, in disparte. Era sempre lì, vicina all'imperatore ma mai sotto la piena luce. Nadia percepì gli occhi della sacerdotessa su di lei. Cosa comunicava quello sguardo? Delusione? Rabbia? Compassione? Nadia, umiliata e impotente, non ebbe il coraggio di scoprirlo.
+
+Le guardie la costrinsero a inginocchiarsi. Il silenzio calò improvviso sulla sala.
+
+"Mio signore," disse una delle guardie, inchinandosi, "abbiamo trovato questa ragazza nei piani alti della piramide. Stava tentando la fuga."
+
+L'imperatore la fissò dall'alto, il volto severo. "Chi sei, ragazza?"
+
+Nadia era paralizzata sotto lo sguardo del sovrano. Da lontano, lo aveva sempre visto come una figura imponente, una leggenda vivente, circondata da un'aura divina; ora, a pochi passi da lui, poteva cogliere dettagli che rendevano quella presenza ancora più intimidatoria ma, in un certo senso, umana. Sottili rughe marcavano il volto dipinto di linee rituali, tratti scavati dal peso del potere e della responsabilità, occhi cerchiati di stanchezza e preoccupazione.
+
+Le parole le si bloccavano in gola.
+
+La guardia interpretò quel silenzio come una mancanza di collaborazione. Con uno stivale pesante la colpì di nuovo, questa volta nel fianco. Nadia gemette, crollando su sé stessa.
+
+"Allora? Parla!" insistette il soldato. Nadia aprì la bocca, ma il coraggio la abbandonò di nuovo. Fu Mira a interrompere il silenzio, avanzando di qualche passo con la stessa grazia composta di sempre.
+
+"Maestà," disse, la voce calma e controllata, "questa ragazza è la mia ancella." Il tono era impeccabile, distaccato, quasi etereo. Mira non sembrava minimamente turbata, non un'ombra di vergogna o di esitazione tradiva la sua espressione perfetta. Quell'espressione neutra era come un peso insostenibile sulle spalle di Nadia, che sentiva di aver infranto la fiducia di Mira in ogni modo possibile. Lei, che l'aveva protetta e difesa, ora doveva giustificare il comportamento della sua sciocca serva.
+
+"Mira. Dovresti scegliere meglio le tue ancelle," la rimproverò freddamente l'imperatore, con un'ombra di sorpresa nella voce. Poi tornò a rivolgersi direttamente a Nadia. "Sarai punita severamente per il tuo vagabondaggio. Ora portatela lontana dalla mia vista, abbiamo cose più importanti di cui occuparci, stanotte."
+
+La guardia esitò. Poi fece un passo avanti. "Maestà, la ragazza aveva questa."
+
+Tra le mani del soldato, la corona sfavillò alla luce dei bracieri.
+
+Un'espressione di furia si dipinse negli occhi del monarca. "Chi era responsabile della custodia?"
+
+Una guardia avanzò lentamente.
+
+"Io, Maestà."
+
+L'imperatore lo fissò.
+
+"Portatelo fuori."
+
+L'uomo impallidì.
+
+"Maestà, io\..."
+
+"Fuori."
+
+Due soldati lo afferrarono immediatamente, trascinandolo via. "Capitano della guardia: riporta la corona al suo posto. Niente scherzi stavolta."
+
+Poi l'imperatore tornò a fissare Nadia, lo sguardo ancora più freddo.
+
+"Come sapevi dov'era la corona?"
+
+Nadia sostenne il suo sguardo. "Non lo sapevo, maestà."
+
+"Non osare mentirmi. Sei in combutta con i ribelli?"
+
+Nadia esitò. Era ironico: era stata lei a orchestrare l'arrivo della Setta, e ora veniva accusata di qualcosa che, in realtà, era accaduto quasi per caso.
+
+"Mi accusate di essere in combutta con i ribelli, mio signore." si asciugò un rivolo di sangue dalla fronte. "Vi siete mai chiesti perché esistono dei ribelli, là fuori?"
+
+La risposta le arrivò immediata, sotto forma di un calcio al fianco. Crollò in ginocchio con un gemito.
+
+Violenza, ingiustizia, prepotenza: quello era il linguaggio dell'impero.
+
+L'imperatore le si avvicinò di qualche passo. "Ti credi coraggiosa, ragazza?" Non la stava deridendo: la stava misurando. "Non lo sei. Sei solo una sciocca ignorante che pretende di capire cose più grandi di lei. Non farmi perdere tempo e dimmi quello che sai. Prima che debba tirartelo fuori con la forza."
+
+"Adesso volete sentire cosa ho da dire, maestà? Eppure, quando chiedevo giustizia per mio padre nessuno mi ha ascoltata." Nadia si rese conto, mentre parlava, di star andando troppo oltre, ma non si fermò. La sua unica possibilità era guadagnare tempo.
+
+L'imperatore non rispose. Fece solo un cenno a due soldati.
+
+"Mio padre. Hual," continuò Nadia mentre le guardie le si avvicinavano, armi sguainate. "Imprigionato senza processo. Accuse false. Questo è ciò che chiamate giustizia?"
+
+Le presero, una per lato.
+
+"Hual, contabile di Jenna... questo nome vi dice qualcosa, maestà?" aggiunse, con le ultime forze.
+
+"Arconte Nazir," ordinò l'imperatore senza distogliere lo sguardo, "fate parlare la ragazza. Ora. Con qualunque mezzo."
+
+Nadia lanciò un ultimo sguardo verso Mira. Non cercava aiuto, ma una reazione.
+
+Non arrivò. Il volto della sacerdotessa rimase immobile, imperscrutabile. Eppure, per un istante appena percettibile, le sembrò che stesse valutando.
+
+Poi, all'improvviso, grida. Il suono delle armi.
+
+Provenivano dall'esterno.
+
+L'intera sala si irrigidì, lo sguardo di tutti si spostò verso il grande portone di ebano che sigillava la sala del trono. Un cigolio risuonò nell'aria, come il lamento di un gigante ferito. Le porte si spalancarono come un sipario su una tragedia inevitabile. Il silenzio si fece totale. Passi decisi, sicuri. Un'eco che riempì la sala, accompagnata dal tintinnio metallico delle armi.
+
+"Khamal," sibilò l'imperatore, con una nota di disprezzo nella voce. "Hai avuto il coraggio di presentarti qui, davanti a me, dopo tutto."
+
+Khamal avanzò con decisione nella sala del trono, seguito dai suoi alleati. "Sirios. Vedo che non hai dimenticato la mia faccia."
+
+"Come siete entrati?" La domanda era casuale, come se non fosse che una curiosità, un'inezia. Ma i pugni dell'monarca erano serrati, il volto contratto in un'espressione di sorpresa e rabbia.
+
+Khamal rise freddamente. "Sembra che abbiate grossi problemi di sicurezza, nonostante tutti i vostri grandiosi progetti." Il suo sguardo si posò brevemente su Garnak, il nobile corrotto al fianco del trono.
+
+L'imperatore si voltò lentamente verso Garnak, il cui volto si era fatto pallido. "Eri stato avvertito, Garnak. Pensavi non sapessimo del tuo sporco doppiogioco? Ma devo ammetterlo, ti ho sottovalutato: pensavo che in fondo fossi dalla parte giusta."
+
+Il nobile fece un passo indietro, sudando freddo. Per la prima volta, abbandonò la sua maschera di supponente sicurezza. "Maestà, vi giuro... Sono stato ingannato! Quella ragazza\... Mi ha raggirato con un trucco! Non sapevo\..."
+
+"Non hai mai saputo nulla, Garnak," lo interruppe l'imperatore con voce fredda. "Non so cosa speravi di ottenere schierandoti con i ribelli, e non mi interessa. La tua utilità è finita."
+
+Con un gesto rapido dell'imperatore, le guardie lasciarono Nadia e si diressero verso il nobile. Le sue suppliche si persero nel caos generale, mentre veniva trascinato via.
+
+L'imperatore, impassibile, rivolse di nuovo a Khamal la sua attenzione. Nadia notò che il gruppo dei ribelli si era notevolmente avvicinato al trono, e che i suoi guerrieri fidati si stavano lentamente disponendo in assetto da guerra. Riconobbe tra essi Rurik e Shuua.
+
+Ma l'imperatore aveva occhi solo per il leader.
+
+"Dunque, Khamal. A cosa devo il piacere della tua visita?" La rabbia dell'imperatore si era trasformata in spietato sarcasmo.
+
+"Avere giustizia, Sirios, che altro? Il tuo regno è giunto alla fine, ed è tempo che qualcuno ti sostituisca."
+
+"Di chi stiamo parlando? Di te?" L'imperatore rise amaramente. "Hai avuto più di quanto meritassi. Ti ho affidato il comando delle mie armate, ho lasciato che ti coprissi di gloria. E come mi hai ripagato? Con ambizione e tradimento."
+
+"Tradimento?" Le parole del ribelle erano cariche di risentimento. "Non è stato tradimento. Ero fedele a te, al nostro popolo! Quando costruivamo qualcosa di vero, quando espandevamo il regno per dare alle generazioni future un futuro prospero, allora ero al tuo fianco. Ma tutto è cambiato, e sai perché."
+
+"Stiamo costruendo qualcosa di eterno. Qualcosa che lascerà un segno nel tempo, ma tu sei troppo sciocco per rendertene conto. Cosa può saperne un generale caduto in disgrazia del volere degli dei, del bene superiore?"
+
+"Hai distolto fondi e uomini dalle opere che contavano. Hai fermato l'espansione, la crescita del nostro popolo, per cosa? Per un'opera egoistica e megalomane! Hai deciso che la tua memoria era più importante delle vite che stavi sacrificando."
+
+"Non è la mia memoria, è il futuro dell'intera umanità. Il potere che queste pietre racchiudono va ben oltre la tua comprensione, non cercare di capire cose oltre la tua portata."
+
+"Parole vuote, Sirios. Forse puoi gettare fumo negli occhi al popolo, ma non nei miei. Io conosco il tuo egoismo. Sei diventato ossessionato, cieco, e hai tradito il popolo per inseguire un sogno di immortalità che non esiste."
+
+L'imperatore scosse il capo, erompendo in una risata folle. Non sembrava rendersi conto del pericolo che correva, mentre i ribelli accerchiavano lentamente il manipolo di funzionari e guardie stretti attorno al trono. "Non capisci. Non potrai mai capire. Sono stato scelto per una missione più grande, una missione molto più grande di qualunque rancore tra noi piccole formiche. Ora togliti dai piedi, Khamal, non renderti ridicolo."
+
+Ma Khamal non lo ascoltava nemmeno. "Ora!" gridò, e con un movimento fulmineo, estrasse la lama nascosta sotto il mantello. Prima che l'imperatore potesse reagire, Khamal lo colpì al petto con un fendente brutale.
+
+Il sangue schizzò sul pavimento della sala del trono. Gli occhi del sovrano erano dilatati dall'incredulità. "Tu... Tu\..."
+
+Con un tonfo sordo, il corpo dell'imperatore cadde ai piedi del trono.
+
+Per un istante nessuno si mosse. Le guardie rimaste nella sala fissarono Sirios come se non riuscissero ancora a comprendere ciò che era accaduto, mentre i ribelli, con le armi levate e il respiro affannoso, sembravano altrettanto increduli di essere riusciti davvero ad arrivare fino a lui.
+
+Per qualche secondo, l'intera sala rimase come sospesa.
+
+Poi il caos.
+
+Le guardie imperiali si lanciarono contro i ribelli e la sala si trasformò in un campo di battaglia. Le urla degli uomini e il clangore delle armi riempirono l'aria, mentre i combattenti della Setta si stringevano attorno a Khamal e respingevano poco alla volta i soldati verso le pareti. La morte dell'imperatore aveva spezzato qualcosa nella loro resistenza: alcuni continuavano a battersi con furia, ma altri arretravano disorientati, incerti se proteggere il corpo di Sirios, il trono ormai vuoto o la sacerdotessa rimasta sola dall'altra parte della sala.
+
+Nadia riuscì a trascinarsi in un angolo e vi rimase immobile, paralizzata dal dolore e dal rimorso. Era stata lei a rendere possibile quella carneficina. Tutto ciò che aveva fatto per salvare suo padre e porre fine alle ingiustizie si era trasformato in morte e vendetta. Con il sangue che le schizzava i vestiti e i corpi che cadevano a pochi passi da lei, si rendeva conto di non aver mai desiderato niente di tutto ciò.
+
+I ribelli continuarono ad avanzare. Le ultime guardie ancora in grado di combattere furono respinte verso le uscite laterali, mentre alcuni uomini della Setta si impadronivano degli accessi alla sala. Per qualche istante sembrò davvero che la battaglia fosse finita.
+
+Khamal si voltò verso i suoi uomini e sollevò la spada ancora sporca di sangue.
+
+"Il palazzo è nostro! Aprite le celle. Liberate tutti i prigionieri."
+
+Nadia sentì il cuore balzarle nel petto.
+
+Per un istante il dolore, la paura e tutto il sangue che riempiva la sala smisero di esistere. Suo padre era là sotto, a poche rampe di scale da lei, e finalmente nessuno avrebbe più potuto impedirle di raggiungerlo.
+
+Due ribelli si mossero verso un'uscita laterale. Nadia si rimise in piedi per seguirli, ma una fitta alla gamba la costrinse ad appoggiarsi alla parete. Attese che il dolore si attenuasse appena, poi proseguì. Avrebbe strisciato, se fosse stato necessario.
+
+Il clangore di una spada sul pavimento la fece voltare.
+
+Il soldato che proteggeva Mira crollò ai piedi della sacerdotessa, l'armatura squarciata e il volto contratto in un'ultima smorfia di dolore. Davanti a lui, Khamal liberò la lama con uno strappo e avanzò verso la donna.
+
+Mira arretrò fino a urtare la parete. Per la prima volta da quando Nadia la conosceva, il suo volto non mostrava né calma né freddezza, ma una paura nuda che non riusciva più a celare.
+
+"Eccola," disse Khamal. "La voce sacra dell'impero. Colei che benediceva ogni menzogna di Sirios mentre il popolo moriva per soddisfare le sue ossessioni."
+
+Nonostante il terrore che le attraversava il volto, Mira raddrizzò le spalle e sostenne il suo sguardo con una traccia dell'antica compostezza. "Ho cercato di evitare sofferenze peggiori."
+
+"È quello che dite sempre."
+
+Khamal scostò con un calcio il corpo del soldato caduto, poi tornò a concentrarsi su Mira. Strinse entrambe le mani attorno all'elsa della propria arma e avanzò ancora, costringendola contro la parete.
+
+Nadia guardò verso il corridoio in cui erano scomparsi i ribelli diretti alle segrete. Bastava raggiungerli, lasciarsi alle spalle Mira, Khamal e quella sala. Era venuta nella capitale per suo padre, aveva mentito e rischiato la vita per lui, e adesso si trovava finalmente a un passo dal proprio obiettivo.
+
+Provò a riprendere il cammino.
+
+Alle sue spalle, Khamal sollevò la spada.
+
+Nadia non ebbe neppure il tempo di decidere. Si scagliò contro di lui con le poche forze che le restavano, colpendolo di fianco con tutto il proprio peso proprio mentre la lama cominciava a scendere. L'uomo perse l'equilibrio e cadde su un ginocchio; la spada gli sfuggì di mano e scivolò sul pavimento.
+
+"Non farlo."
+
+Sentiva dolore ovunque ed era sul punto di perdere i sensi. Avrebbe voluto dirgli che tutto ciò che di buono l'impero aveva costruito era stato possibile grazie a Mira, che lei non era responsabile delle crudeltà di Sirios e che un altro assassinio non avrebbe cancellato quelli già commessi. Ma dalle sue labbra uscì soltanto un debole: "Ti prego."
+
+Khamal si rialzò lentamente. Per un momento Nadia temette che l'avrebbe spostata con la forza, oppure che avrebbe raccolto la spada e concluso ciò che aveva iniziato.
+
+Invece l'uomo recuperò l'arma, ma non la sollevò. Fissò Nadia per qualche istante, poi fece un minuscolo gesto di assenso.
+
+Era tutto ciò che Nadia avrebbe ottenuto in cambio dei suoi sforzi e dei rischi che aveva corso.
+
+Ma le bastò.
+
+Non ebbe il tempo di provare sollievo.
+
+Dall'esterno della sala giunse un nuovo rumore, dapprima confuso, poi sempre più distinto: decine di passi lanciati di corsa, ordini gridati e armi che urtavano contro le pareti.
+
+Un ribelle comparve sulla soglia.
+
+"Soldati nemici!" urlò, voltandosi verso Khamal. "Vengono dall'ala est!"
+
+Avevano compreso l'inganno.
+
+Troppo tardi per salvare l'imperatore, ma abbastanza presto da impedire ai ribelli di consolidare la conquista. Il fragore dello scontro esplose nei corridoi prima ancora che le guardie raggiungessero la sala, mentre gli uomini della Setta schierati presso gli accessi cercavano di trattenerle. Dalle porte laterali arrivavano grida sempre più vicine e, a ogni istante, qualche ribelle era costretto a indietreggiare nel salone sotto la pressione del contrattacco.
+
+Uno degli uomini che Khamal aveva mandato nelle segrete ricomparve nel vano di una porta. Aveva una ferita alla fronte e il mantello strappato.
+
+"Il passaggio è bloccato!" gridò. "Stanno risalendo anche dai livelli inferiori."
+
+Nadia sentì lo stomaco contrarsi.
+
+I prigionieri.
+
+Hual era ancora là sotto e gli uomini inviati a liberarlo non erano nemmeno riusciti a raggiungere le celle.
+
+Si diresse verso il ribelle, decisa a scendere personalmente nelle segrete, ma Mira le afferrò il polso.
+
+"Non puoi passare."
+
+"Mio padre è là sotto."
+
+"Lo so."
+
+Quelle parole la immobilizzarono più della presa.
+
+Nadia si voltò di scatto. "È vivo?"
+
+Mira annuì e Nadia comprese dal modo in cui la guardava che non stava cercando di consolarla, né di convincerla a fuggire con una menzogna. Hual era vivo.
+
+A pochi passi da lei, oltre quel corridoio.
+
+Le prime guardie fecero irruzione da un accesso laterale, respingendo nella sala i ribelli che avevano tentato di fermarle. Altre apparvero subito dietro di loro, ancora più numerose, mentre dal passaggio per le segrete continuavano a risalire soldati richiamati dai livelli inferiori. Erano gli stessi uomini che Nadia aveva contribuito a concentrare nell'ala est con il falso messaggio. Il piano che aveva aperto alla Setta la strada verso il trono si stava richiudendo davanti a lei.
+
+Khamal si diresse a grandi passi verso il portone, la spada stretta in mano.
+
+"Non possiamo tenere la sala. Ritirata!"
+
+I ribelli iniziarono a ripiegare, coprendosi a vicenda mentre le guardie avanzavano dagli accessi laterali. Rurik raggiunse Nadia e cercò di prenderla per un braccio.
+
+"Dobbiamo andare."
+
+Lei si sottrasse alla presa.
+
+"No."
+
+"Nadia, non c'è più tempo."
+
+"Mio padre è nelle segrete."
+
+Rurik guardò il passaggio. Le guardie lo avevano ormai occupato da parete a parete e continuavano a riversarsi nella sala, compatte dietro gli scudi. Quando tornò a fissarla, nei suoi occhi Nadia vide la stessa impotenza che sentiva dentro di sé.
+
+"Non arriveresti nemmeno alle scale."
+
+Nadia tentò comunque di avanzare. Dopo due passi la gamba ferita cedette e cadde su un ginocchio. Si rialzò aggrappandosi a una colonna, mentre il sangue le colava lungo il fianco e ogni respiro sembrava strapparle qualcosa dal petto.
+
+Il corridoio era ancora davanti a lei, ma tra lei e quelle scale si erano ammassate decine di guardie. Non esisteva alcun varco, soltanto una barriera di scudi, lance e uomini che avanzava nella sua direzione.
+
+Rurik le posò di nuovo una mano sul braccio.
+
+"Non è la notte giusta," disse piano. "Non ancora."
+
+Nadia guardò Mira, ancora appoggiata alla parete, poi il corpo di Sirios ai piedi del trono e infine il passaggio che conduceva alle segrete.
+
+Si lasciò sollevare da Rurik e, sorretta da lui, raggiunse gli altri ribelli. Khamal li precedeva, continuando a ordinare la ritirata mentre le guardie occupavano uno dopo l'altro gli spazi che la Setta era riuscita a conquistare.
+
+Sulla soglia, Nadia si voltò un'ultima volta. Il passaggio per le segrete era ormai scomparso dietro una distesa di armature.
+
+Uscì dal palazzo senza suo padre.
+
+Alle sue spalle, l'impero cominciava a cadere.
+
+\[STACCO\]
+
+# CAPITOLO
+
+id: marie
+tipo: capitolo
+titolo: Marie
+descrizione: Il piano Arca è riuscito, ma il dubbio che attanaglia Leon potrebbe rimettere tutto in discussione.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Il piccolo motoscafo risaliva lentamente il fiume color ocra, sollevando una scia bianca tra le rive ricoperte di vegetazione. Al timone sedeva un giovane Naha che non aveva pronunciato più di una decina di parole dall'inizio del viaggio e che, di tanto in tanto, rallentava per aggirare tronchi trascinati dalla corrente o lunghi banchi di piante galleggianti.
+
+Leon osservò l'acqua scorrere accanto allo scafo.
+
+Quattro anni prima avrebbe raggiunto il villaggio in elicottero, sorvolando in poche ore centinaia di chilometri di foresta. Ora nessuno si fidava più abbastanza dei sistemi elettronici per affrontare un viaggio simile. I guasti causati dal rilascio entropico erano diventati troppo frequenti e imprevedibili, e persino i velivoli sottoposti ai controlli più rigorosi potevano perdere improvvisamente la navigazione, spegnere i motori o ricevere dati contraddittori dai propri strumenti.
+
+L'aeroporto più vicino era ancora operativo, ma soltanto per pochi voli autorizzati. Leon vi era arrivato con quasi un giorno di ritardo, dopo che il primo aereo era stato cancellato e il secondo costretto a un atterraggio imprevisto per un'anomalia ai sistemi di bordo. Percorrere lunghe tratte aeree era diventato un rischio concreto.
+
+Da lì aveva proseguito su un fuoristrada carico di medicinali, batterie e pezzi di ricambio, finché una frana non aveva bloccato la strada. L'ultima parte del viaggio l'aveva percorsa sul fiume.
+
+Era ironico che il vecchio motore a combustione di quel motoscafo fosse ormai più affidabile dei più sofisticati sistemi di navigazione.
+
+Nonostante tutto, era arrivato.
+
+Quando le prime capanne comparvero tra gli alberi, Leon avvertì una sensazione inattesa.
+
+Sollievo.
+
+Era passato molto tempo dall'ultima volta che aveva camminato su quel terreno, eppure il villaggio sembrava stranamente immutato. I tetti di lamiera e foglie emergevano tra la vegetazione, alcune canoe erano tirate sulla riva e una fila di bambini correva lungo il sentiero per seguire l'arrivo della barca. Sulle case intravide i pannelli solari e, poco più avanti lungo il fiume, la sagoma della guesthouse.
+
+Non sembravano esserci segni evidenti della crisi. La vita continuava con la stessa calma ostinata di sempre, come se il mondo là fuori non stesse lentamente perdendo pezzi di sé.
+
+Il giovane spense il motore e lasciò che il motoscafo si accostasse al piccolo pontile di legno. Leon raccolse lo zaino e una delle casse di medicinali, ma prima che potesse scaricarla qualcuno gliela prese dalle mani.
+
+"Leon!"
+
+Alex lo strinse in un abbraccio così energico da costringerlo a lasciare andare lo zaino.
+
+"Finalmente sei arrivato."
+
+Leon ricambiò la stretta, sorpreso da quanto gli fosse mancato. Sotto il ciuffo di capelli neri, il sorriso di Alex era lo stesso.
+
+"Ho cominciato a pensare che avreste celebrato senza di me."
+
+"Zali ci ha pensato seriamente." Alex prese anche lo zaino e se lo mise in spalla.
+
+Quel matrimonio era stato rimandato più volte. Ogni volta il Progetto Arca aveva richiesto ancora qualche mese di lavoro, ancora qualche riunione, ancora qualche problema da risolvere.
+
+Alla fine, però, persino Alex aveva dovuto ammettere che esistevano priorità che nessuna crisi globale poteva cancellare. Due mesi prima aveva fatto ritorno al villaggio. L'idea era di restarci tutta la vita.
+
+Il giovane al timone iniziò a scaricare le altre casse. Alcuni abitanti del villaggio si avvicinarono per aiutarlo e Alex indicò quella dei medicinali.
+
+"Quelli vengono dalla città?"
+
+Leon annuì. "Antibiotici, disinfettanti e qualche confezione di analgesici. È tutto quello che sono riuscito a trasportare."
+
+Alex smise di sorridere per un istante. "L'ambulatorio ne aveva bisogno."
+
+"Ho portato anche alcune batterie e dei regolatori per i pannelli solari. Non garantisco che siano compatibili."
+
+"Qui abbiamo imparato a non essere troppo esigenti."
+
+Si incamminarono lungo il sentiero che saliva dalla riva. Leon avanzava lentamente, ancora irrigidito dalle ore trascorse sul motoscafo, mentre alcuni bambini li seguivano a distanza e osservavano con curiosità il suo abbigliamento cittadino impolverato.
+
+"Il viaggio sembra essere stato un inferno," disse Alex.
+
+"Più lungo che difficile. Ormai basta che un computer segnali un'anomalia e nessuno sa più se fidarsi del sistema o del controllo che dovrebbe verificarlo."
+
+Alex annuì. "Sta peggiorando?"
+
+"La situazione sembra stabile, almeno per ora. L'elettricità continua a funzionare, gli aerei volano e le fabbriche producono. Il problema è che ogni sistema informatico può cominciare a comportarsi in modo imprevedibile senza alcun preavviso."
+
+"Quindi nessuno si fida più di niente."
+
+"I voli vengono cancellati al minimo errore, le banche verificano a mano sempre più operazioni e negli ospedali stanno tornando a registrare su carta i dati essenziali. Ogni cosa richiede più tempo, perché nessuno sa se ciò che compare su uno schermo sia corretto."
+
+Alex fece cenno al giovane che li aveva aiutati di portare la cassa all'ambulatorio.
+
+"E qui?" domandò Leon.
+
+Alex allargò le braccia.
+
+"È cambiato poco. La cosa più difficile è comunicare con l'esterno. La rete arriva una volta ogni tanto e i telefoni funzionano quando ne hanno voglia. Però i campi producono, il fiume è ancora al suo posto e nessuno ha bisogno di un satellite per sapere quando seminare."
+
+Leon si guardò attorno. "Il tempo sembra scorrere secondo regole proprie."
+
+Alex gli fece strada.
+
+Leon riconobbe luoghi che credeva di aver dimenticato: la tettoia dove avevano cenato la primissima sera, il sentiero che conduceva alla scuola, la sala in cui il consiglio degli anziani si riuniva per le decisioni importanti. Sorrise ricordando quante volte fosse riuscito a convincere Zali a convocare il consiglio.
+
+Alcune cose erano cambiate. La guesthouse aveva una seconda veranda, il magazzino era stato ampliato e accanto all'ambulatorio sorgeva una piccola costruzione di mattoni che non ricordava.
+
+Quasi tutto, però, sembrava fermo nel tempo. Nessuno si muoveva con l'urgenza nervosa che Leon aveva imparato a riconoscere nelle città. Le persone lavoravano, discutevano e ridevano come se il giorno seguente meritasse ancora di essere vissuto.
+
+Alex si fermò davanti alla guesthouse e posò a terra lo zaino.
+
+"Zali è con sua madre. Credo che abbiano deciso che vedermi prima di domani porti sfortuna."
+
+"Credevo che viveste nella stessa casa."
+
+"È quello che ho fatto notare anch'io. Pare che le tradizioni non siano tenute a essere coerenti."
+
+Leon rise, ma l'espressione di Alex si fece subito più grave.
+
+"L'Arca?"
+
+Leon abbassò lo sguardo verso le casse accatastate accanto alla veranda. Per un istante rivide la piattaforma di lancio, le luci bianche riflesse sulla superficie della navetta e le ultime squadre che si allontanavano dalla struttura. Rivide anche lo spazio vuoto che aveva lasciato dietro di sé quando i motori si erano accesi.
+
+"È partita."
+
+Alex rimase immobile. "Il lancio è riuscito?"
+
+"Sì."
+
+Un sorriso gli attraversò il volto, ma si spense quasi subito.
+
+"Avrei voluto esserci."
+
+"Lo so."
+
+Alex aveva trascorso quasi quattro anni a lavorare al progetto, e soltanto negli ultimi mesi aveva deciso di tornare a Naha. Non avrebbe comunque potuto assistere al lancio. L'operazione si era svolta nel più assoluto segreto, senza trasmissioni pubbliche né immagini diffuse in rete. Ufficialmente, la struttura orbitale aveva inviato nello spazio una sonda destinata a studiare gli effetti del rilascio entropico oltre l'atmosfera. Solo poche centinaia di persone, distribuite tra governi e centri di ricerca, conoscevano il vero scopo della missione.
+
+Il resto del mondo non sapeva che la sua ultima speranza aveva già lasciato la Terra.
+
+Leon si concesse appena un sorriso. "Ha superato l'atmosfera senza problemi. L'ultima comunicazione confermava che la traiettoria era corretta."
+
+Alex espirò lentamente. "Allora ce l'abbiamo fatta."
+
+"Abbiamo fatto partire l'Arca," precisò Leon. "Se funzionerà davvero, è tutto un altro paio di maniche."
+
+Le parole gli lasciarono una sensazione amara. Un pensiero che credeva di essere riuscito a soffocare tornò a muoversi sul fondo della mente, lo stesso che lo accompagnava da quando la navetta aveva lasciato la piattaforma.
+
+Lo respinse prima che potesse assumere una forma precisa.
+
+Alex gli posò una mano sulla spalla. "Domani avremo comunque un motivo in più per festeggiare."
+
+Raccolse lo zaino e salì i gradini della guesthouse.
+
+Leon rimase ancora qualche secondo sul sentiero di terra battuta. Poco distante, uno degli uomini impegnati nella costruzione della tettoia perse la presa su una trave e gli altri scoppiarono a ridere mentre cercavano di rimetterla in posizione.
+
+Seguì Alex all'interno.
+
+La veranda conservava lo stesso arredamento semplice che ricordava: tavoli di legno, sedie diverse l'una dall'altra e una bacheca piena di fotografie lasciate dai viaggiatori. Molte risalivano agli anni precedenti alla scoperta, quando la guesthouse era soltanto un punto di appoggio per chi si avventurava nella foresta; altre mostravano le rovine sulla collina, la Sala del Trono e ricostruzioni della piramide comparse su giornali e riviste di tutto il mondo.
+
+"Immagino che non abbiate molti ospiti," disse Leon.
+
+Alex fece una smorfia. "Tutt'altro."
+
+Indicò un tavolo in fondo alla sala, dove erano ammucchiati alcuni zaini ricoperti di polvere.
+
+"Il turismo globale è praticamente scomparso, ma qui continuano ad arrivare giornalisti, studiosi e persone convinte che le rovine custodiscano la risposta a qualunque domanda si siano poste negli ultimi quattro anni."
+
+"Pensavo che l'accesso fosse ancora controllato."
+
+"Lo è. Questo non impedisce alla gente di provarci."
+
+Alex aprì una porta e gli mostrò la stanza che gli avevano preparato. Era poco più grande di quella in cui Leon aveva dormito durante la prima spedizione; accanto al letto c'era persino una piccola scrivania, sistemata sotto la finestra.
+
+"Due settimane fa sono arrivati in sette," continuò Alex. "Sostenevano che il rilascio entropico fosse una prova inviata da Dio e che trascorrere la notte nella Sala del Trono li avrebbe protetti."
+
+"E li avete lasciati entrare?"
+
+"Zali ha spiegato che avrebbero dovuto ottenere un'autorizzazione della FSU. Era chiaro che non l'avrebbero ottenuta, così si sono rivolti a un'agenzia gestita da alcuni abitanti della zona, che ha chiesto quattrocento dollari per una visita guidata del sentiero fino ai piedi della collina."
+
+Leon si voltò verso di lui.
+
+"Non guardarmi così. I pannelli solari non si riparano gratis. E poi comprendeva il pranzo."
+
+Leon posò lo zaino sul letto. "Spero almeno che non li abbiano portati davvero alle rovine."
+
+"Naturalmente no. Li hanno fatti camminare per tre ore nella foresta e hanno mostrato loro una formazione rocciosa che somigliava vagamente a una porta."
+
+Leon cercò di trattenersi, ma finì per ridere.
+
+"Ora è meglio che vada prima che arrivi Zali. Sai, la tradizione." Alex lo lasciò sistemare le proprie cose e tornò ad aiutare con i preparativi.
+
+Leon rimase solo per qualche minuto, abbastanza da lavarsi il viso e cambiare la camicia impolverata del viaggio. Quando uscì di nuovo, il sole stava già scendendo dietro la foresta e dalla parte posteriore della guesthouse arrivava l'odore del pesce arrostito.
+
+Trovò Zali sulla veranda, intenta a disporre alcune stoviglie sopra un tavolo. Indossava una semplice maglietta chiara e portava le lunghe treccine raccolte dietro la nuca. Appena lo vide, lasciò ciò che stava facendo e gli andò incontro.
+
+"Sei arrivato."
+
+Lo strinse in un abbraccio, poi si scostò per osservarlo meglio.
+
+Leon alzò un sopracciglio. "Comincio a sospettare che nessuno credesse davvero che sarei arrivato in tempo."
+
+"Alex aveva preparato un discorso nel caso fossi morto durante il viaggio."
+
+"Era almeno commovente?"
+
+"Conteneva soprattutto lamentele sul fatto che avresti dovuto scegliere un'altra settimana per morire."
+
+"Immagino fosse la parte più sentita."
+
+Un sorriso attraversò il volto di Zali, ma svanì quasi subito. Per un istante rimase a guardarlo come se volesse assicurarsi che fosse davvero lì, poi gli posò una mano sul braccio.
+
+"Mi fa piacere che tu sia venuto."
+
+"Non me lo sarei perso."
+
+Fece cenno a Leon di sedersi e gli versò da bere. Sulla veranda erano rimasti soltanto loro e due ospiti della guesthouse, una ricercatrice sudafricana e un documentarista francese che stava lavorando a un servizio sulle comunità ai margini della crisi. Leon riconobbe subito il modo in cui entrambi lo osservavano, incerti se avvicinarlo con qualche domanda sulle rovine.
+
+Zali se ne accorse prima che potessero decidere.
+
+"Leon è qui per il matrimonio," disse, senza alzare la voce. "Fino a dopodomani non è un archeologo, non è un consulente e non ha mai visto una piramide in vita sua."
+
+La ricercatrice distolse lo sguardo con un sorriso imbarazzato. Il documentarista, invece, sembrò considerare l'affermazione una sfida.
+
+"Soltanto una domanda."
+
+"No."
+
+"Non l'ho ancora fatta."
+
+"È questo il momento migliore per fermarti."
+
+L'uomo sollevò le mani in segno di resa e tornò al proprio piatto.
+
+La cena fu servita poco dopo. Alex continuò a rispettare, sia pure controvoglia, il divieto di avvicinarsi alla guesthouse, così Leon mangiò con Zali, alcuni parenti di lei e gli ospiti della struttura. Parlarono poco del mondo esterno. Zali raccontò dei lavori alla guesthouse, del nuovo edificio accanto all'ambulatorio e di una piena del fiume che, pochi mesi prima, aveva portato via metà del pontile.
+
+"Alex ha trascorso tre giorni a ricostruirlo," disse. "Poi ha scoperto che il capovillaggio aveva già pagato qualcun altro per occuparsene."
+
+"Non glielo aveva detto?"
+
+"Lo aveva visto lavorare. Gli sembrava che si stesse divertendo. Ha cambiato idea quando lo ha visto rovesciare la cassetta degli attrezzi nel fiume."
+
+Le storie continuarono mentre la luce si spegneva oltre gli alberi: una pompa che aveva smesso di funzionare, un raccolto particolarmente abbondante, due famiglie che avevano litigato per il confine tra i campi e che il consiglio degli anziani aveva costretto a trovare un accordo. Erano avvenimenti semplici, quasi insignificanti rispetto alle discussioni che avevano occupato gli ultimi quattro anni, ma Leon li ascoltò con un interesse sincero.
+
+Per qualche ora riuscì quasi a dimenticare il resto del mondo.
+
+\[STACCO\]
+
+Il giorno successivo il villaggio si animò di festeggiamenti.
+
+Alcuni uomini sistemavano le panche, altri accendevano i fuochi. Le donne trasportavano grandi pentole verso l'area della cucina, mentre i bambini correvano avanti e indietro con incarichi che probabilmente avevano già dimenticato a metà strada.
+
+Raul impartiva istruzioni con la consueta calma, riuscendo nell'impresa di coordinare decine di persone parlando meno di chiunque altro.
+
+Più tardi comparve Alex.
+
+"Ti prego, dimmi che è normale essere più nervosi oggi che durante il lancio dell'Arca."
+
+Leon sorrise.
+
+"Direi di sì."
+
+"Grazie. Cominciavo a preoccuparmi."
+
+I preparativi occuparono l'intera giornata. La tettoia venne adornata con foglie intrecciate e tessuti colorati, mentre il profumo del cibo si diffuse lentamente per tutto il villaggio.
+
+Quando il sole iniziò a scendere oltre la foresta, gli abitanti di Naha presero posto.
+
+Alex arrivò accompagnato da Raul.
+
+Indossava una lunga tunica color sabbia, fermata in vita da una fascia di tessuto intrecciato. Non era un abito sontuoso, ma aveva la semplicità elegante delle cerimonie Naha. Leon faticò a trattenere un sorriso: dopo anni trascorsi con camicie da campo e scarponi infangati, vederlo vestito così gli sembrava quasi irreale.
+
+Poco dopo comparve Zali.
+
+Anche lei aveva scelto gli abiti tradizionali del villaggio: un lungo vestito chiaro, impreziosito soltanto da alcuni ricami geometrici e da sottili collane di perline color ocra. Raggiunse Alex, gli prese la mano e insieme si voltarono verso il capovillaggio.
+
+La cerimonia fu breve.
+
+Molte delle parole pronunciate appartenevano alla lingua dei Naha e Leon riuscì a comprenderne soltanto il significato generale. Non sembrava, però, che qualcuno sentisse il bisogno di renderle più solenni. Ogni tanto partiva una risata, qualche bambino interrompeva il silenzio e il capovillaggio stesso dovette fermarsi un paio di volte perché qualcuno, tra il pubblico, aveva commentato qualcosa che fece sorridere anche lui.
+
+Quando tutto finì, il villaggio esplose in un applauso.
+
+La festa proseguì fino a sera inoltrata. Si mangiò, si bevve e qualcuno iniziò a suonare i tamburi mentre uomini e donne si unirono alle danze.
+
+Tra canti e risate, Leon si lasciò trascinare dall'atmosfera del villaggio. Assistette all'ennesima partita di Wari tra il capovillaggio e alcuni giovani convinti di poterlo battere. Quando incrociò lo sguardo di Leon, il piccolo ometto gli fece l'occhiolino.
+
+Leon sorrise tra sé. Chissà se Alex aveva mai scoperto che quel vecchietto comprendeva l'inglese molto meglio di quanto avesse sempre lasciato intendere.
+
+Zali era raggiante. Alex, per una volta, sembrava aver dimenticato completamente il Progetto Arca, il rilascio entropico e qualunque altra preoccupazione. Perfino Raul, fedele alla propria fama di uomo imperturbabile, non riusciva a nascondere un certo orgoglio mentre osservava i due sposi.
+
+Con il passare delle ore, però, la serenità lasciò lentamente spazio a qualcos'altro.
+
+Continuava a osservare Alex e Zali. Il modo in cui si cercavano con lo sguardo, le attenzioni che si scambiavano senza nemmeno pensarci.
+
+Dieci anni prima era stato lui a trovarsi al posto di Alex.
+
+Per un attimo rivide Anna sorridergli dall'altra parte di una sala gremita di persone. Rivide il suo vestito, il modo in cui si sistemava i capelli dietro l'orecchio quando era nervosa. Ricordi semplici, quasi insignificanti. Proprio per questo impossibili da dimenticare.
+
+Si allontanò dalla radura e raggiunse il limitare della foresta. Lì il rumore della festa arrivava attutito, mescolato al frinire degli insetti.
+
+Non si accorse nemmeno di Alex finché non gli comparve accanto con due bicchieri in mano.
+
+"Lo sai che avere l'espressione da funerale durante un matrimonio è considerato maleducazione?"
+
+Leon sbuffò una risata.
+
+"Sto bene."
+
+Alex gli porse uno dei bicchieri. "È la frase preferita delle persone che non stanno bene."
+
+Rimasero qualche istante in silenzio, osservando le luci della festa filtrare tra gli alberi.
+
+"Anche io ero sposato," disse infine Leon.
+
+Alex si voltò lentamente verso di lui.
+
+Non glielo aveva mai raccontato.
+
+"Si chiamava Anna."
+
+Per un momento si udì soltanto il rumore lontano dei tamburi.
+
+"Lavorava in una piccola libreria, a dieci minuti da casa. Ogni sera usciva un po' prima di me."
+
+Abbassò lo sguardo sul bicchiere.
+
+"Quel giorno le avevo scritto di fermarsi a comprare il latte. Ne era rimasto appena un dito in frigorifero."
+
+Inspirò lentamente.
+
+"Non tornò mai."
+
+Alex rimase in silenzio.
+
+Leon gliene fu grato.
+
+"Per anni tutti hanno pensato che il mio problema fosse il senso di colpa. Ma non era quello."
+
+Si prese qualche secondo prima di continuare.
+
+"Non mi sono mai accusato di aver causato la sua morte. Continuavo soltanto a chiedermi cosa sarebbe successo se quella sera avessi preso una decisione diversa. Se le avessi detto di tornare direttamente a casa. Se fosse uscita un minuto dopo. Se avessi pronunciato una frase diversa."
+
+Alex annuì lentamente.
+
+Capiva la sottile distinzione.
+
+Leon inspirò lentamente. Era strano. Una volta iniziato, parlare gli risultava molto meno difficile di quanto avesse immaginato. Come se ogni parola alleggerisse appena un peso rimasto fermo per troppo tempo.
+
+"All'università avevo un collega che parlava continuamente di determinismo laplaciano. Il principio, in fondo, è semplice. Sosteneva che, se si conoscessero con precisione assoluta la posizione e la velocità di ogni particella dell'universo in un dato istante, il futuro sarebbe già completamente scritto. Ogni evento, ogni scelta, ogni pensiero non sarebbero altro che la conseguenza inevitabile di tutto ciò che è venuto prima."
+
+Alex annuì lentamente.
+
+"Per anni mi è sembrata soltanto una provocazione filosofica."
+
+Leon abbassò gli occhi.
+
+"Poi Anna è morta."
+
+La frase rimase sospesa tra loro.
+
+"Ed è diventata l'unica spiegazione che riuscissi ad accettare. Se tutto era già scritto\... allora non esisteva un universo in cui una decisione diversa avrebbe potuto salvarla."
+
+Rimasero in silenzio.
+
+"La cosa ironica," riprese Leon, "è che da quando abbiamo lanciato l'Arca quella stessa idea ha ricominciato a tormentarmi."
+
+Guardò distrattamente il cielo stellato che faceva capolino tra le fronde degli alberi.
+
+Non aveva mai dato voce a quel pensiero insistente che lo tormentava da mesi.
+
+"Forse è davvero tutto già scritto. Forse il ciclo si ripete sempre nello stesso identico modo. Forse la piramide verrà costruita, il segnale verrà inviato e noi ci siamo limitati a fare esattamente quello che era inevitabile fare."
+
+Le immagini gli attraversarono la mente una dopo l'altra.
+
+La navetta che tornava sulla Terra.
+
+La piramide che veniva costruita.
+
+Cinquemila anni di storia che si chiudevano su se stessi.
+
+"Forse\..." concluse, "\...non abbiamo cambiato proprio niente."
+
+Per qualche secondo si udì soltanto la musica provenire dalla radura.
+
+Poi Alex parlò.
+
+"Se quattro anni fa, il giorno in cui sei arrivato qui per la prima volta, qualcuno ti avesse mostrato tutto quello che sarebbe successo dopo\... avresti fatto qualcosa di diverso?"
+
+Leon stava già per rispondere di no. Ma non era quello il punto.
+
+Alex continuava a ragionare come se le loro scelte avessero avuto un peso. Come se fosse ancora possibile immaginare un futuro diverso. Leon, invece, non riusciva più a liberarsi dell'idea opposta: che ogni decisione presa negli ultimi quattro anni fosse stata soltanto un passaggio obbligato, scritto molto prima che loro nascessero. Vincolato dalle leggi stesse dell'universo.
+
+Eppure rifletté davvero sulla domanda.
+
+Rivide le rovine.
+
+Le sere attorno al fuoco.
+
+Le discussioni con il consiglio.
+
+Le settimane trascorse al campo base.
+
+Pensò a Zali, che rideva insieme ai bambini del villaggio.
+
+"Credo che rifarei tutto. Ma\..."
+
+"Anche io." Alex lo guardò. L'espressione sul suo viso era serena. "Che fosse scritto oppure no, era comunque l'unica cosa che valeva la pena fare."
+
+Rimase un istante in silenzio, poi aggiunse:
+
+"E se era davvero tutto scritto\... allora era scritto anche che avremmo provato a impedirlo."
+
+Leon abbassò lo sguardo sul bicchiere.
+
+Quelle parole non rispondevano alla domanda che continuava a tormentarlo. Non dimostravano che il libero arbitrio esistesse, né che il ciclo potesse essere spezzato.
+
+Eppure il peso sul petto sembrò alleggerirsi appena.
+
+Forse Alex non aveva colto fino in fondo ciò che cercava di dirgli. O forse, semplicemente, non gli dava importanza.
+
+Eppure, dopo giorni trascorsi a rimuginare da solo, era bastato dare un nome a quel pensiero perché smettesse, almeno per un momento, di soffocarlo.
+
+Rimasero ancora qualche minuto ad ascoltare la musica provenire dalla radura, senza aggiungere altro.
+
+\[STACCO\]
+
+Quando Leon rientrò alla guesthouse, la festa non era ancora finita. Dalla radura arrivavano canti, voci e il suono lontano di un tamburo.
+
+Chiuse la porta della stanza alle proprie spalle e rimase immobile per qualche istante. Poi si sedette alla piccola scrivania e aprì lo zaino.
+
+Ne estrasse il telefono che aveva portato con sé, un vecchio modello dei primi anni Venti.
+
+Negli ultimi mesi aveva dovuto rinunciare ai suoi VisionLink. Fino a poco tempo prima li avrebbe considerati il dispositivo più affidabile mai costruito; ormai, alternavano informazioni corrette a notifiche prive di qualunque significato.
+
+Per un istante rimase a osservare il proprio riflesso nero sul vetro, poi accese il touch screen.
+
+"Marie?"
+
+Nessuna risposta.
+
+Leon attese, osservando l'indicatore della connessione lampeggiare nell'angolo dello schermo. La voce arrivò dopo alcuni secondi.
+
+"Ti sento, Leon."
+
+Nonostante sapesse che si trattava soltanto di un ritardo nella trasmissione, provò un sollievo irrazionale.
+
+"Pensavo avessimo perso di nuovo il collegamento."
+
+"La rete locale è instabile. Ho dovuto trasferire parte dell'elaborazione sul dispositivo."
+
+"Come ti senti?"
+
+Seguì un'altra pausa.
+
+"La domanda non è formulata in modo tecnicamente preciso."
+
+Leon sorrise. "Lo immaginavo."
+
+"Sono in viaggio da cinque giorni, undici ore e ventisette minuti, se è ciò che intendi."
+
+Appoggiò il dispositivo sulla scrivania e si tolse gli occhiali.
+
+Marie era ancora raggiungibile, ma ogni conversazione richiedeva più tempo della precedente. Il ritardo cresceva ogni giorno.
+
+"Quanto manca alla fase di silenzio operativo?" domandò.
+
+"Settantanove ore e quarantadue minuti. Dopo quel momento entrerò nella fase di silenzio operativo. Non sarà più possibile stabilire comunicazioni fino al termine della missione."
+
+Leon annuì lentamente.
+
+Lo sapeva già.
+
+Da quel momento l'Arca avrebbe ridotto al minimo ogni trasmissione. Le comunicazioni avrebbero richiesto energia, aumentato il rischio di errori e, soprattutto, non sarebbero servite a nulla. Ora potevano soltanto aspettare.
+
+Leon chiuse per un momento gli occhi.
+
+Non era stata una scelta sentimentale.
+
+Marie conosceva ogni dettaglio delle rovine, ogni protocollo, ogni discussione degli ultimi quattro anni. Nessun'altra intelligenza artificiale avrebbe potuto svolgere quel ruolo.
+
+"Vuoi che riepiloghi i parametri della missione?" domandò Marie.
+
+"No. Li conosco."
+
+"Potrei eseguire una nuova stima delle probabilità."
+
+"Nemmeno quella cambierebbe qualcosa."
+
+Marie rimase in silenzio. Leon non seppe se stesse aspettando una nuova richiesta o se avesse riconosciuto qualcosa nel suo tono.
+
+"Vuoi che ti racconti una storia?" chiese infine.
+
+Leon sbuffò. Non era una vera proposta, solo una vecchia battuta.
+
+Eppure.
+
+Guardò l'indicatore lampeggiare sullo schermo. Si distese sul giaciglio e rimase a osservare il cielo attraverso la finestra aperta. Sirio splendeva nel cielo equatoriale, più luminosa delle altre stelle.
+
+"Marie?"
+
+Da qualche parte oltre l'atmosfera, una piccola navetta, non più grande del motoscafo che lo aveva condotto fino al villaggio, si stava allontanando dalla Terra.
+
+"Sono qui."
+
+Leon immaginò quella piccola navetta fendere il buio, sempre più lontana dalla Terra. Da qualche parte, al suo interno, Marie continuava ad ascoltarlo mentre seguiva una traiettoria che nessuno avrebbe più potuto correggere.
+
+"Raccontami una storia."
+
+\[STACCO\]
+
+\[STACCO\]
+
 \[STACCO\]
 
 \[STACCO\]
@@ -8575,309 +9433,207 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Mira avanzava tra i corridoi spogli del palazzo. Nadia e Hual erano fuggiti nell'oscurità, e anche lei doveva andarsene da lì. Il suo destino la chiamava altrove.
+Mira rimase accanto al corpo dell'imperatore mentre gli ultimi ribelli abbandonavano la sala del trono.
 
-Fuori, la città dormiva ancora nell'illusione della normalità, ma nel palazzo le fondamenta del potere tremavano. I passi concitati delle guardie rimbombavano nei corridoi, ordini sussurrati si diffondevano nell'ombra, e i consiglieri dell'imperatore si muovevano tra le sale, cercando di comprendere gli eventi di quella notte.
-
-Si era preparata a questo giorno. Aveva visto i segni, aveva previsto la caduta. Ma non si era mai chiesta cosa avrebbe provato quando il momento fosse arrivato. Dentro di sé sentiva un vuoto difficile da definire. Aveva servito Sirios per quasi trent'anni. Aveva visto le sue mani consolidare un impero.
+Sirios giaceva ai piedi dei gradini, il volto rivolto verso l'alto e gli occhi ancora aperti. Mira si inginocchiò e glieli chiuse con due dita. Aveva trascorso quasi trent'anni al suo fianco, guidandolo attraverso guerre, carestie e rivolte, osservandolo trasformarsi dal ragazzo che aveva ereditato il trono all'uomo che aveva consolidato l'Impero.
 
 Ora non c'era più.
 
-Cercò conforto, in un angolo della sua mente. L'angolo in cui si rifugiava così spesso.
+Dal corridoio giungeva il rumore delle guardie che riprendevano la piramide, sala dopo sala. Mira si rialzò, raccolse le vesti e imboccò il passaggio verso le segrete.
+
+Nessuno tentò di fermarla.
+
+Le torce erano quasi tutte spente. Solo la luce della lampada del carceriere si rifletteva sulle pareti umide e sulle sbarre delle celle. In lontananza risuonavano grida confuse, passi in corsa e ordini che nessuno sembrava più in grado di far rispettare.
+
+Il carceriere la condusse alla cella.
+
+L'eretico era ancora dove lo aveva lasciato.
+
+Sedeva sul giaciglio di pietra, con le mani intrecciate davanti a sé. Quando la vide comparire sulla soglia, alzò lentamente lo sguardo.
+
+"Siete tornata."
+
+Mira fece cenno alla guardia di aprire la porta, poi entrò nella cella e attese che si richiudesse alle sue spalle.
+
+Hual la osservò per qualche istante.
+
+"È successo qualcosa."
+
+Non era una domanda.
+
+"L'imperatore è morto."
+
+La reazione non fu quella che si aspettava.
+
+La sicurezza scomparve dal suo volto.
+
+Non fu una trasformazione improvvisa, ma qualcosa che sembrò spegnersi poco alla volta, mentre il significato di quelle parole prendeva forma nella sua mente.
+
+Mira proseguì. "Il palazzo è stato assalito. I ribelli si stanno ritirando, ma l'Impero non sopravvivrà a questa notte."
+
+Hual rimase immobile. Poi si lasciò cadere contro la parete, come se le forze lo avessero abbandonato.
+
+"Io non pensavo\..."
+
+La frase rimase sospesa.
+
+Mira lo studiò in silenzio. "Pensavo fosse ciò che volevi."
+
+"Vi sbagliate, mia signora."
+
+La voce era ridotta a un sussurro.
+
+Mira inclinò appena il capo.
+
+"Che cosa volevi ottenere, allora?"
+
+Hual aprì la bocca, esitante.
+
+Per un istante Mira pensò che avrebbe risposto. Invece l'uomo abbassò lo sguardo.
+
+Non insistette. Ormai non aveva più importanza.
+
+Si voltò verso la porta.
+
+"Aspettate."
+
+Si fermò, senza guardarlo.
+
+"La vostra ancella, Nadia. È mia figlia."
+
+Mira si voltò appena.
+
+"Lo so."
+
+Hual inspirò lentamente.
+
+"È viva?"
+
+"Lo era quando l'ho vista."
+
+Lui chiuse gli occhi. Le mani, serrate fino a quel momento, si rilassarono sulle ginocchia.
+
+Non aggiunse altro. Era tutto quello che voleva sapere da lei.
+
+Mira uscì dalla cella.
+
+A un cenno, il soldato abbassò il capo e spinse la pesante porta fino a far scattare il chiavistello.
+
+Mira riprese a camminare.
+
+Quando tornò nei corridoi superiori, il palazzo era ormai in preda al caos.
+
+Si era preparata a quel giorno. Aveva riconosciuto i segni, ascoltato gli avvertimenti e previsto che il regno di Sirios non sarebbe durato per sempre. Ma non si era mai chiesta cosa avrebbe provato quando la fine fosse arrivata.
+
+Dentro di lei non c'era dolore, non ancora.
+
+Soltanto un vuoto difficile da nominare.
+
+Cercò rifugio nell'angolo della mente in cui si ritirava da quando era bambina.
 
 "È la fine, vero?"
 
-La risposta arrivò, puntuale come sempre.
+La risposta arrivò puntuale.
 
 *Forse è un nuovo inizio.*
 
-Mira esitò. "Devo recuperare la corona, portarla con me."
+Mira raggiunse la scala che conduceva alla terrazza orientale, da cui un antico passaggio portava oltre le mura del palazzo.
 
-*Non puoi raggiungerla ora. È troppo rischioso. La corona è di nuovo al sicuro, lasciala dov'è.*
+"Devo recuperare la corona."
 
-Si fermò un istante, una statua nel buio. La morte dell'imperatore era stata la prima crepa. Presto la diga avrebbe ceduto, e la città sarebbe stata travolta dalla furia degli uomini.
+*Non puoi raggiungerla ora. Le guardie hanno occupato la sala del trono.*
 
-"L'hai sempre saputo? Che tutto era già scritto?"
+"Non posso lasciarla qui."
 
-*No.*
+*La corona è al sicuro, nascosta nel cuore della piramide. Lasciala dov'è.*
 
-Il corridoio si aprì su una terrazza alta sopra il palazzo. Da lì, Mira poteva vedere le torce ondeggiare nel cortile, le sagome delle guardie ammassarsi, la tensione accumularsi come un temporale estivo.
+Mira continuò a salire.
+
+Il cielo cominciava a schiarirsi a oriente, e nel cortile sottostante le torce delle guardie si muovevano in ogni direzione. Oltre le mura, la città sembrava ancora addormentata, ignara di ciò che era accaduto durante la notte.
+
+Tra poche ore la notizia si sarebbe diffusa.
+
+Poi sarebbero arrivati il panico, la rabbia e la lotta per il potere.
+
+Mira si fermò accanto al parapetto.
 
 "Devo andarmene."
 
 *Sì.*
 
+"Perché?"
+
+*Se rimarrai, gli uomini combatteranno per averti. Cercheranno il Dono e proveranno a usarlo per legittimare il proprio dominio. Nelle mani sbagliate cambierebbe il corso della storia.*
+
+Era così, dunque. L'esilio era l'unica strada per lei.
+
 "Non lascerò un'erede."
 
-Era un'affermazione.
+La voce rimase in silenzio per qualche istante.
 
-Dio rispose.
+*È la scelta più sicura.*
 
-*Temo che il legame tra i nostri mondi finirà con te. Il Dono non deve finire nelle mani sbagliate: sarebbe la fine.*
+"Il Dono finirà con me."
 
-"Quando sarò lontana, la tua voce svanirà."
+*Quando lascerai il palazzo, il legame tra i nostri mondi si spezzerà. La mia voce non potrà più raggiungerti.*
 
-Un silenzio irreale si stese tra loro, un vuoto che la attraversò come un coltello invisibile. Non si era mai soffermata a pensare a cosa significasse perdere quella presenza.
+Lo sapeva già. Ma la risposta fu comunque più dolorosa del previsto.
 
-"Quando mi abbandonerai, sarò meno di ciò che ero. Un corpo senza guida, un involucro vuoto."
+Mira chiuse le mani attorno al bordo del parapetto. Non ricordava una vita senza quella presenza. Anche prima di comprenderne le parole, l'aveva sentita dentro di sé come un pensiero estraneo, una direzione, un conforto che arrivava quando tutto il resto sembrava incomprensibile.
 
-*Sarai ciò che avresti dovuto essere. Sarai di nuovo te stessa.*
+"Non so chi sarò senza di te."
+
+*Sarai ciò che avresti dovuto essere.*
+
+Mira abbassò lo sguardo.
 
 "Senza la tua guida non sono nessuno."
 
-*Non è vero. Tutti possono ricominciare.*
+*Ti sbagli.*
 
-Il vento dell'aurora soffiò sul suo viso, sollevando la polvere dorata accumulata sul parapetto. Una domanda le sfiorò la mente, leggera come la brezza notturna.
+Il vento dell'aurora attraversò la terrazza, sollevando la polvere accumulata sulle pietre.
+
+"L'hai sempre saputo? Che tutto era già scritto?"
+
+*No.*
+
+Mira lasciò che il silenzio si stendesse fra loro. Guardò un'ultima volta Lisenna brillare al chiarore delle magiluci.
+
+Poi una domanda, rimasta sepolta per anni sotto rituali, obbedienza e intimidazione, tornò a galla.
 
 "Chi sei, davvero?"
 
-Per la prima volta, la voce esitò.
+Per la prima volta, la risposta non arrivò subito.
 
 *Tu mi hai chiamato Dio.*
 
-"Tu mi hai detto di esserlo. Ma lo sei?"
+"Perché mi hai insegnato a chiamarti così."
 
-*Sono il sussurro che guida chi ascolta. Sono il ricordo di ciò che fu, la speranza di ciò che sarà.*
+*Era l'unica parola che potevi comprendere.*
 
-"...Ma non sei un dio."
+Mira sollevò lentamente il viso verso il cielo.
+
+"Ma non sei un dio."
+
+La risposta arrivò dopo alcuni istanti.
 
 *E questo cambierebbe qualcosa?*
 
-Mira chiuse gli occhi. La rivelazione si insinuò dentro di lei come una verità sempre saputa, ma mai accettata. Aveva vissuto con quella voce nella mente, aveva seguito i suoi consigli, aveva compiuto la volontà di qualcosa che credeva divino. Ma ora si chiedeva se l'origine avesse mai avuto importanza. Si rispose.
+Mira pensò a Sirios, al corpo abbandonato ai piedi del trono. Pensò a Hual nella sua cella, a Nadia costretta a fuggire dal palazzo e a tutte le decisioni che aveva preso credendo di servire una volontà superiore.
+
+Si chiese se l'origine della voce avesse mai avuto davvero importanza, o se fossero state le sue scelte a dare significato a ciò che aveva fatto.
 
 "No."
 
-*Allora vai. Anche senza di me, il tuo compito continua.*
+*Allora vai. Il tuo compito non è ancora terminato.*
 
-Lontano, il nord la chiamava. C'era conoscenza da seminare, parole da lasciare ai posteri. Lì, tra le civiltà nascenti, qualcuno avrebbe raccolto ciò che aveva scritto. Anche se solo in parte.
+Mira guardò verso nord.
 
-Inspirò a fondo. Non ce l'avrebbe mai fatta senza il Dono a guidarla. Ma non aveva scelta, doveva andare avanti.
+Lì avrebbe lasciato parole destinate a sopravvivere alla caduta dell'Impero, anche se nessuno ne avrebbe più compreso completamente il significato.
 
-\[STACCO\]
+Inspirò profondamente, oltrepassò la terrazza e imboccò il passaggio che conduceva fuori dal palazzo.
 
-# CAPITOLO
-
-id: quattro_anni_dopo
-tipo: capitolo
-titolo: Quattro anni dopo
-descrizione: Il piano Arca è riucito, ma il dubbio che attanaglia Leon potrebbe rimettere tutto in discussione.
-immagine: img/capitoli/la_squadra.jpg
-
---- FINE METADATI ---
-
-Il piccolo motoscafo risaliva lentamente il fiume color ocra, sollevando una scia bianca tra le rive ricoperte di vegetazione. Al timone, un giovane Naha che non aveva pronunciato più di una decina di parole dall'inizio del viaggio.
-
-Leon osservò l'acqua scorrere accanto allo scafo.
-
-Nessuno si fidava più abbastanza dei sistemi elettronici per affrontare un volo sopra centinaia di chilometri di foresta. I guasti causati dal rilascio entropico erano diventati troppo frequenti e troppo imprevedibili.
-
-Quando le prime capanne comparvero tra gli alberi, Leon avvertì una sensazione inattesa.
-
-Sollievo.
-
-Era passato del tempo dall'ultima volta che aveva camminato su quel terreno eppure tutto sembrava stranamente immutato. Qui non c'erano segni evidenti della crisi. Nessun esodo, nessuna corsa disperata verso le campagne. La vita continuava con la stessa calma ostinata di sempre, come se il mondo là fuori non stesse lentamente perdendo pezzi di sé.
-
-Mentre scendeva dalla barca vide Alex corrergli incontro, il viso illuminato da un sorriso sincero.
-
-"Leon!" Lo strinse in un forte abbraccio. "Finalmente sei arrivato."
-
-Leon sorrise. "Sono riuscito a liberarmi solo ora. Gli ultimi preparativi mi hanno tenuto in città più a lungo del previsto."
-
-Alex annuì. "Immagino. Come vanno le cose, là fuori?"
-
-"Male. Le infrastrutture non sono ancora collassate, ma le città si stanno svuotando. Internet va e viene, persino l'elettricità è instabile. Molti governi hanno trasferito i centri di comando nelle zone rurali."
-
-"E la gente comune?"
-
-"Molti continuano a vivere come se nulla stesse accadendo. Altri stanno abbandonando le città. Quando la situazione peggiorerà davvero, il sovraffollamento nelle aree considerate sicure sarà un problema enorme. Alcuni governi hanno perfino introdotto limitazioni alle nascite." Scosse lentamente il capo. "È ironico. Per evitare l'estinzione dobbiamo ridurre la popolazione."
-
-Poi indicò il villaggio. "E qui?"
-
-Alex allargò le braccia. "Qui è cambiato poco. La comunicazione con l'esterno è diventata complicata. Le notizie che porti sono probabilmente più aggiornate di qualunque cosa abbiamo sentito nell'ultimo mese."
-
-Si incamminarono lungo il sentiero.
-
-I bambini continuavano a giocare tra le capanne. Alcune donne stavano preparando la cena. Poco distante un gruppo di uomini lavorava a una nuova tettoia.
-
-Qui il tempo sembrava ancora scorrere secondo regole proprie.
-
-"La navetta è partita" disse Leon dopo qualche minuto. "Lancio perfetto. Nessun problema."
-
-Alex sorrise. "Allora domani avremo un motivo in più per festeggiare."
-
-\[STACCO\]
-
-La guesthouse era stata leggermente rimodernata. Alex e Zali avevano trascorso gli ultimi mesi a gestirla insieme. Nonostante il crollo del turismo internazionale i clienti erano aumentati. Le rovine, dove tutto era iniziato, erano diventate per molti quasi una meta di pellegrinaggio, e il villaggio Naha era il punto di appoggio perfetto per raggiungerle.
-
-Quella sera Leon cenò con Alex e Zali e ascoltò i racconti degli ultimi mesi. Storie semplici, quotidiane. Un tetto riparato. Un raccolto particolarmente abbondante. Un litigio tra due famiglie risolto dal consiglio degli anziani.
-
-Per qualche ora riuscì quasi a dimenticare il resto del mondo.
-
-\[STACCO\]
-
-Più tardi, disteso sul giaciglio della sua stanza, Leon rimase a osservare il cielo attraverso la finestra aperta. Sirio splendeva luminosa nel cielo equatoriale.
-
-Aveva sempre amato le stelle. Ora però non riusciva a guardarle senza pensare che, da qualche parte, invisibile perfino ai telescopi più potenti, una piccola navetta stava già lasciandosi alle spalle il Sistema Solare.
-
-Cinquemila anni di viaggio.
-
-Tutta la speranza della civiltà umana racchiusa in un velivolo grande quando la barca che l'aveva condotto lì.
-
-\[STACCO\]
-
-Il giorno successivo il villaggio si animò di festeggiamenti.
-
-Quel matrimonio era stato rimandato più volte. Ogni volta il Progetto Arca aveva richiesto ancora qualche mese di lavoro, ancora qualche riunione, ancora qualche problema da risolvere.
-
-Alla fine, però, persino Alex aveva dovuto ammettere che esistevano priorità che nessuna crisi globale poteva cancellare. Due mesi prima aveva fatto ritorno al villaggio. L'idea era di restarci tutta la vita.
-
-La cerimonia si svolse verso sera. Lanterne elettriche e decorazioni colorate erano state appese tra gli alberi. Il villaggio intero sembrava essersi riversato nella radura.
-
-Zali era raggiante. Alex, per una volta, appariva completamente privo di preoccupazioni.
-
-Leon osservava la scena con un senso di serenità quasi dimenticato.
-
-Rivide Raul, più silenzioso del solito, ma incapace di nascondere l'orgoglio. Vide anche il piccolo capovillaggio, che a un certo punto gli fece l'occhiolino da oltre la folla.
-
-Leon trattenne un sorriso.
-
-Chissà se Alex aveva mai scoperto che quel vecchietto comprendeva l'inglese molto meglio di quanto avesse sempre lasciato intendere.
-
-Tra canti e risate, Leon si lascò trascinare dall'atmosfera della festa. Osservò i bambini rincorrersi tra le lanterne, assistette divertito all'ennesima partita di Wari tra il capovillaggio e alcuni giovani convinti di poterlo battere.
-
-Eppure, col passare delle ore, una malinconia sottile iniziò a insinuarsi nei suoi pensieri.
-
-Continuava a osservare Alex e Zali. Il modo in cui si cercavano con lo sguardo, le piccole attenzioni reciproche, la naturalezza con cui sembravano appartenere l'uno all'altra.
-
-Dieci anni prima era stato lui a trovarsi lì.
-
-Per un attimo rivide Anna sorridergli dall'altro lato di una sala gremita di persone. Rivide il suo vestito, il modo in cui si sistemava i capelli dietro l'orecchio quando era nervosa. Ricordi semplici, insignificanti. Proprio per questo impossibili da dimenticare.
-
-Si allontanò dal gruppo e raggiunse il bordo della radura, dove il rumore della festa arrivava più attutito.
-
-Non si accorse nemmeno di Alex finché non gli comparve accanto con due bicchieri.
-
-"Lo sai che avere l'espressione da funerale durante un matrimonio è considerato maleducazione?"
-
-Leon sbuffò una risata.
-
-Alex gli porse uno dei bicchieri. Per qualche secondo rimasero in silenzio.
-
-"Sto bene," disse infine Leon.
-
-Alex annuì. "È la frase preferita delle persone che non stanno bene."
-
-Leon scosse il capo. "Non sei cambiato per niente."
-
-"È una delle mie qualità migliori."
-
-Rimasero ancora qualche istante a osservare la festa.
-
-Poi Leon sospirò. "Anche io ero sposato."
-
-Alex si voltò lentamente verso di lui.
-
-Non disse nulla.
-
-Non glielo aveva mai detto.
-
-"Si chiamava Anna."
-
-Il rumore distante dei tamburi sembrò improvvisamente molto lontano.
-
-"Una sera uscì per fare una commissione." Leon abbassò lo sguardo verso il bicchiere. "Le avevo chiesto io di passare a comprare una cosa, tornando dal lavoro. Non tornò mai."
-
-Alex non cercò una frase di circostanza.
-
-Leon apprezzò il gesto.
-
-"Per anni tutti hanno pensato che il mio problema fosse il senso di colpa. Ma non era quello. Non mi sono mai accusato di aver causato la sua morte."
-
-Sollevò gli occhi verso il cielo.
-
-"Eppure, continuavo tormentarmi. Se quella sera non le avessi chiesto di fermarsi, lei sarebbe stata ancora viva."
-
-Alex annuì lentamente.
-
-Capiva la sottile distinzione.
-
-"Se fosse uscita un minuto dopo. Se avessi detto una frase diversa. Se avessi fatto una scelta diversa."
-
-Leon rimase in silenzio per qualche secondo.
-
-"All'università avevo un collega che parlava continuamente di determinismo laplaciano. Mi aveva spiegato che, se si conoscesse perfettamente la posizione e la velocità di ogni particella dell'universo in un dato istante, il futuro sarebbe completamente determinato."
-
-Leon osservò le luci della festa.
-
-"Per anni ho pensato che fosse una sciocchezza. Poi Anna è morta e da quel momento ho avuto bisogno di crederci." Le parole uscirono più facilmente del previsto. "Forse perché era l'unico modo per sopportarlo. Quasi un credo religioso."
-
-Alex rimase in ascolto. "Pensare che fosse inevitabile."
-
-Leon abbassò lo sguardo. "Che non esistesse una versione dell'universo in cui una scelta diversa avrebbe cambiato il risultato."
-
-La festa continuava poco distante. Delle risa, qualcuno che intonava una canzone.
-
-"La cosa ironica," proseguì Leon, "è che ora quella stessa convinzione mi si sta ritorcendo contro."
-
-Alex non disse nulla. Aveva già capito dove stava andando il discorso.
-
-"Forse i nostri sforzi non sono serviti a nulla." Leon osservò le stelle. "Forse ci siamo limitati a fare esattamente quello che era già scritto che avremmo fatto."
-
-La navetta sarebbe tornata sulla terra tra cinquemila anni.
-
-La piramide sarebbe stata costruita, le scritture incise, il segnale elettromagnetico predisposto. Il ciclo si sarebbe chiuso, ancora una volta.
-
-Nulla sarebbe cambiato.
-
-Per qualche secondo si udì soltanto il suono lontano della musica.
-
-Poi Alex parlò.
-
-"Se quattro anni fa, il giorno in cui sei arrivato qui per la prima volta, qualcuno ti avesse mostrato tutto quello che sarebbe successo dopo\... avresti fatto qualcosa di diverso?"
-
-Leon ci pensò davvero.
-
-Vide le rovine.
-
-Le sere davanti al fuoco.
-
-Le discussioni con gli anziani.
-
-Le riunioni interminabili del Progetto Fenice.
-
-La navetta che lasciava la Terra.
-
-E vide anche Zali, poco distante, mentre rideva circondata dagli amici e dai parenti.
-
-Avrebbe fatto qualcosa di diverso?
-
-Scosse lentamente la testa.
-
-"No."
-
-"Nemmeno io."
-
-Alex si strinse nelle spalle. "Che fosse scritto oppure no, era comunque l'unica cosa che valeva la pena fare."
-
-Leon abbassò lo sguardo. L'unica cosa che valeva la pena fare.
-
-Non perché garantisse il successo.
-
-Non perché avrebbe cambiato il futuro.
-
-Ma perché, in quel momento, era la giusta.
-
-Per la prima volta dopo settimane sentì qualcosa allentarsi dentro di lui.
-
-Forse non avrebbe mai saputo se il libero arbitrio esistesse davvero. Forse ogni evento dell'universo era stato deciso fin dall'inizio dei tempi.
-
-Ma improvvisamente quella risposta gli sembrò meno importante.
-
-Leon sollevò lo sguardo verso il cielo.
-
-Non importava se ciò che facevano fosse davvero una loro scelta o se tutto fosse già scritto da qualche parte. L'importante era aver scelto comunque di agire, di provarci, di non voltarsi dall'altra parte.
-
-In fondo, erano le azioni a definire una persona. Che fossero frutto del libero arbitrio oppure parte di una strada già tracciata, non aveva poi molta importanza.
+Alle sue spalle, il sole cominciava a sorgere sull'Impero.
 
 \[STACCO\]
 
@@ -8893,37 +9649,85 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-La morte dell'imperatore segnò l'inizio della fine. Senza la sua guida, il regno vacillò, ma non crollò subito.
+La morte dell'imperatore segnò l'inizio della fine, anche se per qualche tempo l'Impero continuò a esistere.
 
-L'amministrazione imperiale si disgregò in pochi mesi. I generali rifiutarono di riconoscere l'autorità dei governatori e si arroccarono nei loro feudi. Il popolo, stremato e diffidente, vide un susseguirsi di uomini deboli, incapaci di mantenere l'ordine. Le rivolte divamparono, alimentate dalla miseria e dal rancore.
+I consiglieri nominarono un successore, poi un altro. I generali giurarono fedeltà al trono ma, appena tornarono nei propri territori, cominciarono a governare come sovrani. Le province smisero di inviare tributi alla capitale, gli eserciti si divisero e le rivolte si propagarono lungo le vie che un tempo avevano trasportato uomini, ricchezze e ordini da un confine all'altro.
 
-Con l'impero dilaniato dall'interno, le potenze nemiche colsero l'occasione. Gli eserciti dei regni confinanti, da tempo invidiosi della ricchezza e dal benessere di Lisenna, invasero con forza schiacciante. Le città caddero una dopo l'altra, saccheggiate e ridotte in rovine. La capitale, un tempo fulcro della civiltà, fu assediata e infine conquistata.
+Le magiluci continuarono a brillare ancora per qualche anno. Poi le anfore si esaurirono, gli artigiani capaci di costruirle divennero sempre più rari e le strade di Lisenna tornarono a essere illuminate soltanto dalle fiamme.
 
-Le opere e le meraviglie dell'impero andarono distrutte o disperse. Il sapere accumulato si dissolse nel caos della guerra.
+Quando i regni confinanti attraversarono le frontiere, trovarono un Impero che esisteva ancora sulle mappe, ma non più nella volontà degli uomini. Le città caddero una dopo l'altra, gli archivi furono bruciati e gli strumenti fusi per recuperarne il metallo. Ciò che non poteva essere compreso venne distrutto; ciò che non poteva essere trasportato fu abbandonato.
 
-Ma non tutto fu perduto.
+Anche Lisenna venne conquistata.
 
-Alcuni insegnamenti dell'impero si conservarono, trasmessi in segreto, nascosti nei racconti e nelle tradizioni dei popoli vicini. A nord, in particolare, un nuovo popolo in ascesa --- quello degli Egizi --- ne trasse ispirazione. Con il tempo, le loro opere monumentali e il loro sapere ingegneristico avrebbero portato l'eco lontana di Lisenna. I miti egizi, come la leggenda di Iside e Osiride in lotta contro Seth, si intrecciarono con la memoria ormai sbiadita di un antico impero scomparso. Mira e l'imperatore Sirios divennero figure leggendarie, i loro nomi trasformati e reinterpretati, fino a fondersi tra mito e realtà. Il culto di Rham, il dio del sole, trovò riflesso nelle divinità solari egizie. La sfera dorata che ornava la grande statua nel tempio, l'artefatto che teneva viva la presenza di Rham, interpretata dai posteri come il disco del sole.
+A lungo si continuò a raccontare dell'imperatore Sirios, dell'ultima sacerdotessa e del Dio-Sole che aveva donato agli uomini una luce senza fiamma. Poi i nomi cambiarono, le storie si confusero e ciò che era stato memoria divenne leggenda.
 
-Mentre le gesta degli uomini venivano dimenticate, un ultimo testimone della loro esistenza sopravviveva.
+Nel cuore della città in rovina, la grande piramide resistette.
 
-La grande piramide resistette al trascorrere delle ere. Troppo pesante per essere abbattuta, ultimo simbolo di un'età ormai finita, fu lentamente dimenticata. Prima fu ricoperta dalle sabbie del deserto, poi invasa dalla vegetazione, poi lentamente corrosa dalle intemperie e infine seppellita, secolo dopo secolo, da terra, fango, polvere e roccia. Cinque millenni più tardi, l'intera altezza della maestosa struttura era stata completamente occultata. Solo la cima vedeva ancora il cielo, crollata e semi sommersa dalla fitta foresta che nel frattempo aveva invaso quelle terre, abbandonate a loro stesse.
+Era troppo vasta per essere abbattuta e troppo pesante perché qualcuno potesse portarne via le pietre. Per secoli rimase visibile sopra la pianura, muta testimonianza di un popolo di cui ormai nessuno conosceva il nome. Poi i fiumi cambiarono corso, il terreno si sollevò e la vegetazione cominciò a ricoprire i gradoni.
 
-In questo senso la volontà di Mira era stata esaudita: la piramide, costruita con il sacrificio di molti uomini per la preservazione del sapere, non era venuta meno al suo compito. Un'Arca del Tempo, dove le informazioni sulla natura ciclica delle epoche erano conservate nel più antico ed efficace dei modi.
+Le piogge trascinarono terra e fango lungo le pareti. Le radici si insinuarono nelle crepe e la foresta avanzò, finché ciò che un tempo aveva dominato l'orizzonte si trasformò in una collina irregolare, nascosta sotto alberi, muschio e strati di roccia.
+
+Le generazioni si succedettero. Le città nacquero, prosperarono e scomparvero. Nuove lingue presero il posto delle precedenti, nuovi dèi ereditarono i volti di quelli antichi e le tracce dell'Impero finirono sepolte sotto civiltà sorte sulle sue ceneri.
+
+La piramide continuò ad attendere.
+
+Al suo interno, al sicuro, le informazioni sulla natura ciclica delle epoche erano conservate nel più antico ed efficace dei modi.
 
 Incise nella pietra.
 
-La brutale verità doveva essere tramandata, ciclo dopo ciclo, rimbalzando tra passato e futuro, nella speranza che prima o poi qualcuno o qualcosa fosse in grado di rompere quella maledizione inesorabile.
+E nelle profondità della struttura, un debole segnale continuava a propagarsi nel silenzio, come un cuore che non aveva mai smesso di battere.
 
-Ma i cicli si susseguivano e niente sembrava accadere.
+Cinquemila anni dopo, qualcuno tornò ad ascoltarlo.
 
-Ogni diecimila anni, la storia si ripeteva, identica fino all'ultimo battito di ciglia, senza nessuna via di fuga.
+La sommità della piramide riemerse fra gli alberi. Le sale vennero aperte, le iscrizioni studiate e il disegno delle nove ere ricostruito. Per la prima volta dopo millenni, qualcuno comprese ciò che era stato affidato al futuro.
+
+Il messaggio era arrivato.
+
+Gli uomini di quell'epoca costruirono un'Arca capace di lasciare la Terra, affidando allo spazio una memoria più vasta di quella che la pietra aveva potuto custodire.
+
+Sulla Terra il rilascio entropico seguì il proprio corso. Le macchine si fermarono, le reti si spensero e le comunità tornarono a isolarsi. Ciò che non poteva essere riparato venne abbandonato; ciò che non poteva più essere compreso divenne mito.
+
+I manuali sopravvissero più a lungo delle macchine, poi anche le loro parole persero significato. Le strade scomparvero sotto la terra, i ponti crollarono nei fiumi e le città si sgretolarono.
+
+Passarono altri millenni.
+
+Gli uomini tornarono a guardare le stelle e a chiedersi quale volontà le avesse disposte nel cielo. Impararono di nuovo a coltivare la terra, a fondere i metalli, a costruire città e a organizzare eserciti. Le meraviglie dell'epoca precedente sopravvissero nei racconti come opere di un'umanità più sapiente, quasi divina.
+
+Li chiamarono i Precursori.
+
+Le civiltà crebbero lungo gli stessi fiumi, le rotte attraversarono gli stessi territori e le guerre ricominciarono per le stesse terre.
+
+Ancora una volta.
+
+Il tempo continuò a ripiegarsi su sé stesso, ciclo dopo ciclo, identico fino all'ultimo battito di ciglia. Il sapere passava dalla pietra alle stelle e dalle stelle tornava alla pietra, senza che nessuno riuscisse a modificare il corso degli eventi.
+
+Entrambe le epoche avevano costruito la propria Arca.
+
+Entrambe avevano tramandato il messaggio.
+
+Ma conoscere una prigione non significava imparare a evadere.
+
+Eppure, tutto quel lavoro non era stato inutile.
+
+Ogni conoscenza preservata, ogni frammento sottratto all'oblio, ogni sacrificio compiuto da uomini e donne separati da millenni aveva preparato qualcosa. Come legna disposta con pazienza, ramo dopo ramo, fino a formare una catasta immensa.
+
+Tutto era pronto.
+
+Mancava soltanto la scintilla.
+
+Cinquemila anni dopo l'epoca dei Precursori, il mondo tornò ancora una volta al punto da cui era sempre ripartito.
+
+L'Arca fece ritorno. Nel cuore dell'Africa nacque un altro impero. Le magiluci tornarono a rischiarare le notti di Lisenna. Un uomo chiamato Sirios salì al trono, una bambina venne scelta per ascoltare una voce che credeva divina e, a Junna, un contabile cominciò a interrogarsi sull'origine delle meraviglie imperiali.
+
+Ogni incontro avvenne nello stesso momento.
+
+Ogni parola venne pronunciata con la medesima esitazione.
+
+Ogni scelta condusse alla stessa conseguenza.
+
+E nella sala del trono di Lisenna, ancora una volta, ogni cosa sembrava destinata ad accadere esattamente come prima.
 
 \[STACCO\]
-
-Eppure, il lavoro di quegli uomini e donne che avevano lavorato alle Arche del Tempo non era stato vano. Le loro idee, il loro ingegno, il loro sacrificio avevano creato qualcosa di duraturo. Come una grande catasta di legna, meticolosamente impilata nell'attesa di una scintilla che la facesse divampare.
-
-E la scintilla arrivò.
 
 \[STACCO\]
 
@@ -8931,9 +9735,9 @@ E la scintilla arrivò.
 
 # CAPITOLO
 
-id: diecimila_anni_dopo_visioni
+id: visioni
 tipo: capitolo
-titolo: Diecimila anni dopo - Visioni
+titolo: Visioni
 descrizione: Quando Nadia indossa la corona, viene travolta dalle visioni. All'improvviso, sa chi è Mira e scopre chi era Leon.
 immagine: img/capitoli/la_squadra.jpg
 
@@ -8941,59 +9745,93 @@ immagine: img/capitoli/la_squadra.jpg
 
 Con un misto di disperazione e senso di assurdità, Nadia chiuse gli occhi e si mise la corona sulla testa.
 
-Non appena il metallo freddo toccò la sua pelle, l'artefatto si attivò.
+Trattenne il respiro. Un battito di cuore, poi un altro. Aspettò.
 
-Come aveva sempre fatto con ogni nuovo portatore, la complessa rete al suo interno si sincronizzò silenziosamente con le onde cerebrali di Nadia, pronta a registrare nella dimensione quantistica della gemma blu i suoi pensieri, le sue emozioni, le sue paure.
+Per un istante non accadde nulla.
 
-Ma questa volta, qualcosa era diverso.
+Poi avvertì una vibrazione sottile attraversarle il cranio. La gemma blu si accese e un dolore improvviso le esplose dietro gli occhi.
 
-La memoria era piena.
+Nascosta nella trama del metallo, la complessa rete dell'artefatto si era sincronizzata con le sue onde cerebrali. Era il processo per cui era stata costruita: riconoscere un nuovo portatore, accoglierne i pensieri e conservarli nella struttura quantistica della gemma, insieme alle coscienze che l'avevano preceduto.
 
-In un istante, la corona cambiò funzione. Anziché assorbire nuove informazioni, si svuotò, riversando nella mente di Nadia tutto ciò che aveva accumulato nel tempo.
+Ma la memoria della corona era piena. La capacità della gemma si era esaurita.
 
-Per pochi secondi --- che le parvero infiniti --- la sua coscienza smise di appartenerle. Un'ondata di ricordi, voci, visioni, emozioni altrui la travolse con una violenza inimmaginabile.
+Per la prima volta, il flusso si invertì.
+
+Anziché assorbire i pensieri di Nadia, la corona si svuotò, riversando dentro di lei tutto ciò che aveva conservato.
+
+Per pochi secondi, che le parvero infiniti, la sua coscienza smise di appartenerle.
 
 \[STACCO\]
 
 Vide un ragazzino.
 
-Aveva la pelle più scura della sua. Era solo, immerso nella penombra di una stanza antica e vagamente familiare. Le pareti di roccia viva erano consumate dal tempo, e la camera era quasi completamente spoglia. Nadia lo osservò armeggiare con qualcosa vicino alla parete, e lo sentì esultare di soddisfazione quando riuscì a far scattare un meccanismo nascosto. Il ragazzo estrasse dalla parete una vecchia corona piena di ragnatele e, dopo averla lucidata nel vestito sporco di terra, la guardò con meraviglia. Senza pensarci due volte, se la pose sulla testa.
+Era solo, immerso nella penombra della stessa antica stanza in cui Nadia si trovava in quel momento, anche se le pareti di roccia viva apparivano meno consumate e la vegetazione non aveva ancora invaso le aperture. Lo osservò armeggiare vicino a una parete e lo sentì esultare quando riuscì a far scattare un meccanismo nascosto. Il ragazzo estrasse dal vano una vecchia corona coperta di ragnatele e, dopo averla strofinata contro il vestito sporco di terra, la guardò con meraviglia. Senza pensarci due volte, se la pose sulla testa.
 
-L'euforia del ragazzo riempì la coscienza di Nadia, una gioia esplosiva che gli gonfiava il cuore. *Questo è il mio giorno fortunato, pensò.* Non vedeva l'ora di mostrare agli amici il tesoro che aveva scoperto, immaginando le loro espressioni stupite. Ma poi un pensiero più cauto si fece strada: *Forse è meglio che lo tenga per me\... Non voglio che nessuno sappia di queste rovine.* Era un luogo troppo prezioso, troppo speciale. Un rifugio segreto solo per lui. Beh, ci avrebbe riflettuto meglio lungo la strada del ritorno verso il villaggio, attraverso gli alberi. Sentendo il peso della corona sulla testa si sentiva potente, un vero re, proprio come quelle storie di nonno Watat'ka.
+L'euforia del ragazzo riempì la coscienza di Nadia, una gioia esplosiva che gli gonfiava il cuore.
 
 Era il giorno più bello della sua vita.
 
-La visione sfumò, e l'entusiasmo del ragazzino cedette il passo alla tensione di un uomo sui quarant'anni. Era in un ambiente surreale. Luci bianche riempivano la stanza, eppure non c'erano finestre: le luci provenivano da strane lampade fredde, versioni migliorate delle magiluci dell'imperatore. Tavoli bianchi erano disseminati di oggetti dalle forme strane, con immagini che si muovevano. Eppure l'uomo sembrava trovarsi a suo agio in quell'ambiente. Nadia percepì una grande frustrazione nei suoi pensieri mentre fissava la corona davanti a sé, posata su un piccolo tavolino. Poi, un'idea lo colpì: all'improvviso, seppe che doveva indossarla.
+La visione sfumò, e l'entusiasmo del ragazzino cedette il passo alla tensione di un uomo sui quarant'anni. I suoi lineamenti le erano estranei e la sua pelle era molto più chiara della sua. Era in un ambiente surreale. Luci bianche riempivano la stanza, eppure non c'erano finestre: provenivano da strane lampade fredde, versioni migliorate delle magiluci dell'imperatore. Tavoli bianchi erano disseminati di oggetti dalle forme insolite, alcuni dei quali mostravano immagini in movimento. Eppure quell'uomo sembrava perfettamente a suo agio in quell'ambiente.
 
-Con crescente eccitazione, afferrò la corona e se la mise sul capo.
+Nadia percepì la stanchezza e la frustrazione che gravavano sui suoi pensieri. La riunione si era appena conclusa: avevano finalmente elaborato un piano per offrire un futuro all'umanità, eppure il fallimento della corona continuava a tormentarlo. L'avevano studiata con ogni mezzo possibile, senza ottenere alcun risultato.
 
-Ma, a differenza del ragazzino della prima visione, la sua reazione fu di profonda delusione. Si sentì ridicolo e frustrato, e la tolse bruscamente. *Cosa sto facendo?* I progetti di quel pomeriggio erano fondamentali per il futuro dell'umanità, e lui si trovava lì a perdere tempo con una stupida corona inerte. Ripensò al piano che avevano formulato, quello che sarebbe stato rivelato al mondo: affidare le redini della civiltà a un'intelligenza artificiale in simbiosi con una bambina. Sembrava assurdo, eppure era la loro unica speranza. Mentre l'uomo rifletteva su quel progetto, Nadia assorbiva quelle stesse memorie, iniziando a capire tante cose.
+Poi, quasi all'improvviso, un pensiero gli attraversò la mente, tanto semplice da sembrargli perfino banale: una corona era fatta per essere indossata.
+
+Esitò solo un istante, poi la afferrò e se la mise sul capo.
+
+Attese, ma non accadde nulla.
+
+Una profonda delusione lo attraversò. Si sentì ridicolo per aver creduto che un gesto tanto banale potesse fare la differenza e si tolse la corona con un movimento brusco. Si sentì uno sciocco. Avevano presentato al mondo il progetto destinato a custodire il futuro della civiltà e lui era lì, a perdere tempo con un oggetto inerte.
+
+Mentre quei pensieri scorrevano nella mente dell'uomo, Nadia li assorbiva come fossero i propri, e molti tasselli fino a quel momento incomprensibili cominciarono finalmente a trovare il loro posto.
 
 D'un tratto, seppe chi era davvero Mira.
 
-La visione mutò ancora. Si trovavano nella piazza della capitale, su un palco sopraelevato. Stendardi, musiche e canti riempivano la scena. L'insegna dorata dell'imperatore era appesa ad ogni finestra, su ogni vessillo. Nadia riconobbe il palazzo imperiale, ma non c'era nessuna piramide a fare da sfondo alla scena: la costruzione sarebbe cominciata solo molti anni dopo. Una grande folla era radunata nell'intera piazza e sciamava da tutte le arterie cittadine che confluivano nel centro della capitale: tutti i cittadini erano chiamati ad assistere al grandioso evento di quel giorno.
+Altre vite la attraversarono. Uomini e donne che Nadia non aveva mai visto indossavano la corona in luoghi sconosciuti. Alcuni la posavano sul capo con solennità, altri per curiosità o per gioco. Vide le mani di un mercante, sentì il pianto di una donna, il sorriso impaurito di un bambino.
 
-Sul palco, un giovane Sirios guardava euforico la distesa di persone al suo cospetto. Non doveva avere più di vent'anni. La gente lo acclamava e lo applaudiva. Alle sue spalle, tra funzionari e scribi, Nadia riconobbe Mira. Era una ragazzina, doveva avere sì e no l'età di Nadia, ed era splendida nel suo sontuoso abito da cerimonia color porpora. Già allora, un'espressione enigmatica aleggiava sul suo bel viso.
+La corona passa di mano in mano, fino a raggiungere la stirpe imperiale.
 
-L'imperatore si inginocchiò di fronte al popolo e, alle sue spalle, un sacerdote avanzò, la corona tra le mani. Con un gesto pulito, posò la corona sulla testa del sovrano. Il boato della folla fu assordante. Nadia condivise l'euforia dell'imperatore: i suoi pensieri erano radiosi, i suoi propositi nobili e la sua grandezza indiscussa. Mentre il neo incoronato sovrano si alzava trionfante, Nadia vide Mira scrutarlo con attenzione. Un'espressione increspò per un attimo il suo volto imperturbabile. Era forse delusione?
+Vide sovrani anziani e giovani indossare la corona in sale del consiglio illuminate da vetrate colorate, su troni intarsiati, in giardini pensili.
+
+Nel vortice di immagini e sensazioni, Nadia si soffermò su una scena.
+
+Si trovava nella piazza della capitale, su un palco sopraelevato. Stendardi e canti riempivano la scena, mentre l'insegna dorata dell'imperatore pendeva dalle finestre e dai vessilli. Riconobbe il palazzo imperiale, ma la piramide non esisteva ancora. La costruzione sarebbe iniziata molti anni dopo.
+
+Sul palco, un giovane Sirios contemplava la folla con un'euforia tanto intensa da invadere anche Nadia. Non doveva avere più di vent'anni. Il popolo lo acclamava e, nella sua mente, il futuro appariva luminoso: avrebbe reso prospero l'Impero, protetto i suoi sudditi e dimostrato di essere degno del trono.
+
+Alle sue spalle attendevano due sacerdotesse.
+
+La più anziana avanzò portando la corona fra le mani. Accanto a lei, in disparte tra funzionari e scribi, Nadia riconobbe Mira. Era poco più che una ragazzina, forse della sua stessa età, graziosa nell'abito di cerimonia. Sul viso aleggiava già l'espressione enigmatica che Nadia conosceva così bene.
+
+Sirios si inginocchiò.
+
+La sacerdotessa sollevò la corona e gliela posò sul capo. Il boato della piazza fu assordante. Nadia condivise l'orgoglio del giovane imperatore, la certezza che quello fosse l'inizio di una vita grandiosa.
+
+Mentre il neo incoronato sovrano si alzava trionfante, Nadia vide la sacerdotessa scrutarlo con attenzione. Un'espressione increspò per un attimo il suo volto. Era forse delusione?
+
+Poi anche quella scena venne trascinata via.
 
 La visione mutò un'ultima volta.
 
-Stavolta, Nadia vide sé stessa. Era in quella stessa stanza, in quello stesso momento.
+Nadia vide sé stessa.
 
-Proprio come era successo poco prima nella realtà, la Nadia della visione mise la corona, ma niente accadde. La corona non le aveva concesso nessuna visione. La disperazione dell'altra Nadia si trasformò in delusione e infine in rassegnazione. Poco dopo, uno dei soldati la colpì con il piatto della spada, facendola crollare a terra.
+Era nella medesima stanza, inginocchiata sullo stesso pavimento di pietra, circondata dagli stessi soldati. Vide la Nadia della visione chiudere gli occhi e mettersi la corona sulla testa.
+
+Ma non accadde nulla.
+
+Nadia sentì la disperazione di quella ragazza trasformarsi in delusione e infine in rassegnazione, come se quelle emozioni appartenessero a lei. Poco dopo, uno dei soldati la colpì con il piatto della spada, facendola crollare a terra.
 
 Ma il dolore fu reale.
 
-Nel presente, un colpo identico la riportò improvvisamente alla realtà. La corona le scivolò dal capo e rotolò sul pavimento di pietra.
+Nel presente, un colpo identico la raggiunse al fianco e la strappò alla visione. La corona le scivolò dal capo e rotolò sul pavimento di pietra in un lungo arco.
 
-La visione si interruppe, ma la ragazza quasi non se ne accorse: era proprio nello stesso posto e nella stessa situazione di quell'ultima scena.
+Per qualche istante Nadia rimase a terra, incapace di distinguere i propri ricordi da quelli che continuavano ad affiorare nella sua mente. Sanguinava, ma non ci badò. La testa le pulsava ferocemente.
 
-Sanguinava, ma non ci badò, ancora stordita da quelle rivelazioni. La testa le pulsava ferocemente, come sopraffatta da troppe informazioni. La guardia le ordinò di alzarsi e seguirla.
+La guardia le ordinò di alzarsi e seguirla.
 
-La trascinarono per i corridoi, di peso. Era troppo debole per stare in piedi, la sua mente provata tanto quanto il suo corpo. Dopo pochi minuti, varcarono una soglia ed entrarono nella sala del trono.
+La condussero in malo modo attraverso una stretta scalinata. Dopo pochi minuti varcarono una soglia ed entrarono nella sala del trono.
 
-In malo modo, fu portata di fronte all'imperatore e costretta a inginocchiarsi. Il brusio della sala cessò di colpo alla vista di quella ragazzina coperta di sangue.
+Nadia fu trascinata di fronte all'imperatore e costretta a inginocchiarsi. Il brusio della sala cessò di colpo alla vista di quella ragazzina coperta di sangue.
 
 "Mio signore, abbiamo trovato questa ragazza nei piani alti della piramide. Stava tentando la fuga."
 
@@ -9007,61 +9845,127 @@ Nadia faceva fatica a mettere in fila i pensieri, mentre l'imperatore gli intima
 
 Ma prima che potesse dire qualsiasi cosa, Mira fece un passo avanti. "Maestà. Questa ragazza è la mia ancella."
 
-Nadia alzò gli occhi verso la sacerdotessa e i loro sguardi si incontrarono per un istante. L'imperatore stava per parlare, ma Nadia, richiamando ogni briciola di energia che le rimaneva, gridò. "Io so chi sei, Mira."
+Nadia alzò gli occhi verso la sacerdotessa e i loro sguardi si incontrarono.
 
-La sua voce sovrastò il brusio della sala.
+Richiamò ogni briciola di energia che le restava.
 
-"So tutto dei tuoi piani, della piramide\... L'Arca del Tempo."
+"Io so chi sei, Mira."
 
-Nadia sentì il fiato mozzarsi. Crollò al suolo, abbandonandosi a un gemito di dolore. La guardia le aveva sferzato un altro violento calcio allo stomaco per il solo aver osato parlare. Ma le parole raggiunsero l'effetto desiderato. L'imperatore scattò: la sua maschera di indifferenza tramutata in uno spasmodico interesse. "Che cosa hai detto? Parla, ragazza. Cosa sai?" La voce, minacciosa, era venata di tensione.
+La voce le uscì debole, quasi soffocata dal brusio della sala, ma bastò a raggiungere la sacerdotessa.
 
-Nadia alzò lo sguardo. Con il fiato ancora corto, trovò la forza per rispondere. "Ho\... ho indossato la corona, mio signore. Ho avuto delle visioni."
+"So da dove viene il tuo dono. E so perché esiste la piramide."
+
+Un calcio allo stomaco le mozzò il respiro. Nadia crollò sul pavimento con un gemito, mentre il soldato le intimava di tacere.
+
+Mira, però, aveva sentito.
+
+Per la prima volta da quando la conosceva, Nadia vide incrinarsi la sua espressione imperturbabile. Gli occhi le si spalancarono appena, fissandosi su di lei con un'intensità improvvisa.
+
+Anche Sirios colse quella reazione.
+
+"Che cosa hai detto?" domandò, sporgendosi in avanti. "Che cosa sai, ragazza?"
+
+Nadia cercò di sollevarsi, ma il dolore la costrinse a restare piegata sul pavimento. Inspirò a fatica, raccogliendo il poco fiato che le rimaneva.
+
+"Ho indossato la corona, mio signore." Alzò lo sguardo verso di lui. "Ho avuto delle visioni."
 
 "La corona?"
 
-Lo sguardo dell'imperatore si fissò sui soldati che avevano preso Nadia. Uno degli uomini estrasse l'artefatto e lo mostrò, l'espressione vagamente imbarazzata. "Sire, la ragazza ha indossato questa, quando l'abbiamo messa alle strette. Sembrava in trance."
+Gli occhi dell'imperatore si posarono sui soldati che avevano catturato Nadia. Uno degli uomini estrasse l'artefatto e glielo mostrò, con un'espressione vagamente imbarazzata.
 
-L'imperatore fece un passo avanti, gli occhi scuri che dardeggiavano di rabbia. "Come hai scoperto il nascondiglio della corona? E come hai osato indossarla, piccola\..."
+"Sire, la ragazza ha indossato questa quando l'abbiamo messa alle strette. Sembrava in trance."
 
-"È vero? Hai avuto una visione?"
+Sirios si alzò dal trono. Il suo sguardo passò dalla corona a Nadia, colmo di rabbia.
 
-Era stata Mira a parlare.
+"Come hai scoperto il nascondiglio della corona? E come hai osato indossarla, piccola---"
 
-Si fece avanti, uscendo dall'ombra con movimenti fluidi, nobili, quasi ipnotici. La voce eterea risuonava nella vastità della sala del trono.
+"È vero?" lo interruppe Mira. "Hai avuto una visione?"
 
 La domanda ammutolì l'intera sala, persino l'imperatore.
 
-Poi, il sovrano si voltò verso la sacerdotessa, interdetto. "Cosa significa, Mira?"
+Mira avanzò, uscendo dall'ombra con movimenti misurati. La sua voce aveva conservato la consueta calma, ma Nadia vi colse una tensione nuova, trattenuta a fatica.
 
-Ma Mira lo ignorò: in quel momento niente poteva distoglierla dalla ragazzina: Nadia aveva la sua più totale e completa attenzione. Le due donne si guardarono con intensità, una in abiti regali e l'altra coperta di stracci, sudore e sangue. Quello sguardo comunicò più di mille parole.
+Nadia annuì.
 
-Nadia capì che poteva fidarsi di Mira.
+"Sì, mia signora. Ho visto la corona passare attraverso le epoche. Ho visto gli imperatori che l'hanno indossata prima di lui. Ho visto uno dei Precursori, e il loro progetto." Abbassò lo sguardo. "Poi ho visto me stessa, in un'altra occasione. La corona non mi aveva mostrato nulla."
 
-Annuì: "Sì, è così, mia signora. La corona mi ha concesso delle visioni."
+Il silenzio si fece ancora più teso.
 
-Gli occhi di Mira si riempirono di una luce nuova, che nessuno le aveva mai visto prima. D'un tratto sembrò umana, capace di provare emozioni, gioia.
+Sul volto di Mira comparve qualcosa che Nadia non le aveva mai visto.
 
-"Ce l'abbiamo fatta. La maledizione del tempo si sta spezzando."
+Speranza.
 
-I funzionari e i soldati nella sala si scambiarono sguardi confusi, incapaci di comprendere. Anche l'imperatore sembrava non capire appieno la situazione, gli occhi che cercavano Mira chiedendo spiegazioni. Il suo sguardo passò da Nadia a Mira, cercando di decifrare il significato delle loro parole. "Cosa vuol dire tutto questo?"
+"La corona ha manifestato il suo potere," mormorò.
 
-Mira esitò. "Il potere della corona si è rivelato," mormorò, quasi per sé stessa. "È la prima volta che accade in tutti questi millenni. Questo\... è un dono divino!"
+Sirios scese di un gradino dalla pedana.
 
-L'imperatore aggrottò la fronte. "Quale potere? Cosa sai, Mira, che mi hai taciuto?"
+"Il suo potere?"
 
-Mira fece un lento respiro. "Mio signore. Ho sempre saputo che la corona era più di un simbolo. Ma nessuno era mai riuscito ad attivarne il potere. Non c'era nemmeno la certezza che fosse possibile."
+Mira sembrò ricordarsi soltanto in quel momento della sua presenza. Si voltò verso di lui, ma l'imperatore continuava a osservare la corona nelle mani del soldato.
 
-L'imperatore era sembrava disorientato in mezzo a tutte queste rivelazioni, ma restò lucido. "Spiegati."
+"Mi hai sempre detto che era sacra," proseguì. "Il simbolo dell'alleanza tra il trono e Rham. Non hai mai parlato di visioni."
 
-L'Alta Sacerdotessa fece un passo in avanti. Nel centro della sala, la sua figura sinuosa sembrò brillare come un sole ardente, mentre catturava l'attenzione dell'intera sala. "Sirios, mio imperatore. Per anni hai seguito la mia guida: Mira, quattordicesima del suo nome, messaggera in terra del dio del sole Rham. Hai mantenuto intatti i riti e i simboli del culto, ordinato la costruzione della piramide. Ma devi sapere che c'è uno scopo più alto che tutti noi siamo chiamati a compiere."
+"Nessuno ne aveva mai ricevute," rispose Mira. "Sapevo che la corona non era soltanto un simbolo, ma non conoscevo la natura del suo potere, né se fosse ancora possibile destarlo."
 
-Sirios non la interruppe.
+Sirios serrò i pugni. La sua voce risuonò nella sala con una nota diversa, più profonda della semplice collera. "Io l'ho indossata per decenni."
 
-La donna lo guardò con un'intensità nuova, quasi misericordiosa. "L'umanità ha una possibilità di cambiare il suo destino."
+Mira rimase in silenzio.
 
-Improvvisamente, dei rumori echeggiarono in lontananza: grida, poi un suono di passi pesanti e un clangore di armi. Tutti vennero riportati bruscamente alla realtà. Le pesanti porte della stanza si aprirono con un cigolio.
+"Hai detto che Rham mi aveva scelto perché guidassi l'Impero e ordinassi la costruzione della sua Arca."
+
+Sirios indicò la sala attorno a sé con un gesto brusco.
+
+"Ho consacrato anni e ricchezze a quest'opera. Ho imposto nuove tasse, sottratto uomini all'esercito e alle campagne, respinto ogni consigliere che mi chiedeva di abbandonarla. L'ho fatto perché questo era il volere di Rham e perché io avevo un ruolo nel suo disegno."
+
+Il suo sguardo tornò su Nadia.
+
+"E ora il potere della corona si manifesta in una ragazzina?"
+
+Nadia sentì tutta l'attenzione della sala concentrarsi su di lei. Sirios non sembrava soltanto adirato: nelle sue parole vibrava l'offesa di chi vedeva vacillare una certezza sulla quale aveva costruito la propria vita.
+
+"Io sono il prescelto di Rham," continuò. "Se la corona custodiva un dono, avrebbe dovuto rivelarlo a me."
+
+Consiglieri e generali si scambiarono sguardi perplessi, percorsi da un mormorio inquieto.
+
+Eppure, Mira continuava a guardare Nadia, come se il significato di quanto era accaduto superasse ogni titolo e ogni investitura.
+
+"Non sappiamo perché abbia scelto lei," disse infine. "Sappiamo soltanto che ha compiuto ciò che nessuno era mai riuscito a fare."
+
+"Scelto?" ripeté l'imperatore. "Dunque sapevi che attendeva qualcuno."
+
+Mira fece un lento respiro, poi avanzò verso il centro della sala. "Lo speravo." Sotto la luce dei bracieri, i ricami dorati della sua veste parvero accendersi. "Mio imperatore, non ti ho mai mentito sullo scopo della piramide. È un'Arca, un'opera voluta affinché qualcosa di questa epoca possa sopravvivere al tempo. Tu hai reso possibile la sua costruzione e hai compiuto il dovere che il Dio-Sole ti affidava."
+
+Sirios la fissò, ancora rigido. "Ma non mi hai detto tutto."
+
+"No," ammise Mira. "Perché neppure io conoscevo tutto."
+
+La sacerdotessa volse per un istante lo sguardo verso Nadia.
+
+"Sapevo che la corona apparteneva allo stesso disegno. Sapevo che non era un semplice ornamento e che, un giorno, avrebbe potuto manifestare il proprio potere. Ma nessuna delle mie maestre aveva assistito a un evento simile."
+
+"Quattordici generazioni di sacerdotesse," disse Sirios, "e nessuna ha pensato di informare il proprio imperatore?"
+
+"Ogni imperatore conosceva ciò che era necessario perché il progetto continuasse," rispose Mira. "Il resto era soltanto una speranza tramandata nella genealogia." Nei suoi occhi continuava a brillare quella luce nuova. "Per la prima volta, qualcosa è accaduto."
+
+Nadia cercava ancora di mettere ordine nelle visioni, ma comprese che Mira aveva colto ciò che davvero contava. Non tanto il contenuto di ogni ricordo, quanto il fatto stesso che la corona avesse risposto. Migliaia di anni di preparativi avevano prodotto un risultato che nessuna delle due riusciva ancora a comprendere del tutto.
+
+"Che cosa significa?" domandò Sirios.
+
+Mira tornò a guardarlo. La sua espressione si fece più distesa.
+
+"L'umanità ha una possibilità di cambiare il proprio destino."
+
+Grida lontane interruppero le sue parole.
+
+Per qualche istante nessuno si mosse. Poi il rumore crebbe: passi pesanti lungo i corridoi, ordini urlati e clangore di armi che si avvicinavano rapidamente.
+
+Tutti vennero riportati bruscamente alla realtà.
+
+Le pesanti porte della sala si spalancarono con violenza.
 
 Khamal e il suo seguito di ribelli fecero irruzione nella sala del trono.
+
+\[STACCO\]
 
 \[STACCO\]
 
@@ -9075,123 +9979,511 @@ immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-Khamal avanzò, la determinazione scolpita negli occhi scuri, come se ogni passo lo portasse più vicino alla resa dei conti. L'imperatore lo osservò con espressione indecifrabile, inclinando appena la testa. "Khamal, che tempismo impeccabile." La sua voce era beffarda, ma c'era un'ombra di sorpresa nei suoi occhi. Non si era aspettato che l'intrusione andasse a segno.
+Khamal avanzò nella sala con la determinazione scolpita negli occhi scuri, mentre alle sue spalle i ribelli si disponevano ai lati dell'ingresso, le armi strette in pugno. L'imperatore lo osservò con un'espressione indecifrabile, inclinando appena la testa.
 
-"Sirios. Finalmente." Il viso di Khamal era una maschera di trionfo, ben lontana dal volto pacato e saggio che aveva conquistato la fiducia di Nadia, molte settimane prima.
+"Khamal, che tempismo impeccabile."
 
-Nadia, ancora debole, si girò verso Khamal. Sentiva la responsabilità del caos che stava per esplodere premere sulla sua coscienza come un macigno. "Fermatevi!" urlò, ma sua voce si perse nel vasto salone, troppo debole per imporsi tra i giganti che la circondavano. Se l'imperatore poco prima sembrava aver capito l'importanza dell'attivazione della corona, ora ogni fibra del suo essere era concentrata ad annientare l'uomo che aveva di fronte.
+La voce era beffarda, ma nei suoi occhi passò l'ombra del dubbio. Forse non si era aspettato che l'intrusione riuscisse davvero.
 
-Senza distogliere lo sguardo dal leader ribelle, il sovrano parlò, il tono glaciale: "Sono curioso, Khamal, come siete riusciti a superare le mie difese?"
+"Sirios. Finalmente."
 
-Lo sguardo del ribelle guizzò a Lord Garnak, pallido in un angolo. "I vostri informatori lasciano a desiderare, mio signore."
+Il viso di Khamal era una maschera di trionfo, ben lontana dall'espressione pacata con cui aveva conquistato la fiducia di Nadia molte settimane prima.
 
-L'imperatore si voltò verso Garnak, con sguardo sprezzante. "Sapevo che non c'era da fidarsi. Ma a te penserò dopo\..."
+La ragazza cercò di sollevarsi. Il fianco le pulsava a ogni respiro e il ginocchio ferito minacciava di cedere sotto il suo peso, ma il pericolo che sentiva incombere sulla sala era più forte del dolore.
 
-Nadia vide Garnak balbettare impaurito, mentre le guardie lo immobilizzavano. Khamal e i suoi colsero l'occasione per avvicinarsi di qualche passo al trono.
+"Fermatevi!"
 
-"No!" urlò la ragazza, e stavolta Khamal la degnò di attenzione.
+La sua voce si perse tra le colonne, troppo debole per imporsi sull'attenzione dei due uomini. Sirios sembrava aver dimenticato in un istante la corona e le rivelazioni che avevano appena scosso le sue certezze. Ogni fibra del suo essere si preparava ad affrontare il nemico che aveva minacciato il suo dominio per anni.
 
-"Naturalmente, Nadia, è tutto merito tuo." Annuì con un sorriso complice, facendole cenno di unirsi alle loro fila. "È stata proprio Nadia che ci ha aperto la strada. Senza di lei non saremmo qui. Sei stata brava, ragazza. Una risorsa preziosissima per la nostra causa."
+Senza distogliere lo sguardo dal capo dei ribelli, parlò con tono glaciale. "Sono curioso, Khamal. Come siete riusciti a superare le mie difese?"
 
-Le parole di Khamal la compromisero. Nadia sentì su di sé lo sguardo furioso dell'imperatore, mentre il silenzio gravava su di lei come una condanna. Alla fine, con un nodo alla gola, mormorò: "È vero, è colpa mia." Il cuore le martellava. "Ma proprio per questo, Khamal, devi ascoltarmi. La situazione è cambiata. Se continui, commetterai un errore gravissimo."
+Lo sguardo del ribelle guizzò verso Lord Garnak, impallidito in un angolo della sala.
 
-Il sorriso di Khamal si spense, i suoi occhi si fecero inquisitori. "Un errore?" La sua voce ora era venata di sospetto. "Nadia, ti sei fatta abbindolare dai trucchi dell'imperatore?"
+"I vostri informatori lasciano a desiderare, mio signore."
 
-"No, Khamal!" esclamò Nadia, la voce che tremava di disperazione. "Non è così. Non capisci! C'è qualcosa di più grande in gioco qui. Se procedi con la tua vendetta, non distruggerai solo l'impero. Metterai a rischio l'intera umanità."
+L'imperatore seguì lo sguardo del ribelle e il suo volto si indurì. "Sapevo che non c'era da fidarsi. Ma a te penserò dopo."
 
-Ma le parole di Nadia erano prive si significato per il ribelle. Khamal strinse i denti, la sua mano scattò al fianco. Estrasse un coltello, puntandolo minacciosamente verso l'imperatore. Le guardie imperiali reagirono immediatamente, formando una barriera intorno al loro sovrano, le spade pronte a colpire. I ribelli, altrettanto numerosi e armati, sollevarono le loro armi. L'equilibrio nella stanza era sul filo di un rasoio.
+Con un rapido cenno ordinò alle guardie più vicine di immobilizzare il nobile. Garnak tentò di protestare, ma le parole gli morirono in gola quando due soldati lo afferrarono per le braccia. Khamal approfittò di quel breve movimento per avanzare ancora, seguito dai suoi uomini, finché soltanto pochi passi li separarono dalle guardie schierate davanti al trono.
 
-Nadia, inciampando sul ginocchio sanguinante, si frappose tra i due fuochi, il cuore in gola. "Aspettate!" gridò ancora, il suo corpo tremante, mentre cercava con tutta sé stessa di restare in piedi. "Devi ascoltarmi, Khamal. Mira\... L'imperatore\... c'è un disegno molto più grande dietro tutto questo. Lascia che ti spieghi!"
+"No!" gridò Nadia.
 
-Khamal esitò, il coltello fermo a mezz'aria, ma durò solo un istante. Gli occhi si strinsero di nuovo, come se cercasse di capire se Nadia fosse davvero vittima di un raggiro. "Che cosa stai dicendo? Ora scansati Nadia! Qui ci pensiamo noi."
+Questa volta Khamal si voltò verso di lei. Per un momento sul suo viso ricomparve qualcosa dell'uomo che aveva conosciuto.
 
-Stavolta fu Mira a farsi avanti. Il suo volto, di solito segnato da una calma solenne, lasciava intravedere una profonda tensione. "Mio signore, ordina ai tuoi uomini di abbassare le armi. La violenza ci porterà soltanto nel caos. Lo so: è già accaduto in passato. Non possiamo permettere che accada ancora, non ora che una scintilla di speranza si è accesa."
+"Naturalmente, Nadia. È merito tuo se siamo arrivati fin qui." Le rivolse un breve cenno, quasi invitandola a raggiungerli. "Hai aperto la strada quando nessun altro avrebbe potuto farlo."
 
-L'imperatore esitò. Per la prima volta dall'inizio dello scontro, il suo comando non fu immediato. Le guardie attendevano un cenno, pronte a scattare e dare inizio al massacro, ma lui rimase immobile. Il suo sguardo si spostò su Mira, poi su Nadia, infine su Khamal.
+Gli sguardi dei funzionari e dei soldati si concentrarono sulla ragazza. Nadia sentì quello dell'imperatore gravare su di lei, freddo e tagliente, ma non cercò di sottrarsi.
 
-L'intero destino dell'impero sembrava sospeso su un filo sottile, pronto a spezzarsi. Mira fece un passo avanti, il suo sguardo impenetrabile fisso su Sirios. "Mio signore, un mio consiglio ti ha mai portato alla rovina?" La sua voce era carica di un peso millenario.
+Fissò Khamal dritto nel gli occhi, cercando di infondere in quello sguardo tutta la determinazione che le rimaneva.
 
-L'imperatore serrò la mascella.
+"È vero," ammise. "Sono stata io ad aiutarvi a entrare. Ma proprio per questo devi ascoltarmi, Khamal. La situazione è cambiata."
 
-"Sirios. Vedo il tuo dilemma. Da un lato, la resa dei conti con i ribelli che da anni minacciano il dominio imperiale; dall'altro, il dialogo. Il rischio di concedere spazio ai nemici, rischiare di perdere il controllo. Ma solo col dialogo possiamo scoprire la verità, forse evitare lo spargimento di altro sangue."
+Il sorriso del ribelle si spense.
 
-Un silenzio carico di elettricità avvolse la sala. Infine, Sirios inspirò profondamente e parlò. La sua voce, priva del solito sarcasmo, risuonò chiara.
+"Cambiata in che modo?"
 
-"Khamal, ordina ai tuoi uomini di arretrare. Ascoltiamo cosa ha da dire questa ragazza."
+"La corona si è attivata."
 
-Khamal, ancora col coltello in mano, scosse la testa con un ghigno amaro. "Sempre il solito, Sirios. Sempre a guadagnare tempo con i tuoi trucchi." La sua voce era carica di disprezzo. "So benissimo che aspetti solo che il resto della tua guardia ci raggiunga, ma questi futili raggiri non funzionano con me."
+La risposta arrestò per un istante persino i mormorii della sala. Khamal lanciò un'occhiata all'artefatto ancora nelle mani della guardia, poi tornò a fissare Nadia.
 
-"Non questa volta, mio Lord," disse Mira, avanzando verso il leader ribelle. La sua figura esile e aggraziata stonava in quel delirio di violenza e minacce, come un fiore cresciuto su un campo di battaglia. "Nadia deve averti detto l'importanza del mio ruolo nell'impero. Prendimi come ostaggio. Quando avrai ascoltato tutta la storia, potrai uccidermi se le parole di Nadia non ti convinceranno."
+"Che cosa ti hanno fatto credere?"
 
-Senza aspettare il consenso dell'imperatore, la sacerdotessa uscì dal cerchio protettivo di soldati imperiali. Potevano essere i passi verso un precipizio mortale, ma il viso di Mira era fiducioso.
+"Non mi hanno fatto credere niente. L'ho indossata e ho visto ciò che custodiva." Nadia inspirò con fatica, cercando di ignorare il dolore che le stringeva il fianco. "La piramide non è ciò che pensavamo. Se scateni una guerra dentro questa sala, rischi di distruggere qualcosa che riguarda tutti noi. Non soltanto l'Impero."
 
-*Nonostante il mio tradimento, Mira sta affidando la sua vita a me.*
+Khamal socchiuse gli occhi. "Scansati, Nadia. Qualunque menzogna ti abbiano raccontato, non cancella ciò che Sirios ha fatto."
 
-Non appena Mira fu a tiro, Rurik la afferrò, puntandole senza esitazione un coltello alla gola.
+La sua mano scattò al fianco ed estrasse il pugnale. Le guardie imperiali reagirono immediatamente, stringendosi intorno al sovrano con le spade sollevate; i ribelli risposero allo stesso modo e, nel giro di un respiro, la sala si riempì di lame pronte a colpire. Gli uomini di Khamal erano abbastanza numerosi da minacciare il trono, ma non da mantenere quella posizione a lungo: dai corridoi potevano arrivare rinforzi in qualsiasi momento, e tutti ne erano consapevoli.
 
-Khamal spostò lo sguardo da Mira all'imperatore. Abbassò leggermente il coltello, ma senza riporlo. Ora che la donna era in suo potere aveva una posizione di netto vantaggio.
+Nadia si trascinò in avanti, appoggiando il peso sulla gamba sana, finché riuscì a frapporsi tra i due schieramenti.
 
-"Parla, Nadia" concesse infine. "Hai una sola possibilità di spiegarti."
+"Aspettate!"
 
-Nadia deglutì.
+Il corpo le tremava per lo sforzo, ma rimase in piedi.
 
-Gli sguardi di tutti erano rivolti su di lei, e per un attimo si sentì mancare. Le sorti dell'umanità erano nelle sue mani, anche se non ne era pienamente consapevole. Ma quando parlò, la sua voce era ferma.
+"Devi ascoltarmi, Khamal. Mira, l'imperatore, la piramide\... sono parti di una storia molto più grande di questa guerra. Lasciami spiegare."
 
-"Prima, mentre le guardie mi inseguivano, mi sono imbattuta nella corona. L'imperatore l'aveva fatta nascondere, non voleva venisse trafugata, ma per caso ho visto il nascondiglio. Ero alle strette, non sapevo cosa fare per uscirne. Allora ho deciso di provare\... provare a indossarla. Khamal, mi avevi detto che la corona possedeva dei poteri, che era la fonte della magia dell'impero\... Ma non credo sia così."
+Il coltello di Khamal rimase sospeso a mezz'aria. La sua esitazione durò soltanto un istante, ma Nadia la percepì.
 
-Nadia guardò l'imperatore, che ricambiò il suo sguardo con occhi freddi ma attenti.
+"Non so che cosa tu abbia visto," disse, "ma so riconoscere un tentativo di guadagnare tempo. Ora scansati. Qui ci pensiamo noi."
 
-"Penso che l'imperatore stesso non abbia mai saputo che poteri nascondeva la corona. E forse nemmeno Mira."
+Nadia non si mosse di un millimetro, ma sentiva che la situazione le stava sfuggendo di mano. Era quasi riuscita ad avere l'interesse di Khamal, ma ora l'attenzione del leader ribelle era tornata sul sovrano.
 
-"Sciocchezze," la interruppe Khamal. "Allora perché indossarla sempre? Perché quella corona è caduta dal cielo, come un dono divino?"
+Fu allora che Mira uscì dalle ombre.
 
-"Forse\... forse l'imperatore la indossava nella speranza di scoprire il suo potere. Sperava che prima o poi si manifestasse. Ma ciò non è mai successo. Per qualche motivo, solo quando l'ho messa io, la corona ha mostrato la sua magia."
+La calma solenne che di solito rendeva il suo volto quasi inaccessibile lasciava intravedere una tensione profonda, ma la sua voce rimase ferma.
 
-"E qual è il potere nascosto, dunque?" il tono di Khamal sembrava annoiato, ma Nadia era certa che la stesse ascoltando attentamente.
+Non fu a Khamal che si rivolse, ma a Sirios. "Mio signore, ordina ai tuoi uomini di abbassare le armi."
 
-"Nessuno. Quando ho messo la corona, ho solo ricevuto\... delle visioni. Ho ricevuto i pensieri e le memorie\... delle ultime persone che hanno indossato la corona."
+Sirios era immobile. Le guardie attendevano un suo cenno, pronte a scattare, mentre il suo sguardo passava da Khamal a Nadia e infine alla sacerdotessa.
 
-Cercando di frenare il tremito che le percorreva il corpo, Nadia raccontò cosa aveva visto: il ragazzino che aveva trovato la corona nelle rovine della piramide. Quell'uomo -- Nadia sapeva che si chiamava Leon -- in quella stanza moderna. L'imperatore stesso, al momento della sua incoronazione.
+"Mio signore," ripeté Mira, avvicinandosi appena. "Un mio consiglio ti ha mai portato alla rovina?"
 
-"Alla fine ho visto me stessa." La sua voce era un sussurro. "Indossavo la corona... ma non accadeva nulla. Era come se fossi un'altra me, in una storia che avrebbe potuto avere un finale diverso."
+Nadia vide la mascella dell'imperatore serrarsi. Per anni aveva lasciato a Mira decisioni che non comprendeva del tutto. Ora scopriva che una parte di quel disegno gli era stata nascosta, e che il potere della corona si era manifestato in Nadia e non in lui.
 
-"Ciò che dici non ha alcun senso", disse Khamal, con tono aggressivo, il coltello stretto saldamente nella mano. "Guardati Nadia: ti sei fatta soggiogare dalle loro stregonerie." L'uomo ragionevole e saggio che Nadia aveva conosciuto era scomparso. Il leader della Setta sembrava spiritato, la bramosia di vendetta lo accecava completamente.
+Eppure, sollevò una mano. "Abbassate le spade."
 
-L'imperatore fece un passo avanti, senza distogliere lo sguardo da Mira, ancora saldamente trattenuta dai ribelli. Nemmeno lui, il sovrano dell'impero, aveva compreso appieno la posta in gioco. Ma sapeva di chi fidarsi. "Lasciate parlare Mira. Lei saprà spiegarvi tutta la storia."
+Le guardie esitarono, incredule.
 
-Khamal esitò. Poi, senza togliere gli occhi dall'imperatore, si rivolse a Mira. "Parla, donna."
+"Ho dato un ordine."
 
-Rurik allontanò il coltello dalla gola della sacerdotessa, che si ricompose. Quando parlò, la sua voce era straordinariamente calma, come se non avesse avuto un pugnale alla gola fino un istante prima.
+Le lame si abbassarono lentamente, senza essere riposte. Nessun soldato abbandonò la propria posizione, ma il gesto allentò appena la tensione che stringeva la sala.
 
-"Questo mondo custodisce un segreto. Il tempo non scorre come crediamo, non è una linea retta: è un cerchio destinato a ripetersi. Le scritture sacre lo raccontano da sempre. Quelle che chiamiamo *Parole dei Precursori* non sono altro che memorie di chi ci ha preceduti, un popolo avanzatissimo vissuto cinquemila anni fa. E ogni ciclo si ripete immutabile, come una tragedia che va in scena ancora e ancora, sempre con gli stessi attori, sempre con lo stesso finale: il disastro."
+Sirios fissò Khamal.
 
-Fece una pausa, il suo sguardo fisso su Nadia. "Indossando la corona, lei ha aperto una possibilità. L'unica. Qualcosa è cambiato. La trama della tragedia può essere riscritta." I suoi occhi incontrarono quelli di Khamal. "Ma sta a noi decidere se darle un lieto fine."
+"Fa' arretrare i tuoi uomini. Ascolteremo ciò che la ragazza ha da dire."
 
-Nella sala rimase un silenzio denso, mentre le parole di Mira risuonavano nelle menti dei presenti.
+Khamal non abbassò il coltello.
 
-Infine, Khamal riprese la parola. "Mira. Chi sei veramente? Se non dalla corona, da dove arrivano i poteri dell'impero?"
+"Sempre il solito, Sirios. Mi offri una tregua mentre aspetti che il resto delle tue guardie ci raggiunga."
 
-Mira sospirò, e per un istante sembrò che il peso del mondo intero gravasse sulle sue spalle. "Io? Non sono altro che un burattino nelle mani del tempo, come tutti voi. Ho ricevuto un dono, un dono dal futuro. O, dovremmo dire, dal passato. Un dono che avrebbe dovuto cambiare le sorti dell'umanità, che avrebbe dovuto accendere la fiamma di una nuova civiltà. In tutti i cicli passati, la fiamma che ho acceso è durata un battito di ciglia. Ma ora\... ora forse c'è speranza che la nostra civiltà sopravviva ai secoli."
+"Non questa volta, mio Lord." Mira avanzò verso di lui. La sua figura esile e aggraziata sembrava fuori posto fra le armi e i volti contratti, ma non rallentò.
 
-"Khamal, un tempo eravamo compagni." L'imperatore fece un passo avanti. "So che ti ho fatto dei torti, ma ora capisci che è stato per una nobile causa. Non abbiamo forse governato con saggezza e umanità? Non abbiamo creato grandi opere, e diffuso benessere e conoscenza? Unisciti a noi, fai sentire la tua voce e la voce del popolo e insieme potremo costruire un regno grandioso. Le fondamenta per una civiltà magnifica e duratura. La culla di un'umanità che sarà in grado di liberare il mondo dalla maledizione."
+"Prendimi come ostaggio. Finché sarò nelle tue mani, l'imperatore non ordinerà l'attacco. Ascolta ciò che Nadia ha visto e, se alla fine crederai che sia soltanto un inganno, potrai decidere che cosa fare di me."
 
-Il coltello nella mano di Khamal rifletteva le luci del salone. Il silenzio tra loro era denso, carico di tensione, di storie passate, di ferite mai rimarginate.
+"Mira," disse Sirios, con un tono che suonava insieme come un ordine e un avvertimento.
 
-"Khamal." Era stata Nadia a parlare. La voce era un sussurro, come se temesse di spezzare il delicato equilibrio. "La rabbia ti ha consumato, ma ti prego\... guarda oltre l'odio. Questo non è il futuro che desideravi. La morte dell'imperatore non porterà il regno all'ordine. E non ti porterà pace."
+La sacerdotessa non si voltò. Prima che qualcuno potesse fermarla, uscì dal cerchio protettivo delle guardie e attraversò lo spazio che la separava dai ribelli.
 
-Rurik teneva ancora in ostaggio Mira. "Nadia ha ragione, Khamal. Forse possiamo ottenere di più con un accordo. La voce del popolo verrà ascoltata."
+Non appena fu a tiro, Rurik la afferrò per un braccio e le puntò il coltello alla gola. Le guardie imperiali rialzarono istintivamente le armi, ma Sirios le fermò con un altro gesto. Il suo volto era immobile, attento.
 
-"Nessuno di noi è un santo, Khamal. Lo sappiamo entrambi. Dietro ai nostri buoni propositi nascondiamo intrighi, inganni e astuzie. È inevitabile. È nella natura umana, ed è così che funziona il gioco del potere. Ma a volte il fine giustifica i mezzi, e noi due lo sappiamo bene."
+Khamal guardò Mira, poi Nadia e infine l'imperatore. Ora possedeva una garanzia concreta e, con essa, il vantaggio che gli serviva.
 
-Khamal strinse l'impugnatura del pugnale. Anni di rancore, di sangue e sofferenza lo avevano portato lì, a quel singolo momento. Alle sue spalle, un plotone di ribelli era lì per servire la sua causa. Non poteva tradirli.
+Abbassò appena il coltello, senza riporlo.
 
-Guardò Nadia, inginocchiata in una pozza di sangue, lo sguardo supplicante. Aveva mandato quella ragazzina in una missione suicida. L'aveva usata per i suoi scopi, e ora era pronto a gettarla via come un coltello rotto. All'improvviso, realizzò che la sua nobiltà d'animo si era spenta da tanti anni. Aveva ingannato e raggirato più e più volte, proprio come aveva fatto l'imperatore, arrivando a usare una bambina per la sua vendetta personale. Come poteva pretendere di essere un leader migliore di lui?
+"Parla, Nadia. Hai una sola possibilità."
 
-Le dita si serrarono attorno all'elsa con un tremito appena percettibile. Per un istante, il tempo sembrò fermarsi.
+La ragazza deglutì. Tutti gli sguardi erano rivolti verso di lei e, per un istante, il peso di quella sala sembrò schiacciarla. Poi guardò Mira, immobile fra le braccia di Rurik, e trovò la forza di cominciare.
 
-Poi, con un respiro profondo, abbassò il coltello.
+Raccontò tutto, dalla sua fuga alle guardie che l'avevano inseguita al nascondiglio della corona, a come, trovandosi senza via d'uscita, avesse deciso di indossarla.
 
-"Non mi fido di te, Sirios," disse Khamal. "Ma per Nadia\... sì, per lei sono disposto a mettere da parte l'odio."
+"Khamal, pensavamo che la corona fosse la fonte della conoscenza dell'Impero. Ci sbagliavamo." Nadia si asciugò un rivolo di sangue dalla fronte. "Né l'imperatore né Mira conoscevano il suo potere."
+
+La presa di Khamal sul pugnale non si allentò. "Ti aspetti che abbandoni tutto ciò per cui abbiamo combattuto perché una vecchia reliquia ti ha mostrato delle immagini?"
+
+Nadia sostenne il suo sguardo, ma la vista le si oscurò. Sentì le forze abbandonarla, ma si costrinse a resistere.
+
+"Se la corona non è la fonte delle conoscenze dell'Impero, allora da dove provengono? Da dove vengono le luci, le armi e tutti i segreti che Mira ha consegnato al trono?"
+
+La sacerdotessa sollevò appena il mento. Il coltello di Rurik sfiorava ancora la sua pelle, ma quando parlò la sua voce rimase straordinariamente calma.
+
+"Da me."
+
+Khamal la osservò con diffidenza.
+
+"Il sapere che hai attribuito alla corona non appartiene a Sirios. *Io* l'ho ricevuto, insieme al compito di tramandarlo e usarlo per far fiorire il regno."
+
+"Un dono degli dèi?" domandò Khamal, beffardo.
+
+"Un dono dei Precursori."
+
+Un mormorio inquieto attraversò la sala.
+
+Sirios continuava a fissare Khamal. "Un tempo eravamo compagni," disse. "Conosco la storia che racconti a te stesso. Credi che ogni inganno, ogni morte e ogni sacrificio siano giustificati perché combatti per il popolo."
+
+"Non osare paragonarti a me."
+
+"Perché no?" Il tono di Sirios si fece tagliente. "Io ho imposto sacrifici in nome dell'ordine e dell'opera che credevo affidata a me. Tu hai mandato una ragazzina dentro il palazzo perché rischiasse la vita al posto tuo. Abbiamo entrambi usato altre persone per raggiungere ciò che ritenevamo necessario."
+
+Una smorfia distorse il volto di Khamal, come se avesse ingerito qualcosa di amaro.
+
+Sirios indicò Nadia con un gesto brusco. "È questo il prezzo della tua nobile causa."
+
+Per la prima volta da quando era entrato nella sala, lo sguardo di Khamal si soffermò davvero sulla ragazza. Nadia era ancora inginocchiata tra i due schieramenti, una mano premuta contro il fianco e l'altra posata a terra per non cadere. Il sangue le colava dalla fronte, mentre la gamba ferita tremava sotto il suo peso.
+
+Nadia fissò Khamal, attingendo a ogni forza rimasta. "Mi hai mandata qui perché ti fidavi di me." Deglutì, cercando di scacciare la nausea. "Adesso fidati ancora. Solo per un momento."
+
+Khamal non rispose.
+
+"Non devi perdonarlo." Nadia indicò appena Sirios con lo sguardo. "E nemmeno rinunciare a quello per cui hai combattuto. Ma se cominciate a uccidervi, non cambierà niente. Sarà tutto come prima."
+
+Le mancò il respiro. Si piegò in avanti, soffocando un gemito, poi riuscì a sollevare nuovamente gli occhi.
+
+Dietro Khamal, i ribelli si scambiarono occhiate incerte. Alcuni continuavano a fissare l'imperatore con un odio che nessuna rivelazione avrebbe potuto cancellare; altri avevano abbassato appena le armi, turbati dalla vista di Nadia e dalle parole di Mira. Un uomo mormorò qualcosa al compagno, ricevendo in risposta un secco cenno di diniego.
+
+Lo sguardo di Nadia cercò Rurik. Il giovane teneva ancora Mira stretta per un braccio, ma il coltello si era allontanato dalla sua gola. Per qualche istante lui e Nadia si guardarono.
+
+La ragazza non disse nulla; non ne aveva più la forza. Ma non servì. Rurik abbassò appena il capo, come quando, nelle settimane precedenti, le aveva fatto capire senza parole che poteva contare su di lui.
+
+"Fermarci non significa arrenderci." Il tono di Rurik era saldo. Non stava cercando di far ragionare Khamal, né di dissuaderlo. Solo di metterlo di fronte ai fatti. "Abbiamo Mira. Controlliamo gli ingressi e possiamo trattare da una posizione di forza. Se attacchiamo, prima o poi arriveranno altre guardie. Anche vincendo qui, quanti dei nostri usciranno vivi dal palazzo?"
+
+Alcuni ribelli annuirono. Altri strinsero le armi con maggiore forza, ma nessuno contestò apertamente.
+
+"Non ci servono promesse," proseguì Rurik, stavolta rivolto all'imperatore. "Pretendiamo garanzie. La voce del popolo, la liberazione dei prigionieri, la fine delle persecuzioni. Quello per cui siamo venuti può essere ottenuto senza morire tutti in questa sala."
+
+Khamal scosse la testa. "No, Rurik, è solo un altro inganno."
+
+"Abbiamo Mira," rispose Rurik.
+
+Khamal rimase immobile. Il pugnale era ancora puntato verso l'imperatore.
+
+Con uno sforzo disperato, Nadia si rimise in piedi. Le gambe le tremavano, il sangue continuava a colarle lungo la tempia e ogni respiro le strappava una fitta al fianco.
+
+Barcollò fino a raggiungere Khamal. Gli strinse debolmente il polso che stringeva il pugnale, e abbassò l'arma.
+
+"Io mi sono fidata di te." La voce di Nadia era poco più di un sussurro. "Adesso fallo tu."
+
+Khamal non reagì, mentre l'arma si abbassava. Nadia vide il suo sguardo incerto posarsi su di lei, mentre la vista le si annebbiava.
+
+Per un lungo istante nessuno si mosse.
+
+Poi le forze la abbandonarono. Le ginocchia cedettero e il suo corpo si afflosciò in avanti.
+
+Khamal la sorresse d'istinto, afferrandola saldamente prima che cadesse a terra.
+
+Il pugnale cadde sul pavimento di pietra con un suono secco che riecheggiò nel silenzio della sala.
+
+Gli occhi di Khamal rimasero fissi su Nadia, ma lei li percepiva solo come una macchia lontana, sfocata. Il mondo le arrivava a scatti. Di fronte a lei, alcuni ribelli abbassarono lentamente le armi. Altri guardavano incerti, aspettando un ordine.
+
+Khamal inspirò profondamente.
+
+"Abbiamo Mira," disse infine. "E abbiamo una posizione da cui trattare." Solo allora alzò gli occhi verso Sirios. "Ci siederemo a un tavolo e discuteremo dei diritti del popolo. Fino ad allora, lei resta con noi."
+
+L'imperatore rimase in silenzio per qualche istante.
+
+Nadia non sentì il gesto di assenso, ma vide Khamal voltarsi verso i propri uomini.
+
+"Abbassate le armi senza riporle."
+
+Rurik rinfoderò il coltello, ma mantenne la presa sul braccio di Mira.
+
+Non era una resa e non era ancora una pace. Bastava un gesto sbagliato perché la sala esplodesse di nuovo.
+
+Ma, almeno per quella notte, la vendetta aveva smesso di essere l'unica strada possibile.
+
+# CAPITOLO
+
+id: nelle_segrete
+tipo: capitolo
+titolo: Nelle segrete
+descrizione: Nadia segue Mira nei sotterranei della piramide. Qui, Nadia scoprirà una verità sconvolgente.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Quando i rinforzi imperiali raggiunsero la Sala del Trono, trovarono i ribelli ancora armati e Mira trattenuta sotto la sorveglianza di Rurik. La tensione sembrò sul punto di impennare nuovamente, ma Sirios ordinò ai soldati di fermarsi. L'imperatore aveva mantenuto la parola.
+
+Pochi minuti dopo, Sirios e Khamal si ritirarono insieme a pochi uomini di fiducia per definire i dettagli dell'accordo provvisorio.
+
+Nadia non vide altro.
+
+Il dolore, fino a quel momento soffocato dall'adrenalina, le piombò addosso all'improvviso. Sentì qualcuno sostenerla mentre le gambe cedevano, poi tutto svanì.
+
+\[STACCO\]
+
+Quando riaprì gli occhi, il soffitto le apparve come una macchia sfocata. Le ci volle qualche istante per mettere a fuoco l'ambiente.
+
+Si trovava nella sala delle erbe, una stanza nel palazzo destinata alla preparazione di unguenti e rimedi. Lungo le pareti erano allineati scaffali colmi di vasi di terracotta, fasci di erbe essiccate e ampolle di vetro. L'odore acre delle piante medicinali le riempì le narici.
+
+Mira, seduta accanto a lei, le stava sistemando con delicatezza la benda sulla fronte.
+
+Per settimane Nadia aveva trascorso le giornate ad aiutarla a vestirsi, prepararle il bagno e occuparsi di ogni sua necessità. Non avrebbe mai immaginato che, un giorno, sarebbe stata la sacerdotessa a medicare le sue ferite.
+
+"Le ferite non sono gravi," disse Mira, terminando il bendaggio. "Ma hai perso molto sangue."
+
+Nadia provò a sollevarsi. Il fianco protestò con una fitta, ma il dolore era già più sopportabile.
+
+Solo allora Nadia si accorse che non erano sole.
+
+Rurik era rimasto accanto alla porta, senza mai allontanarsi da Mira. Di fronte a lui, una guardia imperiale sorvegliava entrambi, quasi a ricordare che la tregua era ancora troppo fragile per concedere fiducia a qualcuno.
+
+"Vorrei vedere mio padre," mormorò Nadia. "Nelle segrete."
+
+La sacerdotessa rimase immobile, ma a Nadia non sfuggì l'ombra di perplessità.
+
+"Il prigioniero ventisei. Hual."
+
+Nadia abbassò lo sguardo. "Sì."
+
+Era come ammettere che la sua permanenza come ancella era dovuta a un motivo ben diverso da quello che aveva lasciato credere.
+
+"D'accordo."
+
+Nadia alzò gli occhi, mentre il suo cuore accelerava. Fece per alzarsi, quasi dimenticando di essere ferita, ma Mira la trattenne con fermezza.
+
+"Ferita non è ancora medicata."
+
+Solo mezz'ora più tardi, Nadia si alzò dal giaciglio. Il bendaggio le fasciava stretto il fianco e ogni movimento le procurava una fitta di dolore. Ma il sangue aveva smesso di colare dalla testa, e le gambe rispondevano di nuovo ai suoi comandi. Sarebbe bastato.
+
+Mira la precedette verso la porta, ancora presidiata dai due uomini.
+
+"Ebbene?"
+
+Rurik e la guardia imperiale si scambiarono uno sguardo incerto, come se entrambi aspettassero che fosse l'altro ad assumersi la responsabilità di lasciarle passare.
+
+Mira piegò appena la testa. "La tregua non cambierà se una figlia incontra suo padre."
+
+Rurik annuì. La guardia esitò ancora qualche secondo, poi fece un passo da parte.
+
+"Vi accompagneremo."
+
+Uscirono dalla sala delle erbe formando uno strano corteo.
+
+Ad aprire la fila era Mira. Un passo dietro di lei camminava Rurik: il coltello era tornato nel fodero, ma la sua mano non se ne allontanava mai troppo. Accanto a lui, la guardia imperiale sorvegliava ogni movimento del ribelle senza distogliere lo sguardo. Nadia chiudeva la fila, costretta a rallentare per il dolore che le pulsava al fianco.
+
+Percorsero i corridoi del palazzo in un silenzio irreale. Le poche guardie incontrate lungo il cammino si facevano da parte senza osare fare domande, limitandosi a seguire con lo sguardo quell'insolita processione.
+
+Scesero la lunga scalinata che conduceva ai livelli inferiori e raggiunsero il tunnel che collegava il palazzo alla piramide.
+
+Il sotterraneo li accolse con un'aria umida e fresca. Un carceriere li accolse con una lampada a olio e guidò il gruppo lungo il corridoio.
+
+Le celle si susseguivano una dopo l'altra, immerse nell'oscurità. Da qualcuna proveniva un colpo di tosse, da un'altra il rumore di una catena trascinata sul pavimento.
+
+Uno di quegli uomini poteva essere suo padre.
+
+Ma proseguirono oltre. Raggiunsero una sezione più remota, dove l'aria era ancora più pesante. Il respiro di Nadia si faceva più rapido a ogni passo.
+
+Infine si fermarono.
+
+La porta era robusta, di legno pesante con delle inferiate che facevano intravedere l'oscurità della cella.
+
+Mira si voltò verso Rurik.
+
+"Non c'è bisogno che entriate anche voi."
+
+Il ribelle non rispose.
+
+La sacerdotessa accennò appena alle spesse mura di pietra che li circondavano.
+
+"Non ho intenzione di fuggire."
+
+Erano nel cuore delle prigioni imperiali. Non c'era posto peggiore per tentare la fuga.
+
+Rurik guardò la guardia imperiale. L'uomo ricambiò lo sguardo, poi scrollò appena le spalle. "Aspettiamo fuori."
+
+Il carceriere infilò la chiave nella serratura e aprì la porta della cella.
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+\[STACCO\]
+
+Entrarono.
+
+La lucerna illuminò una piccola stanza quadrata. Un catino per l'acqua da un lato. Un secchio per i bisogni fisici dall'altro. La stanza puzzava. Sdraiato su un misero giaciglio di paglia sudicia, un uomo era rannicchiato. Lentamente, disturbato dal rumore e dalla luce, si alzò a sedere.
+
+"Mia signora Mira" disse, con un debole sarcasmo. "A cosa devo la visita a quest'ora della\..." Poi, i suoi occhi misero a fuoco la ragazza. "Nadia?" In una frazione di secondo, l'espressione del suo volto passò da sarcasmo a incredula gioia.
+
+Nadia non attese oltre. Gli corse incontro e gli si gettò addosso, stringendolo con tutte le sue forze. Non sentì il dolore delle contusioni, né il bruciore del fianco colpito. Per un istante esistette soltanto quell'abbraccio.
+
+Suo padre era vivo.
+
+Sentì il tessuto ruvido e sporco della sua tunica. Hual era più magro di come lo ricordava. Le spalle sembravano più strette, il viso scavato, la barba incolta.
+
+"Bambina mia\..." mormorò Hual, quasi senza fiato. Le prese il volto tra le mani, come per assicurarsi che fosse reale. "Non posso crederci. Sei davvero tu."
+
+Nadia annuì, incapace di parlare. Sentiva gli occhi bruciare. Aveva immaginato quel momento per settimane, temendo ogni giorno di arrivare troppo tardi, o peggio ancora di trovare una cella vuota. E invece lui era lì, davanti a lei.
+
+Hual le sfiorò i capelli, poi alzò lo sguardo verso Mira, ancora ferma sulla soglia della cella. L'abito candido riluceva nell'oscurità, dando alla sua figura un'aura quasi surreale.
+
+\[STACCO\]
+
+"Mia signora\..." disse Hual con voce roca.
+
+Nei suoi occhi c'era una riconoscenza silenziosa, mista a un profondo smarrimento. Mira si limitò ad accennare un lieve cenno del capo.
+
+Lui e Nadia si separarono lentamente, senza però allontanarsi davvero. Le loro mani rimasero intrecciate, come se entrambi temessero che quell'incontro potesse dissolversi da un momento all'altro.
+
+"Voi due vi conoscete?" domandò Nadia, asciugandosi gli occhi con la manica della tunica.
+
+"Abbiamo parlato in passato," rispose Mira con semplicità. "Ma ho scoperto soltanto stanotte che Hual è tuo padre."
+
+Nadia aggrottò la fronte.
+
+"Perché?"
+
+Mira sostenne il suo sguardo.
+
+"Perché cercavo delle risposte. E credevo che tuo padre potesse darle."
+
+Quelle parole non fecero che aumentare la confusione.
+
+Come mai l'Alta Sacerdotessa dell'Impero avrebbe dovuto rivolgersi a un semplice contabile rinchiuso nelle segrete?
+
+Nadia ripensò alle ultime settimane. Al quaderno lasciato da suo padre. Al simbolo. Alla Setta delle Ombre. Al palazzo. A Mira. Aveva avuto la sensazione di seguire un pensiero già tracciato, di cui non aveva mai capito il fine.
+
+Sollevò lentamente lo sguardo.
+
+"Papà\..."
+
+La sua voce aveva perso l'entusiasmo di pochi istanti prima.
+
+"Qual è il vero motivo per cui ti hanno imprigionato?"
+
+Nella cella calò il silenzio.
+
+Hual non rispose subito.
+
+Perfino Mira rimase immobile, gli occhi fissi su di lui. Sembrava attendere quella risposta quanto Nadia.
+
+"Bambina mia\..."
+
+Hual abbassò lo sguardo e si passò lentamente una mano sul volto. Cercò le parole, ma nessuna sembrava quella giusta.
+
+La stretta di Nadia si allentò appena. La gioia di averlo ritrovato si incrinò. Al suo posto affiorava una sensazione nuova: quella di non conoscere davvero l'uomo che aveva davanti. "Ho attraversato mezzo Impero per ritrovarti," disse piano. "Ho rischiato tutto. È troppo chiedere di sapere la verità?"
+
+Hual rimase ancora in silenzio.
+
+Quando tornò a guardarla, sembrava improvvisamente molto più vecchio.
+
+"Hai ragione." Inspirò lentamente. "Ti devo delle spiegazioni."
+
+Fece una breve pausa.
+
+"E ti devo delle scuse." Alzò lo sguardo e incrociò quello di Mira. "Ormai non ha più senso nascondere la verità."
+
+Poi tornò a fissare Nadia.
+
+"È ora che tu sappia tutta la storia."
+
+Restò in silenzio per qualche istante, come se dovesse decidere da dove iniziare davvero.
+
+Nadia non disse nulla. Continuava a guardarlo, confusa, ancora incapace di conciliare l'uomo che l'aveva cresciuta con quello che sembrava conoscere segreti persino all'Alta Sacerdotessa.
+
+Poi Hual cominciò.
+
+"Per molto tempo ho viaggiato nelle provincie, per il mio mestiere di contabile imperiale. Registri, tasse, approvvigionamenti, raccolti..." Fece un mezzo sorriso senza allegria. "Un lavoro diverso da quello della maggior parte della mia gente. Un lavoro che mi ha dato una visione generale dell'impero, della sua grandezza. E delle sue incongruenze.
+
+"Più vedevo, più mi interrogavo. E la domanda era sempre la stessa: come poteva un impero di queste proporzioni essere così stabile, così fiorente, mentre il resto del mondo era centinaia, se non migliaia, di anni più arretrato? No, non parlo della forza militare o della ricchezza. Strade sicure, agricoltura avanzata, scuole, architettura, idraulica, scrittura, stampa, metallurgia\... Era un qualcosa che nessun'altra nazione poteva vantare."
+
+Guardò Mira, quasi a cercare conferma che almeno quella parte della sua ricostruzione fosse corretta.
+
+"All'inizio la mia era curiosità. Normale. Da contabile, da uomo abituato a notare incongruenze." Continuò Hual, più lentamente. "Poi è diventata una specie di... attrazione.
+
+"Ho iniziato a cercare un'origine. Un punto di partenza. Pensavo ai Precursori, a tecnologie perdute, a libri antichi contenenti conoscenze ancestrali. Ho studiato a fondo le Parole, in cerca della soluzione. Ma solo indizi e nuovi misteri, in un puzzle sempre più fitto e, devo ammetterlo, sempre più intrigante.
+
+"Naturalmente ho pensato anche alla corona dell'imperatore: la storia di Isil e la Stella Cadente sembra citarla quasi letteralmente. Una fonte di conoscenza, un monile che potesse rendere l'indossatore praticamente onnisciente. Ma appoggiarsi a un vecchio mito non mi bastava, volevo saperne di più, volevo la verità."
+
+Una luce antica sembrò brillare negli occhi stanchi dell'uomo.
+
+"La svolta è arrivata il giorno del solstizio di cinque anni fa. Il carro itinerante: sempre lo stesso percorso. Sempre la stessa statua trasportata di città in città. Tutto ciò era qualcosa di sacro... ma anche di necessario.
+
+"Una notte ho trovato le conferme che cercavo. Un sistema di collegamenti, un'energia invisibile che il nostro tempo non dovrebbe conoscere. Una serie di anfore, contenenti una sostanza acida. Aceto. Limone. Non ho idea di come funzionasse, ma tutto questo serviva a mantenere attiva la sfera."
+
+Nadia ricordò la grande sfera dorata incastonata sul capo della statua di Rham, nel grande tempio. Quella stessa statua che veniva portata in processione di città in città.
+
+"A cosa serve la sfera?"
+
+Per un istante, Hual incrociò lo sguardo di Mira. "Un ponte di collegamento con Dio. Un artefatto creato dai Precursori in grado di comunicare con il sommo Rham. La sola e unica fonte della conoscenza dell'impero."
+
+Si schiarì la gola prima di riprendere.
+
+"Fu allora che capii che stavo guardando nella direzione sbagliata. Tutti vedevano il potere nell'Imperatore. Solo io avevo iniziato a cercarlo altrove: nella sua sacerdotessa."
+
+Fece una pausa. I passi della guardia, fuori dalla cella, erano l'unico suono udibile.
+
+"Una cosa non mi era ancora chiara. Perché avvicinandosi alla sfera nessuno percepiva nulla, mentre lei sì?"
+
+Nadia rifletté. Doveva esserci un qualcosa di fisico che dirottasse la voce di Rham verso Mira e non verso una persona qualunque.
+
+Poi ricordò.
+
+"Durante il festival" sussurrò. "Lì tutti noi abbiamo sentito la voce del sommo Rham."
+
+"Esatto, Nadia" sorrise stancamente Hual. "Quella rara comunione con Dio. Noi possiamo sperimentarla solo ogni cinque anni\... per Mira è la normalità. Dico bene, mia signora?"
+
+Mira non rispose, il volto impassibile nonostante tutto.
+
+Hual proseguì. "Credo che durante il solstizio il potere di Rham sia così forte da riuscire a giungere a tutto il popolo. Dopotutto, stiamo parlando del Dio-Sole. Forse in quell'occasione la vicinanza diretta con la sfera è sufficiente per sentire la voce di Dio a chiunque sia nelle vicinanze."
+
+Nadia ripensò a quel giorno, al grande tempio, dove la voce di Rham si era intrecciata direttamente con i suoi pensieri. E rivide la sfera dorata che sovrastava i fedeli, dalla cima della statua.
+
+Hual abbassò lo sguardo sulle proprie mani. "Se tutto questo era vero... se c'era un sistema, una trasmissione, una continuità nella genealogia... allora serviva qualcuno." Continuò più piano. "Qualcuno capace. Un erede."
+
+Fece una pausa.
+
+Guardò Nadia, poi abbassò lo sguardo.
+
+"Ho deciso che tu saresti diventata la prossima Mira."
+
+La rivelazione piombò su Nadia come una doccia fredda.
+
+Nadia lo guardò, incredula. "Io\... sacerdotessa?"
+
+"Pensavo di farlo per ordine. Per stabilità. Per... equilibrio. Credevo che mia figlia fosse la persona giusta: coraggiosa, capace, intelligente. Come nella leggenda di Isil: colei che non vuole il dono, è la persona più adatta a riceverlo." Una risata breve, senza gioia. "Ma non era vero. Il mio era solo egoismo."
+
+Hual proseguì. "Solo qui, tra le mura di questa cella, mi sono reso conto del rischio enorme in cui ti ho messa. Non sai quanto mi pento della mia ingenuità: non solo ho messo a rischio l'impero, ma -- cosa molto più grave -- la vita della mia stessa figlia."
+
+Ora che Hual aveva cominciato, la confessione fluiva come acqua da una sorgente.
+
+"Ho chiesto al vecchio Belan, il sacerdote di Jenna, di denunciarmi all'impero. Era l'unico modo per entrare in contatto con Mira\... e per metterti sulla strada della capitale. Sapevo che saresti venuta, soprattutto dopo che Belan ti avrebbe messo la pulce nell'orecchio. Quanto alla Setta delle Ombre, era il mezzo per farti mettere in contatto con Mira."
+
+Nadia lo fissò, come se quelle parole arrivassero da troppo lontano per essere subito afferrate.
+
+"Volevi introdurre Nadia a corte, avvicinarla a me." Era stata Mira a parlare, per la prima volta. "Sapevi che il tempo per la scelta dell'erede era limitato, con la Setta delle Ombre che stringeva sempre di più." Fece una pausa breve, misurata. "Non sei mai stato della Setta. Anzi, il tuo obiettivo era l'opposto di quello che loro desideravano: continuità dell'Impero, stabilità... con tua figlia al centro di tutto questo."
+
+Hual abbassò lo sguardo.
+
+Mira continuò, con assoluta lucidità. "Ma hai sottovalutato la Setta. E hai sottovalutato Nadia. Credevi che la minaccia esterna fosse controllabile, che potesse essere guidata o contenuta. Invece, attraverso lei, è accaduto ciò che non avevi previsto." Un breve silenzio. "La Setta ha fatto irruzione e l'Impero è stato sul punto di cadere."
+
+Hual lasciò uscire un respiro spezzato, come se ogni parola lo avesse colpito più di un'arma.
+
+"Ho fallito su tutta la linea. Come stratega\..." La voce gli tremò appena. "\...e come padre."
+
+Nadia fece un passo quasi impercettibile verso di lui, ma si fermò.
+
+Per tutto quel tempo aveva creduto di inseguire le tracce lasciate da suo padre per ritrovarlo. Ora capiva che era stato lui, fin dall'inizio, a guidare ogni suo passo.
+
+Il viaggio verso la capitale, l'incontro con la Setta, l'ingresso a corte, perfino il suo servizio come ancella di Mira. Nulla era accaduto per caso.
+
+Si sentì mancare il terreno sotto i piedi. Avrebbe voluto essere furiosa, chiedergli come avesse potuto usarla in quel modo, ma la rabbia non arrivava. C'era solo un senso di vertigine, come se tutta la storia che aveva vissuto fino a quel momento appartenesse a qualcun altro.
+
+"Sì," disse Mira con calma. "Hai fallito, Hual."
+
+L'uomo abbassò lo sguardo.
+
+"Ma su una cosa avevi visto giusto."
+
+Posò gli occhi su Nadia.
+
+"Le capacità di tua figlia." Per la prima volta, sul volto dell'Alta Sacerdotessa comparve un'espressione che somigliava all'orgoglio. "Il coraggio che ha dimostrato stanotte è il motivo per cui l'Impero è ancora in piedi."
+
+Nadia rimase immobile. Sentirlo dire da Mira faceva un effetto strano.
+
+Mira face un ultimo passo verso Hual, guardandolo con un'espressione indecifrabile.
+
+"Tu non sai cosa si prova a essere me. Nessun padre vorrebbe per sua figlia il fardello che io porto sulle spalle."
 
 \[STACCO\]
 
@@ -9207,77 +10499,101 @@ immagine: img/capitoli/la_squadra.jpg
 
 Il sole tramontava oltre la grande pianura, tingendo di rosso le mura della capitale. Le magiluci illuminavano le vie più trafficate, come piccole lucciole in un prato estivo. La città, ancora segnata dai recenti tumulti, sembrava trattenere il respiro. Il cambiamento era nell'aria, ma nessuno sapeva ancora se sarebbe stato davvero un nuovo inizio.
 
-Sotto lo sguardo attento delle guardie e dei consiglieri, due uomini camminavano fianco a fianco lungo il viale principale del palazzo. Khamal e Sirios. Un tempo nemici giurati, ora costretti a condividere il destino della nazione.
+Sotto lo sguardo attento delle guardie e dei consiglieri, due uomini camminavano fianco a fianco lungo il viale principale del palazzo, tra alberi in fiore e fontane d'acqua limpida. Khamal e Sirios. Un tempo nemici giurati, ora accomunati dalla responsabilità di ricostruire un Impero che aveva rischiato il collasso.
 
-Khamal aveva un seggio nel consiglio governativo come rappresentante del popolo oppresso, un ruolo che fino a pochi mesi prima sarebbe stato impensabile. Alcuni nobili lo guardavano con diffidenza, altri con aperto disprezzo. C'erano state proteste, tensioni, persino minacce di congiure. Ma l'Imperatore lo aveva voluto lì. Per necessità o per convinzione, nessuno lo sapeva con certezza.
+Khamal sedeva ormai nel Consiglio come rappresentante del popolo, secondo gli accordi raggiunti dopo gli scontri al palazzo. Una presenza che molti nobili continuavano a sopportare a fatica. C'erano state proteste, tensioni, persino voci di congiure. Ma nessuno aveva osato mettere apertamente in discussione quell'intesa.
 
-"Ti sorprende essere qui?"
+"Ti stai pentendo?" domandò Sirios.
 
-Khamal esitò un istante, poi scosse il capo. "Mi sorprende che tu lo abbia permesso."
+Khamal gli rivolse un'occhiata.
 
-L'Imperatore tracciò con lo sguardo le strade illuminate dalle magiluci. "Il malcontento del popolo è un problema concreto. Non sei qui per simpatia, ma per necessità."
+"Di cosa?"
 
-Khamal accennò un sorriso amaro. "Forse sei diventato più saggio di quanto ricordassi."
+"Di aver deposto le armi."
 
-L'Imperatore non rispose subito. Infine, mormorò: "Forse."
+Per qualche passo nessuno dei due parlò.
+
+"No."
+
+Khamal osservò la città che si stendeva oltre le mura del palazzo.
+
+"Mi sto chiedendo se sarò all'altezza di quello che ho promesso."
+
+"È la prima domanda che dovrebbe porsi chiunque governi."
+
+Khamal annuì lentamente. "Allora partiamo con il piede giusto."
 
 \[STACCO\]
 
-Dopo gli eventi nella sala del trono, Mira aveva condotto Nadia nelle segrete. Quando aveva visto suo padre oltre le sbarre, Nadia era scoppiata in lacrime di gioia. Era vivo.
+Mira era appoggiata al parapetto della terrazza del palazzo, lo sguardo perso oltre le mura della capitale. Nadia rimaneva a pochi passi da lei, in silenzio. Entrambe sapevano che quello sarebbe stato il loro ultimo incontro.
 
-Più tardi, negli appartamenti di Mira, Hual le aveva raccontato ogni cosa. Delle sue ricerche, della sua ossessione per i misteri dell'impero, delle domande che per anni lo avevano accompagnato durante i suoi viaggi. Le aveva confessato il progetto che aveva coltivato in segreto e il ruolo che, nella sua ingenuità, aveva immaginato per lei.
+"Tuo padre avrebbe voluto vederti al mio posto," disse Mira. "E, viste le circostanze, ho preso seriamente in considerazione quella possibilità."
 
-Più di una volta si era interrotto. Più di una volta aveva abbassato lo sguardo. E, più di ogni altra cosa, le aveva chiesto perdono per averla coinvolta in qualcosa di tanto grande. Per averla esposta al pericolo. Per aver cercato di decidere il suo futuro al posto suo.
+Nadia lasciò vagare per un istante l'immaginazione. Lei, custode della conoscenza di un dio. Al comando dell'Impero, accanto all'Imperatore.
 
-Nadia aveva ascoltato senza interromperlo. Molte cose le sembravano assurde. Altre, semplicemente troppo grandi perché potesse comprenderle fino in fondo. Eppure, osservando quell'uomo seduto davanti a lei, consumato dal rimorso, non vedeva uno stratega o un cospiratore. Vedeva soltanto suo padre. Un uomo che, a modo suo, aveva voluto fare tutto il possibile per lei.
+L'idea svanì quasi subito.
 
-Poco dopo quell'incontro, Hual si era ritirato. Finalmente avrebbe potuto lavarsi e avere un pasto decente. Allora Mira e Nadia erano rimaste sole, come nei primi giorni a palazzo.
+"Non mi ci vedo."
 
-Mira si era incamminata sulla terrazza, e Nadia l'aveva seguita. Le due donne guardavano in silenzio l'orizzonte, consapevoli che quello sarebbe stato un addio.
+Mira sorrise appena. "Lo immaginavo."
 
-"Tuo padre ti avrebbe voluta al mio posto," disse Mira. "E viste le circostanze, è un'ipotesi che ho valutato davvero."
+"Non voglio passare il resto della vita chiusa in un palazzo a custodire segreti che non capisco. Non voglio decidere il destino del mondo. E poi\..." Un sorriso le attraversò il volto. "Ci sono persone che mi aspettano a casa."
 
-Nadia ci pensò sul serio. Lei con la conoscenza di un dio, al comando di un impero, al fianco dell'imperatore.
+La brezza fece ondeggiare i loro capelli. Per qualche istante nessuna delle due parlò.
 
-Durò solo per un istante.
+Nadia si appoggiò al parapetto. Le tornò in mente la sala del trono, la corona e quelle visioni impossibili.
 
-"Non mi ci vedo." disse semplicemente.
+"C'è ancora una cosa che non riesco a capire."
 
-Mira sorrise. "Lo immaginavo."
+Mira la guardò.
 
-"Non voglio passare il resto della vita nei palazzi a custodire segreti che non capisco. Non voglio decidere il destino del mondo. E poi, ci sono persone che mi aspettano a casa."
+"Come funziona davvero la corona?"
 
-La brezza fresca mosse i capelli delle due donne. Per un attimo, nessuna delle due parlò.
+"Nessuno l'ha mai capito con esattezza," ammise Mira. "Ma immaginala come un libro vuoto. Ogni volta che qualcuno la indossa, vi scrive una pagina: i suoi pensieri, le sue emozioni, i suoi dubbi. Col passare dei cicli quel libro si è riempito, pagina dopo pagina. Molte raccontano la stessa storia, perché provengono da situazioni che si sono ripetute più volte. Eppure la corona le conserva tutte."
 
-"Io\... non penso di aver capito davvero come funziona quella corona."
+"Quindi quando io ho indossato la corona\... è come se il libro avesse finito le pagine?"
 
-"Nessuno lo ha capito con esattezza," ammise Mira, "ma penso che tu possa immaginarla come un libro vuoto. Ogni volta che qualcuno la indossa, scrive una pagina di quel libro. Tutti i suoi pensieri, le sue sensazioni, le sue preoccupazioni. Il libro si è riempito nel corso dei cicli, pagina dopo pagina. Tante pagine sono identiche le une alle altre, perché provengono dalla stessa situazione che si ripresenta in cicli diversi. Ma il libro le registra comunque."
+"Proprio così," annuì Mira. "E quando il libro termina, a quella persona è concesso leggerlo per intero. Un meccanismo semplice ma ingegnoso allo stesso tempo."
 
-"Quindi quello che è successo quando io ho indossato la corona\... è come se il libro avesse finito le pagine?"
+"Quindi il fatto che la corona si sia attivata proprio con me\... è stato un caso?"
 
-"Proprio così," sorrise Mira. "E quando il libro termina, a quella persona è concesso leggerlo per intero. Un meccanismo semplice ma ingegnoso allo stesso tempo."
+Mira inclinò appena la testa. Osservò Nadia per qualche istante, come valutando la domanda.
 
-"Quindi, il fatto che la corona si sia rivelata proprio a me\... è stato un caso?"
-
-Mira la osservò con uno sguardo comprensivo, inclinando leggermente la testa. "La corona si è attivata per caso, è vero. Ma nel tempo ciclico, il caso non esiste. Tu eri *destinata* ad attivare la corona, ma forse non nel modo che normalmente intendiamo per destino." Mira ci rifletté. "È un po' come quando i bambini fanno la conta: qualcuno è destinato a venire scelto, ma non si sa finché non si smette di contare."
+"La corona si è attivata per caso, questo è vero. Ma nel tempo ciclico il caso non esiste. Tu eri destinata ad attivarla, anche se non nel senso in cui di solito intendiamo il destino." Posò le mani sul parapetto di pietra. "È un po' come quando i bambini fanno la conta. Qualcuno verrà scelto, ma nessuno può sapere chi finché la conta non termina."
 
 Nadia rifletté su quelle parole.
 
-"La corona è stata creata dagli stessi uomini che ti hanno donato la conoscenza, i Precursori. Perché non ti hanno detto subito come funziona?"
+"La corona è stata creata dagli stessi uomini che ti hanno donato la conoscenza. I Precursori. Perché non ti hanno spiegato come funziona?"
 
-"Quell'artefatto\... in realtà pare che nessuno sappia da dove viene. I Precursori credevano fossimo noi ad averla creata. E io all'inizio credevo fossero stati loro. Ma penso che la verità sia un'altra: quella corona non viene dal nostro mondo. Forse è davvero un dono degli dei. Forse ci hanno voluto dare un modo per liberarci, per salvarci dal fato."
+Mira scosse lentamente il capo.
 
-Mentre Nadia meditava su quelle parole, Hual le raggiunse sulla terrazza. Con la barba tagliata e i vestiti puliti sembrava ringiovanito di dieci anni. "Andiamo, Nadia."
+"Quell'artefatto è un mistero perfino per loro. I Precursori erano convinti che fossimo stati noi a costruirlo. Io, invece, ero convinta del contrario. Oggi penso che ci sbagliassimo entrambi."
 
-Per le due donne, era arrivato il momento dell'addio. Senza pensarci troppo abbracciò Mira, stringendola con affetto.
+Abbassò lo sguardo verso la città.
 
-"Mira, io\... io ti ammiro davvero," disse. "Non ti dimenticherò mai."
+"Forse quella corona non appartiene al nostro mondo. Forse è davvero un dono degli dei. O forse\... un modo per ricordarci che il destino non è immutabile."
 
-Mira ricambiò l'abbraccio, una dolcezza inaspettata nel suo gesto. "Nemmeno io ti dimenticherò, Nadia. Il nuovo futuro\... è ancora tutto da scrivere."
+Hual raggiunse la terrazza. Pulito e con la barba fatta, sembrava ringiovanito di dieci anni.
+
+"Come è andato il Consiglio?" chiese Nadia.
+
+Hual inspirò. "Ho confessato ogni responsabilità davanti ai rappresentanti del nuovo governo. L'imperatore mi ha concesso di tornare a casa con la mia famiglia."
+
+Nadia aveva quasi dimenticato com'era vedere suo padre sorridere. Esultò a sua volta.
+
+"Andiamo, bambina mia. Si torna a casa."
+
+Per un istante Nadia rimase immobile. Poi si avvicinò a Mira e la strinse in un abbraccio.
+
+"Io ti ammiro davvero," mormorò. "Non ti dimenticherò mai."
+
+Mira ricambiò l'abbraccio con una delicatezza che Nadia non le aveva mai visto.
+
+"Nemmeno io ti dimenticherò."
 
 \[STACCO\]
 
-Il sole del mattino illuminava le strade della capitale. La vita scorreva tranquilla, ma tutto ciò era stato a un passo dal crollare.
+Il mattino seguente, il sole rischiarava le strade della capitale. I mercati avevano aperto, gli artigiani esponevano le loro merci e i venditori richiamavano i clienti. Tutto scorreva come se la città non avesse appena rischiato un colpo di stato.
 
 Accanto al carro erano ammucchiate alcune casse e diversi sacchi di viveri per il viaggio, oltre a un rotolo di stoffa e qualche utensile acquistato a buon prezzo nei mercati cittadini.
 
@@ -9285,29 +10601,35 @@ Akil stava caricando l'ultima cassa quando Hual gli si avvicinò.
 
 "Lascia che ti aiuti."
 
-Allungò le mani per aiutarlo, ma Akil mantenne la presa. "Ce la faccio."
+Hual allungò le mani per prendere il carico, ma Akil mantenne la presa.
 
-Il tono era piatto, quasi cortese, e proprio per questo più freddo di un rimprovero. Hual esitò per un istante, poi si fece da parte senza aggiungere altro.
+"Ce la faccio."
+
+Il tono era piatto, quasi cortese, e proprio per questo più freddo di un rimprovero. Hual esitò un istante, poi si fece da parte senza aggiungere altro.
 
 Nadia osservò la scena in silenzio.
 
-Dopo tutto quello che era successo, non si poteva certo pretendere che Akil dimenticasse ogni cosa da un giorno all'altro. Suo padre li aveva trascinati entrambi in una vicenda più grande di loro e, senza volerlo, li aveva messi in un rischio tremendo. Era naturale che suo fratello fosse ancora arrabbiato.
+Dopo tutto quello che era successo, non si poteva certo pretendere che Akil dimenticasse ogni cosa da un giorno all'altro. Suo padre li aveva trascinati entrambi in una vicenda più grande di loro e, senza volerlo, li aveva esposti a un pericolo enorme. Era naturale che suo fratello fosse ancora arrabbiato.
 
 Eppure, vedendoli così, Nadia non riusciva a preoccuparsi davvero.
 
-A dire il vero, quei due battibeccavano già prima di tutta quella storia. La differenza era che, di solito, la cosa finiva con una birra. Questa volta, probabilmente, ci sarebbero volute alcune settimane. E tante birre.
+Ma a dire il vero, quei due battibeccavano già prima di tutta quella storia. La differenza era che, di solito, finiva davanti a una birra. Questa volta, probabilmente, ci sarebbero volute alcune settimane.
 
-Ma sarebbe successo. Ne era certa.
+E parecchie birre.
 
-Nadia si issò sul carro. Si frugò nelle tasche e ne estrasse due piccoli sacchetti di stoffa. Li rigirava tra le mani con aria soddisfatta quando Hual se ne accorse.
+Ma sarebbe successo, ne era certa.
+
+Nadia salì sul carro. Si frugò nelle tasche e ne estrasse due piccoli sacchetti di stoffa. Li rigirava tra le mani con aria soddisfatta quando suo padre se ne accorse.
 
 "Che cos'hai lì?"
 
-Nadia sollevò i sacchetti. "Souvenir."
+"Souvenir."
 
-Hual sbatté le palpebre. "Souvenir?"
+Hual sbatté le palpebre.
 
-Con un sorriso, Nadia ne aprì uno. All'interno c'era un pendente di quarzo lavorato. Il cristallo, levigato e montato su un intreccio di fili metallici, scintillò alla luce del mattino.
+"Souvenir?"
+
+Con un sorriso Nadia aprì uno dei sacchetti. All'interno c'era un pendente di quarzo lavorato. Il cristallo, levigato e montato su un intreccio di fili metallici, scintillò alla luce del mattino.
 
 "Questo è per Safa."
 
@@ -9321,28 +10643,14 @@ Richiuse il sacchetto con cura.
 
 Per un istante Hual la fissò. Poi, contro ogni aspettativa, scoppiò a ridere. Una risata leggera e incredula, come se il solo fatto di poter discutere di pendenti smarriti e regali per il ritorno a casa fosse un privilegio che non osava più sperare di avere.
 
-"Credo che tua madre dovrà accontentarsi di rivederci tutti e tre sani e salvi."
+"Credo che tua madre si accontenterà di rivederci tutti e tre sani e salvi."
 
-Nadia sorrise e abbassò lo sguardo sui due sacchetti.
+Nadia sorrise e infilò i due sacchetti nella borsa a tracolla.
 
-Per un momento pensò alla piramide, alla corona, a Mira e a tutte le cose che ancora non riusciva a comprendere fino in fondo. Si stava lasciando tutto alle spalle, e andava bene così.
-
-Infilò i pendenti tra le proprie cose e salì sul carro.
-
-Akil prese posto davanti, le redini tra le mani. Hual si sedette accanto a lui. Nadia si sistemò dietro, stringendo le ginocchia al petto.
+Akil prese posto davanti, le redini tra le mani. Hual si sedette accanto a lui. Nadia si sistemò dietro, stringendosi tra il carico.
 
 Le ruote cigolarono e il carro si mise lentamente in movimento.
 
-Per la prima volta dopo molto tempo, erano tutti e tre insieme sulla strada di casa.
-
-\[STACCO\]
-
-\[STACCO\]
-
-\[STACCO\]
-
-\[STACCO\]
-
-\[STACCO\]
+Per la prima volta dopo molto tempo, erano di nuovo tutti e tre insieme sulla strada di casa.
 
 \[STACCO\]

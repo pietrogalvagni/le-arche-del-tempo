@@ -6,6 +6,8 @@ import zipfile
 import shutil
 import tempfile
 import subprocess
+from aggiorna_descrizioni import aggiorna_metadati
+from aggiorna_versione import aggiorna_metadati
 
 
 input_file = Path("../sorgente/romanzo.docx")
@@ -114,7 +116,7 @@ def carica_descrizioni():
 
 def converti_pandoc():
 
-    print("Conversione Word → HTML...")
+    print("Conversione Word → Markdown...")
 
     docx_pulito = prepara_docx_stacchi(input_file)
     
@@ -128,6 +130,8 @@ def converti_pandoc():
         str(grezzo_file)
     ],
     check=True)
+
+    docx_pulito.unlink()
 
     return html_file
 
@@ -282,6 +286,8 @@ def trasforma_capitoli(testo):
 
         "totale": conteggio_capitoli + conteggio_interludi,
 
+        "descrizioni_mancanti": []
+
     }
 
 
@@ -315,7 +321,7 @@ def report(statistiche):
     print("Descrizioni mancanti:")
 
 
-    if statistiche["descrizioni_mancanti"]:
+    if statistiche.get("descrizioni_mancanti"):
 
         for id_capitolo in statistiche["descrizioni_mancanti"]:
 
@@ -331,6 +337,8 @@ def report(statistiche):
 
     print("")
     print("==================")
+
+
 
 
 def main():
@@ -365,6 +373,13 @@ def main():
         testo,
         encoding="utf-8"
     )
+
+    # versionamento
+
+    aggiorna_versione();
+
+
+    # genera pdf (brutto)
 
     pdf_markdown = Path("../generato/romanzo_pdf.md")
 

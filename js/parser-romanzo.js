@@ -4,19 +4,44 @@ const PAROLE_PER_PARTE = 1200;
 
 async function caricaRomanzo(){
 
+    let versioneServer =
+        await fetch(
+            "generato/versione.txt"
+        );
+
+    versioneServer =
+        await versioneServer.text();
+
+    versioneServer =
+        versioneServer.trim();
+
+
+
+    let versioneLocale =
+        sessionStorage.getItem(
+            "romanzo_versione"
+        );
+
+
     let testo =
         sessionStorage.getItem(
             "romanzo_md"
         );
 
 
-    if(!testo){
+
+    if(
+
+        !testo ||
+
+        versioneLocale !== versioneServer
+
+    ){
 
         let risposta =
             await fetch(
                 "generato/romanzo.md"
             );
-
 
         testo =
             await risposta.text();
@@ -25,6 +50,11 @@ async function caricaRomanzo(){
         sessionStorage.setItem(
             "romanzo_md",
             testo
+        );
+
+        sessionStorage.setItem(
+            "romanzo_versione",
+            versioneServer
         );
 
     }

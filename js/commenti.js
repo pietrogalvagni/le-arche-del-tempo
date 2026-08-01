@@ -15,6 +15,28 @@ const supabaseClient =
 
 let commenti = [];
 
+function aggiornaTitoloCommenti(
+    contenitore,
+    numero
+){
+
+    let titolo =
+        contenitore.querySelector(
+            ".titolo-commenti"
+        );
+
+    if (numero == 0) {
+        titolo.textContent =
+        "Commenti al capitolo";
+    }
+    else {
+        titolo.textContent =
+            "Commenti al capitolo (" +
+            numero +
+            ")";
+    }
+
+}
 
 async function caricaCommentiCapitolo(idCapitolo){
 
@@ -67,7 +89,7 @@ function creaAreaCommenti(idCapitolo){
     contenitore.innerHTML = `
 
         <h2 class="titolo-commenti">
-            Commenti
+            Commenti al capitolo
         </h2>
 
 
@@ -320,7 +342,11 @@ function creaAreaCommenti(idCapitolo){
 
         let lista =
             contenitore.querySelector(".lista-commenti");
-
+        
+        aggiornaTitoloCommenti(
+            contenitore,
+            commenti.length
+        );
 
         lista.innerHTML = "";
 
@@ -358,8 +384,10 @@ async function aggiornaListaCommenti(
 
     if(titolo){
 
-        titolo.textContent =
-            "Commenti (" + commenti.length + ")";
+        aggiornaTitoloCommenti(
+            contenitore,
+            commenti.length
+        );
 
     }
 
