@@ -172,9 +172,11 @@ function creaAreaCommenti(idCapitolo){
 
 
         let testo =
-            contenitore.querySelector(".campo-testo-commento")
-            .value
-            .trim();
+            contenitore
+            .querySelector(".campo-testo-commento")
+            .value          
+            .replace(/^[ \t]+|[ \t]+$/gm,"")  // rimuove gli spazi iniziali/finali di ogni riga            
+            .trim();// elimina righe vuote iniziali/finali
 
         if(nome.length === 0){
 
@@ -414,34 +416,20 @@ async function aggiornaListaCommenti(
 
 function creaElementoCommento(c){
 
-    let div =
-        document.createElement("div");
-
-
-    div.className="commento";
-
+    let div = document.createElement("div");
+    div.className = "commento";
 
     div.innerHTML = `
+<div class="intestazione-commento">
+<strong class="autore-commento">${escapeHTML(c.nome)}</strong>
+<small class="data-commento">${new Date(c.created_at).toLocaleString("it-IT")}</small>
+</div>`;
 
-        <div class="intestazione-commento">
+    let p = document.createElement("p");
+    p.className = "testo-commento";
+    p.textContent = c.testo;
 
-            <strong class="autore-commento">
-                ${escapeHTML(c.nome)}
-            </strong>
-
-            <small class="data-commento">
-                ${new Date(c.created_at).toLocaleString("it-IT")}
-            </small>
-
-        </div>
-
-
-        <p class="testo-commento">
-            ${escapeHTML(c.testo)}
-        </p>
-
-    `;
-
+    div.appendChild(p);
 
     return div;
 

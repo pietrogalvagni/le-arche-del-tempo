@@ -1002,6 +1002,10 @@ li::before{
     border-bottom:1px solid rgba(255,255,255,.08);
 }
 
+.commento p{
+    white-space:pre-wrap;
+}
+
 .intestazione-commento{
     display:flex;
     justify-content:space-between;
