@@ -42,6 +42,12 @@
    BASE
 ===================================== */
 
+button,
+input,
+textarea{
+    font-family:inherit;
+}
+
 html,body{
     margin:0;
 }
@@ -915,6 +921,7 @@ li::before{
     transition:
         opacity .25s ease,
         transform .25s ease;
+    
 }
 
 .esito-commento.successo{
@@ -1026,6 +1033,47 @@ li::before{
     opacity:.6;
 }
 
+.risposta-commento{
+    margin-left:40px;
+    border-left:2px solid rgba(255,255,255,0.08);
+    padding-left:15px;
+}
+
+.azioni-commento{
+    display:flex;
+    gap:10px;
+    align-items:center;
+}
+
+@media(max-width:600px){
+
+    .azioni-commento{
+        flex-wrap:wrap;
+    }
+
+}
+
+.rispondi-commento{
+    margin-top:2px;
+    margin-bottom:8px;
+    padding:0;
+    border:none;
+    background:none;
+    color:var(--testo);
+    font-size:14px;
+    cursor:pointer;
+    transition:color 0.25s ease;
+}
+
+.rispondi-commento:hover{
+    color:var(--oro);
+}
+
+.rispondi-commento::before{
+    content:"↩ ";
+}
+
+
 /* =====================================
    SEZIONE COMMENTI - FORM
 ===================================== */
@@ -1034,8 +1082,8 @@ li::before{
     display:flex;
     flex-direction:column;
     gap:16px;
-    margin-bottom:45px;
-    margin-top:10px;
+    margin-bottom:1px;
+    margin-top:1px;
 }
 
 .form-commento input,
@@ -1071,11 +1119,11 @@ li::before{
     border-color:var(--oro);
 }
 
-.form-commento{
-    display:flex;
-    flex-direction:column;
-    align-items:flex-start;
-    gap:16px;
-    margin-bottom:45px;
+.annulla-risposta{
+    display:none;
 }
 
+.form-risposta{
+    margin-left:40px;
+
+}

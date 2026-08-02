@@ -15,6 +15,7 @@ const supabaseClient =
 
 let commenti = [];
 
+
 function aggiornaTitoloCommenti(
     contenitore,
     numero
@@ -74,6 +75,10 @@ async function caricaCommentiCapitolo(idCapitolo){
 
 function creaAreaCommenti(idCapitolo){
 
+    
+    let statoCommenti = {
+        parentIdCorrente:null
+    };
 
     let contenitore =
         document.createElement("section");
@@ -122,9 +127,14 @@ function creaAreaCommenti(idCapitolo){
             }
 
         </div>
+        
+
+        <div class="contenitore-form-commento"></div>
 
 
         <form class="form-commento">
+
+            <div class="destinazione-risposta"></div>
 
             <input
                 class="campo-nome-commento"
@@ -145,9 +155,21 @@ function creaAreaCommenti(idCapitolo){
                 tabindex="-1"
             >
 
-            <button class="button">
-                Invia commento
-            </button>
+            <div class="azioni-commento">
+
+                <button
+                    type="button"
+                    class="button secondario annulla-risposta">
+                    Annulla
+                </button>
+
+                <button class="button">
+                    Invia commento
+                </button>
+
+            </div>
+
+            
 
             <div class="esito-commento"></div>
 
@@ -284,7 +306,8 @@ function creaAreaCommenti(idCapitolo){
             return;
 
         }
-
+        
+        
         let { error } =
             await supabaseClient
             .from("commenti")
@@ -292,8 +315,9 @@ function creaAreaCommenti(idCapitolo){
 
                 id_capitolo: idCapitolo,
 
-                nome:
-                    nome || "Anonimo",
+                parent_id: statoCommenti.parentIdCorrente,
+
+                nome: nome || "Anonimo",
 
                 testo: testo
 
@@ -325,10 +349,16 @@ function creaAreaCommenti(idCapitolo){
 
         form.reset();
 
+        riportaFormInFondo(
+            contenitore,
+            statoCommenti
+        );
+
 
         aggiornaListaCommenti(
             idCapitolo,
-            contenitore
+            contenitore,
+            statoCommenti
         );
 
 
@@ -341,32 +371,39 @@ function creaAreaCommenti(idCapitolo){
     caricaCommentiCapitolo(idCapitolo)
         .then(commenti => {
 
-
         let lista =
             contenitore.querySelector(".lista-commenti");
-        
+
         aggiornaTitoloCommenti(
             contenitore,
             commenti.length
         );
 
-        lista.innerHTML = "";
-
-
-        commenti.forEach(c => {
-
-
-            let elemento =
-                creaElementoCommento(c);
-
-
-            lista.appendChild(elemento);
-
-
-        });
-
+        renderCommenti(
+            lista,
+            commenti,
+            statoCommenti
+        );
 
     });
+
+    let contenitoreForm =
+        contenitore.querySelector(
+            ".contenitore-form-commento"
+        );
+
+    contenitoreForm.appendChild(form);
+
+    contenitore
+        .querySelector(".annulla-risposta")
+        .onclick = function(){
+
+        riportaFormInFondo(
+            contenitore,
+            statoCommenti
+        );
+
+    };
     
     return contenitore;
 
@@ -374,7 +411,8 @@ function creaAreaCommenti(idCapitolo){
 
 async function aggiornaListaCommenti(
     idCapitolo,
-    contenitore
+    contenitore,
+    statoCommenti
 ){
 
     let commenti =
@@ -398,40 +436,261 @@ async function aggiornaListaCommenti(
             ".lista-commenti"
         );
 
-
-
     lista.innerHTML = "";
 
-
-
-    commenti.forEach(commento=>{
-
-        lista.appendChild(
-            creaElementoCommento(commento)
-        );
-
-    });
+    renderCommenti(
+        lista,
+        commenti,
+        statoCommenti
+    );    
+ 
 
 }
 
-function creaElementoCommento(c){
+function creaElementoCommento(c, statoCommenti){
+
+    console.log(
+        "creaElementoCommento",
+        c.id,
+        statoCommenti
+    );
+
 
     let div = document.createElement("div");
     div.className = "commento";
 
+
+    if(c.parent_id !== null){
+
+        div.classList.add(
+            "risposta-commento"
+        );
+
+    }
+
+
     div.innerHTML = `
-<div class="intestazione-commento">
-<strong class="autore-commento">${escapeHTML(c.nome)}</strong>
-<small class="data-commento">${new Date(c.created_at).toLocaleString("it-IT")}</small>
-</div>`;
+        <div class="intestazione-commento">
+            <strong class="autore-commento">
+                ${escapeHTML(c.nome)}
+            </strong>
+
+            <small class="data-commento">
+                ${new Date(c.created_at).toLocaleString("it-IT")}
+            </small>
+        </div>
+    `;
+
 
     let p = document.createElement("p");
+
     p.className = "testo-commento";
+
     p.textContent = c.testo;
 
     div.appendChild(p);
 
+
+
+    if(c.parent_id === null){
+
+        let risposte =
+            document.createElement("div");
+
+        risposte.className =
+            "risposte-commenti";
+
+        div.appendChild(
+            risposte
+        );
+
+
+        let risposta =
+            document.createElement("button");
+
+        risposta.className =
+            "rispondi-commento";
+
+        risposta.textContent =
+            "Rispondi";
+
+
+        div.insertBefore(
+            risposta,
+            risposte
+        );
+
+
+        risposta.onclick = function(){
+
+            statoCommenti.parentIdCorrente =
+                c.id;
+
+
+            spostaFormSottoCommento(
+                div
+            );
+
+        };
+
+    }
+
+
     return div;
+
+}
+
+function spostaFormSottoCommento(commento){
+
+    let areaCommenti =
+        commento.closest(".commenti");
+
+
+    let form =
+        areaCommenti.querySelector(
+            ".form-commento"
+        );
+
+
+    let risposte =
+        commento.querySelector(
+            ".risposte-commenti"
+        );
+
+
+    risposte.appendChild(form);
+
+
+    areaCommenti
+        .querySelector(".contenitore-form-commento")
+        .classList.add("form-risposta");
+
+
+    let annulla =
+        form.querySelector(
+            ".annulla-risposta"
+        );
+
+    if(annulla){
+
+        annulla.style.display =
+            "inline-block";
+
+    }
+
+}
+
+function riportaFormInFondo(
+    areaCommenti,
+    statoCommenti
+){
+
+    statoCommenti.parentIdCorrente = null;
+
+    let contenitoreForm =
+        areaCommenti.querySelector(
+            ".contenitore-form-commento"
+        );
+
+    let form =
+        areaCommenti.querySelector(
+            ".form-commento"
+        );
+
+
+    let destinazione =
+        form.querySelector(
+            ".destinazione-risposta"
+        );
+
+    destinazione.textContent = "";
+
+    let annulla =
+        form.querySelector(".annulla-risposta");
+
+    if(annulla){
+        annulla.style.display = "none";
+    }
+
+
+    // rimette il contenitore nella posizione originale
+    areaCommenti.appendChild(
+        contenitoreForm
+    );
+
+
+    // rimette il form dentro il contenitore
+    contenitoreForm.appendChild(
+        form
+    );
+
+    contenitoreForm.classList.remove(
+        "form-risposta"
+    );
+
+}
+
+function renderCommenti(
+    lista,
+    commenti,
+    statoCommenti
+){
+
+    lista.innerHTML = "";
+
+    let principali =
+        commenti.filter(
+            c => c.parent_id === null
+        );
+
+
+    principali.forEach(commento => {
+
+        let elemento =
+            creaElementoCommento(
+                commento,
+                statoCommenti
+            );
+
+
+        lista.appendChild(
+            elemento
+        );
+
+
+        let risposte =
+            commenti.filter(
+                c => c.parent_id === commento.id
+            );
+
+
+        risposte.forEach(risposta => {
+
+            let elementoRisposta =
+                creaElementoCommento(
+                    risposta,
+                    statoCommenti
+                );
+
+
+            elementoRisposta.classList.add(
+                "risposta-commento"
+            );
+
+
+            let contenitoreRisposte =
+                elemento.querySelector(
+                    ".risposte-commenti"
+                );
+
+
+            contenitoreRisposte.appendChild(
+                elementoRisposta
+            );
+
+        });
+
+    });
 
 }
 
