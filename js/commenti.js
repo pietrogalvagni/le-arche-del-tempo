@@ -15,6 +15,24 @@ const supabaseClient =
 
 let commenti = [];
 
+const TESTI_COMMENTI = {
+
+    rispondi:
+        "↩ Rispondi",
+
+    annulla:
+        "Annulla",
+
+    elimina:
+        "Elimina"
+}
+
+const COMMENTI_CONFIG = {
+    cooldown: 10000,
+    maxNome: 30,
+    maxTesto: 1000
+};
+
 // ogni commento ha un "proprietario" che avrà diritti di cancellazione o modifica
 function ottieniOwnerToken(){
 
@@ -241,7 +259,7 @@ function creaAreaCommenti(idCapitolo){
 
         }
 
-        if(nome.length > 30){
+        if(nome.length > COMMENTI_CONFIG.maxNome){
             mostraEsito(
                 contenitore,
                 "Nome troppo lungo.",
@@ -253,7 +271,7 @@ function creaAreaCommenti(idCapitolo){
         }
 
 
-        if(testo.length > 1000){
+        if(testo.length > COMMENTI_CONFIG.maxTesto){
             mostraEsito(
                 contenitore,
                 "Commento troppo lungo.",
@@ -288,7 +306,7 @@ function creaAreaCommenti(idCapitolo){
             Date.now();
 
         // cooldown 10 sec
-        if (ultimoInvio && adesso - ultimoInvio < 10000){
+        if (ultimoInvio && adesso - ultimoInvio < COMMENTI_CONFIG.cooldown){
 
             mostraEsito(
                 contenitore,
@@ -457,28 +475,85 @@ async function aggiornaListaCommenti(
 
 }
 
+async function eliminaCommento(
+    commento,
+    contenitore
+){
+
+    if(
+        !confirm(
+            "Vuoi eliminare questo commento?"
+        )
+    ){
+        return;
+    }
+
+
+    // se è padre elimino anche figli
+
+    if(commento.parent_id === null){
+
+        let { error: erroreFigli } =
+            await supabaseClient
+            .from("commenti")
+            .delete()
+            .eq(
+                "parent_id",
+                commento.id
+            );
+
+
+        if(erroreFigli){
+
+            console.error(
+                erroreFigli
+            );
+
+            return;
+
+        }
+
+    }
+
+
+    let { error } =
+        await supabaseClient
+        .from("commenti")
+        .delete()
+        .eq(
+            "id",
+            commento.id
+        )
+        .eq(
+            "owner_token",
+            ottieniOwnerToken()
+        );
+
+
+    if(error){
+
+        console.error(error);
+
+        return;
+
+    }
+
+
+    aggiornaListaCommenti(
+        commento.id_capitolo,
+        contenitore
+    );
+
+}
+
 function creaElementoCommento(c, statoCommenti){
 
-    console.log(
-        "creaElementoCommento",
-        c.id,
-        statoCommenti
-    );
-
-    console.log(
-        "owner db:",
-        c.owner_token,
-        "owner locale:",
-        ottieniOwnerToken()
-    );
-
-    console.log(
-        c.owner_token === ottieniOwnerToken()
-    );
+    let div =
+        document.createElement("div");
 
 
-    let div = document.createElement("div");
-    div.className = "commento";
+    div.className =
+        "commento";
 
 
     if(c.parent_id !== null){
@@ -503,149 +578,94 @@ function creaElementoCommento(c, statoCommenti){
     `;
 
 
-    let p = document.createElement("p");
+    let p =
+        document.createElement("p");
 
-    p.className = "testo-commento";
 
-    p.textContent = c.testo;
+    p.className =
+        "testo-commento";
+
+
+    p.textContent =
+        c.testo;
+
 
     div.appendChild(p);
 
 
-     // Elimina commento
-    let elimina =
-        document.createElement("button");
 
-    elimina.className =
-        "elimina-commento";
-
-    elimina.textContent =
-        "Elimina";
+    let azioni =
+        creaAzioniCommento(
+            c,
+            div,
+            statoCommenti
+        );
 
 
-    if(
-        c.owner_token ===
-        ottieniOwnerToken()
-    ){
+    if(azioni){
 
         div.appendChild(
-            elimina
+            azioni
         );
 
     }
 
 
-    elimina.onclick = async function(){
-
-        if(
-            !confirm(
-                "Vuoi eliminare questo commento?"
-            )
-        ){
-            return;
-        }
-
-
-        let query =
-            supabaseClient
-            .from("commenti")
-            .delete();
-
-
-        // Se è un commento principale
-        if(c.parent_id === null){
-
-            let { error: erroreFigli } =
-                await query
-                .eq(
-                    "parent_id",
-                    c.id
-                );
-
-
-            if(erroreFigli){
-
-                console.error(
-                    erroreFigli
-                );
-
-                return;
-
-            }
-
-        }
-
-
-        let { error } =
-            await supabaseClient
-            .from("commenti")
-            .delete()
-            .eq(
-                "id",
-                c.id
-            )
-            .eq(
-                "owner_token",
-                ottieniOwnerToken()
-            );
-
-
-        if(error){
-
-            console.error(
-                error
-            );
-
-            alert(
-                "Errore durante l'eliminazione."
-            );
-
-            return;
-
-        }
-
-
-        aggiornaListaCommenti(
-            c.id_capitolo,
-            div.closest(".commenti")
-        );
-
-    }
 
     if(c.parent_id === null){
 
         let risposte =
             document.createElement("div");
 
-        risposte.className = "risposte-commenti";
 
-        div.appendChild(risposte);
+        risposte.className =
+            "risposte-commenti";
 
+
+        div.appendChild(
+            risposte
+        );
+
+    }
+
+
+    return div;
+
+}
+
+function creaAzioniCommento(
+    c,
+    div,
+    statoCommenti
+){
+
+    let azioni =
+        document.createElement("div");
+
+    azioni.className =
+        "azioni-commento";
+
+
+    // Rispondi solo ai commenti principali
+
+    if(c.parent_id === null){
 
         let risposta =
             document.createElement("button");
 
         risposta.className =
-            "rispondi-commento";
+            "bottone-commento rispondi-commento";
 
         risposta.textContent =
-            "↩ Rispondi";
+            TESTI_COMMENTI.rispondi;
 
-
-        div.insertBefore(
-            risposta,
-            risposte
-        );
-
-
-       
 
 
         risposta.onclick = function(){
 
-            // se sto cliccando di nuovo sullo stesso commento → annulla
-
-            if(statoCommenti.parentIdCorrente === c.id){
+            if(
+                statoCommenti.parentIdCorrente === c.id
+            ){
 
                 riportaFormInFondo(
                     div.closest(".commenti"),
@@ -657,12 +677,12 @@ function creaElementoCommento(c, statoCommenti){
             }
 
 
-            // ripristina l'eventuale vecchio bottone
-
-            if(statoCommenti.bottoneAttivo){
+            if(
+                statoCommenti.bottoneAttivo
+            ){
 
                 statoCommenti.bottoneAttivo.textContent =
-                    "Rispondi";
+                    TESTI_COMMENTI.rispondi;
 
             }
 
@@ -676,24 +696,76 @@ function creaElementoCommento(c, statoCommenti){
 
 
             risposta.textContent =
-                "Annulla";
+                TESTI_COMMENTI.annulla;
 
 
-            spostaFormSottoCommento(div);
+            spostaFormSottoCommento(
+                div
+            );
 
-        }
-        
+        };
 
-        
-        
+
+        azioni.appendChild(
+            risposta
+        );
+
     }
 
-    
 
 
-    return div;
+    // Elimina
+
+    if(
+        c.owner_token ===
+        ottieniOwnerToken()
+    ){
+
+        let elimina =
+            document.createElement("button");
+
+
+        elimina.className =
+            "bottone-commento elimina-commento";
+
+
+        elimina.textContent =
+            TESTI_COMMENTI.elimina;
+
+
+
+        elimina.onclick = function(){
+
+            eliminaCommento(
+                c,
+                div.closest(".commenti")
+            );
+
+        };
+
+
+        azioni.appendChild(
+            elimina
+        );
+
+    }
+
+
+
+    if(
+        azioni.children.length
+    ){
+
+        return azioni;
+
+    }
+
+
+    return null;
 
 }
+
+
 
 function spostaFormSottoCommento(commento){
 
@@ -765,7 +837,7 @@ function riportaFormInFondo(
 
     if(statoCommenti.bottoneAttivo){
 
-        statoCommenti.bottoneAttivo.textContent = "↩ Rispondi";
+        statoCommenti.bottoneAttivo.textContent = TESTI_COMMENTI.rispondi;
 
         statoCommenti.bottoneAttivo = null;
 

@@ -1047,7 +1047,8 @@ li::before{
 
 }
 
-.rispondi-commento{
+.rispondi-commento,
+.elimina-commento{
     margin-top:2px;
     margin-bottom:8px;
     padding:0;
@@ -1059,7 +1060,8 @@ li::before{
     transition:color 0.25s ease;
 }
 
-.rispondi-commento:hover{
+.rispondi-commento:hover,
+.elimina-commento:hover{
     color:var(--oro);
 }
 
@@ -1113,4 +1115,12 @@ li::before{
 
 .risposte-commenti{
     margin-left:60px;
+}
+
+.azioni-commento{
+    display:flex;
+    gap:16px;
+    align-items:center;
+    margin-top:2px;
+    margin-bottom:8px;
 }
