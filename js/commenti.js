@@ -15,6 +15,29 @@ const supabaseClient =
 
 let commenti = [];
 
+// ogni commento ha un "proprietario" che avrà diritti di cancellazione o modifica
+function ottieniOwnerToken(){
+
+    let token =
+        localStorage.getItem(
+            "owner-token"
+        );
+
+    if(!token){
+
+        token =
+            crypto.randomUUID();
+
+        localStorage.setItem(
+            "owner-token",
+            token
+        );
+
+    }
+
+    return token;
+
+}
 
 function aggiornaTitoloCommenti(
     contenitore,
@@ -312,6 +335,8 @@ function creaAreaCommenti(idCapitolo){
 
                 parent_id: statoCommenti.parentIdCorrente,
 
+                owner_token: ottieniOwnerToken(),
+
                 nome: nome || "Anonimo",
 
                 testo: testo
@@ -440,6 +465,17 @@ function creaElementoCommento(c, statoCommenti){
         statoCommenti
     );
 
+    console.log(
+        "owner db:",
+        c.owner_token,
+        "owner locale:",
+        ottieniOwnerToken()
+    );
+
+    console.log(
+        c.owner_token === ottieniOwnerToken()
+    );
+
 
     let div = document.createElement("div");
     div.className = "commento";
@@ -476,18 +512,114 @@ function creaElementoCommento(c, statoCommenti){
     div.appendChild(p);
 
 
+     // Elimina commento
+    let elimina =
+        document.createElement("button");
+
+    elimina.className =
+        "elimina-commento";
+
+    elimina.textContent =
+        "Elimina";
+
+
+    if(
+        c.owner_token ===
+        ottieniOwnerToken()
+    ){
+
+        div.appendChild(
+            elimina
+        );
+
+    }
+
+
+    elimina.onclick = async function(){
+
+        if(
+            !confirm(
+                "Vuoi eliminare questo commento?"
+            )
+        ){
+            return;
+        }
+
+
+        let query =
+            supabaseClient
+            .from("commenti")
+            .delete();
+
+
+        // Se è un commento principale
+        if(c.parent_id === null){
+
+            let { error: erroreFigli } =
+                await query
+                .eq(
+                    "parent_id",
+                    c.id
+                );
+
+
+            if(erroreFigli){
+
+                console.error(
+                    erroreFigli
+                );
+
+                return;
+
+            }
+
+        }
+
+
+        let { error } =
+            await supabaseClient
+            .from("commenti")
+            .delete()
+            .eq(
+                "id",
+                c.id
+            )
+            .eq(
+                "owner_token",
+                ottieniOwnerToken()
+            );
+
+
+        if(error){
+
+            console.error(
+                error
+            );
+
+            alert(
+                "Errore durante l'eliminazione."
+            );
+
+            return;
+
+        }
+
+
+        aggiornaListaCommenti(
+            c.id_capitolo,
+            div.closest(".commenti")
+        );
+
+    }
 
     if(c.parent_id === null){
 
         let risposte =
             document.createElement("div");
 
-        risposte.className =
-            "risposte-commenti";
+        risposte.className = "risposte-commenti";
 
-        div.appendChild(
-            risposte
-        );
+        div.appendChild(risposte);
 
 
         let risposta =
@@ -504,6 +636,9 @@ function creaElementoCommento(c, statoCommenti){
             risposta,
             risposte
         );
+
+
+       
 
 
         risposta.onclick = function(){
@@ -549,7 +684,11 @@ function creaElementoCommento(c, statoCommenti){
         }
         
 
+        
+        
     }
+
+    
 
 
     return div;
