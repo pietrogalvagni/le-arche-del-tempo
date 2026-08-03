@@ -77,7 +77,8 @@ function creaAreaCommenti(idCapitolo){
 
     
     let statoCommenti = {
-        parentIdCorrente:null
+        parentIdCorrente:null,
+        bottoneAttivo:null
     };
 
     let contenitore =
@@ -156,12 +157,6 @@ function creaAreaCommenti(idCapitolo){
             >
 
             <div class="azioni-commento">
-
-                <button
-                    type="button"
-                    class="button secondario annulla-risposta">
-                    Annulla
-                </button>
 
                 <button class="button">
                     Invia commento
@@ -394,17 +389,7 @@ function creaAreaCommenti(idCapitolo){
 
     contenitoreForm.appendChild(form);
 
-    contenitore
-        .querySelector(".annulla-risposta")
-        .onclick = function(){
-
-        riportaFormInFondo(
-            contenitore,
-            statoCommenti
-        );
-
-    };
-    
+       
     return contenitore;
 
 }
@@ -512,7 +497,7 @@ function creaElementoCommento(c, statoCommenti){
             "rispondi-commento";
 
         risposta.textContent =
-            "Rispondi";
+            "↩ Rispondi";
 
 
         div.insertBefore(
@@ -523,15 +508,46 @@ function creaElementoCommento(c, statoCommenti){
 
         risposta.onclick = function(){
 
+            // se sto cliccando di nuovo sullo stesso commento → annulla
+
+            if(statoCommenti.parentIdCorrente === c.id){
+
+                riportaFormInFondo(
+                    div.closest(".commenti"),
+                    statoCommenti
+                );
+
+                return;
+
+            }
+
+
+            // ripristina l'eventuale vecchio bottone
+
+            if(statoCommenti.bottoneAttivo){
+
+                statoCommenti.bottoneAttivo.textContent =
+                    "Rispondi";
+
+            }
+
+
             statoCommenti.parentIdCorrente =
                 c.id;
 
 
-            spostaFormSottoCommento(
-                div
-            );
+            statoCommenti.bottoneAttivo =
+                risposta;
 
-        };
+
+            risposta.textContent =
+                "Annulla";
+
+
+            spostaFormSottoCommento(div);
+
+        }
+        
 
     }
 
@@ -565,19 +581,6 @@ function spostaFormSottoCommento(commento){
         .querySelector(".contenitore-form-commento")
         .classList.add("form-risposta");
 
-
-    let annulla =
-        form.querySelector(
-            ".annulla-risposta"
-        );
-
-    if(annulla){
-
-        annulla.style.display =
-            "inline-block";
-
-    }
-
 }
 
 function riportaFormInFondo(
@@ -605,14 +608,7 @@ function riportaFormInFondo(
 
     destinazione.textContent = "";
 
-    let annulla =
-        form.querySelector(".annulla-risposta");
-
-    if(annulla){
-        annulla.style.display = "none";
-    }
-
-
+    
     // rimette il contenitore nella posizione originale
     areaCommenti.appendChild(
         contenitoreForm
@@ -628,6 +624,15 @@ function riportaFormInFondo(
         "form-risposta"
     );
 
+    if(statoCommenti.bottoneAttivo){
+
+        statoCommenti.bottoneAttivo.textContent = "↩ Rispondi";
+
+        statoCommenti.bottoneAttivo = null;
+
+    }
+
+    statoCommenti.parentIdCorrente = null;
 }
 
 function renderCommenti(

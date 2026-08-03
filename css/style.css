@@ -1033,12 +1033,6 @@ li::before{
     opacity:.6;
 }
 
-.risposta-commento{
-    margin-left:40px;
-    border-left:2px solid rgba(255,255,255,0.08);
-    padding-left:15px;
-}
-
 .azioni-commento{
     display:flex;
     gap:10px;
@@ -1069,9 +1063,6 @@ li::before{
     color:var(--oro);
 }
 
-.rispondi-commento::before{
-    content:"↩ ";
-}
 
 
 /* =====================================
@@ -1119,11 +1110,7 @@ li::before{
     border-color:var(--oro);
 }
 
-.annulla-risposta{
-    display:none;
-}
 
-.form-risposta{
-    margin-left:40px;
-
+.risposte-commenti{
+    margin-left:60px;
 }
