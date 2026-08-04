@@ -1124,3 +1124,67 @@ li::before{
     margin-top:2px;
     margin-bottom:8px;
 }
+
+/* =====================================
+   INDICE CAPITOLI ESPANDIBILE
+===================================== */
+
+.indice-wrapper{
+    position:relative;
+}
+
+
+.indice-collassabile{
+    overflow:hidden;
+    max-height:700px;
+    transition:max-height .6s ease;
+}
+
+
+.indice-collassabile.aperto{
+    max-height:30000px;
+}
+
+
+
+/* -------------------------------------
+   Espandi indice
+------------------------------------- */
+
+.mostra-tutti{
+
+    position:relative;
+
+    margin-top:-180px;
+
+    padding-top:170px;
+    padding-bottom:25px;
+
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+
+    cursor:pointer;
+
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(18,18,18,0),
+            rgba(18,18,18,.45) 20%,
+            rgba(18,18,18,.85) 55%,
+            var(--sfondo) 100%
+        );
+
+}
+
+
+.espandi-indice{
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:4px;
+    color:var(--testo);
+    opacity: 0.75;
+}
+

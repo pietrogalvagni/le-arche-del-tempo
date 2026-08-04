@@ -5,20 +5,92 @@ let capitoloAperto = getCapitoloAperto();
 
 function creaIndice(){
 
+    contenitore.innerHTML = "";
+
+
+    let wrapper =
+        document.createElement("div");
+
+    wrapper.className =
+        "indice-wrapper";
+
+
+    let lista =
+        document.createElement("div");
+
+    lista.className =
+        "indice-collassabile";
+
+
+    wrapper.appendChild(
+        lista
+    );
+
+
+    contenitore.appendChild(
+        wrapper
+    );
+
+
     for(let cap of romanzo){
 
         if(cap.tipo === "interludio"){
-            creaCardInterludio(cap);
+
+            creaCardInterludio(
+                cap,
+                lista
+            );
+
         }
         else{
-            creaCardCapitolo(cap);
+
+            creaCardCapitolo(
+                cap,
+                lista
+            );
+
+        }
+
+    }
+
+
+    if(romanzo.length > 6){
+
+        let mostra =
+            document.createElement("div");
+
+        mostra.className =
+            "mostra-tutti";
+
+
+        mostra.innerHTML = `
+            <div class="espandi-indice">
+                <span>Mostra tutti</span>
+            </div>
+        `;
+
+
+        wrapper.appendChild(
+            mostra
+        );
+
+
+        mostra.onclick = function(){
+
+            lista.classList.add("aperto");
+
+            mostra.remove();
+
         }
 
     }
 
 }
 
-function creaCardInterludio(cap){
+function creaCardInterludio(
+    cap,
+    contenitoreIndice
+){
 
     let elemento =
         document.createElement("div");
@@ -81,7 +153,7 @@ function creaCardInterludio(cap){
     };
 
 
-    contenitore.appendChild(elemento);
+    contenitoreIndice.appendChild(elemento);
 
 }
 
@@ -130,7 +202,10 @@ function aggiornaProgressoCapitolo(elemento, cap){
 
 }
 
-function creaCardCapitolo(cap){
+function creaCardCapitolo(
+    cap,
+    contenitoreIndice
+){
 
     let elemento =
         document.createElement("div");
@@ -181,7 +256,7 @@ function creaCardCapitolo(cap){
         elemento,
         cap
     );
-    
+
     creaPartiCapitolo(
         elemento,
         cap
@@ -194,7 +269,7 @@ function creaCardCapitolo(cap){
     );
 
 
-    contenitore.appendChild(elemento);
+    contenitoreIndice.appendChild(elemento);
 
 
     if(cap.id === capitoloAperto){
@@ -307,4 +382,5 @@ function chiudiTutti(){
     });
 
 }
+
 
