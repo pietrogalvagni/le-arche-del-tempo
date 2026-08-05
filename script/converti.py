@@ -351,6 +351,14 @@ def report(statistiche):
 
 def main():
 
+    if not input_file.exists():
+
+        print("")
+        print("ERRORE")
+        print(f"File non trovato: {input_file}")
+        print("Assicurati che il file 'romanzo.docx' sia presente nella cartella sorgente.")
+
+        return
 
     # pdf e epub
 

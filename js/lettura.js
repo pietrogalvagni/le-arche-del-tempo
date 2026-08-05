@@ -157,6 +157,18 @@ async function avvia(){
 
     }
 
+    let numeroParte =
+    risultato.capitolo.parti.findIndex(
+        p => p.id === risultato.parte.id
+    ) + 1;
+
+    
+    // Registra il contatore di visita per questo capitolo
+    registraVisita(
+         risultato.capitolo.id +
+        "_part" +
+        numeroParte
+    );
 
     mostraParte(risultato);
 

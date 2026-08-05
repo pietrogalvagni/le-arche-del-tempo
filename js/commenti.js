@@ -1,16 +1,4 @@
-const SUPABASE_URL =
-    "https://qddffigxxjvzvgdvsjkb.supabase.co";
 
-
-const SUPABASE_KEY =
-    "sb_publishable_y4tJjA_JqALJs-X1PwJing_PzM1n3Cj";
-
-
-const supabaseClient =
-    supabase.createClient(
-        SUPABASE_URL,
-        SUPABASE_KEY
-    );
 
 
 let commenti = [];

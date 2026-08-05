@@ -156,6 +156,8 @@ function creaAreaReset(){
 
     await caricaRomanzo();
 
+    registraVisita("indice");
+
     creaIndice();
 
     creaAreaReset();
