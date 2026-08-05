@@ -1,8 +1,10 @@
+const ADMIN_MODE = "modalita_admin";
+
 function aggiornaStato(){
 
     let attiva =
         localStorage.getItem(
-            "modalita_admin"
+            ADMIN_MODE
         ) === "true";
 
 
@@ -23,7 +25,7 @@ document.getElementById(
 .onclick = function(){
 
     localStorage.setItem(
-        "ignora_visite",
+        ADMIN_MODE,
         "true"
     );
 
@@ -40,7 +42,7 @@ document.getElementById(
 .onclick = function(){
 
     localStorage.removeItem(
-        "ignora_visite"
+        ADMIN_MODE
     );
 
 
