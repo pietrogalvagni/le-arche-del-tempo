@@ -19,6 +19,11 @@ def carica_descrizioni():
 
 def aggiorna_metadati(testo, descrizioni):
 
+    # info per il report finale
+    aggiornati = 0
+    id_presenti = set()
+
+
     righe = testo.splitlines()
 
     id_corrente = None
@@ -36,6 +41,10 @@ def aggiorna_metadati(testo, descrizioni):
                 "id:",
                 ""
             ).strip()
+
+            id_presenti.add(
+                id_corrente
+            )
 
 
         if riga.startswith("titolo:"):
@@ -90,27 +99,51 @@ def aggiorna_metadati(testo, descrizioni):
     )
 
 
-    print(
-        f"{len(mancanti)} id non trovati."
+    descrizioni_non_usate = sorted(
+        set(descrizioni.keys()) - id_presenti
     )
 
-    if mancanti:
 
+    print()
+    print("=" * 40)
+    print("VERIFICA DESCRIZIONI")
+    print("=" * 40)
+    print()
+
+
+    print(
+        f"✓ capitoli aggiornati: {aggiornati}."
+    )
+
+
+    if len(descrizioni_non_usate) > 0:
         print()
+        print(
+            f"Capitoli con descrizione ma che non sono usati nel romanzo: {len(descrizioni_non_usate)}"
+        )
+
+        for id_capitolo in descrizioni_non_usate:
+
+            print(
+                f" - {id_capitolo}"
+            )
+        print("azione consigliata: elimina voci da sorgente/descrizoni.json")
+
+
+    if len(mancanti) > 0:
+        print()
+        print(
+            f"Capitoli presenti nel romanzo ma che non hanno descrizione: {len(mancanti)}"
+        )
 
         for id_capitolo, titolo in mancanti:
 
             print(
                 f" - {titolo} ({id_capitolo})"
             )
+        print("azione consigliata: aggiungi voci in sorgente/descrizoni.json")
 
-
-    print()
-
-    print(
-        f"{aggiornati} capitoli aggiornati."
-    )
-
+    print("")
 
     return "\n".join(righe)
 
@@ -157,9 +190,7 @@ def main():
 
     aggiorna_versione()
 
-    print("Descrizioni e immagini aggiornate.")
-
-
+    
 
 if __name__ == "__main__":
     main()

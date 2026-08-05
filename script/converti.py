@@ -7,60 +7,68 @@ import shutil
 import tempfile
 import subprocess
 from aggiorna_descrizioni import aggiorna_metadati
-from aggiorna_versione import aggiorna_metadati
+from aggiorna_descrizioni import aggiorna_versione
 
 
 input_file = Path("../sorgente/romanzo.docx")
 descrizioni_file = Path("../sorgente/descrizioni.json")
+
 grezzo_file = Path("../generato/romanzo_grezzo.md")
+html_file = Path("../generato/romanzo.html")
 output_file = Path("../generato/romanzo.md")
-html_file = Path("../grezzo/romanzo.html")
-pdf_file = Path("../generato/romanzo.pdf")
+pdf_file = Path("../generato/le_arche_del_tempo.pdf")
+epub_file = Path("../generato/le_arche_del_tempo.epub")
 
 chrome = Path(r"C:\Program Files\Google\Chrome\Application\chrome.exe")
 
 
-def prepara_testo_pdf(testo):
+def genera_formati():
 
-    return re.sub(
-        r"id:.*?\n"
-        r"tipo:.*?\n"
-        r"descrizione:.*?\n"
-        r"immagine:.*?\n\n"
-        r"--- FINE METADATI ---\n\n",
-        "",
-        testo
+    cartella_output = Path("../generato")
+
+    cartella_output.mkdir(
+        exist_ok=True
     )
 
 
-def genera_pdf(pdf_markdown):
+    epub = (epub_file)
 
-    html_pdf = Path("../generato/romanzo_pdf.html")
-
-
-    subprocess.run([
-        "pandoc",
-        str(pdf_markdown),
-        "-t",
-        "html",
-        "--standalone",
-        "-o",
-        str(html_pdf)
-    ],
-    check=True)
+    pdf = (pdf_file)
 
 
-    subprocess.run([
-        str(chrome),
-        "--headless=new",
-        "--disable-gpu",
-        f"--print-to-pdf={pdf_file.resolve()}",
-        html_pdf.resolve().as_uri()
-    ],
-    check=True)
+    print("")
+    print("Generazione EPUB...")
+
+    subprocess.run(
+        [
+            "pandoc",
+            str(input_file),
+            "-o",
+            str(epub)
+        ],
+        check=True
+    )
 
 
-    html_pdf.unlink()
+    print("Generazione PDF...")
+
+    subprocess.run(
+        [
+            "pandoc",
+            str(input_file),
+            "-o",
+            str(pdf),
+            "--pdf-engine=xelatex"
+        ],
+        check=True
+    )
+
+
+    print("EPUB:", epub)
+
+    print("PDF :", pdf)
+
+
 
 
 def prepara_docx_stacchi(input_file):
@@ -343,6 +351,14 @@ def report(statistiche):
 
 def main():
 
+
+    # pdf e epub
+
+    genera_formati();
+  
+    
+    # genera html per sito web
+
     html_file = converti_pandoc()
 
     if html_file.exists():
@@ -379,23 +395,10 @@ def main():
     aggiorna_versione();
 
 
-    # genera pdf (brutto)
-
-    pdf_markdown = Path("../generato/romanzo_pdf.md")
-
-    pdf_markdown.write_text(
-        prepara_testo_pdf(testo),
-        encoding="utf-8"
-    )
-
-    genera_pdf(pdf_markdown)
-    pdf_markdown.unlink()
-
-
+    
     print("")
     print("Conversione completata!")
     print(output_file)
-
 
     report(statistiche)
 

@@ -117,12 +117,16 @@
         "descrizione": "La spiegazione trovata da Alex per le instabilità tecnologiche getta una luce inquietante sull'era contemporanea.",
         "immagine": "img/capitoli/entropia.jpg"
     },
-    "ricongiungimento": {
-        "descrizione": "Nadia non ha più niente da perdere. Un incontro notturno le ridarà una via d'uscita, mentre l'obiettivo della Setta giunge alla sua fase finale.",
+    "l_incontro": {
+        "descrizione": "Un incontro inatteso apre uno spiraglio di speranza.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
     "la_corona": {
         "descrizione": "Leon trova un oggetto misterioso, che può risolvere la crisi imminente. Il problema è capire come farlo funzionare.",
+        "immagine": "img/capitoli/la_squadra.jpg"
+    },
+    "il_piano": {
+        "descrizione": "Alla luce delle informazioni ricevute dal fratello, Nadia comincia a elaborare un piano.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
     "diario_di_mira_6": {
@@ -144,10 +148,6 @@
     "la_caduta": {
         "descrizione": "Il confronto finale tra la Setta e l'impero assume dimensioni che Nadia non sa più controllare.",
         "immagine": "img/capitoli/la_squadra.jpg"
-    },
-    "nelle_segrete": {
-        "descrizione": "Nadia segue Mira nei sotterranei della piramide. Qui, Nadia scoprirà una verità sconvolgente.",
-        "immagine": "img/capitoli/nelle_segrete.jpg"
     },
     "l_arca_del_tempo": {
         "descrizione": "Il piano per salvare il futuro prende forma, uno dei progetti più audaci e disperati che l'umanità abbia mai conosciuto. ",
@@ -171,6 +171,10 @@
     },
     "il_confronto": {
         "descrizione": "Il ciclo del tempo è sul punto di spezzarsi. Ma gli eventi nella sala del trono potrebbero gettare il mondo nel caos un'altra volta.",
+        "immagine": "img/capitoli/la_squadra.jpg"
+    },
+    "l_erede": {
+        "descrizione": "Nadia incontra finalmente suo padre, ma non è pronta per l'ultima shoccante rivelazione.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
     "epilogo_7": {
