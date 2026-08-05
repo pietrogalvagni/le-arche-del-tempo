@@ -2,7 +2,7 @@ function aggiornaStato(){
 
     let attiva =
         localStorage.getItem(
-            "ignora_visite"
+            "modalita_admin"
         ) === "true";
 
 
