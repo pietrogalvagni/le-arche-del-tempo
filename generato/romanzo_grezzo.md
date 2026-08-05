@@ -2,7 +2,7 @@
 
 Le Arche del Tempo
 
-V4.4
+V4.5
 
 # Capitolo 1. L'anomalia
 
