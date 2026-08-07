@@ -162,7 +162,7 @@ function creaAreaCommenti(idCapitolo){
         <div class="contenitore-form-commento"></div>
 
 
-        <form class="form-commento">
+        <form class="form form-commento">
 
             <div class="destinazione-risposta"></div>
 

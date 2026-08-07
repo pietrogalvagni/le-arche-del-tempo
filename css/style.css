@@ -1033,7 +1033,8 @@ li::before{
     opacity:.6;
 }
 
-.azioni-commento{
+.azioni-commento
+.invia-commento{
     display:flex;
     gap:10px;
     align-items:center;
@@ -1066,21 +1067,21 @@ li::before{
 }
 
 
-
 /* =====================================
-   SEZIONE COMMENTI - FORM
+   FORM GENERICI
 ===================================== */
 
-.form-commento{
+.form{
     display:flex;
     flex-direction:column;
     gap:16px;
-    margin-bottom:1px;
-    margin-top:1px;
+    width:100%;
+    max-width:700px;
 }
 
-.form-commento input,
-.form-commento textarea{
+
+.form input,
+.form textarea{
     width:100%;
     padding:14px 16px;
     border-radius:10px;
@@ -1092,37 +1093,45 @@ li::before{
     box-sizing:border-box;
 }
 
-.form-commento textarea{
+
+.form textarea{
     min-height:120px;
     resize:vertical;
     line-height:1.5;
 }
 
 
-.form-commento input::placeholder,
-.form-commento textarea::placeholder{
+.form input::placeholder,
+.form textarea::placeholder{
     color:var(--testo);
     opacity:.55;
 }
 
 
-.form-commento input:focus,
-.form-commento textarea:focus{
+.form input:focus,
+.form textarea:focus{
     outline:none;
     border-color:var(--oro);
 }
 
 
-.risposte-commenti{
-    margin-left:60px;
+/* =====================================
+   FORM COMMENTI
+===================================== */
+
+.form-commento{
+    margin-top:1px;
+    margin-bottom:1px;
 }
 
-.azioni-commento{
-    display:flex;
-    gap:16px;
-    align-items:center;
-    margin-top:2px;
-    margin-bottom:8px;
+
+/* =====================================
+   FORM CONTATTI
+===================================== */
+
+.form-contatta{
+    margin-top:1px;
+    margin-bottom:1px;
 }
 
 /* =====================================
