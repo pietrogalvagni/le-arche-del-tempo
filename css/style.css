@@ -1033,7 +1033,7 @@ li::before{
     opacity:.6;
 }
 
-.azioni-commento
+.azioni-commento,
 .invia-commento{
     display:flex;
     gap:10px;
@@ -1122,6 +1122,10 @@ li::before{
 .form-commento{
     margin-top:1px;
     margin-bottom:1px;
+}
+
+.risposte-commenti{
+    margin-left:60px;
 }
 
 
