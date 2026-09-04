@@ -3,10 +3,6 @@
         "descrizione": "Due ricercatori arrivano nel cuore dell'Africa centrale per indagare su un misterioso segnale radio.",
         "immagine": "img/capitoli/l_anomalia.jpg"
     },
-    "il_villaggio": {
-        "descrizione": "Leon e Alex cercavano una guida per l'esplorazione nella giungla. Non avrebbero sospettato che la persona giusta era sotto il loro naso.",
-        "immagine": "img/capitoli/il_villaggio.jpg"
-    },
     "lo_studio": {
         "descrizione": "Un giorno, la vita di Nadia viene scossa da un evento imprevisto.",
         "immagine": "img/capitoli/lo_studio.jpg"
@@ -175,6 +171,14 @@
     },
     "l_erede": {
         "descrizione": "Nadia incontra finalmente suo padre, ma non è pronta per l'ultima shoccante rivelazione.",
+        "immagine": "img/capitoli/la_squadra.jpg"
+    },
+    "il_segnale": {
+        "descrizione": "Quello che Leon e i suoi trovano nella stanza isolata potrebbe riscrivere la storia.",
+        "immagine": "img/capitoli/la_squadra.jpg"
+    },
+    "gli_dei": {
+        "descrizione": "Al campo i ricercatori si rilassano, e Zali racconta un'antica storia.",
         "immagine": "img/capitoli/la_squadra.jpg"
     },
     "epilogo_7": {

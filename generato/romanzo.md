@@ -16,7 +16,7 @@ Leon lanciò un'occhiata al tablet. Per un istante lo schermo nero gli restituì
 
 Il segnale anomalo.
 
-Ormai erano a poche decine di chilometri dalla posizione indicata.
+L'indicatore sul display mostrava che erano ormai a poche decine di chilometri dalla posizione.
 
 Leon spense lo schermo con impazienza. "Non dovrebbe mancare molto."
 
@@ -30,7 +30,7 @@ Non era grande, ma nemmeno il gruppo di capanne isolate che Leon si era immagina
 
 Il villaggio sarebbe stato il punto di appoggio perfetto per la loro ricerca. Alex virò, mentre l'elicottero iniziava la discesa. Leon vide l'ombra del velivolo allargarsi sotto di loro.
 
-Man mano che si avvicinavano al terreno, le pale cominciarono a sollevare nuvole di polvere rossastra. Le cime degli alberi si piegarono sotto il vento. Foglie e rametti vennero trascinati in vortici disordinati. Sul fiume, due canoe a motore rallentarono fino quasi a fermarsi. I pescatori osservarono l'elicottero con evidente curiosità.
+Man mano che si avvicinavano al terreno, le pale cominciarono a sollevare nuvole di polvere rossastra. Le cime degli alberi si piegarono sotto il vento. Foglie e rametti vennero trascinati in vortici disordinati. Leon lanciò uno sguardo verso il fiume. Due canoe a motore avevano rallentato fino quasi a fermarsi. I pescatori osservarono l'elicottero con evidente curiosità.
 
 Infine, il velivolo toccò terra con un lieve sobbalzo. Alex spense il motore e slacciò le cinture.
 
@@ -44,31 +44,41 @@ Alex aprì i portelli con un pulsante. "Ultima possibilità per tornare indietro
 
 "Lo so."
 
-Raccolsero gli zaini e scesero. Alex atterrò per primo sulla terra rossa con l'agilità di chi aveva ancora dieci anni meno di lui. Leon lo seguì subito dopo, stirando inconsciamente la schiena irrigidita dalle ore di volo.
+Raccolsero gli zaini e scesero. Alex atterrò per primo sulla terra rossa con l'agilità di chi aveva ancora dieci anni meno di lui. Leon lo seguì subito dopo, stirando la schiena irrigidita dalle ore di volo.
 
-Il caldo li colpì immediatamente come una parete invisibile, un netto contrasto con l'abitacolo climatizzato. Attorno a loro, alberi giganteschi, radici affioranti e cespugli dalle foglie larghe quanto vele.
+Il caldo li colpì immediatamente come una parete invisibile, un netto contrasto con l'abitacolo climatizzato. Attorno a loro, alberi giganteschi, radici affioranti e cespugli dalle foglie larghe quanto vele sembravano mangiarsi ogni centimetro della radura.
 
-Imboccarono il sentiero che conduceva al centro abitato.
+Imboccarono il sentiero che conduceva al centro abitato, un tracciato di terra battuta dove la vegetazione era meno fitta. Poco dopo gli alberi lasciarono spazio alle prime case.
 
-Quando furono tra le prime case, comparvero i bambini. Due, poi quattro, poi una decina. Spuntarono da ogni direzione come se l'intero villaggio fosse stato avvisato del loro arrivo. Alcuni rallentavano a pochi metri di distanza, studiandoli con curiosità. Altri si avvicinavano senza alcuna timidezza. Un ragazzino teneva in mano un telefono e stava chiaramente registrando un video.
+Poi comparvero i bambini.
 
-Alex salutò lo schermo con la mano. Il ciuffo nero gli ricadde davanti agli occhiali e lui lo scostò con un gesto automatico. "Penso di essere già finito sui social locali."
+Un gruppetto si avvicinò abbastanza da studiarli, poi scoppiò a ridere e si allontanò di corsa quando Alex rivolse loro un saluto.
 
-Mentre proseguivano per le vie di terra battuta, gli sguardi li seguivano. Una donna con un neonato legato alla schiena, due uomini che trasportavano una cassa verso il fiume, un anziano seduto all'ombra di una veranda. Tutti li guardavano con curiosità, ma nessuno sembrava particolarmente sorpreso.
+Due minuti dopo erano tornati. Poi erano fuggiti di nuovo. Poi erano tornati ancora.
+
+"Mi ricordano particelle in moto browniano," osservò Alex.
+
+"Ti prego, non iniziare."
+
+"Era una bellissima metafora."
+
+Un ragazzino teneva in mano un telefono e stava chiaramente registrando un video. Alex salutò lo schermo con la mano. Il ciuffo nero gli ricadde davanti agli occhiali e lui lo scostò con un gesto automatico. "Penso di essere già finito sui social locali."
+
+Mentre proseguivano per le vie di terra battuta, gli sguardi curiosi degli abitanti li seguivano. Una donna con un neonato legato alla schiena, due uomini che trasportavano una cassa verso il fiume, un anziano seduto all'ombra di una veranda. Leon non aveva la presunzione che sarebbero riusciti a passare inosservati dopo essere atterrati in elicottero, ma fu sollevato nel vedere che il loro arrivo non aveva causato particolare agitazione.
+
+C'era chi seguiva il loro passaggio con interesse, o chi faceva loro un cenno di saluto. Molti però continuavano semplicemente quello che stavano facendo.
 
 Leon lasciò correre lo sguardo sulle abitazioni, non senza una certa dose di deformazione professionale. Il villaggio si dispiegava seguendo l'andamento del fiume più che qualsiasi progetto urbanistico. Non esisteva una vera piazza centrale. Le abitazioni erano collegate da sentieri che si intrecciavano tra alberi, orti e piccoli spazi comuni.
 
-Sul fiume c'era movimento continuo. Canoe a remi e piccole imbarcazioni a motore attraversavano lentamente la corrente. Alcuni pescatori stavano riparando delle reti all'ombra di una tettoia. C'erano motociclette parcheggiate accanto a vecchie canoe scrostate. Secchi di plastica accanto a cesti intrecciati a mano. La modernità non aveva sostituito il resto, vi si era semplicemente sovrapposta.
+Il fiume era il centro nevralgico, con un movimento continuo di canoe a remi e piccole imbarcazioni a motore che attraversavano lentamente la corrente. Alcuni pescatori stavano riparando delle reti all'ombra di una tettoia. C'erano motociclette parcheggiate accanto a vecchie canoe scrostate. Secchi di plastica accanto a cesti intrecciati a mano. La modernità non aveva sostituito il resto, vi si era semplicemente sovrapposta.
 
 Davanti a loro, poco oltre una fila di alberi da frutto, comparve una veranda ombreggiata. Un'insegna semplice era fissata sopra la porta d'ingresso: "Guesthouse da Zali".
 
 Probabilmente l'unica guesthouse del villaggio.
 
-Leon salì i gradini della veranda due per volta e appoggiò lo zaino a terra. Dopo il caldo soffocante del sentiero, l'ombra offriva un sollievo immediato. Due grandi ventilatori a pale ruotavano lentamente sotto sul soffitto, spostando l'aria quel tanto che bastava a renderla sopportabile.
-
 L'edificio era più solido di tanti altri che aveva visto al villaggio. Le fondamenta e parte delle pareti erano in muratura, mentre il resto della struttura era realizzato in legno locale accuratamente lavorato. Nulla di lussuoso, ma nemmeno improvvisato: qualcuno aveva investito tempo e denaro per costruirlo.
 
-La reception era un ampio spazio aperto affacciato sul fiume. Da una parte si intravedeva una sala da pranzo con alcuni tavoli di legno. Dall'altra, una serie di corridoi conduceva probabilmente alle camere.
+Leon salì i gradini di legno due per volta e appoggiò lo zaino a terra. Dopo il caldo soffocante del sentiero, l'ombra offriva un sollievo immediato. Due grandi ventilatori a pale ruotavano lentamente sotto sul soffitto della piccola reception, spostando l'aria quel tanto che bastava a renderla sopportabile. Da una parte si intravedeva una veranda aperta sul fiume, con alcuni tavoli di legno. Dall'altra, una scala di legno conduceva probabilmente alle camere.
 
 Una giovane donna era in piedi dietro a un bancone. Stava osservando qualcosa sullo schermo di un portatile e parlava contemporaneamente attraverso un auricolare, in un fluido inglese con un lieve accento locale.
 
@@ -90,53 +100,55 @@ Alex indicò Leon con il pollice. "Se esiste una prenotazione, lo sa lui."
 
 Leon estrasse il cellulare dal taschino della giacca leggera e recuperò la conferma. "La prenotazione è a nome Leon Walker e Alex Robinson."
 
-La giovane diede una rapida occhiata allo schermo che lui le porgeva. "Perfetto. Due singole." Fece scorrere alcune informazioni sul proprio tablet. "Benvenuti." Fece il giro del bancone. "Io sono Zali."
+La giovane diede una rapida occhiata allo schermo che lui le porgeva. "Perfetto. Due singole." Annotò qualcosa su un taccuino, poi fece il giro del bancone. "Benvenuti, io sono Zali."
 
-Avrà avuto poco più di venticinque anni. I capelli neri, organizzati in lunghe treccine, erano raccolti dietro la testa in modo pratico. Indossava maglietta e shorts di jeans: abiti semplici, adatti al clima e al lavoro. Niente nella sua postura o nel suo modo di parlare ricordava una receptionist da albergo. Sembrava piuttosto qualcuno abituato a risolvere problemi.
+Avrà avuto poco più di venticinque anni. I capelli neri, organizzati in lunghe treccine, erano raccolti dietro la testa in modo pratico. Indossava maglietta e shorts di jeans, e niente nella sua postura o nel suo modo di parlare ricordava una receptionist da albergo. Sembrava piuttosto qualcuno abituato a risolvere problemi.
 
-"Viaggiate leggeri per essere arrivati in elicottero," osservò.
+"Viaggiate leggeri per essere arrivati in elicottero," osservò con una punta di curiosità.
 
-A nessuno era sfuggito il loro arrivo, notò Leon.
+A nessuno era sfuggito il loro arrivo. C'era da aspettarselo.
 
 "Abbiamo lasciato il grosso dell'attrezzatura a bordo."
 
 Zali annuì come se la cosa confermasse un sospetto. "Ricercatori?"
 
-Alex e Leon si scambiarono una rapida occhiata. "Qualcosa del genere," rispose Leon.
+Alex e Leon si scambiarono una rapida occhiata. "Qualcosa del genere," borbottò Leon.
 
-Zali non insistette. Li accompagnò alla veranda, che fungeva da spazio comune. "Potete sistemarvi qui mentre preparo le chiavi." Alcune comode sedie e dei tavolini occupavano la zona ombreggiata. "Quanto pensate di fermarvi?"
+Zali non insistette. "Potete sistemarvi nella veranda mentre preparo le chiavi."
 
-Leon si accomodò sulla sedia. "Il tempo che serve."
+La veranda fungeva da spazio comune, anche se non si vedeva nessun altro ospite. Una tettoia in legno riparava dal sole una dozzina di poltroncine e sedie spaiate, attorno a dei tavolini con tovagliette dai colori assortiti. Il tutto aveva un aspetto disordinato ma confortevole. "Quanto pensate di fermarvi?"
 
-La risposta rimase sospesa per qualche secondo nell'aria. Zali inclinò leggermente la testa: non sembrava sorpresa. Sembrava soltanto aver ricevuto la conferma definitiva che quei due uomini non erano arrivati fin lì per osservare il paesaggio.
+Leon si accomodò sulla sedia. L'aria fresca del fiume dava un po' di tregua dalla calura, anche se non riusciva ad arginare l'umidità. "Il tempo che serve."
 
-La ragazza scomparve all'interno dell'edificio, lasciandoli soli. Leon estrasse il tablet dallo zaino e lo accese, cercando di connettersi al wi-fi.
+La risposta rimase sospesa per qualche secondo. Zali inclinò la testa: non sembrava sorpresa. Sembrava soltanto aver ricevuto la conferma definitiva che quei due uomini non erano arrivati fin lì per la stagione di pesca.
 
-Alex si appoggiò allo schienale e lasciò vagare lo sguardo. "Dovresti provare a fare una vacanza ogni tanto," disse, allungando le gambe sotto il tavolino.
+La ragazza scomparve all'interno, lasciandoli soli. Leon estrasse il tablet dallo zaino e lo accese, cercando di connettersi al wi-fi.
 
-Il frinire delle cicale riempiva l'aria, mescolato al ronzio confortante dei ventilatori. Leon inserì la password di rete: GuestHouse2047. "Non siamo qui per rilassarci."
+La sedia di vimini scricchiolò appena quando anche Alex sprofondò nei cuscini, appoggiandosi allo schienale e allungando le gambe sotto il tavolino. "Dovresti provare a fare una vacanza ogni tanto," disse mentre lasciava vagare lo sguardo oltre la veranda.
+
+Leon inserì la password di rete (GuestHouse2047), senza alzare gli occhi. "Non siamo qui per rilassarci."
 
 "Lavorare e rilassarsi non si escludono a vicenda."
 
 Connesso. La schermata mostrava la mappa dell'area. Al centro della visualizzazione, quasi nascosto tra le pieghe della foresta, lampeggiava il piccolo indicatore.
 
-Sedici chilometri a nord est.
+Sedici chilometri a nord est dal villaggio.
 
 Lo osservò per qualche secondo. Le coordinate erano corrette, la posizione era la stessa: nessun aggiornamento.
 
-"Cosa fa la gente qui tutto il giorno?"
+"Cosa fa la gente qui tutto il giorno?" insistette il collega.
 
-Leon finalmente alzò lo sguardo. "Lo chiedi come se dovessi adeguarti alla vita locale."
+Leon alzò lo sguardo. "Lo chiedi come se dovessi adeguarti alla vita locale."
 
-"Non mi dispiacerebbe abitare qui per un po'."
+"Visto che sei un antropologo, magari puoi illuminarmi sulle usanze locali," fece Alex con un'alzata di spalle. Poi aggiunse: "Non mi dispiacerebbe abitare qui per un po'."
 
-Leon si guardò attorno. Oltre la veranda il fiume scorreva lento tra le canoe attraccate ai pontili. Qualcuno stava scaricando delle casse da una barca, mentre poco più in là alcuni bambini correvano lungo la riva inseguendosi tra gli alberi. Dalla cucina arrivava l'odore speziato di qualcosa che stava cuocendo e, per la prima volta dopo ore di viaggio, stava seduto su una poltroncina comoda.
+Leon si guardò attorno. Oltre la veranda il fiume scorreva lento e torbido, facendo ondeggiare le canoe attraccate ai pontili. Qualcuno stava scaricando delle casse da una barca, mentre poco più in là alcuni bambini correvano lungo la riva inseguendosi tra gli alberi.
 
-Doveva ammetterlo: era un posto più tranquillo del suo ufficio a New York.
+Chiuse gli occhi, rilassandosi davvero per la prima volta. Da un albero poco lontano arrivava il suono insistente delle cicale e nell'aria si sentiva già l'odore speziato di qualcosa che stava cuocendo. Per di più, era seduto su una poltroncina coperta di comodi cuscini. Doveva ammetterlo: era un posto più tranquillo del suo ufficio a New York.
 
 Zali tornò con due piccole tessere magnetiche. "Le vostre camere sono pronte." Appoggiò le chiavi sul tavolo. "Una al piano terra e una al piano superiore."
 
-"Quella sopra," disse Alex immediatamente. "Ha una vista migliore."
+"Quella sopra," disse Alex alzandosi. "Ha una vista migliore."
 
 "Ha anche più zanzare" puntualizzò Zali.
 
@@ -146,25 +158,25 @@ Leon raccolse la propria tessera e si alzò. Aveva bisogno di una doccia e di qu
 
 \[STACCO\]
 
-La doccia riuscì almeno in parte a cancellare la sensazione di umidità e polvere accumulata durante il viaggio. Quando Leon scese nuovamente nella sala comune, la luce che entrava dalla veranda si era fatta obliqua e morbida. La guesthouse era silenziosa: come aveva immaginato, non c'erano molti ospiti.
+La doccia riuscì almeno in parte a cancellare la sensazione di umidità e polvere accumulata durante il viaggio, ma durò poco: due minuti dopo, si sentiva più sudato di prima. Quando Leon scese nuovamente nella sala comune, la luce che entrava dalla veranda si era fatta obliqua e morbida. Lo svantaggio era che buona parte dei tavolini ora erano al sole.
 
-I ventilatori continuavano a ruotare pigramente sotto il soffitto. Dal fiume proveniva il rumore ritmico di un motore.
+Dal fiume proveniva il rumore ritmico di un motore, ma la guesthouse era ancora silenziosa: come aveva immaginato, non c'erano molti ospiti.
 
-Zali era seduta dietro il bancone con un portatile aperto davanti a sé. Sembrava concentrata su una serie di documenti, ma alzò lo sguardo non appena lo vide avvicinarsi. "Le camere sono ok?"
+Zali era seduta dietro il bancone nella hall e sembrava concentrata su una mail, ma alzò lo sguardo non appena lo vide avvicinarsi. "Le camere sono ok?"
 
 "Sono perfette."
 
 Zali sorrise, lievemente compiaciuta. Doveva aver investito molto in quella guesthouse.
 
-Le camere non erano davvero perfette. Il materasso era un po' troppo rigido, una persiana non chiudeva completamente e il ventilatore da soffitto sembrava sul punto di perdere una lenta battaglia contro la gravità. Ma le lenzuola erano fresche, la stanza pulita e aveva persino trovato sul comodino un vaso di fiori appena raccolti.
+Le camere non erano davvero perfette. Il materasso era così morbido che sembrava sfondato, una persiana non chiudeva completamente e il ventilatore da soffitto girava così lento che Leon dubitava fosse stato di qualche utilità. Ma le lenzuola erano fresche, la stanza pulita e aveva persino trovato sul comodino un vaso di fiori appena raccolti.
 
-Dopo vent'anni anni passati tra scavi archeologici e spedizioni, Leon considerava un lusso qualsiasi stanza con un tetto, un letto e una porta dotata di serratura.
+Dopo vent'anni anni passati tra scavi archeologici e spedizioni, Leon considerava un lusso qualsiasi stanza con un letto, una doccia e una porta dotata di serratura.
 
-Si accomodò su una sedia. Per qualche secondo rimasero in silenzio.
+Ripensò alla domanda di Alex.
 
 "Di cosa vive la gente di qui? Chi non ha una guesthouse da portare avanti, intendo."
 
-Zali versò del succo in due bicchieri. "Pesca, agricoltura, allevamento. Un po' di commercio. Alcuni lavorano da remoto per aziende in città. Altri fanno avanti e indietro. Molti pensano che i villaggi nella giungla siano fermi nel passato."
+"Pesca, agricoltura, allevamento. Un po' di commercio. Alcuni lavorano da remoto per aziende in città. Altri fanno avanti e indietro. Molti pensano che i villaggi nella foresta siano fermi nel passato."
 
 "E invece?"
 
@@ -172,7 +184,7 @@ Zali versò del succo in due bicchieri. "Pesca, agricoltura, allevamento. Un po'
 
 "Ci sono scuole?"
 
-"Certo. Elementari e secondarie. Per l'università bisogna andare in città."
+"Certo. Elementari e medie. Per il resto, bisogna andare in città."
 
 "E ci andate?"
 
@@ -180,43 +192,13 @@ Zali versò del succo in due bicchieri. "Pesca, agricoltura, allevamento. Un po'
 
 "Poi tornano?"
 
-"Non sempre."
+Zali esitò. "Non sempre."
 
 "Tu sei tornata."
 
 "Già." Non aggiunse altro. Per qualche ragione Leon ebbe l'impressione che dietro quella risposta si nascondesse una storia più lunga.
 
-Mentre parlavano, una figura comparve sul sentiero che passava davanti alla guesthouse. L'uomo, sulla cinquantina, avanzava con passo tranquillo lungo la riva. A differenza della maggior parte delle persone viste fino a quel momento, indossava abiti tradizionali: una lunga tunica blu acceso decorata con motivi geometrici e un copricapo semplice ma elegante. La schiena era perfettamente dritta e il suo portamento emanava un'autorevolezza naturale.
-
-L'uomo rallentò brevemente davanti alla veranda. I suoi occhi si posarono per un istante su Leon. Non ostili, ma nemmeno particolarmente cordiali.
-
-Rivolse un cenno a Zali che, da dietro alla reception, contraccambiò con un gesto della mano.
-
-"Raul. Mio padre," disse Zali. Leon seguì la figura con lo sguardo finché non scomparve dietro alcune abitazioni.
-
-"È la prima persona che vedo indossare vesti tradizionali."
-
-"Fa parte del consiglio degli anziani. È molto orgoglioso delle sue origini Naha."
-
-Leon si interessò. "Quindi esiste ancora un consiglio degli anziani?"
-
-"Formalmente facciamo parte dello Stato come tutti gli altri. Ci sono leggi nazionali, funzionari, amministrazioni regionali."
-
-"Naturalmente."
-
-"Ma poi ci sono le questioni locali. L'uso delle terre comuni. Le dispute tra famiglie. Alcuni accordi commerciali. I rapporti con i villaggi vicini. L'organizzazione delle festività. La gestione di certe tradizioni."
-
-"Quindi il consiglio prende decisioni reali."
-
-"Diciamo di sì. È complicato."
-
-Leon annuì. Le strutture sociali reali erano quasi sempre complicate.
-
-"Come vede il fatto che sua figlia gestisce un alloggio per turisti?"
-
-"Oh, ormai ha accettato la cosa. E poi, ha altri figli su cui puntare. Siamo in cinque fratelli."
-
-Il rumore di passi sulle scale annunciò l'arrivo di Alex qualche secondo prima che comparisse nella sala comune. Scese gli ultimi gradini con aria pensierosa, si fermò al centro della stanza e guardò Leon. "Ho una domanda."
+Leon stava per tornare a rilassarsi nella veranda, quando il rumore di passi sul legno annunciò l'arrivo di Alex qualche secondo prima che comparisse in cima alle scale. Scese gli ultimi gradini con aria pensierosa. "Ho una domanda."
 
 Leon sospirò.
 
@@ -224,29 +206,33 @@ Leon sospirò.
 
 "È una caratteristica comune delle docce."
 
-"Uno era caldo."
+"Uno era freddo."
 
 "Anche questo è abbastanza comune."
 
-"Anche l'altro era caldo."
+"Anche l'altro era freddo."
 
 Leon chiuse gli occhi per un istante.
 
-Dietro il bancone, Zali abbassò lo sguardo sul portatile, improvvisamente assorta nelle prenotazioni davanti a sé.
+Zali, dietro al bancone, aveva abbassato lo sguardo sul portatile, improvvisamente assorta nelle prenotazioni davanti a sé.
 
-Alex si diresse verso il tavolino. "È una vera fortuna: adoro le docce calde. Non facevo una doccia così da mesi. Anche le lenzuola. Pulitissime."
+"Il che è fantastico," aggiunse allegramente. "Con questa umidità, chi vorrebbe una doccia calda?" Solo allora si girò verso la reception. "Ah, buon pomeriggio Zali."
 
-Si lasciò cadere su una sedia accanto a Leon e si allungò verso il tavolo. "Ah, buon pomeriggio Zali."
+Leon scosse la testa, mentre tornava alla sua poltroncina nella veranda. Alex lo seguì, abbassando leggermente la voce. "Devo imparare a tenere la bocca chiusa?"
 
-Leon scosse la testa.
+"So quanto ti risulta difficile."
 
-Per un momento nessuno parlò, mentre gli ultimi raggi di sole illuminavano la veranda. La brezza rinfrescante che proveniva dal fiume rendeva il clima semplicemente perfetto.
+"Però devi ammettere che sono bravo a salvarmi in corner."
 
-Leon sorseggiò il succo acidulo e rinfrescante. "Avete guide locali qui? Qualcuno che conosca molto bene il territorio? E non parlo solo dei sentieri."
+La brezza rinfrescante che proveniva dal fiume rendeva il clima semplicemente perfetto.
 
-Zali alzò il sopracciglio. "Dipende cosa dovete fare."
+Zali ricomparve dopo qualche minuto, con una caraffa pieno di un succo rosso rubino. "Offre la casa."
 
-Voleva saperne di più.
+Leon ebbe l'impressione che fosse un modo per farsi perdonare la questione delle docce. Si versò un bicchiere: il succo era acidulo e rinfrescante.
+
+Prima che Zali tornasse alle sue mail, tirò fuori la questione che più gli premeva: "Avete guide locali qui? Qualcuno che conosca molto bene il territorio?"
+
+Zali alzò il sopracciglio. "Dipende cosa dovete fare." Restò in attesa, come se volesse saperne di più.
 
 Alex colse. "Fidati, non vogliamo fare i misteriosi. È che\... ancora non sappiamo cosa stiamo cercando."
 
@@ -284,277 +270,35 @@ Alex si voltò verso Leon.
 
 Zali non nascose una certa soddisfazione.
 
-"Perfetto" disse Alex alzandosi. "Allora abbiamo un accordo."
+"Perfetto" disse Alex aprendo le braccia in un gesto teatrale. "Allora abbiamo un accordo."
 
 "Non sapete nemmeno che prezzo vi farò."
 
 "Siamo venuti in elicottero. Credi che abbiamo problemi finanziari?"
 
-\[STACCO\]
-
-# CAPITOLO
-
-id: il_villaggio
-tipo: capitolo
-titolo: Il villaggio
-descrizione: Leon e Alex cercavano una guida per l'esplorazione nella giungla. Non avrebbero sospettato che la persona giusta era sotto il loro naso.
-immagine: img/capitoli/il_villaggio.jpg
-
---- FINE METADATI ---
-
-"Quella è la scuola."
-
-Zali indicò un edificio rettangolare poco distante dal fiume.
-
-Leon sollevò lo sguardo. Avevano lasciato la guesthouse da qualche minuto e stavano percorrendo uno dei sentieri principali del villaggio. Il sole stava lentamente perdendo intensità, ma l'aria conservava ancora il calore accumulato durante la giornata.
-
-Attorno a loro la vita scorreva con un ritmo diverso da quello delle grandi città. Le attività più faticose erano terminate e molte persone si erano raccolte all'ombra delle verande o lungo la riva del fiume.
-
-La scuola era un edificio semplice ma ben tenuto. Sul tetto spiccavano diversi pannelli solari, mentre le finestre aperte lasciavano uscire le ultime voci della giornata.
-
-Proprio in quel momento una classe stava terminando le lezioni pomeridiane.
-
-Una ventina di bambini di tutte le età uscirono dall'ingresso in una sorta di esplosione di energia trattenuta troppo a lungo. Alcuni si precipitarono verso il campo da gioco poco distante, altri si fermarono a parlare tra loro. Una bambina riconobbe Zali e le corse incontro per mostrarle qualcosa sul proprio cellulare.
-
-Zali ascoltò con pazienza, annuì e la congedò con una carezza sulla testa.
-
-"Ti conoscono tutti," disse Alex.
-
-"È uno dei rischi di vivere in un villaggio."
-
-Proseguirono lungo il sentiero fino a raggiungere un edificio basso con pareti bianche e un tetto metallico dipinto di azzurro.
-
-"L'ambulatorio."
-
-Leon guardò attraverso la porta aperta. "Molto più attrezzato di quanto immaginassi." Si intravedevano lettini, armadietti per i medicinali e una piccola postazione diagnostica.
-
-Il villaggio si faceva via via più silenzioso man mano che si allontanavano dal fiume. Dopo alcuni minuti, raggiunsero una piccola radura circondata da alberi enormi. Al centro sorgeva un edificio che appariva diverso da tutti gli altri.
-
-Era costruito quasi interamente in legno scuro, con un tetto molto spiovente e pareti decorate da incisioni consumate dal tempo. Non aveva nulla di monumentale, eppure trasmetteva una sensazione di antichità che gli altri edifici non possedevano.
-
-"Il tempio," disse Zali.
-
-Leon lo osservò con l'interesse professionale di un antropologo.
-
-L'interno era sorprendentemente fresco. La luce entrava da piccole aperture vicino al soffitto, e illuminava decine di oggetti disposti lungo le pareti: maschere rituali scolpite nel legno, tamburi decorati, una corona dorata, statue antropomorfe dall'espressione severa. Poi bastoni cerimoniali, collane, tessuti e oggetti il cui utilizzo non era immediatamente evidente.
-
-Nulla sembrava esposto come in un museo. Erano strumenti ancora vivi, ancora utilizzati.
-
-"Pensavo che la maggior parte di queste tradizioni fosse scomparsa," osservò Alex a bassa voce.
-
-"Molte sono cambiate," rispose Zali. "Ma non sono scomparse."
-
-Camminò lentamente lungo la parete, indicando alcuni degli oggetti.
-
-"Noi Naha crediamo in due dèi. Opposti tra loro. Il primo è il dio dell'Ordine, colui che dà forma alle cose, stabilisce i confini e mantiene il mondo comprensibile. Il secondo è il dio del Caos, che distrugge, trasforma e mescola ciò che esiste."
-
-Indicò poi una serie di piccole figure scolpite.
-
-"E oltre a questo, onoriamo gli antenati. Non li veneriamo come divinità. Li ricordiamo."
-
-"Come forma di gratitudine?" domandò Leon.
-
-Zali si fermò a riflettere. "Per non dimenticarli. Una persona muore davvero solo quando nessuno la ricorda più."
-
-La risposta colpì Leon più di quanto avrebbe voluto ammettere. Per un attimo un volto gli attraversò la mente. Lo allontanò. Con delicatezza, come si rimette a posto un oggetto fragile.
-
-Continuò a osservare il tempio, ma la sua mente era fuggita altrove.
-
-Quando uscirono, la luce dorata del tardo pomeriggio si infilava tra i tronchi, trasformando la radura in un intreccio di ombre lunghe e bagliori caldi.
-
-Stavano percorrendo il sentiero di ritorno quando una voce allegra li raggiunse da dietro. Un uomo anziano avanzava nella loro direzione con passo sorprendentemente energico. Era basso, quasi minuto, e camminava appoggiandosi a un bastone che Leon sospettò fosse più un accessorio che una reale necessità. Portava una tunica chiara decorata e, a differenza di Raul, sembrava sorridere al mondo intero.
-
-I suoi occhi erano la cosa più notevole. Vivaci. Curiosi. Quasi infantili.
-
-L'uomo si fermò davanti a loro e rivolse immediatamente qualche frase a Zali nella lingua locale. Poi guardò Alex dall'alto dei suoi centosessanta centimetri scarsi e scoppiò a ridere.
-
-"Cosa ha detto?" domandò Alex.
-
-Zali stava già sorridendo. "Dice che siete troppo magri per sopravvivere nella foresta."
-
-Alex abbassò lo sguardo sul proprio fisico. "Digli che sto cercando di rimediare."
-
-La traduzione provocò una seconda risata ancora più sonora. L'anziano diede una pacca sulla spalla di Alex, pronunciò un'ultima frase e riprese il cammino come se avesse appena assolto un importante dovere istituzionale.
-
-Leon lo seguì con lo sguardo. "Personaggio interessante. Chi era?"
-
-"Il capo del consiglio degli anziani."
-
-Alex si voltò di scatto. "Quello era il capo? Pensavo fosse il giardiniere."
-
-Ripresero il cammino verso il centro del villaggio. Man mano che si avvicinavano al fiume, l'aria si riempiva di nuovi odori e nuovi rumori. Il villaggio non si stava spegnendo. Al contrario, sembrava entrare in una seconda fase della propria vita quotidiana.
-
-Leon notò una grande struttura aperta vicino alla riva. Una vasta tettoia sostenuta da pilastri di legno proteggeva un'area comune. Sotto di essa erano disposti tavoli lunghi e panche, mentre sul lato più vicino al fiume alcune cucine all'aperto erano già in piena attività. Fiamme danzavano sotto grandi pentole metalliche. Persone andavano e venivano trasportando ceste, recipienti e ingredienti. Dalle travi superiori pendevano lampade alimentate da batterie solari che iniziavano ad accendersi una dopo l'altra mentre la luce naturale diminuiva.
-
-"Qui è dove cenano tutti?" domandò Leon.
-
-"Non sempre tutti," spiegò Zali. "Ma spesso sì. Le famiglie possono mangiare a casa, naturalmente. Però molti preferiscono ritrovarsi qui."
-
-L'effetto era quello di una grande piazza coperta. Le persone conversavano, i bambini correvano tra i tavoli, gli anziani occupavano i posti migliori vicino alla brezza proveniente dal fiume.
-
-"Che ne dici se ci uniamo a loro?" propose Leon.
-
-Zali sembrò sorpresa. "Pensavo voleste stare per conto vostro."
-
-"Perché?"
-
-"Perché è quello che fanno quasi tutti."
-
-Alex guardò il collega come se lo stesse valutando. "Ti voglio bene, Leon, ma spero tu non ti offenda se per stasera evitiamo la cena al lume di candela."
-
-Per la prima volta Zali scoppiò a ridere apertamente. "D'accordo allora."
-
-I nuovi arrivati non passarono inosservati, ma nemmeno provocarono particolare agitazione. Leon ebbe l'impressione che l'intero villaggio fosse già al corrente della loro presenza da ore. Alcuni li osservarono con curiosità, altri si limitarono a un cenno di saluto. Molti continuarono semplicemente quello che stavano facendo.
-
-Un gruppo di bambini si avvicinò abbastanza da studiarli, poi scoppiò a ridere e si allontanò di corsa quando Alex rivolse loro un saluto.
-
-Due minuti dopo erano tornati. Poi erano fuggiti di nuovo. Poi erano tornati ancora.
-
-"Mi ricordano particelle in moto browniano," osservò Alex.
-
-"Ti prego, non iniziare."
-
-"Era una bellissima metafora."
-
-Poco distante alcuni ragazzi erano seduti attorno a un tavolo. Uno indossava un paio di occhiali per realtà aumentata, mentre un altro stava mostrando qualcosa sul proprio terminale portatile agli amici.
-
-Indicò il logo stampato sulla camicia di Leon. "FSU?"
-
-Leon annuì. Il volto del ragazzo si illuminò immediatamente. Seguì una breve conversazione nella quale metà delle parole vennero tradotte da Zali. Alla fine il ragazzo estrasse il telefono. "Foto?"
-
-Pochi secondi dopo stavano posando per un selfie. Altri giovani decisero che la cosa doveva essere interessante e si unirono spontaneamente. Alex sembrava divertirsi enormemente. Leon rimase leggermente più indietro, osservando la scena prima di lasciarsi trascinare anche lui.
-
-"Dovresti sorridere," gli suggerì Alex.
-
-"Sto sorridendo."
-
-"Quella è l'espressione che fai quando analizzi campioni di terreno."
-
-Quando presero posto a uno dei tavoli liberi, l'odore del cibo era ormai impossibile da ignorare. Una grande pentola fumante venne posata al centro insieme a pani locali e ciotole di legno. La zuppa di pesce diffondeva un aroma ricco e invitante che mescolava il profumo del pescato con quello delle erbe aromatiche e delle spezie. Solo allora Leon si rese conto di avere davvero fame.
-
-Zali riempì loro i piatti. "Adesso capisci perché il capo degli anziani era preoccupato per voi?"
-
-Alex osservò l'enorme pentola di zuppa. "Se questo è il trattamento riservato agli ospiti, credo che riusciremo a sopravvivere alla foresta."
-
-Istintivamente, Leon guardò oltre il fiume. Da lontano la giungla appariva tranquilla, quasi invitante. Da qualche parte là dentro si trovava il motivo per cui erano lì.
-
-La zuppa si rivelò all'altezza del profumo. Il brodo era ricco senza risultare pesante. Il pesce, appena pescato, aveva una carne compatta e saporita che si sfaldava facilmente nel cucchiaio.
-
-Per qualche minuto la conversazione lasciò spazio al cibo. Poi, inevitabilmente, la curiosità prese il sopravvento: le persone sedute ai tavoli vicini avevano ormai accettato la presenza dei due stranieri, e proprio per questo iniziarono a considerarli abbastanza familiari da fare domande.
-
-Fu una donna seduta poco distante a rompere il ghiaccio. "Vuole sapere cosa fate" tradusse Zali.
-
-Alex sospirò. "È sempre qui che iniziano i problemi."
-
-"Comincia tu," disse Leon.
-
-Alex si schiarì la gola. "Tecnicamente sono un fisico teorico."
-
-Seguì qualche secondo di silenzio. Gli sguardi presenti attorno al tavolo non sembravano particolarmente illuminati dalla spiegazione. Alex proseguì. "In breve, studio cose che probabilmente non esistono."
-
-I locali ridacchiarono tra loro.
-
-"Hai reso l'idea," commentò Leon.
-
-Alex fece spallucce. "Il tuo turno, amico."
-
-Leon sospirò leggermente. "Mi occupo di archeologia cognitiva."
-
-L'effetto fu quasi identico a quello ottenuto da Alex pochi istanti prima. Zali inclinò la testa.
-
-"È una disciplina piuttosto recente, che unisce archeologia, antropologia, storia, linguistica e modellazione informatica. Studio le civiltà, cerco di capire come vivevano. Come pensavano. Come trasmettevano la conoscenza." Indicò il tempio che avevano visitato poco prima. "Per esempio, tra cento anni qualcuno potrebbe voler capire come viveva il popolo Naha oggi. Io studio cose del genere."
-
-Zali appoggiò il cucchiaio. "Quindi siete entrambi inutili nella vita quotidiana."
-
-La frase provocò una risata generale. Persino Leon si ritrovò a sorridere.
-
-"È una sintesi sorprendentemente accurata," ammise Alex.
-
-La conversazione sembrò rilassarsi ulteriormente. A un certo punto un ragazzo che aveva scattato uno dei selfie precedenti indicò nuovamente il logo sulla giacca di Leon.
-
-"FSU."
-
-"Sì. Significa *Fisici Straordinariamente Utili*."
-
-Alcuni dei presenti risero, pur senza essere certi che stesse scherzando.
-
-Leon alzò gli occhi al cielo. "Frontiere Scientifiche Unite."
-
-Il ragazzo annuì, incuriosito. Forse ne aveva sentito parlare.
-
-"È un'agenzia internazionale collegata alle Nazioni Unite. Il suo compito è coordinare la ricerca scientifica globale, preservare conoscenze a rischio di andare perdute e indagare fenomeni che nessuna singola istituzione sarebbe in grado di studiare da sola."
-
-"Come un'università?"
-
-Leon rifletté un momento sul modo più semplice di spiegarlo. "Immaginate una squadra composta da persone provenienti da paesi e discipline diverse. Se viene scoperta una nuova malattia, una tecnologia sconosciuta, un fenomeno che non comprendiamo, la FSU può inviare specialisti per studiarlo."
-
-Gli occhi del ragazzo brillavano. "Quindi siete esploratori?"
-
-"Qualche volta."
-
-Alex sollevò il proprio bicchiere. "In pratica passiamo gran parte del tempo a viaggiare molto lontano per poi scoprire che non abbiamo idea di cosa stia succedendo."
-
-"Parla per te."
-
-"Sono abbastanza sicuro che sia una descrizione accurata dell'organizzazione."
-
-La domanda successiva venne spontanea. "Cosa siete venuti a cercare?"
-
-Due scienziati che attraversano mezzo pianeta per raggiungere un villaggio remoto nel cuore della foresta. Era difficile immaginare che fossero lì per il panorama.
-
-Alex e Leon si scambiarono una rapida occhiata. Poi Alex posò il cucchiaio.
-
-"Un antico tesoro."
-
-Zali alzò un sopracciglio.
-
-"Davvero?"
-
-"No."
-
-Zali sembrò sinceramente delusa.
-
-Leon intervenne, il tono cauto. "Abbiamo rilevato qualcosa di insolito."
-
-Una risposta semplice, volutamente vaga.
-
-"Che cosa?"
-
-"È quello che speriamo di scoprire."
-
-Seguì qualche secondo di silenzio. Poi uno degli anziani disse qualcosa nella lingua locale. Le persone attorno al tavolo annuirono come se la spiegazione fosse sufficiente.
-
-"Cosa ha detto?" domandò Alex.
-
-Zali sorrise. "Ha detto che se sapeste già cos'è, non avreste bisogno di cercarlo."
-
-Con sorprendente naturalezza la conversazione scivolò verso altri argomenti. Forse, pensò Leon osservando i volti rilassati attorno al tavolo, quelle persone avevano imparato che la curiosità non richiede sempre una risposta immediata. Certe storie vengono raccontate solo quando arriva il momento giusto.
-
-Con il passare del tempo la tavolata iniziò lentamente a sciogliersi. Alcune famiglie tornarono alle proprie abitazioni. I bambini scomparvero uno dopo l'altro, richiamati dai genitori, mentre le conversazioni si riducevano a piccoli gruppi sparsi sotto la tettoia.
-
-Poco dopo, anche i due ricercatori si ritirarono.
-
-La notte era ormai scesa completamente sul villaggio. Restavano il rumore costante del fiume, il canto degli insetti nascosti nella vegetazione e le ultime voci che si perdevano nell'oscurità.
+Zali si fece sfuggire un sorriso. Leon era certo che quella battuta sarebbe costata loro più dollari del necessario.
 
 \[STACCO\]
 
-Leon si alzò prima della sveglia.
+La mattina seguente, Leon si alzò prima della sveglia.
 
-Per qualche secondo rimase immobile ad ascoltare i suoni provenienti dall'esterno. Il villaggio era già sveglio. Dal fiume arrivava il rumore dei primi motori, mescolato alle voci lontane di persone che iniziavano la giornata. Attraverso la finestra filtrava una luce azzurra ancora incerta.
+Per qualche secondo rimase immobile ad ascoltare i suoni provenienti dall'esterno. Il villaggio era già sveglio. Dal fiume arrivava il rumore dei motori, mescolato alle voci lontane dei pescatori. Attraverso la finestra filtrava una luce azzurra ancora incerta.
 
 Si infilò gli occhiali e l'interfaccia si attivò automaticamente. 5:25. Non era ancora l'alba.
 
 Una piccola notifica comparve nell'angolo delle lenti.
 
-*Buongiorno, Leon. Temperatura esterna: 24 gradi. Tasso di umidità 89%. Hai dormito 6 ore e 29 minuti, valore inferiore alla media consigliata.*
+**Buongiorno, Leon. Temperatura esterna: 24 gradi. Tasso di umidità 89%. Hai dormito 5 ore e 29 minuti, valore inferiore alla media consigliata.**
 
-"Grazie Marie," borbottò.
-
-Archiviò l'avviso con un battito di ciglia.
+"Grazie Marie," borbottò, mentre archiviava l'avviso con un battito di ciglia.
 
 Quando scese nella sala comune trovò Alex con una tazza di caffè in mano. Anche lui era già sveglio.
 
-Quando, pochi minuti dopo, comparve anche Zali, videro che a differenza della sera precedente, aveva abbandonato gli abiti civili. Indossava pantaloni tecnici color sabbia rinforzati sulle ginocchia, scarponi leggeri da trekking e una camicia verde oliva a maniche lunghe. Uno zaino compatto era fissato saldamente sulle spalle e un machete da sentiero pendeva dal fianco in una custodia consumata dall'uso. Sembrava una persona completamente diversa. O forse, pensò Leon, semplicemente la versione più autentica di sé stessa.
+"Dormito bene, Leon?"
+
+"Non riuscirò a dormire bene finché non scopro cosa provoca quel segnale."
+
+Pochi minuti dopo comparve anche Zali, che a differenza della sera precedente aveva abbandonato gli abiti civili. Indossava pantaloni tecnici color sabbia rinforzati sulle ginocchia, scarponi leggeri da trekking e una camicia verde oliva a maniche lunghe. Uno zaino compatto era fissato saldamente sulle spalle e un machete da sentiero pendeva dal fianco in una custodia consumata dall'uso. Sembrava una persona completamente diversa. O forse, pensò Leon, semplicemente la versione più autentica di sé stessa.
 
 Alex fischiò sommessamente, ammirato.
 
@@ -568,31 +312,37 @@ Alex abbassò lo sguardo sui propri vestiti. "Mi sembrano pantaloni perfettament
 
 Poi passò a Leon. "Tu almeno hai scelto le maniche lunghe. Però quei pantaloni sono troppo pesanti."
 
-"Li uso sul campo da anni."
+"Li uso sul campo da anni." La risposta gli uscì più secca di quanto intendesse. Non aveva trascorso vent'anni tra scavi e spedizioni per sentirsi spiegare come ci si vestiva fuori da un ufficio.
 
-"Sì. Ma non in questa foresta."
+Zali, però, non sembrò impressionata. "Sì. Ma non in questa foresta."
 
-Li costrinse a una breve revisione dell'equipaggiamento. Dal retro della guesthouse recuperò alcune ghette leggere contro fango e serpenti, cappelli a tesa larga trattati contro la pioggia tropicale e sottili mantelle impermeabili comprimibili.
+Leon abbassò lo sguardo sui pantaloni, poi su di lei. Avrebbe potuto elencarle almeno una mezza dozzina di ambienti peggiori in cui li aveva indossati senza problemi, ma il caldo umido che già gli appiccicava la camicia alla schiena rendeva quella difesa molto meno convincente.
 
-Le ghette sparirono sotto i pantaloni, gli zaini vennero stretti un'ultima volta e i cappelli calati sugli occhi. Nel giro di pochi minuti avevano perso l'aspetto di due ricercatori appena arrivati e assunto quello di persone pronte a entrare nella giungla.
+"Va bene. Cosa suggerisci?"
 
-Quando mezz'ora dopo lasciarono il villaggio, il clima era ancora fresco, e i tre erano pronti per la lunga marcia.
+Zali li sottopose a una breve revisione dell'equipaggiamento. Dal retro della guesthouse recuperò alcune ghette leggere contro fango e serpenti, cappelli a tesa larga trattati contro la pioggia tropicale e sottili mantelle impermeabili per ogni evenienza.
 
-All'inizio seguirono il fiume, camminando lungo un sentiero ben visibile. Alcuni pescatori li salutarono dalle canoe, mentre le ultime abitazioni si diradavano alle loro spalle e il rumore delle attività mattutine cedeva il passo ai suoni della foresta. I versi degli uccelli al mattino erano più chiassosi che in qualsiasi momento della giornata.
+Leon accettò le modifiche senza altre proteste. Non gli piaceva particolarmente affidarsi a qualcuno che conosceva da meno di un giorno, ma gli piaceva ancora meno ignorare una competenza evidente soltanto per orgoglio. Se Zali conosceva quella foresta quanto sosteneva, sarebbe stato stupido non ascoltarla.
+
+Le ghette sparirono sotto i pantaloni, gli zaini vennero stretti un'ultima volta e i cappelli calati sugli occhi. Nel giro di pochi minuti avevano perso l'aspetto di due ricercatori appena arrivati e assunto quello di persone almeno abbastanza preparate da non farsi divorare dalla foresta.
+
+Quando mezz'ora dopo lasciarono il villaggio, l'aria conservava ancora un po' del fresco del mattino. Leon sistemò lo zaino sulle spalle e seguì Zali lungo il sentiero. Alex chiudeva la fila.
+
+All'inizio seguirono il fiume, camminando lungo un sentiero ben visibile. Alcuni pescatori li salutarono dalle canoe, mentre le ultime abitazioni si diradavano alle loro spalle e il rumore delle attività mattutine cedeva il passo ai suoni della foresta. Leon scoprì che i versi degli uccelli al mattino erano più chiassosi che in qualsiasi momento della giornata.
 
 A poco a poco gli spazi aperti scomparvero e la foresta prese il sopravvento. Le chiome degli alberi si richiusero sopra le loro teste, formando una volta verde che filtrava la luce del sole in mille sfumature diverse. L'aria divenne più umida, più opprimente.
 
 Dopo meno di un'ora Leon sentiva già la camicia aderirgli alla schiena. Il sentiero si restringeva sempre di più, trasformandosi in una sottile traccia nel sottobosco. Poco dopo, Zali abbandonò il percorso principale.
 
-"Siamo ancora su un sentiero?" domandò Leon.
+"Siamo ancora su un sentiero?" domandò Leon, qualche sferzata dei rami più tardi.
 
 "Io lo considero un sentiero," fu la risposta che sentì poco più avanti. "Per lo meno, non serve ancora usare il machete."
 
 La precisazione si rivelò ottimistica. Una ventina di minuti dopo il machete era entrato in servizio.
 
-Foglie grandi come ombrelli, liane, arbusti e rami giovani venivano spostati o recisi per aprire un passaggio. Ad ogni metro il terreno sembrava trovare un nuovo modo per ostacolarli: radici affioranti, fango, vegetazione intricata o piccoli corsi d'acqua nascosti sotto il fogliame.
+Foglie grandi come ombrelli, liane, arbusti e rami venivano spostati o recisi per aprire un passaggio. Ad ogni metro il terreno sembrava trovare un nuovo modo per ostacolarli: radici affioranti, fango, vegetazione intricata o piccoli corsi d'acqua nascosti sotto il fogliame.
 
-Leon consultava ossessivamente il tablet. Coordinate: 1,84° sud. 16,92° est. L'indicatore dell'anomalia si trovava ancora vari chilometri più avanti, nel cuore della foresta.
+Leon consultava ossessivamente il tablet. Coordinate: 1,84° sud. 16,92° est. L'indicatore dell'anomalia indicava un punto ancora vari chilometri più avanti. Procedevano a rilento, ma almeno procedevano nella direzione giusta.
 
 Camminarono ancora.
 
@@ -600,29 +350,71 @@ La foresta cambiava continuamente aspetto. Alcune zone erano dominate da alberi 
 
 Mentre il giorno avanzava, il caldo diventava sempre più opprimente, e l'umidità rendeva ogni movimento più faticoso del normale. Dopo qualche ora, Leon aveva l'impressione di respirare attraverso un panno bagnato.
 
-Le soste per bere divennero sempre più frequenti. Alex svuotò metà della propria borraccia durante una pausa particolarmente lunga. "Adesso capisco perché tutti qui sembrano più in forma di noi."
+"Pausa acqua?" tentò Alex dopo un tratto di sentiero particolarmente impegnativo.
+
+Zali si voltò e li squadrò come se si accorgesse soltanto in quel momento delle loro condizioni. Li squadrò con aria dubbiosa.
+
+"Concessa."
+
+Si fermarono all'ombra di un albero contorto completamente ricoperto di liane e rampicanti. Alex si liberò dello zaino e svuotò metà della borraccia in pochi sorsi.
+
+Leon si asciugò il sudore. Era certo che dieci anni prima non avrebbe sofferto così tanto quel percorso. "Adesso capisco perché tutti qui sembrano più in forma di noi."
 
 Zali stava bevendo con calma senza mostrare il minimo segno di fatica. "Lo state capendo abbastanza velocemente."
 
-"Sto anche capendo che sarei morto senza le tue modifiche all'equipaggiamento."
+"Sto anche capendo che sarei morto senza le tue modifiche all'equipaggiamento." Detestava ammettere di essersi sbagliato, ma detestava ancora di più continuare a difendere una posizione dopo che i fatti l'avevano smentita.
 
 Zali sorrise. "In questo momento probabilmente saresti già coperto di punture."
 
-Leon fu costretto ad ammettere che aveva ragione. Le maniche lunghe, le ghette e il repellente stavano facendo una differenza enorme. Ogni tanto riusciva comunque a sentire il ronzio insistente di qualche insetto che tentava di raggiungere la pelle.
+Come per darle ragione, qualcosa ronzò vicino all'orecchio di Leon. Lo scacciò con una mano e controllò istintivamente il polso, dove terminava la manica. Da quando erano entrati nella foresta, gli insetti avevano tentato con ammirevole perseveranza di trovare ogni centimetro di pelle lasciato scoperto; per il momento, ghette, tessuto leggero e repellente stavano vincendo la battaglia.
 
-"Allora?"
+Zali richiuse la borraccia e la infilò nello zaino. "Quindi siete dei ricercatori?"
 
-Alex bevve un sorso d'acqua. "Allora cosa?"
+"Diciamo così," rispose Alex.
 
-"Me lo dite o no cosa stiamo cercando?" Zali aveva una mano sul fianco.
+"Che genere di ricercatori?"
 
-Alex fece spallucce, poi guardò il collega, come a dire "sei tu il capo".
+Alex sospirò. "È sempre qui che iniziano i problemi."
 
-Una scimmia urlatrice lanciò un richiamo in lontananza. Leon annuì. "D'accordo."
+"Comincia tu," disse Leon.
 
-Estrasse di nuovo il tablet.
+Alex si schiarì la gola. "Tecnicamente sono un fisico teorico. Mi occupo soprattutto di gravità, struttura dello spaziotempo e modelli cosmologici non standard."
 
-Attivò una schermata diversa. La mappa lasciò il posto a una serie di grafici e registrazioni e sul display comparve una sequenza di impulsi.
+Zali inclinò la testa.
+
+"In breve, studio cose che probabilmente non esistono."
+
+Zali si fece sfuggire una risata.
+
+"Hai reso l'idea," commentò Leon.
+
+Alex fece spallucce. "Il tuo turno, amico."
+
+Leon sospirò leggermente. "Mi occupo di archeologia cognitiva."
+
+L'espressione di Zali gli fece capire che la spiegazione sarebbe stata necessaria anche in quel caso.
+
+"È una disciplina piuttosto recente, che unisce archeologia, antropologia, storia, linguistica e modellazione informatica. Studio le civiltà, cerco di capire come vivevano. Come pensavano. Come trasmettevano la conoscenza."
+
+Zali richiuse lo zaino. "Quindi siete entrambi inutili nella vita quotidiana."
+
+"È una sintesi sorprendentemente accurata," ammise Alex.
+
+Leon guardò la loro guida per un istante, cercando di capire quanto fosse seria e quanto ironica. Con Zali stava diventando difficile distinguere le battute dalle opinioni sincere; cominciava a sospettare che nella maggior parte dei casi fossero vere entrambe le cose.
+
+Zali non sembrava aver esaurito le domande. "E due persone con professioni così specifiche cosa stanno cercando nel mezzo della foresta?"
+
+Alex bevve un altro sorso d'acqua. "Ecco. Questa è la parte che speravo non chiedessi."
+
+"Vi sto accompagnando da ore senza sapere dove stiamo andando."
+
+"Ha un punto a suo favore," osservò Alex, rivolgendosi a Leon. Guardò il collega, come a dire "sei tu il capo".
+
+Una scimmia urlatrice lanciò un richiamo in lontananza.
+
+Leon esitò. Tecnicamente si trattava di informazioni riservate, e tecnicamente avrebbe dovuto aspettare l'autorizzazione prima di coinvolgere qualcuno esterno alla FSU. Il problema delle procedure era che il più delle volte erano più d'ostacolo che di supporto. Zali li stava conducendo attraverso la foresta verso una sorgente sconosciuta: tenerla all'oscuro di ciò che stavano cercando gli sembrava molto più irresponsabile che violare qualche protocollo.
+
+Estrasse di nuovo il tablet, dove la mappa lasciò il posto a una serie di grafici e registrazioni. Poi sul display comparve una sequenza di impulsi, che scorrevano in tempo reale.
 
 Tre segnali ravvicinati. Una pausa. Uno. Quattro. Uno. Cinque. Nove.
 
@@ -644,57 +436,55 @@ Alex annuì. "La costante matematica. Quella che vale all'incirca tre virgola un
 
 Zali batté le ciglia.
 
-Leon fece scorrere il grafico. "La sequenza elenca le prime cento cifre. Arrivata alla fine ricomincia dall'inizio."
+Leon fece scorrere il grafico. "La sequenza elenca le prime cento cifre. Arrivata alla fine, ricomincia."
 
 Zali corrugò la fronte. "Perché qualcuno dovrebbe fare una cosa del genere?"
 
-"È esattamente la domanda giusta."
+"È esattamente la domanda giusta." Alex stava verificando lo stato delle proprie scorte d'acqua. Una borraccia era già vuota.
 
 "Le cifre sono importanti?"
 
 "No," rispose Leon. "È il fatto che esistano."
 
-Zali continuò a osservare il display. Alex strappò distrattamente una foglia. "Se ascoltassi un tamburo nella foresta e sentissi tre colpi, poi uno, poi quattro, poi uno, poi cinque, e così via per ore\..."
+Alex issò lo zaino. "Se ascoltassi un tamburo nella foresta e sentissi tre colpi, poi uno, poi quattro, poi uno, poi cinque, e così via per ore\..."
 
-"Penserei che qualcuno stia cercando di comunicare."
+Zali continuò a osservare il display. "Penserei che qualcuno stia cercando di comunicare."
 
 Leon annuì. "La sequenza implica un'intenzione. Qualcosa che conosce la matematica la sta producendo."
 
 Per la prima volta Zali sembrò realmente incuriosita. "Da quanto tempo va avanti?"
 
-"Lo abbiamo rilevato solo da alcune settimane," disse Alex, mentre metteva via l'attrezzatura. "È un segnale molto debole, ma c'è. Preso da solo è indistinguibile dal rumore di fondo. Lo abbiamo trovato solo perché i nostri sistemi hanno confrontato misurazioni provenienti da migliaia di sensori diversi. Una rete globale di monitoraggio."
+"Lo abbiamo rilevato solo da alcune settimane," rispose Alex. "È un segnale molto debole, ma c'è. Preso da solo è indistinguibile dal rumore di fondo. Lo abbiamo trovato solo perché i nostri sistemi hanno confrontato misurazioni provenienti da migliaia di sensori diversi. Una rete globale di monitoraggio."
 
-Ripresero il cammino.
+Leon tornò a osservare per un istante la sequenza sullo schermo. Tra poco avrebbero scoperto tutto. Si mise lo zaino in spalla, e la camicia fradicia si incollò alla schiena.
 
-L'indicatore continuava ad avvicinarsi. Due chilometri. Uno. Poi poche centinaia di metri. Infine Leon rallentò.
+Si rimisero in cammino, l'eccitazione crescente.
+
+L'indicatore continuava ad avvicinarsi.
+
+Due chilometri.
+
+Poi uno.
+
+A cinquecento metri smise quasi del tutto di guardare la distanza e cominciò a scrutare la foresta davanti a sé.
+
+Trecento metri.
+
+Cento.
 
 "Siamo arrivati."
 
+Alex si guardò attorno. "Dove?"
+
 Davanti a loro non c'era nulla di particolare: alberi, radici, liane, la stessa foresta che li circondava da ore.
 
-Alex osservò il tablet. "La sorgente dovrebbe essere qui."
+Loen ricontrollò il segnale. Il posto era quello, ma la geolocalizzazione poteva non essere del tutto accurata. Non nelle aree così remote.
 
-Leon estrasse un secondo dispositivo dallo zaino: un cilindro metallico poco più grande di una torcia.
-
-"E questo sarebbe\...?"
-
-"Un rilevatore di apparecchiature elettroniche" spiegò Alex, mentre assemblava le due metà. "Ora vedremo dove si nasconde il segnale." Lo attivò.
-
-Una serie di indicatori iniziò a scorrere sul display: campi elettromagnetici, emissioni radio, spettri di frequenze. Ma di apparecchiature elettroniche nelle vicinanze nemmeno l'ombra, fatta esclusione per ciò che avevano negli zaini.
-
-Alex sbatté una mano sull'apparecchio, come a verificarne il corretto funzionamento. Guardò il collega, alzando le spalle.
-
-Leon si asciugò il sudore della fronte con la manica. "Questo non ha alcun senso."
-
-"Lo dici sempre quando qualcosa è interessante," osservò Alex.
-
-Leon chiuse lo zaino. "Dividiamoci e cerchiamo."
+"Dividiamoci e cerchiamo," propose.
 
 Zali sollevò un sopracciglio. "Non è quello che fanno sempre nei film poco prima che succeda qualcosa di terribile?"
 
-"Ecco perché usiamo questi."
-
-Leon aprì una custodia rigida fissata allo zaino ed estrasse un paio di occhiali a realtà aumentata. Glieli porse.
+"Ecco perché usiamo questi." Leon scavò nello zaino e estrasse una custodia rigida, da cui tirò fuori il suo vecchio paio di occhiali a realtà aumentata. Glieli porse.
 
 Zali li osservò per un istante prima di infilarli. Sull'asticella era inciso il marchio VisionLink.
 
@@ -704,7 +494,7 @@ Alex sbuffò. "Hai ancora quel vecchio modello?"
 
 "Appunto."
 
-Leon attese qualche secondo, mentre il sistema completava la sincronizzazione.
+Leon, con un lieve colpetto, attivò il modello più recente che portava addosso. Attese qualche secondo, mentre il sistema integrato si avviava.
 
 "Vedi quella pianta?" Indicò un cespuglio poco distante.
 
@@ -714,7 +504,7 @@ Zali annuì.
 
 Leon fece lo stesso. Immediatamente comparve un riquadro informativo: nome scientifico, distribuzione geografica, possibili utilizzi medicinali.
 
-Dal modo in cui Zali girò la testa e sbatté le palpebre un paio di volte, intuì le lenti erano in funzione. "Interessante."
+Dal modo in cui Zali girò la testa e sbatté le palpebre un paio di volte, intuì che le lenti erano in funzione. "Interessante."
 
 "Canale vocale, mappa locale, coordinate e tracciamento della posizione," spiegò Leon. "Se trovi qualcosa, lo vedremo tutti."
 
@@ -724,15 +514,9 @@ Alex scoppiò a ridere.
 
 "Buona fortuna," disse Leon.
 
-Si separarono.
+Si separarono. Leon iniziò a esplorare la zona procedendo lentamente tra gli alberi. Gli occhiali identificavano dettagli dell'ambiente: un turaco verde che attraversò una radura, una colonia di formiche legionarie in marcia, una coppia di piccoli cefalofi che scomparvero tra la vegetazione prima ancora che riuscisse a fotografarli.
 
-\[STACCO\]
-
-Leon iniziò a esplorare la zona procedendo lentamente tra gli alberi.
-
-Gli occhiali identificavano dettagli dell'ambiente. Un turaco verde che attraversò una radura. Una colonia di formiche legionarie in marcia. Una coppia di piccoli cefalofi che scomparvero tra la vegetazione prima ancora che riuscisse a fotografarli. Attivò brevemente la visione termica.
-
-Il sottobosco si riempì subito di sagome luminose. Uccelli. Mammiferi. Insetti più grandi. Ma non i serpenti: la temperatura del terreno e quella dei rettili erano troppo simili perché il sistema riuscisse a distinguerli in modo affidabile.
+Attivò la visione termica. Il sottobosco si riempì subito di sagome luminose. Uccelli, piccoli mammiferi, ma non i serpenti: la temperatura del terreno e quella dei rettili erano troppo simili perché il sistema riuscisse a distinguerli in modo affidabile.
 
 Passarono dieci minuti. Forse quindici. La foresta era piena di cose interessanti, ma nessuna che potesse essere la fonte di quel segnale anomalo.
 
@@ -758,47 +542,131 @@ immagine: img/capitoli/lo_studio.jpg
 
 --- FINE METADATI ---
 
-Nadia camminava a passo lento nella via affollata del mercato, lo sguardo attratto dai colori vivaci delle bancarelle. Un sorriso le aleggiava sul volto mentre respirava a pieni polmoni l'atmosfera animata: odore di spezie, grida di venditori, galline che scappano tra le gambe dei passanti.
+Nadia camminava a passo lento nella via affollata del mercato, lo sguardo attratto dai colori vivaci delle bancarelle. Un sorriso le aleggiava sul volto mentre respirava a pieni polmoni l'atmosfera animata: odore di spezie, grida di venditori, galline che scappavano tra le gambe dei passanti.
 
-"Nadia, aspettami!" Safa, dietro di lei, s'era attardata a dar retta a un venditore di dolci, e raggiunse Nadia facendosi strada a fatica tra la gente. "Non lasciarmi indietro. Se ci perdiamo\..." Sembrava lievemente irritata, ma ritrovò il sorriso quando raggiunse l'amica.
+Il sole picchiava forte tra i tendoni e Nadia si sistemò la fascia di stoffa che le cingeva la testa, spingendo indietro i folti ricci scuri che continuavano a sfuggirle sulla fronte. Si tirò la tracolla della borsa più in alto sulla spalla e proseguì tra la folla.
 
-Quella ragazza a volte era così apprensiva. Nadia scosse la testa, mentre Safa, sgranando gli occhi, si avvicinava a un mercante di animali vivi: uccelli colorati in gabbie di ogni forma e dimensione.
+"Nadia, aspettami!"
+
+Safa, dietro di lei, s'era attardata a dar retta a un venditore di dolci e la raggiunse facendosi strada a fatica tra la gente. "Non lasciarmi indietro. Se ci perdiamo\..." Sembrava lievemente irritata, ma ritrovò il sorriso quando raggiunse l'amica.
+
+Quella ragazza a volte era così apprensiva. Nadia scosse la testa, mentre Safa, sgranando gli occhi, si avvicinava già a un mercante di animali vivi: uccelli colorati in gabbie di ogni forma e dimensione.
 
 "Oh, come sono belli" esclamò, gli occhi che luccicavano.
 
 "Beh, non puoi lamentarti se ti lascio indietro: ti fai distrarre da ogni cosa" sbuffò Nadia, ma s'infilò dietro all'amica, scartando all'ultimo una robusta signora con un cesto di datteri.
 
-"Cosa se ne fa la gente di questi uccelli colorati?" Safa cercò di infilare il mignolo nelle strette sbarre di una gabbietta di legno.
+"Cosa se ne fa la gente di questi uccelli colorati?" Safa cercò di infilare il mignolo tra le strette sbarre di una gabbietta di legno.
 
-"Ho sentito che hanno un ottimo sapore" fece Nadia con noncuranza. Per un istante, sul volto di Safa si dipinse un'espressione di orrore.
+"Ho sentito che hanno un ottimo sapore" fece Nadia con noncuranza. Per un istante sul volto di Safa si dipinse un'espressione di orrore.
 
-"Ah-ah, simpatica." Diede le spalle a Nadia, cercando di attirare l'attenzione del pennuto, che dal canto suo non era molto interessato a darle retta.
+"Ah-ah, simpatica." Le diede le spalle e tornò a occuparsi del pennuto, che dal canto suo non sembrava molto interessato a darle retta.
 
-I rintocchi della campana del tempio rimbombarono tra i tetti di argilla. Safa sobbalzò. "Caspita, è già tardi. Se vogliamo fare un'offerta, dobbiamo muoverci."
+Poco più avanti, un venditore stava armeggiando con una lampada a olio appesa alla sua bancarella. Provò due volte a far prendere l'esca, ma il vento tiepido che correva lungo la strada gli spense entrambe le volte la fiammella.
 
-"Offerta?"
+Nadia rallentò. Era un'occasione troppo invitante.
 
-Safa sollevò la borsa, dove una piccola anfora faceva capolino. "L'ho appena presa. Per il Sommo Rham."
+Infilò una mano nella borsa a tracolla e ne trasse un piccolo oggetto, nascondendolo quasi interamente nel palmo. Avvicinò un'estremità allo stoppino e strinse.
 
-Nadia e Safa si districarono tra i vicoli del mercato, fino a una strada secondaria. Si inerpicava verso la collina, più stretta e meno affollata, fiancheggiata da case vecchie, orti terrazzati, recinti e pollai.
+*Clac*.
 
-Erano quasi in cima, quando Nadia si voltò verso il panorama. Davanti a lei, Junna si apriva come un ventaglio, adagiata sul pendio della collina. Amava guardare la cittadina dell'alto. Le basse case di argilla, gli orti recintati, le vie con qualche carro che si muoveva lento nella calura del pomeriggio, le piazze con mercati, bancarelle e botteghe. Tutto sembrava più armonioso, più pittoresco che nella realtà.
+Una scintilla azzurra guizzò tra due punte metalliche ma lo stoppino fumò senza accendersi.
 
-Al di là delle mura basse, la pianura si stendeva in tutte le direzioni, punteggiata da villaggi, fattorie e torri di guardia: un brulicare di vita che dava l'idea di un territorio prospero e ben popolato. Un fiume sinuoso tagliava il paesaggio, riflettendo il sole ancora alto come una lama scintillante; le sue rive verdeggianti contrastavano con i terreni secchi e screpolati dall'arsura.
+Nadia strinse di nuovo. *Clac*. Questa volta comparve una fiammella. "Ecco." Nadia si tirò indietro soddisfatta.
 
-\[STACCO\]
+Il venditore, ammirato, le rivolse un cenno di ringraziamento prima di tornare alle proprie faccende. Nadia stava già per rimettere l'oggetto nella borsa quando si accorse che Safa non era più davanti alle gabbie. Era accanto a lei, e fissava la sua mano.
 
-Quando arrivarono al tempio, Nadia appoggiò una mano a una delle colonne per riprendere fiato. La pietra grigia, decorata con motivi geometrici, era calda al tatto, ma non quanto l'argilla delle case comuni.
+"Nadia."
 
-Nonostante il caldo della primavera inoltrata, Nadia non si stupì di vedere un filo di fumo salire dal tetto. Il braciere sacro non veniva mai spento.
+Lei sentì un piccolo vuoto nello stomaco mentre richiudeva le dita sull'oggetto. "Che c'è?"
 
-Un anziano sacerdote le accolse all'ingresso, con la tunica consumata che gli cadeva sulle spalle ossute. "Che Rham illumini il vostro cammino, mie care ragazze."
+"Fammi vedere."
 
-"Maestro Belan" disse Safa con un inchino profondo. Nadia imitò il gesto con meno convinzione.
+"Non c'è niente da vedere."
 
-Gli occhi del sacerdote si posarono su di lei con una sfumatura di rimprovero. Da bambina aveva fatto arrabbiare Maestro Belan più di una volta: le lezioni nel tempio l'avevano annoiata al punto da scarabocchiare caricature del maestro sulle tavolette di argilla. Belan non l'aveva dimenticato, ne era certa.
+"Nadia."
 
-Le ragazze entrarono nella sala di preghiera, immersa in una penombra densa, che le fece brancolare per qualche istante. Quando gli occhi si abituarono, Nadia mise a fuoco lo spazio circolare del piccolo tempio. In un angolo, una donna inginocchiata stava sussurrando una preghiera sottovoce. In fondo alla stanza, l'altare era illuminato da una lama di luce che cadeva dall'alto. Dalla stessa apertura dalla quale saliva il fumo del braciere rituale.
+Il tono di Safa lasciava intendere che aveva già visto quanto bastava. Nadia esitò, poi aprì il palmo rivelando un oggetto lungo poco più di un dito. A un'estremità sporgevano due piccole punte, mentre dall'altra un meccanismo mobile rientrava nel corpo quando veniva premuto. Su un fianco era inciso il triangolo, simbolo di Rham.
+
+Safa si bloccò. "Quella è la Scheggia del Sole."
+
+Nadia la fece sparire nella borsa. "Non serve dirlo a tutto il mercato."
+
+"Maestro Belan la tiene nel tempio."
+
+"Lo so."
+
+"Come fai ad averla tu?"
+
+Nadia si strinse nelle spalle, cercando di mostrarsi molto più tranquilla di quanto fosse. In effetti, vista così, la faccenda suonava peggio di quanto le fosse sembrata il giorno prima. "L'ho presa in prestito."
+
+Safa rimase a fissarla.
+
+"Senza chiedere" aggiunse Nadia suo malgrado.
+
+"Quello si chiama rubare."
+
+"Solo se non la restituisci."
+
+"Non è così che funziona!"
+
+Nadia si guardò intorno. Nessuno sembrava aver prestato attenzione alla loro discussione, ma abbassò comunque la voce. "Volevo capire una cosa. Adesso l'ho capita e la sto riportando. Non è successo niente."
+
+O almeno, quella era la versione che continuava a ripetersi.
+
+I rintocchi della campana del tempio rimbombarono tra i tetti di argilla. Safa alzò di scatto lo sguardo verso la collina.
+
+"Caspita, è già tardi. Volevo portare un'offerta prima di tornare a casa." Sollevò la borsa, dove una piccola anfora faceva capolino. "Ho preso del succo di limone per il Sommo Rham."
+
+Nadia guardò l'anfora, poi la strada che saliva verso il tempio. Prima avesse rimesso la Scheggia al suo posto, prima avrebbe smesso di sentire quel fastidioso peso nella borsa ogni volta che qualcuno le rivolgeva la parola.
+
+"Va bene. Vengo con te."
+
+Safa la fissò, sorpresa. "Tu?"
+
+"Non fare quella faccia. Mentre tu consegni l'offerta a maestro Belan, io rimetto la Scheggia insieme agli altri oggetti. Nessuno si accorgerà di niente e tu puoi smettere di guardarmi come se avessi saccheggiato il tempio. Andiamo."
+
+Le due si districarono tra i vicoli del mercato fino a imboccare una strada secondaria che si inerpicava verso la collina, più stretta e meno affollata, fiancheggiata da case vecchie, orti terrazzati, recinti e pollai.
+
+"Non capisco perché tu l'abbia presa" ripeté Safa, mentre aggiravano una recinzione imboccando una strada acciottolata. "Sai benissimo cos'è."
+
+"So come si chiama, ma non come funziona."
+
+Safa sbuffò. "Rham vi ha racchiuso una parte della propria fiamma. Maestro Belan ce l'ha spiegato quando avevamo otto anni."
+
+"Lo ricordo."
+
+"E allora?"
+
+"Ero curiosa di sapere se funziona davvero come dice Belan. Ho fatto delle prove: non importa se pronunci le Parole, basta premere abbastanza forte. Di qua."
+
+Nadia scavalcò uno steccato con un balzo agile: una scorciatoia che avrebbe fatto risparmiare loro alcuni minuti. Safa la seguì, impigliando la tunica in una siepe.
+
+Quando furono quasi in cima, Nadia si voltò solo un istante verso il panorama. Da lassù Junna si apriva come un ventaglio sul pendio della collina. Nadia amava guardare la cittadina dall'alto: le basse case di argilla, gli orti recintati, le vie con qualche carro che si muoveva lento nella calura del pomeriggio, le piazze affollate di mercati, bancarelle e botteghe. Tutto sembrava più armonioso, più pittoresco che nella realtà.
+
+Fece vagare lo sguardo al di là delle mura basse, dove la pianura si stendeva in tutte le direzioni, punteggiata da villaggi, fattorie e torri di guardia. Un fiume sinuoso tagliava il paesaggio, riflettendo il sole ancora alto come una lama scintillante; le sue rive verdeggianti contrastavano con i terreni secchi e screpolati dall'arsura.
+
+"Nadia." Safa era già qualche passo più avanti.
+
+"Arrivo."
+
+Quando raggiunsero il tempio, Nadia appoggiò una mano a una delle colonne per riprendere fiato. La pietra grigia, decorata con motivi geometrici, era calda al tatto, ma più fresca dell'argilla delle case comuni. Un filo di fumo saliva dall'apertura al centro del tetto circolare: il braciere sacro non veniva mai spento.
+
+Nadia sentiva il peso della Scheggia nella borsa molto più di quanto era disposta ad ammettere. Fino a pochi minuti prima le era sembrata una faccenda semplice: entrare, rimetterla insieme agli altri oggetti, uscire. Adesso che si trovava davanti al tempio, le cose erano un po' diverse.
+
+Un anziano sacerdote comparve all'ingresso, con la tunica consumata che gli cadeva sulle spalle ossute.
+
+"Che Rham illumini il vostro cammino, mie care ragazze."
+
+"Maestro Belan." Safa fece un inchino così profondo che quasi la borsa a tracolla le scivolò a terra.
+
+Nadia la imitò con meno entusiasmo. "Maestro."
+
+Gli occhi del sacerdote si posarono su di lei con la solita sfumatura di rimprovero. Da bambina Nadia lo aveva fatto arrabbiare più di una volta: le lezioni nel tempio l'avevano annoiata al punto da scarabocchiare caricature del maestro sulle tavolette di argilla. Belan non l'aveva dimenticato, ne era certa.
+
+Quel giorno, però, Nadia non aveva nessuna voglia di attirare la sua attenzione.
+
+Le ragazze seguirono il maestro nella sala di preghiera, immergendosi in una penombra densa che le fece brancolare per qualche istante. Quando gli occhi si abituarono, Nadia mise a fuoco lo spazio circolare del piccolo tempio. In un angolo, una donna inginocchiata sussurrava una preghiera. Al centro della stanza, l'altare circolare era illuminato da una lama di luce che cadeva dall'alto, dalla stessa apertura attraverso cui saliva il fumo del braciere.
 
 Non le piaceva granché quel posto: le ricordava le ore a imparare gli insegnamenti delle *Parole*. Alcuni brani del testo sacro erano intriganti, quasi avventurosi, ma la maggior parte di quel libro era una noia mortale.
 
@@ -806,115 +674,681 @@ Distrattamente, fece scorrere le dita sulle linee che decoravano le pareti: rapp
 
 Safa, al contrario, non si annoiava mai al tempio: sembrava proprio che la sua massima aspirazione fosse compiacere il vecchio maestro, che dal canto suo non risparmiava certo le parole di approvazione.
 
-L'amica estrasse l'anfora dalla borsa e la depose davanti all'altare con cura, mentre il vecchio sacerdote annuiva soddisfatto. "Ecco del succo di limone, maestro Belan. Un'offerta per il Sommo Rham."
+Nadia fece qualche passo verso un consunto tavolino laterale, dove erano disposti gli oggetti che Belan utilizzava durante le funzioni: piccole coppe, un incensiere, una lama cerimoniale, alcuni recipienti d'olio. Era lì che Nadia aveva sgraffignato la Scheggia.
 
-"Brava ragazza" sorrise il maestro. "Non a caso porti il nome di una dea." Belan lanciò un'occhiata a Nadia che aveva tutta l'aria di significare "guarda e impara".
+Nadia e Safa si scambiarono un breve sguardo di intesa. Poi Safa estrasse l'anfora dalla borsa. "Maestro Belan, ho portato un'offerta per il Sommo Rham."
 
-Safa si inginocchiò per pregare, e Nadia la imitò. Tutti sapevano che pregare era importante. Ripeterono insieme le parole di rito, la voce di Safa limpida, quella di Nadia appena un sussurro.
+"Brava ragazza." Belan le fece cenno di avvicinarsi e Safa raggiunse l'altare. Nadia rimase qualche passo indietro, aspettando. Infilò lentamente una mano nella borsa.
 
-"Rham, sole eterno e fiamma di saggezza, guida i nostri passi, proteggici ora e nelle Ere del Caos."
+"Succo di limone" stava dicendo Safa, con una voce insolitamente alta.
 
-Quando uscirono di nuovo all'aperto, Nadia si stiracchiò, socchiudendo gli occhi finché non si riabituarono alla luce intensa del sole.
+Nadia vide con la coda dell'occhio Belan che prendeva l'anfora. "Un'offerta appropriata."
 
-Passarono tutto il pomeriggio a bighellonare in giro.
+Nadia estrasse la Scheggia tenendola nascosta nel palmo. Fece un passo verso il tavolino.
 
-Quando raggiunsero la casa di Nadia, il cielo cominciava a sfumare nei toni aranciati del tramonto. "A domani, Safa" la salutò Nadia. Fece per entrare dalla piccola porta di casa, ma Safa era ancora lì, mentre cercava di sbirciare oltre l'uscio. "Il tuo amato non è ancora arrivato." disse con noncuranza. Safa arrossì fino alla punta dei capelli. "Non c'è niente di cui vergognarsi. È normale avere certi interessi alla nostra età. Passa da me dopo cena: prendi un tè da noi e saluti chi-sai-tu. Che ne dici?"
+Proprio in quel momento Belan si voltò. Il cuore le balzò in gola. Nadia trasformò il movimento in qualcosa che sperò assomigliasse a un innocente interesse per le decorazioni sulle pareti.
 
-Safa, ancora rossa di imbarazzo e visibilmente irritata, scosse il capo e se ne andò sbuffando, mentre Nadia ridacchiava. *Forse ho esagerato?* Era strano che Safa pensasse ai ragazzi. Insomma, è vero che avevano già quattordici anni, ma era una cosa *così poco da Safa.*
+Il sacerdote la guardò distrattamente, poi tornò a Safa.
+
+Nadia lasciò uscire lentamente l'aria dai polmoni. Forse rubare la Scheggia era stata un'idea più stupida di quanto fosse disposta ad ammettere. Depose rapidamente l'artefatto tra gli altri oggetti cerimoniali. Il metallo urtò appena contro una coppa, un rumore minuscolo che a Nadia sembrò enorme, ma Belan non si voltò.
+
+Safa le lanciò una rapida occhiata. Nadia annuì appena.
+
+"Vi fermate a pregare?" domandò Belan.
+
+"Certo, maestro" rispose Safa.
+
+Nadia avrebbe preferito andarsene immediatamente, ma rifiutare proprio in quel momento le sembrava un modo eccellente per attirare l'attenzione. Si inginocchiò accanto all'amica.
+
+Le due ragazze recitarono in coro la preghiera rituale. La voce di Safa era limpida, quella di Nadia poco più di un sussurro. "Rham, sole eterno e fiamma di saggezza, guida i nostri passi, proteggici ora e nelle Ere del Caos."
+
+Solo quando furono di nuovo all'aperto Nadia riuscì a rilassarsi completamente. Inspirò profondamente e si stiracchiò, socchiudendo gli occhi nella luce intensa del pomeriggio.
+
+Safa aspettò che si fossero allontanate dal tempio. "Non lo farai mai più, spero."
+
+Nadia si strinse nelle spalle. Adesso che la Scheggia non era più nella sua borsa, doveva ammettere che si sentiva parecchio più leggera.
+
+\[STACCO\]
+
+Quando raggiunsero la casa di Nadia, il cielo cominciava a sfumare nei toni aranciati del tramonto.
+
+"A domani, Safa" la salutò Nadia. Fece per entrare dalla piccola porta di casa, ma l'amica era ancora lì, intenta a sbirciare oltre l'uscio con fin troppa discrezione.
+
+"Non è ancora tornato."
+
+Safa arrossì. "Chi?"
+
+"Nessuno, immagino." Nadia sorrise. "Se vuoi puoi passare dopo cena. Bevi un infuso da noi e magari, *per puro caso,* incontri Akil."
+
+Safa le rivolse un'occhiataccia e si allontanò.
+
+"Lo prendo per un sì!" le urlò dietro Nadia.
+
+L'amica non si voltò, mentre Nadia ridacchiava tra sé. Era strano che Safa pensasse ai ragazzi. Insomma, avevano già quattordici anni, ma era una cosa *così poco da Safa.*
 
 La madre accolse Nadia sulla soglia, con il grembiule annodato sulla veste e i capelli scuri raccolti in una treccia bassa. "Alla buon'ora! Ti sembra questa l'ora di rincasare?" fece, le mani sui fianchi e l'espressione severa. Il risolino di Nadia svanì di colpo.
 
 "Ero al tempio\... con Safa."
 
-L'espressione della donna si addolcì un poco. "Datti da fare: aiutami con la cena" disse, porgendole un cesto di carote da tagliare. Nadia si mise al lavoro sbuffando, ma in fondo le piaceva il senso di quiete che portava il rientro serale.
+L'espressione della donna si addolcì un poco. "Datti da fare: aiutami con la cena" disse, affidandole un pesante cesto di carote da tagliare.
 
-Mentre Nadia gettava in padella le verdure, sentì un familiare ticchettio sommesso provenire dallo studio di suo padre: lo stilo che scivolava su una tavoletta di argilla. Quello studio --- sempre in penombra e affollato di tavolette, pagine di papiro strumenti di calcolo --- era il suo regno. Nessuno, né Nadia né sua madre, vi metteva piede quando Hual lavorava. *Strano come passi più tempo lì dentro che con noi,* pensò Nadia, disponendo i piatti di terracotta sulla tavola. *Che cosa può tenere papà tanto assorto da fargli dimenticare persino la cena?*
+Nadia si mise al lavoro sbuffando, ma in fondo non le dispiaceva il senso di quiete che portava il rientro serale. Mentre gettava le verdure in padella, sentì provenire dalla stanza accanto il familiare raschiare dello stilo sull'argilla.
 
-Il cielo era già quasi buio, quando anche Akil rientrò, col viso arrossato dal sole e le mani impolverate. Nadia sorrise, pensando alla reazione di Safa poco prima. Akil aveva capelli scuri e arruffati, legati alla meglio dietro la nuca, e un fisico asciutto ma già robusto, temprato dal lavoro manuale. Forse, però, era un po' vecchio per Safa.
+Suo padre era ancora nello studio.
 
-Si tolse la tunica leggera, scrollandosi la polvere di dosso. "Ho spaccato pietre abbastanza da costruire un villaggio intero" annunciò, gettandosi l'acqua sul volto e scuotendo i capelli come un cane che si scrolla dalla pioggia.
+Ultimamente sembrava essere sempre lì dentro. Quello studio, perennemente in penombra e affollato di tavolette, rotoli di papiro e strumenti di calcolo, era il suo regno, e nessuno lo disturbava quando lavorava. Un tempo, però, Hual ne usciva almeno prima di cena. Nadia dispose le ciotole di terracotta sulla tavola e lanciò un'occhiata alla porta chiusa.
 
-"E io invece ho tagliato così tante carote da sfamare un esercito" ribatté Nadia, mentre versava la zuppa di verdura nelle ciotole.
+Il cielo era già quasi buio quando anche Akil rientrò, col viso cotto dal sole e le mani impolverate. Nadia sorrise, ripensando alla reazione di Safa poco prima. Suo fratello aveva i capelli scuri e arruffati, legati alla meglio dietro la nuca, e un fisico asciutto ma già robusto, temprato dal lavoro manuale. Forse, però, era un po' vecchio per Safa.
 
-La cena era pronta da un pezzo, ma fu necessario chiamare Hual più volte prima che si decidesse a uscire dal suo studio. Alla fine, comparve sulla soglia grattandosi la barba ingrigita, con le mani ancora sporche per l'argilla delle tavolette.
+Akil si scrollò la polvere dalla tunica. "Ho spaccato pietre abbastanza da costruire un villaggio intero" annunciò, gettandosi dell'acqua sul volto.
+
+"E io ho tagliato abbastanza carote da sfamarlo" ribatté Nadia, mentre versava la zuppa nelle ciotole.
+
+La cena era pronta da un pezzo, ma fu necessario chiamare Hual più volte prima che si decidesse a uscire dal suo studio. Alla fine comparve sulla soglia grattandosi la barba ingrigita, con le mani ancora sporche dell'argilla delle tavolette.
 
 "Papà, se continui così ti dimenticherai persino che hai una famiglia" disse Akil, mentre prendevano posto a tavola.
 
-Hual si servì una ciotola di stufato. "È grazie ai miei numeri se ci portiamo il pane a casa."
+Hual si servì una ciotola di stufato. "È grazie ai miei numeri se questa famiglia mangia."
 
-"Grazie anche alle mie braccia" ribatté Akil. "Tu e i tuoi numeri non sapreste sollevare un solo mattone."
+"Grazie anche alle mie braccia" ribatté Akil. "Con tutti i tuoi numeri non sai sollevare un solo mattone."
 
-La madre scosse la testa, mentre Nadia alzava gli occhi al cielo. Era sempre così: ogni sera finivano per stuzzicarsi a vicenda. *Perché semplicemente non riconoscono che entrambi i lavori valgono qualcosa?*
+"Ma so dire a te dove metterlo."
 
-"Ho insistito tanto per insegnarvi a leggere e a scrivere, e questo è il ringraziamento?" Il tono di Hual era severo, ma rovinò l'effetto quando fece l'occhiolino a Nadia. Lei l'aveva capito: Hual vedeva in lei l'erede intellettuale che Akil non era diventato, anche se non lo diceva mai apertamente. Lei era sempre stata brava con lettere e numeri, anche se stare su tavolette e rotoli non le piaceva particolarmente. Preferiva vagabondare per la città o perdersi in chiacchiere con le amiche.
+Nadia alzò gli occhi al cielo. Ecco che ricominciavano.
 
-"Non dico che non serva, padre" rispose Akil, "ma in tutto il tempo che ho passato a imparare le lettere avrei potuto lavorare e guadagnare davvero."
+"Ho insistito tanto per insegnarvi a leggere e a scrivere, e questo è il ringraziamento?" Il tono di Hual era severo, ma rovinò l'effetto quando fece l'occhiolino a Nadia.
 
-"Quelle lettere" ribatté Hual, "saranno la tua moneta più preziosa, un giorno. Non sottovalutare ciò che ti apre le porte di una carriera."
+Suo padre aveva passato anni a insistere perché entrambi imparassero a leggere, scrivere e far di conto, mentre Akil non vedeva l'ora di abbandonare le tavolette per imparare "un mestiere vero", come diceva lui. Nadia, al contrario, era sempre stata brava con lettere e numeri, anche se stare seduta sui libri non le piaceva particolarmente. Preferiva vagabondare per la città o perdersi in chiacchiere con le amiche.
 
-Akil scosse la testa ostinatamente, portandosi un cucchiaio di zuppa alle labbra.
+Akil scosse la testa e si portò un cucchiaio di zuppa alle labbra. "Io dico solo che una giornata passata a lavorare serve più di una passata sopra una tavoletta."
 
-"Oggi ho accompagnato Safa al tempio" si intromise Nadia, tanto per spegnere il battibecco. "Abbiamo portato un'offerta: succo di limone. Ma... perché proprio il limone?"
+"Ne riparleremo quando dovrai firmare un contratto con qualcuno che spera proprio che tu non sappia leggerlo."
 
-Hual posò la ciotola. "È una tradizione antica. Non per tutto c'è una spiegazione precisa, Nadia."
+Akil borbottò qualcosa e tornò alla sua zuppa. Nadia approfittò della tregua.
 
-Lei aggrottò le sopracciglia. "Non sei tu che dici sempre che c'è un motivo per tutto?"
+"Papà, ti ricordi quando parlavamo della Scheggia del Sole?"
 
-Un sorriso piegò le labbra del padre. "E infatti. Ma a volte il motivo è deludente: Rham è il dio del sole, il sole è giallo e i limoni sono gialli. Non molto poetico, vero?" Nadia ci pensò su. Anche l'aceto era una delle offerte tradizionali, ma non era giallo.
+Hual sollevò gli occhi dalla ciotola. "Certo."
 
-Suo padre interruppe il filo dei suoi pensieri. "Che mi dici del tempio? Come sta il vecchio Belan?"
+"Non è la preghiera a far comparire la scintilla."
 
-"Bene, purtroppo." Nadia fece una smorfia, subito fulminata dallo sguardo della madre. "Oh, andiamo, mamma. Sai anche tu quanto è noioso quell'uomo."
+Hual rimase in silenzio, aspettando che continuasse.
 
-"Dovresti trattare con più rispetto gli anziani" la rimproverò lei, secca.
+"C'è un meccanismo. Devi premere finché non scatta." Nadia mimò il gesto con il pollice. "Poi fa scintilla, tutto qui. Non ti sembra strano?"
 
-Ma Hual intervenne, diplomatico: "Anche a me non piace molto maestro Belan. Lui predica che tutto debba essere accettato senza dubbi. Io credo che al contrario vadano messe in discussione proprio le cose che sembrano intoccabili."
+"Mi sembra interessante." Hual portò un altro cucchiaio di zuppa alle labbra. "Ma mi interessa di più come hai fatto a scoprirlo."
 
-"Che intendi dire, papà?"
+Nadia abbassò lo sguardo sulla ciotola. Sentì lo sguardo indagatore di suo padre, come se Hual potesse leggerle la mente. "Hai preso la Scheggia."
 
-Per un attimo lui rimase in silenzio, rigirandosi il cucchiaio fra le dita come per scegliere con cura le parole, ma prima che potesse aprire bocca, la madre intervenne "Oh, Hual, lascia in pace i ragazzi. Non si meritano di essere tediati con le tue stranezze."
+Nadia non rispose.
 
-"Mamma, non dirmi che a te *piace* maestro Belan!" esclamò Nadia, quasi indignata.
+Suo padre abbassò appena la voce. "L'hai almeno rimessa al suo posto?"
 
-Akil si alzò rumorosamente dalla sedia. "Beh, io vado a rilassarmi prima di addormentarmi nel piatto. Divertitevi a parlare di preti e limoni."
+Nadia alzò lo sguardo. "Ovviamente."
 
-Anche mamma lasciò cadere l'argomento, borbottando tra sé mentre versava il tè nelle tazze. Suo padre però restò seduto, accarezzandosi la barba. Sembrava di nuovo perso nel suo mondo.
+Hual sospirò appena. "Allora farò finta di non voler sapere altro. Ma la prossima volta prova a soddisfare la tua curiosità senza appropriarti degli oggetti del tempio."
 
-Per qualche minuto nella stanza si sentì solo il crepitare del braciere da cottura, e il rumore di stoviglie.
+"Come sta maestro Belan?" chiese sua madre, che per fortuna non sembrava aver sentito l'ultima parte.
 
-"Papà." Nadia di sporse in avanti. "Che cosa fai davvero tutto il giorno nel tuo studio? Una volta non passavi così tanto tempo lì dentro."
+Nadia fece una smorfia. "È sempre il solito."
 
-Hual posò la tazza, fissandola con uno strano sguardo, quasi indagatorio. Poi un mezzo sorriso gli ammorbidì i tratti. Abbassò leggermente il tono. "No, non è solo lavoro. Ma credo che tu sia abbastanza grande per saperlo. Domani vieni nel mio studio: ti mostrerò qualcosa."
+"Vale a dire?"
 
-Un brivido le corse lungo la schiena. Nemmeno mamma o Akil erano mai stati ammessi davvero nel suo regno. La sola promessa la riempì di eccitazione.
+"Noioso. E convinto di avere sempre ragione."
 
-"Domani" mormorò lei, cercando di trattenersi dal fare ulteriori domande.
+La madre scosse la testa. "Dovresti trattare con più rispetto gli anziani."
 
-Hual si alzò, andando ad aiutare la moglie con le faccende domestiche, lasciando Nadia nei suoi pensieri. Che cosa combinava suo padre nello studio? Lavoro, certo, ma anche\...
+Hual staccò con le dita un pezzo di pagnotta. "Maestro Belan preferisce che certe cose vengano accettate senza troppi dubbi. Io credo che vadano messe in discussione proprio quelle che sembrano intoccabili."
 
-Un bussare secco e insistente alla porta li fece sobbalzare. La madre si asciugò le mani nel grembiule. "Chi può essere a quest'ora?"
+Nadia inclinò la testa. "Come la Scheggia?"
 
-Nadia scattò in piedi. "Dev'essere Safa!" Non si era aspettata che l'amica prendesse sul serio il suo invito a prendere il tè. *Questa intraprendenza non è affatto da Safa*, pensò Nadia mentre un sorriso le si allargava sul volto.
+"Come molte cose."
 
-Corse all'ingresso e spalancò la porta, ma il sorriso le si spense. Davanti a lei due guardie imperiali torreggiavano sulla soglia, le corazze rigide sotto la luce tremolante delle torce. Non erano ostili, ma neppure accomodanti: occhi fissi, espressioni neutre.
+Hual masticò la mollica per qualche istante, poi il suo sguardo tornò su Nadia, più attento di prima.
+
+La madre scosse la testa. "Oh, Hual, lascia in pace i ragazzi. Non si meritano di essere tediati con le tue stranezze."
+
+Akil si alzò rumorosamente dalla sedia. "Su questo sono d'accordo con mamma. Io vado a rilassarmi prima di addormentarmi nel piatto."
+
+"Non ti affaticare troppo" disse Hual. "Hai spaccato pietre per un villaggio intero."
+
+Akil gli rivolse un gesto poco rispettoso e sparì nella stanza accanto.
+
+La madre cominciò a raccogliere le ciotole, borbottando qualcosa sulla maturità degli uomini di quella casa. Nadia fece per alzarsi e aiutarla, ma suo padre parlò di nuovo.
+
+"Nadia." Hual aveva ancora quell'espressione pensierosa. "Domani vieni nel mio studio."
+
+Nadia rimase immobile. "Nel tuo studio?"
+
+"Voglio farti vedere una cosa."
+
+Nadia lanciò istintivamente un'occhiata in direzione della stanza, poi posò lentamente la ciotola sulla tavola. Nemmeno sua madre o Akil erano mai stati ammessi davvero nel suo regno, almeno non mentre lavorava.
+
+"Non puoi dirmi almeno che cosa è?" tentò Nadia, ma suo padre s'era già alzato.
+
+"Domani."
+
+Nadia si morse il labbro per non tempestarlo di domande. Inutile insistere: quando suo padre assumeva quel tono, non gli si cavava più una parola di bocca.
+
+Hual raggiunse la moglie e cominciò ad aiutarla a sparecchiare. Nadia raccolse le ultime ciotole, ma continuava a lanciare occhiate alla porta dello studio.
+
+Finirono di sistemare la tavola. Sua madre versò l'infuso di erbe nelle tazze, mentre dalla stanza accanto arrivava il rumore di Akil che trafficava con qualcosa. La casa era tornata alla solita quiete serale.
+
+Nadia aveva appena preso la propria tazza quando tre colpi secchi risuonarono alla porta. Nadia si bloccò con la tazza vicino alle labbra.
+
+La madre si asciugò le mani nella tunica. "Chi può essere a quest'ora?"
+
+Nadia posò la tazza e scattò in piedi. "Dev'essere Safa!"
+
+Un sorriso le si allargò sul volto. Non si era aspettata che l'amica prendesse sul serio il suo invito: quell'intraprendenza non era affatto da Safa. Corse all'ingresso e spalancò la porta, ma il sorriso le si spense.
+
+Davanti a lei due guardie imperiali torreggiavano sulla soglia, le corazze rigide sotto la luce tremolante delle torce. Non erano ostili, ma neppure accomodanti: occhi fissi, espressioni neutre.
 
 "Buonasera. Cerchiamo un uomo di nome Hual."
 
-Nadia sentì la bocca seccarsi. Si voltò verso la tavola. "Pa... papà, ti cercano."
+Nadia sentì la bocca seccarsi. Si voltò verso la tavola. "Pa\... papà, ti cercano."
 
-Hual era già in piedi, lo sguardo teso. Posò le mani sulle spalle della figlia e la scostò da parte con calma, un'espressione indecifrabile sul volto.
+Hual era già in piedi.
+
+Per un istante rimase immobile, poi appoggiò a sua volta la tazza e raggiunse sua figlia. Le posò le mani sulle spalle e la scostò dalla porta con calma.
 
 "Sono Hual, contabile della provincia di Junna. Di cosa si tratta?"
 
-Uno dei due lo fissò per qualche istante, come a studiare il suo volto, poi lentamente srotolò un papiro. "È convocato per rispondere di irregolarità nei registri imperiali."
+Uno dei due lo fissò per qualche istante, come a studiare il suo volto, poi srotolò lentamente un papiro.
 
-"Irregolarità?" ripeté Hual, cercando di mantenere il tono fermo. "Sarà senz'altro un malinteso."
+"È convocato per rispondere di irregolarità nei registri imperiali."
 
-"Questo lo vedremo. È pregato di seguirci."
+"Irregolarità?" ripeté Hual. Il tono rimase fermo. "Sarà senz'altro un malinteso."
+
+"Questo lo vedremo. Siete pregato di seguirci."
+
+# CAPITOLO
+
+id: le_rovine
+tipo: capitolo
+titolo: Le rovine
+descrizione: Il ritrovamento di misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.
+immagine: img/capitoli/le_rovine.jpg
+
+--- FINE METADATI ---
+
+Leon aggirò un intreccio di felci e tronchi caduti e, per l'eccitazione, quasi inciampò in una radice affiorante. Dopo qualche minuto, raggiunse finalmente la posizione segnalata da Alex.
+
+Lo trovò fermo poco più avanti, ai piedi di una piccola collina, con il tablet dimenticato in una mano. Pochi istanti dopo anche Zali emerse dalle fronde, alzandosi i VisionLink sulla fronte.
+
+Leon seguì il loro sguardo.
+
+Tra gli alberi affioravano alcuni blocchi di pietra ricoperti di muschio. All'inizio potevano sembrare semplici rocce, ma bastava osservarli per qualche secondo per accorgersi che seguivano un ordine troppo regolare per essere naturale.
+
+Leon avanzò di qualche passo. La struttura diventò più evidente man mano che cambiava prospettiva: delle rovine di un antico edificio. Di cosa si trattasse era difficile dirlo: alberi cresciuti direttamente sopra la costruzione nascondevano intere porzioni delle rovine, mentre grosse radici si insinuavano tra le pietre e scomparivano nelle fessure. La foresta sembrava aver lavorato secoli per inghiottirle, senza riuscirci del tutto.
+
+Leon incrociò lo sguardo di Alex. Un sorriso soddisfatto tradiva chiaramente il suo stato d'animo. "Allora, che ne pensi?"
+
+Leon non rispose subito. Si avvicinò al primo gradone e passò una mano sulla pietra, liberandone un tratto dal muschio. La superficie sottostante era stata lavorata, anche se il tempo ne aveva smussato quasi ogni irregolarità. Alzò lo sguardo verso la sommità, cercando istintivamente una simmetria, un orientamento, qualsiasi elemento che gli permettesse di ricondurre la struttura a qualcosa di familiare. Non ne trovò.
+
+"Devo ammetterlo," continuò Alex. "Mi aspettavo un'antenna."
+
+Leon si concesse un mezzo sorriso. "Anch'io."
+
+"Non compare da nessuna parte," disse Alex. "Ho già controllato tutti i database pubblici che avevo a disposizione. Siti archeologici registrati, rilievi satellitari, archivi storici. Niente."
+
+Zali non sembrava nemmeno ascoltarlo. Si avvicinò al blocco di pietra più vicino, sfiorandolo con la punta delle dita. "Che strano."
+
+Alex si voltò verso di lei. "Cosa intendi?"
+
+"Vivo qui da quando sono nata. Mio padre vive qui da quando è nato. Mio nonno anche." Scosse leggermente la testa. "Non ho mai sentito parlare di questo posto."
+
+Quello colpì Leon più dell'assenza dai database. Una rovina poteva sfuggire a satelliti e ricercatori; sfuggire anche alla memoria di una comunità che viveva nella regione da generazioni era quantomeno insolito.
+
+Si avvicinò alla struttura e iniziò a esaminarla con maggiore attenzione.
+
+La disposizione dei blocchi suggeriva una costruzione monumentale, ma le proporzioni non coincidevano con quelle che conosceva; anche i gradoni sembravano seguire una geometria precisa senza richiamare alcun modello che riuscisse a identificare. Leon passò da un dettaglio all'altro, scartando una dopo le l'altra tutte le ipotesi. Più tentava di classificare ciò che aveva davanti, più sentiva crescere quella familiare eccitazione che accompagnava i problemi senza una risposta evidente.
+
+Aveva studiato per anni le culture dell'Africa Centrale e, pur non essendo uno specialista della regione, possedeva abbastanza esperienza da riconoscere quando qualcosa appariva fuori posto. Quelle pietre lavorate, quei gradoni, quelle proporzioni geometriche non ricordavano nulla di ciò che si sarebbe aspettato di trovare lì.
+
+Estrasse il tablet.
+
+Per diversi minuti si dedicò a documentare il sito. Fotografie da ogni angolazione, scansioni tridimensionali, misurazioni preliminari. Passò tutto a Marie.
+
+Alex si guardava intorno con curiosità. "Cosa ne pensi?"
+
+Leon scattò un'ultima foto. "Sono più colpito da ciò che manca."
+
+"Cioè?"
+
+"Nessuna iscrizione, nessuna decorazione evidente, nessuna statua, nessun simbolo riconoscibile. Almeno nella parte esposta." Leon abbassò il tablet. "È presto per trarre conclusioni."
+
+Dopo qualche istante, la voce di Marie restituì l'analisi.
 
 \[STACCO\]
 
+*Ho completato il confronto con i database archeologici.*
+
+*Corrispondenze significative: nessuna.*
+
+*Probabilità di appartenenza a culture note: molto bassa.*
+
+*Di seguito le corrispondenze più probabili.*
+
 \[STACCO\]
+
+Leon rilesse il responso. Invece di restringere il campo, l'analisi aveva appena eliminato le ipotesi più ovvie.
+
+"Utile" commentò Alex. "Questa è una buona notizia o una cattiva notizia?"
+
+"Se persino Marie non trova nulla, potremmo esserci imbattuti in qualcosa di davvero anomalo."
+
+Aprì il rilevatore e controllò nuovamente i dati. Il segnale era presente, forte e stabile, più intenso di quanto fosse mai stato durante l'avvicinamento.
+
+Verificò le coordinate. Poi le verificò una seconda volta. "Direi che non c'è dubbio: il posto è questo."
+
+Leon sollevò lo sguardo verso le rovine, poi tornò a osservare i dati che scorrevano sul display. "L'antenna non c'è, ma qualcosa sta trasmettendo da qui."
+
+Alex osservò la struttura per qualche secondo. "Beh, diamo un'occhiata in giro."
+
+Per quasi un'ora esplorarono l'intera area con attenzione. Risalirono i gradoni ancora accessibili, aggirarono le sezioni crollate e si inoltrarono tra gli alberi che avevano ormai inglobato parte della costruzione. Leon si allontanò, cercando di capire se nella zona c'erano edifici simili, ma non ebbe fortuna.
+
+Più la osservavano da vicino, più appariva evidente che ciò che emergeva dalla vegetazione rappresentava soltanto una piccola porzione dell'opera originale.
+
+A un certo punto Alex individuò una fenditura tra due blocchi di pietra e vi puntò immediatamente una torcia.
+
+"Niente."
+
+Poco dopo fu Zali a richiamarli presso una depressione del terreno nascosta da uno spesso strato di foglie. Sembrava promettente ma si rivelò soltanto il risultato del cedimento di alcune radici.
+
+Leon controllò ancora una volta il rilevatore. Dopo quasi un'ora di ricerche, l'ipotesi del trasmettitore nascosto tra la vegetazione cominciava a sembrargli sempre meno plausibile. Il segnale continuava a concentrarsi nello stesso punto, apparentemente sotto la massa di pietra e terreno che avevano appena percorso.
+
+Leon batté il tacco dello stivale su un blocco di pietra. "Se qui attorno non c'è nulla, l'unica alternativa è che il segnale venga da qui sotto."
+
+Alex scosse la testa. "Continuo a non capire."
+
+Leon alzò lo sguardo.
+
+"Mi stai dicendo che l'emettitore è sotto le rovine."
+
+"Non vedo molte altre possibilità."
+
+"Beh, non ti sembra strano? Perché qualcuno avrebbe dovuto nascondere sottoterra qualcosa del genere? Sotto strati di roccia e terreno."
+
+Leon non aveva una risposta. Prima di chiedersi perché qualcuno lo avesse fatto, però, voleva essere certo che là sotto ci fosse davvero qualcosa. Si tolse lo zaino e ne estrasse un piccolo sensore per analisi strutturali, collegandolo al tablet. Non era uno strumento da prospezione archeologica e non avrebbe restituito una mappa precisa, ma poteva almeno rilevare eventuali discontinuità nel sottosuolo.
+
+"Vediamo se il terreno ci dice qualcosa."
+
+"Questo cosa sarebbe?" chiese Zali, avvicinandosi.
+
+"Un sensore per analisi strutturali. Non è progettato per questo genere di lavoro, quindi non aspettiamoci una mappa del tesoro."
+
+Mentre il sistema elaborava i dati, Alex si sedette all'ombra di alcune fronde.
+
+Leon attese con impazienza, bevendo un sorso d'acqua dalla borraccia mentre la barra di avanzamento avanzava lentamente. Finalmente, una ricostruzione approssimativa del sottosuolo cominciò a formarsi sul display.
+
+All'inizio Leon vide soltanto una massa confusa di dati. Fece ruotare l'immagine, modificò la profondità della scansione e individuò una prima zona vuota sotto la struttura. Poco distante ne comparve una seconda. Tra le due correva una fascia più densa e insolitamente regolare.
+
+"Bingo."
+
+"Fa' vedere." Alex gli si avvicinò. "Cavità?"
+
+"Sicuramente. Guarda questa." Leon indicò uno dei margini, quasi rettilineo. "Sembrerebbe essere artificiale."
+
+"Delle stanze?"
+
+"Forse. Con questo non posso dirti molto di più."
+
+Alex continuò a osservare la scansione. "Beh, delle stanze sotto una struttura del genere non sarebbero esattamente sconvolgenti. Dobbiamo riprovare con il rilevatore tridimensionale. Quello serio."
+
+"Quello che abbiamo lasciato a New York," aggiunse Leon con disappunto. Non si aspettava certo di dover analizzare delle rovine sconosciute.
+
+Fecero il giro ancora una volta, ma non ne cavarono niente di nuovo. Quando tornarono al punto di partenza, il sole aveva già iniziato la lenta discesa verso l'orizzonte.
+
+Alex si lasciò cadere su un blocco di pietra ricoperto di muschio. "Quindi?"
+
+"Quindi c'è qualcosa qui sotto. Ma non entreremo oggi."
+
+"Neanche domani, probabilmente."
+
+Leon annuì.
+
+Tutto ciò che poteva essere stato un ingresso era crollato da tempo o giaceva sepolto sotto metri di terra e vegetazione. Qualunque segreto custodissero quelle rovine, non aveva alcuna intenzione di lasciarsi scoprire facilmente.
+
+Per qualche istante rimasero in silenzio.
+
+"Dobbiamo avvisare la FSU. Questa cosa potrebbe essere la scoperta archeologica del secolo," disse Alex con entusiasmo.
+
+Leon si concesse un mezzo sorriso. "Negli ultimi vent'anni ho sentito definire almeno ventisette cose diverse come la scoperta archeologica del secolo."
+
+"Questa però potrebbe esserlo davvero." Alex si alzò in piedi. "Abbiamo una struttura che nessuno conosce, che nemmeno Marie riesce ad attribuire, e un segnale artificiale che sembra provenire da qualche parte sotto di essa. Se non è una situazione da FSU, non so cosa lo sia."
+
+Zali alzò il sopracciglio. "FSU?"
+
+"Sì. Significa *Fisici Straordinariamente Utili*," rispose Alex.
+
+Leon alzò gli occhi al cielo. "*Frontiere Scientifiche Unite*. È l'agenzia per cui lavoriamo." Indicò lo zaino, dove il logo era impresso in bianco e azzurro: una corona di alloro attorno a un modello atomico stilizzato. "Fa parte delle Nazioni Unite. Quando una ricerca richiede competenze e risorse che una singola università o un singolo paese non possono mettere insieme, interveniamo noi."
+
+Zali sembrò rifletterci per qualche istante. "Quanta gente arriverà?"
+
+Alex inclinò la testa. "Come?"
+
+"Se li chiamate. Quanta gente porteranno qui?"
+
+"All'inizio? Non saprei. Una quindicina di persone, probabilmente. Una squadra preliminare."
+
+"Con attrezzature?"
+
+"Naturalmente."
+
+"Elicotteri?"
+
+Alex esitò. "Probabile."
+
+Zali tamburellò le dita sul gomito. "E se trovate qualcosa?"
+
+Stavolta fu Leon a rispondere. "La squadra crescerà."
+
+"Quanto?"
+
+Leon lasciò vagare lo sguardo sulle rovine. Era impossibile prevederlo. Archeologi, geologi, tecnici, personale logistico; se il sito si fosse rivelato importante quanto sospettava\..."Potrebbero diventare parecchie."
+
+Zali annuì lentamente. "Capisco." Ma non sembrava affatto contenta di ciò che aveva capito.
+
+Alex fece per parlare, ma Leon lo anticipò. "È una preoccupazione legittima."
+
+Zali si voltò verso di lui, poi sospirò. "Per voi questa è una scoperta. Per noi è la foresta." Indicò gli alberi intorno a loro. "È dove cacciamo, dove raccogliamo piante medicinali, dove passano persone che conosco. Se arrivano elicotteri, squadre di ricercatori e attrezzature, le cose cambieranno."
+
+Leon conosceva bene il problema. Aveva visto scoperte archeologiche trasformare luoghi quasi sconosciuti in destinazioni internazionali nel giro di pochi anni, portando denaro e opportunità in alcuni casi, conflitti e perdita di controllo in altri. "Potrebbe succedere," ammise.
+
+Zali sembrò sorpresa. Forse si aspettava che negasse.
+
+Leon si sedette sul bordo di un gradone. "Non posso prometterti che la presenza della FSU non cambierà niente. Posso prometterti che cercheremo di non prendere decisioni senza il consenso della popolazione locale."
+
+Per qualche istante Zali rimase in silenzio. "Allora dovete parlare con gli anziani."
+
+Leon sollevò lo sguardo. "Il consiglio del villaggio?"
+
+"Sì."
+
+"Sono loro a decidere sull'uso di questa zona?"
+
+Zali fece una piccola smorfia. "È complicato. Naturalmente ci sono leggi e autorità dello Stato, ma per le terre comuni e per quello che riguarda direttamente il villaggio, certe decisioni passano ancora dal consiglio."
+
+Alex indicò le rovine. "E questa rientra nella categoria?"
+
+Zali guardò la struttura alle loro spalle. "Direi proprio di sì."
+
+Leon annuì. Era comunque la cosa giusta da fare. Anche se avessero potuto ottenere un'autorizzazione passando sopra il villaggio, iniziare una spedizione archeologica contro la volontà delle persone che vivevano su quel territorio sarebbe stato il modo peggiore possibile di procedere.
+
+"D'accordo. Parleremo con loro."
+
+Alex sospirò. "Magnifico. Ho appena scoperto delle rovine perdute nel cuore dell'Africa e la prossima fase dell'avventura consiste nel partecipare a una riunione."
+
+Leon si issò lo zaino sulle spalle fradicie. "Esatto."
+
+"Questa non è la parte che raccontano nei documentari."
+
+"No. È la parte che evita di finire nei tribunali internazionali."
+
+Alex ci pensò un attimo. "Vista così, forse preferisco la riunione."
+
+Raccolsero l'equipaggiamento e si prepararono al ritorno. Dietro di loro le rovine rimasero immobili e silenziose, mentre da qualche punto invisibile sotto la pietra e la terra il segnale continuava ostinatamente a trasmettere la stessa sequenza.
+
+Il ritorno fu impegnativo, ma molto meno dell'andata, ora che il sentiero era stato tracciato. Nessuno dei tre parlò molto. Alex era chiaramente ancora immerso nell'euforia della scoperta, Leon stava già organizzando mentalmente il rapporto che avrebbe dovuto inviare alla FSU, mentre Zali sembrava assorta in pensieri che preferiva non condividere.
+
+Giunsero al villaggio che era già tardo pomeriggio, con il sole basso negli occhi. Il fiume rifletteva una luce dorata che faceva risplendere l'acqua fangosa.
+
+Poco prima di raggiungere la guesthouse, Zali rallentò. Un uomo stava venendo loro incontro lungo il sentiero.
+
+"Mio padre. Raul."
+
+Leon lo osservò avvicinarsi. Doveva avere una cinquantina d'anni e, a differenza della maggior parte delle persone che aveva incontrato al villaggio, indossava abiti tradizionali: una lunga tunica blu acceso decorata con motivi geometrici e un copricapo semplice ma elegante. Camminava con la schiena perfettamente dritta e un portamento composto che gli conferiva un'autorevolezza naturale.
+
+Zali gli andò incontro e iniziò subito a parlargli nella lingua locale.
+
+Leon e Alex rimasero qualche passo indietro. Non capivano una parola, ma l'argomento divenne presto evidente: dopo le prime frasi Raul rivolse lo sguardo verso di loro, poi verso la foresta da cui erano appena tornati. Ascoltò la figlia senza interromperla e, quando Zali ebbe finito, le rispose brevemente prima di proseguire verso il centro del villaggio.
+
+Leon lo seguì con lo sguardo. "È la prima persona che vedo qui con abiti tradizionali."
+
+"Ci tiene molto. È orgoglioso delle sue origini Naha."
+
+"Naha?"
+
+"Il nome del nostro popolo. E del villaggio." Zali si sistemò lo zaino sulla spalla. "Mio padre è anche uno degli anziani. Gli ho spiegato cosa abbiamo trovato."
+
+Leon annuì. Meglio così: se davvero dovevano convincere il consiglio a lasciar arrivare una spedizione, almeno uno dei suoi membri sapeva già di cosa avrebbero parlato.
+
+\[STACCO\]
+
+Leon e Alex ebbero appena il tempo di lavarsi e liberarsi degli abiti fradici di sudore prima che Zali ricomparisse alla guesthouse.
+
+Non era sola: con lei c'era un uomo anziano che Leon non aveva mai visto. Era basso, quasi minuto, vestito con pantaloncini corti e una camicia a fiori. Camminava appoggiandosi a un bastone, anche se dal passo energico Leon sospettò che fosse più un accessorio che una reale necessità. Il volto pieno di rughe era attraversato da un sorriso facile e gli occhi vivaci si spostavano continuamente da Leon ad Alex, studiandoli con una curiosità quasi infantile. Probabilmente era qualcuno incaricato di accompagnarli alla riunione.
+
+L'uomo, ridacchiando, disse qualcosa a Zali e indicò Alex.
+
+"Cosa ha detto?" chiese Alex.
+
+Zali trattenne un sorriso. "Dice che siete troppo esili per essere andati così lontano nella foresta."
+
+Alex abbassò lo sguardo sul proprio fisico. "Digli che stiamo cercando di rimediare."
+
+La traduzione provocò una risata sonora. L'anziano diede una pacca sul braccio di Alex, poi fece loro cenno di seguirlo.
+
+L'ipotesi di Leon sembrò confermata. Il loro accompagnatore li condusse tutti e tre verso il piccolo tempio che sorgeva poco distante dal centro del villaggio. L'ometto salì i pochi gradini e indicò loro l'ingresso con un gesto della mano.
+
+L'interno era sorprendentemente fresco. La luce entrava da piccole aperture vicino al soffitto e illuminava decine di oggetti disposti lungo le pareti: maschere rituali scolpite nel legno, tamburi decorati, statue antropomorfe dall'espressione severa, bastoni cerimoniali, collane e tessuti. In un angolo, Leon notò una corona dorata con una piccola gemma blu incastonata sul davanti. Nulla sembrava esposto come in un museo. Erano strumenti ancora vivi, ancora utilizzati.
+
+"Pensavo che la maggior parte di queste tradizioni fosse scomparsa," osservò Alex a bassa voce.
+
+"Molte sono cambiate," rispose Zali. "Ma non sono scomparse."
+
+Camminò lentamente lungo la parete, indicando alcuni degli oggetti.
+
+"Noi Naha crediamo in due dèi opposti tra loro. Il primo è il dio dell'Ordine, colui che dà forma alle cose, stabilisce i confini e mantiene il mondo comprensibile. Il secondo è il dio del Caos, che distrugge, trasforma e mescola ciò che esiste."
+
+Indicò poi una serie di piccole figure scolpite.
+
+"E oltre a questo onoriamo gli antenati. Non li veneriamo come divinità. Li ricordiamo."
+
+"Come forma di gratitudine?" domandò Leon.
+
+Zali rifletté per un istante. "Anche. Ma soprattutto per non dimenticarli. Una persona muore davvero solo quando nessuno la ricorda più."
+
+La risposta colpì Leon più di quanto avrebbe voluto ammettere. Per un attimo un volto gli attraversò la mente. Lo allontanò con delicatezza, come si rimette a posto un oggetto fragile.
+
+Quando tornò a guardarsi intorno, il loro accompagnatore aveva già raggiunto il fondo della sala.
+
+Delle sedute erano state disposte attorno a un basso tavolo di legno. Leon riconobbe immediatamente Raul, ancora nella sua tunica blu. C'erano poi altri tre anziani: una donna dalle trecce bianche, un uomo robusto sulla sessantina e un vecchio che sembrava sul punto di addormentarsi. Tutti indossavano abiti tradizionali.
+
+Leon si domandò quale dei quattro avrebbe presieduto la riunione.
+
+Ebbe la risposta quando il loro piccolo accompagnatore li superò, aggirò il tavolo e andò ad accomodarsi sulla sedia più grande, al centro.
+
+Leon lo fissò per un istante.
+
+Alex si chinò appena verso di lui. "Aspetta. È lui il capo villaggio?"
+
+"A quanto pare."
+
+"Ha più l'aspetto di un giardiniere."
+
+Leon trattenne un sorriso.
+
+Zali, a nome degli anziani, li invitò a sedersi.
+
+Leon fece per attivare la modalità traduzione sugli occhiali, ma poi cambiò idea.
+
+Alex lo osservò. "Problemi tecnici?"
+
+"No."
+
+"Perché li metti via?"
+
+Leon guardò il tavolo attorno al quale erano riuniti gli anziani. "Perché questa non è una conferenza."
+
+Alex rifletté un istante. Poi, senza aggiungere altro, si tolse a sua volta gli occhiali. Zali annuì.
+
+Dal villaggio arrivavano voci lontane e il canto continuo degli insetti che iniziava a riempire l'aria. Per alcuni secondi nessuno parlò.
+
+Leon aveva trascorso buona parte della propria carriera tra riunioni, conferenze e commissioni scientifiche, eppure si scoprì insolitamente a disagio. Da antropologo, aveva una discreta conoscenza delle forme di amministrazione locali; eppure, nella sua ventennale carriera, era la prima volta che si trovava al cospetto di un vero e proprio consiglio degli anziani.
+
+Alla fine fu Raul a rompere il silenzio. Pronunciò alcune parole nella lingua locale, che Zali tradusse: "Mio padre dice che avete trovato qualcosa nella foresta. Vorrebbe capire esattamente cosa."
+
+Leon si sporse leggermente in avanti. "Abbiamo trovato una struttura antica. Non sappiamo molto altro, per ora, ma ci sono delle aree sotterranee e vorremmo disseppellirle."
+
+Leon attivò il tablet e lo posò sul tavolo, facendo comparire le fotografie scattate poche ore prima. Presentò alcuni dettagli e gli anziani ascoltarono senza interrompere. Per la prima volta vide un cambiamento nelle loro espressioni: aveva la loro attenzione.
+
+Le immagini scorsero una dopo l'altra: i gradoni emergenti dalla vegetazione, le pietre ricoperte di muschio, le scansioni tridimensionali.
+
+Il capovillaggio allungò una mano e fece ruotare il modello tridimensionale con un dito. Persino l'uomo più anziano si alzò lentamente dalla sedia e si avvicinò per osservare meglio.
+
+Per qualche secondo nessuno parlò. Poi iniziò una breve discussione in lingua Naha di cui Leon non comprese una sola parola. Raul parlò nuovamente.
+
+"Chiedono perché siete andati proprio lì?"
+
+Leon e Alex si scambiarono un'occhiata. Era una domanda inevitabile. Leon fece apparire sullo schermo il grafico del segnale, ma le linee e gli impulsi suscitarono molto meno interesse delle fotografie. Gli anziani osservavano il display con evidente perplessità.
+
+Raul fece una domanda in lingua Naha. "Che cosa significa?"
+
+Alex si schiarì la gola. "Le cifre di pi greco." Gli sguardi si spostarono verso di lui. "Tre virgola uno quattro uno cinque nove due sei\..."
+
+Leon chiuse gli occhi.
+
+"\... cinque tre cinque otto nove sette\..."
+
+"Basta così."
+
+Alex si interruppe. "Stavo arrivando alla parte interessante."
+
+Qualche sorriso comparve persino tra gli anziani, probabilmente più per il tono dei due che per il contenuto, ma non sembravano aver afferrato davvero il punto. Forse, nemmeno gli interessava.
+
+Poi Raul formulò la domanda che Leon stava aspettando.
+
+"Che cosa volete fare adesso?"
+
+Leon si prese qualche secondo prima di rispondere. "Informare la FSU e organizzare una spedizione."
+
+Questa volta la traduzione generò una reazione immediata. I cinque anziani iniziarono a discutere tra loro e Zali venne presto trascinata nella conversazione. Leon riusciva a seguire ben poco, ma non aveva bisogno di conoscere la lingua per capire che il problema non erano più le rovine. Era ciò che sarebbe arrivato insieme a loro.
+
+Prima che la discussione prendesse la piega sbagliata, si affrettò a chiarire: "Se quella scoperta è importante quanto crediamo, prima o poi qualcuno verrà a cercarla. Con la FSU o senza la FSU. Quello che posso promettervi è che, se saremo noi a occuparcene, non arriveremo qui per prendere il controllo del sito."
+
+La discussione proseguì. Zali si intromise, senza aspettare che qualcuno le chiedesse di tradurre. Parlò rapidamente nella lingua Naha, rivolgendosi prima a Raul e poi agli altri anziani.
+
+Raul la interruppe. Lei ribatté. La donna dalle trecce bianche intervenne a sua volta e, nel giro di pochi secondi, la discussione coinvolse tutto il tavolo.
+
+Leon rimase ad ascoltare senza capire una parola. Poteva seguire il confronto soltanto attraverso i gesti e le espressioni: Raul e la donna sembravano i più cauti, mentre il capovillaggio interveniva spesso con brevi osservazioni che parevano andare nella direzione opposta. L'uomo robusto annuiva ora all'uno, ora all'altro. Soltanto l'anziano che fino a quel momento era sembrato sul punto di addormentarsi rimaneva quasi completamente in silenzio.
+
+Alex aspettò ancora qualche secondo, poi si chinò verso Leon. "Hai idea di cosa stia succedendo?"
+
+"Nessuna."
+
+"Ottimo."
+
+Zali venne rapidamente in loro aiuto. "Il problema principale è la spedizione. Vogliono sapere quante persone portereste qui."
+
+Leon fece un rapido calcolo. "Una quindicina per cominciare. Forse di più, a seconda di quello che troveremo."
+
+Zali informò il consiglio. La donna dalle trecce bianche parlò a lungo, con calma, mentre Raul annuiva più volte.
+
+"Dice che quindici persone sono troppe," sintetizzò Zali. "Dovreste alloggiarle, rifornirle, trasportare attrezzature avanti e indietro. Per una spedizione del genere servirebbe un vero campo nella foresta."
+
+Leon non cercò di contraddirla. La donna aveva individuato esattamente il problema: una squadra di quindici persone non sarebbe semplicemente passata dal villaggio. Avrebbe richiesto una piccola infrastruttura permanente attorno alle rovine.
+
+Per qualche istante rimase a osservare la scansione sul tablet. Poi gli venne in mente qualcosa. Si rivolse ad Alex, mentre gli anziani ancora discutevano tra loro: "Secondo te, di quelle quindici persone, quante devono necessariamente venire dalla FSU?"
+
+Alex corrugò la fronte. "In che senso?"
+
+"Specialisti. Competenze che non possiamo sostituire."
+
+"Sicuramente ci servirà un archeologo, un geologo, qualche esperto di culture antiche. Direi cinque o sei ricercatori, compresi noi. Ma poi serve la squadra di scavo, la logistica\..."
+
+"Cinque," concluse Leon. "Il resto lo assumiamo qui."
+
+"Qui dove?"
+
+"Qui al villaggio."
+
+Alex rimase a fissarlo per un istante. "Non sono io che dovrei dirtelo ma non è esattamente così che organizziamo le spedizioni alla FSU. Gli addetti allo scavo conoscono le procedure, sanno come trattare i reperti, hanno esperienza."
+
+"Formeremo personale locale."
+
+Alex abbassò leggermente la voce. "Leon, sai benissimo che la FSU ha delle procedure per assumere personale locale."
+
+Era proprio il genere di ragionamento che Leon non aveva mai sopportato: prendere una soluzione semplice, conveniente per tutti e perfettamente sensata, poi seppellirla sotto autorizzazioni e protocolli. Le regole avevano una funzione; quando diventavano un ostacolo fine a sé stesso, la sua pazienza tendeva a esaurirsi molto in fretta.
+
+"Allora seguiremo le procedure."
+
+Alex sollevò un sopracciglio.
+
+"Ma la proposta alla FSU sarà questa: cinque specialisti e personale assunto sul posto. Costa meno, semplifica la logistica e ci dà persone che conoscono questa foresta meglio di chiunque potremmo portare da New York."
+
+"Hai già deciso, vero?"
+
+"Sì."
+
+Alex sospirò. "D'accordo. Sei tu il capo. Però quando l'amministrazione comincerà a mandarti messaggi furiosi, io non ne sapevo niente."
+
+Leon tornò verso Zali. "Proponi questo al consiglio. La squadra della FSU sarà limitata agli specialisti indispensabili. Per tutto il resto assumeremo persone del villaggio, le formeremo e verranno pagate come qualsiasi altro lavoratore della spedizione."
+
+Zali tradusse.
+
+Questa volta la discussione cambiò quasi immediatamente tono. L'uomo robusto, che fino a quel momento aveva ascoltato con le braccia conserte, si sporse sul tavolo e fece una domanda.
+
+"Vuole sapere chi sceglierebbe i lavoratori."
+
+"Voi. L'ideale sarebbe una decina di giovani: prevedo parecchio lavoro fisico. La responsabilità dello scavo resterà alla FSU."
+
+Esplose una seconda discussione, persino più fitta della precedente. Leon rinunciò quasi subito a seguirla. Zali parlava con Raul, Raul replicava al capovillaggio, la donna dalle trecce bianche interrompeva entrambi e l'uomo robusto interveniva ogni volta che sembravano sul punto di raggiungere una conclusione. Alex seguiva il confronto spostando lo sguardo dall'uno all'altro come davanti a una partita giocata secondo regole che nessuno si era preoccupato di spiegargli.
+
+"Adesso cosa succede?"
+
+"Presumo stiano decidendo se la mia idea è brillante o irresponsabile."
+
+"Io un'opinione ce l'avrei."
+
+Leon ignorò il commento.
+
+Poco alla volta, però, qualcosa cambiò. La donna dalle trecce bianche smise di contestare la presenza della spedizione e cominciò a discutere quali zone della foresta dovessero rimanere intatte. Raul volle precisare come sarebbero stati scelti e retribuiti i lavoratori. L'uomo robusto chiese quanto sarebbe durato il primo periodo di scavo. Persino il capovillaggio prese il tablet e indicò il punto in cui, secondo lui, sarebbe stato meno problematico sistemare le attrezzature.
+
+Leon se ne accorse prima ancora che Zali lo dicesse. Non stavano più discutendo se lasciarli scavare. Stavano decidendo come farlo.
+
+Soltanto l'anziano rimasto quasi sempre in silenzio non aveva ancora espresso un'opinione. Quando finalmente parlò, tutti gli altri smisero immediatamente di discutere.
+
+Seguì un breve silenzio.
+
+Alla fine, tutti gli altri anziani annuirono.
+
+"Il consiglio è disposto ad accettare."
+
+Alex si raddrizzò sulla sedia. "Davvero?"
+
+"Cinque specialisti della FSU. I Naha parteciperanno agli scavi e verranno retribuiti. Le scoperte importanti saranno comunicate al consiglio e nessuna parte della foresta verrà abbattuta senza autorizzazione."
+
+Leon annuì. "Possiamo farlo."
+
+Nella sala calò un silenzio soddisfatto. Sembrava che la questione fosse conclusa.
+
+Leon si alzò. "Allora abbiamo un accordo."
+
+Anche Alex si alzò in piedi. "Bene. Domani mattina prepareremo il rapporto per la FSU."
+
+Il capovillaggio si schiarì la gola. Tutti si voltarono verso di lui. L'ometto stava sorridendo.
+
+Pronunciò una frase breve, e gli altri anziani si scambiarono occhiate di approvazione.
+
+Zali alzò un sopracciglio. "Dice che c'è un'ultima condizione."
+
+Alex esitò. "Un'altra?"
+
+Leon tornò lentamente a sedersi. "Sentiamo."
+
+Zali si schiarì la gola. "Vorrebbero fare un giro sull'elicottero. Prima che ve ne andiate."
+
+Per un istante nessuno disse nulla. Alex e Leon si scambiarono uno sguardo.
+
+Il capovillaggio manteneva un'espressione perfettamente seria, ma i suoi occhi tradivano un entusiasmo quasi infantile. Leon lasciò uscire un breve sospiro.
+
+"Credo che possiamo organizzarlo."
+
+Il sorriso del capovillaggio si allargò.
+
+Alex si rilassò sullo schienale. "Finalmente una richiesta interessante."
 
 # CAPITOLO
 
@@ -926,11 +1360,11 @@ immagine: img/capitoli/il_libro.jpg
 
 --- FINE METADATI ---
 
-Nadia continuava a svegliarsi ogni mattina sperando che gli avvenimenti degli ultimi giorni fossero solo un brutto sogno. Ma bastava un attimo, un battito d'occhi, e l'illusione svaniva. Si ritrovava con un nodo allo stomaco che non sapeva sciogliere.
+Nadia continuava a svegliarsi ogni mattina sperando che gli avvenimenti degli ultimi giorni fossero solo un brutto sogno. Ma bastava un attimo e l'illusione svaniva. Si ritrovava con un nodo allo stomaco che non sapeva sciogliere.
 
 Passava le giornate con la solita routine: aiutava la madre a impastare, prendeva l'acqua al pozzo, accompagnava Safa nelle sue commissioni. Sembrava tutto come prima, eppure nulla lo era. Suo padre era stato portato via dagli uomini dell'impero, e quel che era peggio, la gente sembrava pensare davvero che suo padre fosse un disonesto criminale.
 
-"Avete sentito? Pare che avesse nascosto delle cifre nei registri" sussurrò una donna, mentre Nadia tornava dal mercato con delle verdure tra le braccia.
+"Avete sentito? Pare che avesse nascosto delle cifre nei registri" sussurrò una donna, mentre Nadia tornava dall'orto con delle verdure tra le braccia.
 
 "Magari aveva debiti" rispose l'altra, con quell'aria di chi si compiace di avere una spiegazione a portata di mano.
 
@@ -958,13 +1392,17 @@ Nadia annuì. Doveva trattenersi, non era giusto prendersela con Safa.
 
 \[STACCO\]
 
-Nei giorni seguenti, Nadia sentì il bisogno di isolarsi. Gli sguardi del villaggio la soffocavano, così aveva preso l'abitudine di salire al tempio. Una preghiera a Rham, sempre più incerta e silenziosa, poi ore a fissare l'orizzonte, seduta sul muretto che cingeva il piccolo tempio. Guardava i carri che passavano sulla strada polverosa verso la capitale: un viavai monotono che era diventato il suo passatempo.
+Una cosa almeno era riuscita a scoprirla. Hual non era rimasto in città: le guardie lo avevano portato a Lisenna, la capitale, a cinque giorni di carro verso sud. Sua madre aveva provato a chiedere spiegazioni agli uffici imperiali, ma nessuno aveva saputo dirle dove fosse rinchiuso né quando sarebbe tornato. Per Nadia, Lisenna era sempre stata poco più di un nome sulle mappe e sui racconti dei mercanti; adesso, invece, non riusciva a pensare alla città senza immaginare suo padre da qualche parte in una cella.
+
+Nei giorni seguenti, Nadia sentì il bisogno di isolarsi. Gli sguardi del villaggio la soffocavano, così aveva preso l'abitudine di salire al tempio. Non era diventata improvvisamente devota, ma lassù almeno nessuno la fissava o abbassava la voce al suo passaggio. Il silenzio del tempio le dava una pace che non riusciva più a trovare altrove.
+
+Dopo una preghiera sempre più incerta e silenziosa, trascorreva ore a fissare l'orizzonte, seduta sul muretto a secco che cingeva il piccolo tempio. Guardava i carri che passavano sulla strada polverosa verso la capitale: un viavai monotono che era diventato il suo passatempo. Da qualche parte, oltre quelle colline e molti giorni di viaggio, c'era Lisenna.
 
 "Sempre qui, Nadia?"
 
 Si voltò, trovandosi di fronte maestro Belan. Sul suo volto c'era la stessa espressione compassionevole che lei aveva visto decine di volte negli ultimi giorni. Nadia strinse i pugni e non rispose, ma gli permise di avvicinarsi.
 
-"Io non credo che tuo padre abbia falsificato dei documenti," disse l'anziano sacerdote. Nadia continuò a guardare davanti a sé. "È vero, io e Hual abbiamo avuto le nostre divergenze... ma lo conosco da una vita. È uno degli uomini più onesti che abbia mai incontrato."
+"Io non credo che tuo padre abbia falsificato dei documenti," disse l'anziano sacerdote. Nadia continuò a guardare davanti a sé. "È vero, io e Hual abbiamo avuto le nostre divergenze... ma lo conosco da una vita. Non è il genere d'uomo che rischierebbe tutto per qualche moneta in più."
 
 Le venne un groppo in gola. Non trovò le parole.
 
@@ -976,11 +1414,11 @@ Passarono così qualche minuto.
 
 "Sei mai stato a Lisenna, maestro?" Le parole le sfuggirono di bocca quasi contro la sua volontà.
 
-"Oh sì," rispose lui, animandosi un poco. Forse nessuno gli chiedeva mai del suo passato, pensò Nadia con una punta di rimprovero. "Sono stato a Lisenna, per molti anni. Chiunque abbia studiato teologia c'è passato. È lì che ho ricevuto il mio addestramento." Si voltò verso l'orizzonte, il sole ormai quasi scomparso dietro le colline.
+"Oh sì," rispose lui, animandosi un poco. Forse nessuno gli chiedeva mai del suo passato, pensò Nadia con una punta di rimprovero. "Sono stato a Lisenna, per molti anni. Chiunque abbia studiato teologia c'è passato. È lì che ho ricevuto il mio addestramento." Si voltò verso l'orizzonte, il sole ormai quasi scomparso dietro le colline, come se i suoi pensieri fossero tornati a quei giorni.
 
 "Pensi che tornerà presto?"
 
-*Mi sto davvero facendo consolare da Belan?* si sorprese Nadia. *Devo essere proprio caduta in basso.*
+Si stava davvero facendo consolare da maestro Belan? Doveva essere proprio caduta in basso.
 
 Il vecchio esitò. Smise di spazzare e si appoggiò alla vecchia scopa, scrutando l'orizzonte. "Io... credo di no, Nadia."
 
@@ -990,57 +1428,63 @@ Quelle parole la colpirono come un dardo. L'idea che suo padre non tornasse le e
 
 Per la prima volta, Nadia si voltò verso di lui. "Che vuoi dire?"
 
-"Non credo che tuo padre abbia falsificato nulla. Ma forse... ha fatto qualcosa che, per l'Impero, pesa di più." Si morse il labbro, incerto. "Non dovrei dirtelo, ma... chi la pensa in modo diverso, non è ben visto. Né in politica, né in fede."
+"Non credo che tuo padre abbia falsificato nulla. Ma forse... ha fatto qualcosa che, per l'Impero, pesa di più." Si umettò le labbra, incerto. "Non dovrei dirtelo, ma... chi la pensa in modo diverso, non è ben visto. Né in politica, né in fede."
 
 "In modo diverso?"
 
-"La religione dell'Impero è rigida. Non ammette interpretazioni alternative delle *Parole dei Precursori*." Belan scosse la testa. "Perdonami, Nadia. Forse sto farneticando. Non dovrei parlare a vanvera."
+"La religione dell'Impero è rigida. Non ammette interpretazioni alternative delle *Parole dei Precursori*." Belan scosse la testa. "Perdonami, Nadia. Forse sto farneticando. Non dovrei parlare a vuoto."
 
-Lei rimase lì, sospesa, come in attesa che aggiungesse altro. Ma il vecchio le rivolse solo un sorriso incerto. "Mi dispiace tanto. È un'ingiustizia, quello che ti è capitato. Forse mi sbaglio. Forse tuo padre farà ritorno." Ma a Nadia sembrò che stesse solo cercando di rassicurarla.
+Lei rimase lì, sospesa, come in attesa che aggiungesse altro. Ma il vecchio le rivolse solo un sorriso incerto. "Mi dispiace tanto. È un'ingiustizia, quello che ti è capitato. Forse mi sbaglio. Forse tuo padre farà ritorno." Ma a Nadia sembrò che stesse dicendo qualcosa in cui non credeva nemmeno lui.
 
 \[STACCO\]
 
-Nadia rientrò a casa, le parole di Belan che le ronzavano ancora in testa. *Due guardie di sera... era la normalità?* No. Più ci pensava, più le sembrava sospetto. Possibile che nessuno se ne fosse accorto? Doveva parlarne con mamma. Con Akil.
+Nadia rientrò a casa, le parole di Belan che le ronzavano ancora in testa. Due soldati, di sera... era la normalità? No. Più ci pensava, più le sembrava sospetto. Possibile che nessuno se ne fosse accorto? Doveva parlarne con mamma. Con Akil.
 
 Ma prima, c'era una cosa che doveva fare. Una cosa che avrebbe dovuto fare giorni prima.
 
 Aspettò che sua madre uscisse per una commissione, e poi si mosse. Si avvicinò alla porta dello studio di suo padre e spinse piano: era aperta.
 
-*Non sto facendo niente di male,* si ripeté. *Papà stesso aveva promesso di portarmici.* Ma il cuore le martellava in gola.
+Non stava facendo niente di male, si ripeté. Papà stesso aveva promesso di portarla lì*.* Ma il cuore le martellava in gola.
 
-Lo studio era ampio, ma sembrava più piccolo, soffocato da pile di documenti, tavolette e papiri arrotolati. L'aria sapeva di polvere e inchiostro secco. Q*uesta stanza ha bisogno di essere arieggiata*.
+Lo studio era ampio, ma sembrava più piccolo, soffocato da pile di documenti, tavolette e papiri arrotolati. L'aria sapeva di polvere e inchiostro secco. Quella stanza aveva bisogno di essere arieggiata.
 
 Nadia entrò in punta di piedi, guardandosi intorno con la circospezione di un ladro. Cominciò a rovistare: spostava fogli, apriva rotoli, guardava mappe, ma con gesti attenti, quasi reverenti. Non voleva lasciare traccia del proprio passaggio.
 
 Lesse qualche frammento qua e là: "Quattrocento pietre trasportate nel quarto mese." "Settanta sacchi di grano macinati dal mulino Sammer."
 
-Numeri, registri, contabilità. Roba piatta, impenetrabile. *Se ci fosse qualcosa di nascosto tra questi numeri, non lo troverei neanche in un anno di ricerca.*
+Numeri, registri, contabilità. Roba piatta, impenetrabile. Se ci fosse stato qualcosa di nascosto tra quei numeri, non lo avrebbe trovato neanche in un anno di ricerca.
 
 Sospirò, delusa, ma non si arrese. Non aveva molto tempo: sua madre poteva rientrare da un momento all'altro. *Non sto facendo nulla di male,* si disse ancora, ma ormai lo pensava con meno convinzione.
 
 Frugò nei cassetti, rapida. Erano zeppi di oggetti di lavoro: righelli, compassi, penne, un martelletto per incidere.
 
-In fondo a uno, dimenticato sotto vecchie ricevute, trovò un libricino. Nadia lo tirò fuori e le labbra le si piegarono in un sorriso sorpreso. Era una logora copia delle *Parole dei Precursori*. Da bambina, suo padre le leggeva dei brani prima di andare a dormire: alcuni dei brani erano davvero avvincenti, per essere un testo religioso. Lo sfogliò con le dita incerte.
+In fondo a uno scaffale, dimenticato sotto vecchie ricevute, trovò un libricino. Nadia lo tirò fuori e le labbra le si piegarono in un sorriso sorpreso. Era una logora copia delle *Parole dei Precursori*. Da bambina, suo padre le leggeva dei brani prima di andare a dormire: alcuni erano davvero avvincenti, per essere un testo religioso. Lo sfogliò con le dita incerte.
 
-*Strano.* Le pagine erano piene di fitte annotazioni: segni, commenti, frasi intere scritte di suo pugno. Non c'era dubbio, era la calligrafia di Hual. Esitò, mordendosi il labbro. Poi, con un gesto deciso, infilò il libretto nella tasca della veste.
+Strano*.* Le pagine erano piene di fitte annotazioni: segni, commenti, frasi intere scritte di suo pugno. Non c'era dubbio, era la calligrafia di Hual. Esitò, mordendosi il labbro. Poi, con un gesto deciso, infilò il libretto nella tasca della veste.
+
+Poco dopo sentì sua madre rientrare. Agile come una gatta, uscì dallo studio.
 
 \[STACCO\]
 
-Nei giorni successivi, quando era sola, Nadia sfogliava il libricino consunto, ma leggere le risultava impegnativo. *Rham, come sono fuori allenamento*. Suo padre forse aveva lodato troppo le sue doti letterarie: senza fare pratica costante, leggere era davvero impegnativo. Eppure, stringere quel volume la faceva sentire più vicina al padre. Era come se, in qualche modo, fosse ancora lì con lei.
+Nei giorni successivi, quando era sola, Nadia sfogliava il libricino consunto, ma leggere le risultava impegnativo. Era davvero fuori allenamento. Suo padre forse aveva sopravvalutato le sue doti letterarie: senza fare pratica costante, leggere era davvero dura.
 
-Passava ancora molte ore nei pressi del tempio, sperando che maestro Belan le dicesse di più, ma l'anziano si limitava a un saluto cortese e a una benedizione, prima di rifugiarsi tra le mura del tempio. Naturalmente, aveva pensato di mostrargli il libro, ma aveva scartato subito l'idea: era un ricordo troppo privato, e non voleva rischiare che finisse sotto occhi indiscreti. Soprattutto dopo quello strano discorso di Belan: c*hi la pensa in modo diverso non è ben visto.*
+Passava ancora molte ore nei pressi del tempio, sperando che maestro Belan le dicesse di più, ma l'anziano si limitava a un saluto cortese e a una benedizione, prima di rifugiarsi tra le mura del tempio. Naturalmente, aveva pensato di mostrargli il libro, ma aveva scartato subito l'idea: era un ricordo troppo privato, e non voleva rischiare che finisse sotto occhi indiscreti. Soprattutto dopo quello strano discorso di Belan: *chi la pensa in modo diverso non è ben visto.*
 
-Osservava i carri carichi di merci che percorrevano la strada polverosa verso Lisenna. Non era lontana, poche ore di viaggio, eppure la capitale le sembrava un altro mondo. Il viavai continuo le scavava dentro un pensiero sempre più insistente.
+Osservava i carri carichi di merci che percorrevano la strada polverosa verso Lisenna. Non era lontana, pochi giorni di viaggio, eppure la capitale le sembrava un altro mondo. Il viavai continuo le scavava dentro un pensiero sempre più insistente.
 
 \[STACCO\]
 
 Quella sera a cena, il silenzio era più pesante del solito. La madre si sforzava di mostrarsi serena, ma Nadia la sentiva piangere di notte, nel buio della stanza accanto. Akil era irriconoscibile: niente più scherzi o racconti dal cantiere, solo stanchezza e sguardi persi.
 
+Nadia si portò alla bocca un cucchiaio di zuppa. Non sapeva di niente: sua madre aveva dimenticato di aggiungere le spezie.
+
+La situazione aveva raggiunto un livello insopportabile per tutti.
+
 "Andrò a Lisenna."
 
-Nadia aveva parlato quasi senza nemmeno rendersene conto. Le parole caddero nel silenzio come un sasso nell'acqua, e Nadia si rese conto di covare quel pensiero ormai da giorni.
+Aveva parlato quasi senza nemmeno rendersene conto. Le parole caddero nel silenzio come un sasso nell'acqua, e solo dopo averle pronunciate Nadia si rese conto di covare quel pensiero ormai da giorni.
 
-Akil sollevò lo sguardo, un sopracciglio inarcato. "Come scusa?"
+Akil sollevò lo sguardo, un sopracciglio inarcato. "Come, scusa?"
 
 "Andrò a Lisenna," ripeté lei, stavolta più ferma. "Chiederò giustizia per papà."
 
@@ -1048,25 +1492,85 @@ La madre posò lentamente il cucchiaio sul tavolo. "Non parli sul serio."
 
 "Parlo sul serio eccome."
 
-La donna scosse la testa. "Non sei mai uscita dalla cittadella, e vuoi andare da sola in una città cento volte più grande? Non sai come muoverti, con chi parlare... e sei solo una ragazza."
+"Non sei mai uscita dalla cittadella e vuoi attraversare mezza provincia da sola? Per fare cosa, una volta arrivata? Lisenna è enorme, non sai dove tengono tuo padre, non sai con chi parlare e non conosci nessuno."
 
-Nadia serrò la mascella. "Dovrei restare qui ad ascoltare i pettegolezzi mentre papà marcisce in cella per un crimine che non ha commesso?"
+"Imparerò."
 
-"Nadia, è solo questione di tempo prima che faccia ritorno" si intromise suo fratello. "Non crederai davvero che papà abbia fatto qualcosa di male?"
+"Nadia," intervenne Akil, "è solo questione di tempo prima che faccia ritorno. Non crederai davvero che papà abbia fatto qualcosa di male?"
 
-Nadia fissò suo fratello negli occhi, poi scosse la testa. *Dice così, ma nemmeno lui ci crede davvero.*
+Nadia fissò suo fratello negli occhi, poi scosse la testa. Diceva così, ma nemmeno lui ci credeva davvero.
 
-"Non capite? Se papà ha fatto qualcosa oppure no non ha alcuna importanza. L'hanno portato via e basta. Non tornerà." Nadia incrociò lo sguardo di Akil, che parve colpito. *Lo sa. Sa che è così*.
+"Non capite? Se papà ha fatto qualcosa oppure no non ha alcuna importanza. L'hanno portato via e basta. Non tornerà. Lo dice anche maestro Belan." Nadia incrociò gli occhi di Akil, che abbassò lo sguardo. Sapeva che era così.
 
-La madre scosse la testa, al limite dell'esasperazione. Si voltò verso Akil, con gli occhi pieni di supplica. "Dille qualcosa tu Akil!"
+"Belan dovrebbe imparare a tenere per sé certe opinioni," tagliò corto la madre.
 
-Akil restò in silenzio per un lungo momento, il cucchiaio sospeso a mezz'aria. Poi lo posò con calma, guardò la sorella e infine la madre. "Mamma... lo sai anche tu: quando Nadia si mette un'idea in testa, nessuno può fermarla." Inspirò profondamente e aggiunse: "Non la lascio andare da sola. Andrò anch'io."
+Nadia la guardò. Non aveva mai sentito sua madre prendersela con il vecchio maestro. "Almeno lui sta cercando di capire!"
 
-"Akil!" La madre spalancò gli occhi, il viso contratto.
+"Anch'io sto cercando di capire!"
 
-"Mamma," disse lui con voce calma, prendendole la mano, "è inutile opporsi. Conosci Nadia: partirebbe comunque, anche da sola."
+"Tu non stai facendo niente!" Le parole uscirono con più violenza di quanto Nadia avesse previsto. Sua madre si immobilizzò. Nadia avrebbe potuto fermarsi, ma tutta la rabbia accumulata negli ultimi giorni era ormai venuta a galla.
 
-I loro sguardi erano fermi, incrollabili. Akil e Nadia avevano caratteri diversi sotto tutti gli aspetti, ma una cosa li accomunava: erano entrambi testardi come muli. Dovette arrendersi.
+"Continui a dire che papà tornerà, come se bastasse aspettare. Non vai più nemmeno al mercato se non è necessario, non dormi, oggi hai dimenticato persino le spezie nella zuppa e fai finta che vada tutto bene."
+
+La madre la fissò, ferita. "Credi che non me ne sia accorta? Credi che non abbia pensato di partire anch'io?" La voce cominciava a tremarle. "Ho chiesto agli uffici, ho parlato con chiunque potesse sapere qualcosa. Ma non posso abbandonare la casa e inseguire tuo padre fino a Lisenna senza nemmeno sapere dove cercarlo."
+
+"Per questo lo farò io."
+
+"Tu hai quattordici anni!"
+
+"Appunto! Sono già una donna fatta, ormai. E le strade sono sicure, i mercanti lo dicono sempre."
+
+La madre si passò una mano sugli occhi. "Non perderò anche voi due per questa storia."
+
+Nadia si accorse che si stava asciugando le lacrime. Sentì la rabbia sgonfiarsi quasi di colpo. Avrebbe voluto rimangiarsi almeno metà di ciò che aveva detto, ma non la scelta che le sembrava l'unica cosa concreta che poteva fare.
+
+"Io parto," disse, questa volta senza alzare la voce. "Non riesco più a stare qui senza fare niente."
+
+Akil la osservò a lungo. "E con quale carro?"
+
+"Ne troverò uno."
+
+"Con quali soldi?"
+
+Nadia esitò appena. "Ne ho abbastanza per arrivare."
+
+"E quando arriverai a Lisenna?"
+
+"Non lo so. Troverò un lavoro."
+
+Akil scosse la testa, esasperato. "Fantastico. Un piano impeccabile."
+
+"Almeno è un piano."
+
+"Non è un piano, Nadia. È andare verso sud e sperare che succeda qualcosa."
+
+"Allora aiutami a renderlo migliore."
+
+La madre guardò prima lui, poi Nadia. "Akil, non incoraggiarla."
+
+Akil tornò a fissare la sorella. Nadia sostenne il suo sguardo senza abbassarlo.
+
+"Mamma\..." disse infine. "Lo sai anche tu che partirà."
+
+La donna impallidì. "Akil, spiegale che è un'idea assurda."
+
+"Non sto dicendo che abbia ragione. Sto dicendo che la conosco." Inspirò profondamente, poi si strofinò entrambe le mani sul viso. "E non posso lasciarla attraversare cinque giorni di strada da sola."
+
+Nadia lo guardò, sorpresa.
+
+"Vengo con te."
+
+"Akil, no." Questa volta nella voce della madre non c'era rabbia, ma paura. "Non potete decidere una cosa simile così, durante la cena."
+
+"Non stiamo decidendo adesso," disse Nadia. "Io ci penso da giorni."
+
+"Anch'io," ammise Akil.
+
+La madre rimase immobile, le mani strette sul bordo del tavolo. Per qualche istante sembrò sul punto di ricominciare a discutere, poi guardò i due figli e dovette leggere nei loro volti la verità: non avrebbero cambiato idea.
+
+"Non vi sopporto quando fate così," mormorò.
+
+Akil accennò un sorriso stanco. "È colpa tua. Papà dice sempre che abbiamo preso da te la nostra testardaggine."
 
 \[STACCO\]
 
@@ -1078,7 +1582,7 @@ Safa si fermò di colpo, con gli occhi sgranati. "A Lisenna? Sul serio? La capit
 
 Nadia aggrottò le sopracciglia. "Non sto andando per fare la turista, Safa. Ci vado perché mio padre è rinchiuso là, per un crimine che non ha commesso."
 
-Safa abbassò lo sguardo. "Scusa... non volevo sembrare insensibile. È che..." esitò un istante, "è che io non sono mai uscita da qui. Nemmeno per andare al villaggio vicino. Solo l'idea di un viaggio mi sembra qualcosa di enorme."
+Safa abbassò lo sguardo. "Scusa... non volevo sembrare insensibile. È che..." esitò un istante, "è che io non sono mai uscita da qui. Nemmeno per andare al villaggio vicino. Mi piacerebbe andare a Lisenna."
 
 "Immagino," sospirò Nadia. "Se potessi mandare te al mio posto, lo farei volentieri."
 
@@ -1092,7 +1596,7 @@ Per un momento rimasero in silenzio, il vento che faceva oscillare il cesto tra 
 
 Nadia la guardò, sorpresa dalla sincerità del tono. "*Akil* ti mancherà, vorrai dire" scherzò Nadia, facendo arrossire l'amica. Mettere Safa in imbarazzo era così facile da risultare quasi noioso. Ma poi si fece di nuovo seria. "Torneremo presto. Solo il tempo necessario."
 
-Safa annuì piano. "Allora prometti che, quando torni, mi racconterai tutto. Anche i dettagli più piccoli."
+Safa annuì piano. "Allora prometti che, quando torni, mi racconterai tutto. E che mi porterai qualcosa dalla capitale."
 
 Nadia abbozzò un mezzo sorriso. "Vedremo. Dipende da come andrà."
 
@@ -1111,396 +1615,6 @@ Il ragazzo aiutò la sorella a salire sul carro e passò al cocchiere qualche mo
 Akil posò una mano sulla sua spalla. "Andrà tutto bene," disse a bassa voce. Ma il dubbio che tradiva il suo tono le fece capire che quella frase era più per sé stesso che per lei.
 
 \[STACCO\]
-
-# CAPITOLO
-
-id: le_rovine
-tipo: capitolo
-titolo: Le rovine
-descrizione: Il ritrovamento di misteriose rovine nel cuore della foresta aprono un mistero che Leon e Alex non possono ignorare.
-immagine: img/capitoli/le_rovine.jpg
-
---- FINE METADATI ---
-
-Leon, Alex e Zali si trovavano nei pressi di una piccola collina, nel folto della foresta. Raggiungere la posizione segnalata da Alex non era stato affatto semplice: la via era impervia, e la giungla pareva opporsi con ostacoli a ogni passo.
-
-Quando, alla fine, erano giunti sul posto, la foresta si era aperta quel tanto che bastava per lasciare emergere un'antica struttura di pietra, come se per secoli alberi e radici avessero tentato di nasconderla senza riuscirci del tutto.
-
-Blocchi ricoperti di muschio affioravano dal terreno seguendo un ordine evidente, formando gradoni che salivano verso una piattaforma più elevata, in parte crollata. Alcuni alberi erano cresciuti direttamente sopra la costruzione, mentre radici nodose si insinuavano tra le pietre come dita ostinate.
-
-Alex era fermo accanto a uno dei gradoni, il tablet in mano e un sorriso che tradiva chiaramente il suo stato d'animo. "Allora?"
-
-Leon non rispose subito. Si limitò a osservare.
-
-A prima vista la struttura ricordava un piccolo tempio, o forse il basamento di qualcosa di più grande. Gran parte della costruzione doveva essere ancora sepolta sotto il terreno e la vegetazione.
-
-"Non compare da nessuna parte," disse infine Alex. "Ho già controllato tutti i database pubblici che avevo a disposizione. Siti archeologici registrati, rilievi satellitari, archivi storici. Niente."
-
-Zali non sembrava nemmeno ascoltarlo. Sfiorò una delle pietre con la punta delle dita. "Che strano."
-
-Alex si voltò verso di lei. "Cosa intendi?"
-
-"Vivo qui da quando sono nata. Mio padre vive qui da quando è nato. Mio nonno anche." Scosse leggermente la testa. "Non ho mai sentito parlare di questo posto."
-
-Leon capì cosa intendesse. Le rovine potevano anche rimanere sconosciute agli studiosi, ma molto più difficilmente venivano ignorate dalle persone che abitavano il territorio. Ma in fondo la giungla era talmente vasta che nemmeno la popolazione Naha poteva aver esplorato tutti i dintorni.
-
-Si avvicinò alla struttura e iniziò a esaminarla con maggiore attenzione.
-
-Più osservava, meno riusciva a collocarla. E ciò non gli causava frustrazione. Al contrario, faceva crescere l'eccitazione.
-
-Aveva studiato per anni le culture dell'Africa Centrale e, pur non essendo uno specialista della regione, possedeva abbastanza esperienza da riconoscere quando qualcosa appariva fuori posto. Quelle pietre lavorate, quei gradoni, quelle proporzioni geometriche non ricordavano nulla di ciò che si sarebbe aspettato di trovare lì.
-
-Estrasse il tablet.
-
-Per diversi minuti si dedicò a documentare il sito. Fotografie da ogni angolazione, scansioni tridimensionali, misurazioni preliminari. Passò tutto a Marie.
-
-Alex si guardava intorno con curiosità. "Cosa ne pensi?"
-
-Leon scattò un'ultima foto. "Sono più colpito da ciò che manca."
-
-"Cioè?"
-
-"Nessuna iscrizione, nessuna decorazione evidente, nessuna statua, nessun simbolo riconoscibile. Le superfici esposte sono sorprendentemente spoglie. Quasi anonime. Qui le opzioni sono due. O questa struttura è stata fatta da una popolazione senza alcun senso estetico, o è talmente antica che ogni traccia di decorazione è andata perduta."
-
-Dopo qualche istante, la voce di Marie restituì l'analisi preliminare.
-
-\[STACCO\]
-
-*Confronto con database archeologici completato.*
-
-*Corrispondenze significative: nessuna.*
-
-*Probabilità di appartenenza a culture note: 20%.*
-
-*Vuoi che ti mostri le corrispondenze più probabili?*
-
-\[STACCO\]
-
-Leon non rispose. Non era il risultato che si era aspettato.
-
-"Utile" commentò Alex. "Questa è una buona notizia o una cattiva notizia?"
-
-"Se persino Marie non trova nulla, potremmo esserci imbattuti in qualcosa di davvero anomalo."
-
-Aprì il rilevatore e controllò nuovamente i dati. Il segnale era presente, forte e stabile, più intenso di quanto fosse mai stato durante l'avvicinamento.
-
-Verificò le coordinate. Poi le verificò una seconda volta.
-
-Alex aprì a sua volta la mappa sul proprio dispositivo. "Direi che non c'è dubbio: il posto è questo."
-
-Leon sollevò lo sguardo verso le rovine, poi tornò a osservare i dati che scorrevano sul display. "Probabilmente è qualcosa nascosto qui in giro. O qui sotto."
-
-Alex osservò la struttura per qualche secondo. "Beh, diamo un'occhiata."
-
-Per quasi un'ora esplorarono l'intera area con crescente meticolosità. Risalirono i gradoni ancora accessibili, aggirarono le sezioni crollate e si inoltrarono tra gli alberi che avevano ormai inglobato parte della costruzione. Leon si allontanò, cercando di capire se nella zona c'erano edifici simili, ma non ebbe fortuna.
-
-Più la osservavano da vicino, più appariva evidente che ciò che emergeva dalla vegetazione rappresentava soltanto una piccola porzione dell'opera originale.
-
-A un certo punto Alex individuò una fenditura tra due blocchi di pietra e vi puntò immediatamente una torcia.
-
-"Niente."
-
-Poco dopo fu Zali a richiamarli presso una depressione del terreno nascosta da uno spesso strato di foglie. Sembrava promettente ma si rivelò soltanto il risultato del cedimento di alcune radici.
-
-Leon batté il tacco dello stivale su un blocco di pietra. "Se qui attorno non c'è nulla, l'unica alternativa è che il segnale venga da qui sotto."
-
-Alex scosse la testa. "Continuo a non capire."
-
-Leon alzò lo sguardo.
-
-"Il segnale. Pensavo fosse un trasmettitore nascosto da qualche parte. Un vecchio ripetitore, una stazione scientifica dimenticata\... qualcosa del genere." Alex indicò le strutture davanti a loro. "Ma se il segnale arriva davvero da qui, qualcuno deve averlo messo *dentro*."
-
-"Non vedo molte altre possibilità."
-
-"Beh, non ti sembra strano? Perché qualcuno avrebbe dovuto nascondere sottoterra qualcosa del genere? Sotto strati di roccia e terreno."
-
-Leon non ne aveva idea.
-
-Ma tanto per cominciare, potevano verificare che ci fosse davvero qualcosa sepolto lì sotto.
-
-"Proviamo con questo." Attivò una scansione preliminare del sottosuolo utilizzando i sensori integrati nel proprio equipaggiamento. Non erano progettati per quel genere di lavoro, ma dovevano farseli bastare.
-
-Mentre il sistema elaborava i dati, Alex si sedette all'ombra di alcune fronde.
-
-Leon attese con impazienza, bevendo un sorso d'acqua dalla borraccia. Quando finalmente la barra di avanzamento arrivò in fondo, il display mostrò il risultato dell'analisi.
-
-"Bingo."
-
-"Fa' vedere."
-
-Leon mostrò lo schermo, facendo ruotare la scansione tridimensionale. Come avevano immaginato, sotto di loro esistevano anomalie strutturali: cavità naturali, forse stanze artificiali. Ma determinarne la forma o l'estensione per ora era impossibile.
-
-"Dobbiamo farci inviare attrezzatura più adatta."
-
-Fecero il giro ancora una volta, ma non ne cavarono niente di nuovo. Quando tornarono al punto di partenza, il sole aveva già iniziato la lenta discesa verso l'orizzonte.
-
-Alex si lasciò cadere su un blocco di pietra ricoperto di muschio. "Quindi?"
-
-"Quindi c'è qualcosa qui sotto. Ma non entreremo oggi."
-
-"Neanche domani, probabilmente."
-
-Leon annuì.
-
-Tutto ciò che poteva essere stato un ingresso era crollato da tempo o giaceva sepolto sotto metri di terra e vegetazione. Qualunque segreto custodissero quelle rovine, non aveva alcuna intenzione di lasciarsi scoprire facilmente.
-
-Per qualche istante rimasero in silenzio.
-
-"Dobbiamo avvisare la FSU. Questa cosa potrebbe essere la scoperta archeologica del secolo."
-
-Leon si concesse un mezzo sorriso. "Negli ultimi vent'anni ho sentito definire almeno ventisette cose diverse come la scoperta archeologica del secolo."
-
-"Questa però potrebbe esserlo davvero." Alex si alzò in piedi. "Abbiamo una struttura sconosciuta, un segnale artificiale che trasmette una sequenza matematica e qualcosa di nascosto sottoterra. Se non è una situazione da FSU, non so cosa lo sia."
-
-Leon posò lo sguardo sulle pietre antiche, gli archi semi crollati e le gradinate coperte di muschio. Non poteva dargli torto.
-
-"Quanta gente arriverà?"
-
-La domanda fece voltare entrambi. Zali, che fino a quel momento era rimasta in silenzio, continuava a osservare le rovine.
-
-"Come?" Alex inclinò la testa.
-
-"Se chiamate la FSU." Indicò la struttura. "Quanta gente arriverà?"
-
-Alex rifletté qualche secondo. "Non saprei. Una decina di persone, per cominciare. Una squadra preliminare. "
-
-"Poi?"
-
-"Poi di più."
-
-"Quanto di più?"
-
-Leon lasciò vagare lo sguardo sulle rovine. "Dipende da quello che troveremo. Archeologi. Geologi. Tecnici. Operatori di droni. Specialisti nelle scansioni del sottosuolo. Personale logistico. Forse antropologi. C'è un bel po' di gente che potrebbe essere coinvolta in rovine mai esplorate."
-
-Zali annuì lentamente. "Capisco." Ma dal tono della sua voce era evidente che non le piaceva ciò che aveva appena capito.
-
-Alex sembrava sul punto di replicare, ma Leon lo anticipò. "È una preoccupazione legittima."
-
-La giovane si voltò verso di lui. Annuì. "Per voi questa è una scoperta. Per noi è la foresta." Il tono non era accusatorio, era semplicemente un dato di fatto. "È il luogo dove cacciamo. Dove raccogliamo piante medicinali. Dove vivono le persone che conosco. Se arrivano tutti quelli che hai appena descritto, le cose cambieranno."
-
-Alex abbassò lo sguardo. Non aveva considerato la questione in quei termini. Leon invece sì. L'aveva vista ripetersi molte volte.
-
-"Potrebbe accadere."
-
-Zali sembrò sorpresa dalla risposta. Probabilmente si aspettava una rassicurazione immediata. Leon si sedette sul bordo di un gradone e osservò la foresta che li circondava.
-
-"Ho visto villaggi diventare mete turistiche nel giro di pochi anni. Ho visto comunità arricchirsi grazie alle scoperte archeologiche. Ne ho viste altre perdere il controllo di ciò che accadeva intorno a loro. A volte le cose vanno bene. A volte no."
-
-Per un momento nessuno parlò. Il richiamo lontano di un uccello attraversò la foresta.
-
-Infine Leon si rialzò. "Ma di certo non prenderemo decisioni senza parlarne con le autorità locali."
-
-La giovane lo osservò attentamente. "Con gli anziani?"
-
-"Sì."
-
-Alex sospirò. "Magnifico. Ho appena scoperto delle rovine perdute nel cuore dell'Africa e la prossima fase dell'avventura consiste nel partecipare a una riunione."
-
-Leon si issò lo zaino sulle spalle fradicie. "Esatto."
-
-"Questa non è la parte che raccontano nei documentari."
-
-"No," disse l'antropologo. "È la parte che evita di finire nei tribunali internazionali."
-
-Alex ci pensò un attimo. "Vista così, forse preferisco la riunione."
-
-I tre raccolsero l'equipaggiamento e si prepararono al ritorno. Dietro di loro le rovine rimasero immobili e silenziose, indifferenti alla loro discussione, mentre da qualche punto invisibile sotto la pietra e la terra il segnale continuava ostinatamente a trasmettere le sue cifre verso il cielo.
-
-\[STACCO\]
-
-Il ritorno fu impegnativo, ma molto meno dell'andata, ora che il sentiero era stato tracciato. Nessuno dei tre parlò molto. Alex era chiaramente ancora immerso nell'euforia della scoperta, Leon stava già organizzando mentalmente il rapporto che avrebbe dovuto inviare alla FSU, mentre Zali sembrava assorta in pensieri che preferiva non condividere.
-
-Giunsero al villaggio che era già tardo pomeriggio, con il sole basso negli occhi. Il fiume rifletteva una luce dorata che sembrava sciogliersi lentamente sull'acqua.
-
-Quando le prime case comparvero tra gli alberi, Zali si fermò. "Vado da mio padre."
-
-Leon annuì. "Spiegagli tutto. Credo sia meglio che la notizia arrivi da qualcuno di cui si fida."
-
-Zali si limitò a fare un cenno con il capo e si allontanò lungo una delle passerelle che costeggiavano il fiume. "Ci vediamo alla guesthouse."
-
-Leon e Alex ebbero appena il tempo di lavarsi e liberarsi degli abiti fradici di sudore prima che Zali ricomparisse sulla veranda.
-
-"Il consiglio degli anziani verrà riunito. L'appuntamento è per dopo cena."
-
-"Succede spesso che gli anziani si riuniscano?" chiede Leon, frizionandosi i capelli bagnati con un asciugamano.
-
-Zali fece spallucce. "Non accade tutte le settimane, ma non è nemmeno così raro. Se si rompe una barca o se qualcuno litiga con il vicino a volte basta uno degli anziani a fare da intermediario. Se due ricercatori tornano dicendo di aver trovato un antico edificio nella foresta\..." si interruppe per un istante. "Allora gli anziani vogliono parlarne tutti insieme."
-
-"Ragionevole" concluse Alex.
-
-La casa del consiglio si trovava non lontano dal centro del villaggio, in una posizione leggermente rialzata rispetto al fiume. Era una struttura più grande delle abitazioni circostanti, costruita in legno scuro e coperta da un ampio tetto metallico che proteggeva l'interno dalle piogge tropicali. Tre lati erano quasi completamente aperti, permettendo all'aria serale di attraversare liberamente l'edificio.
-
-Quando arrivarono, gli anziani erano già seduti in attesa.
-
-Leon riconobbe immediatamente Raul. Seduto composto a un'estremità del lungo tavolo centrale, indossava gli stessi abiti tradizionali che aveva visto il giorno precedente: una tunica blu decorata con motivi geometrici e una collana di perline consumate dal tempo. L'espressione era seria come la prima volta che l'aveva visto.
-
-Poco distante sedeva il capo degli anziani. Vederlo in un contesto formale risultava quasi straniante. L'uomo era basso, magro e apparentemente incapace di restare fermo per più di qualche secondo. Seduto sulla grossa sedia di vimini, toccava a malapena terra con i piedi. Mentre parlava con uno degli altri consiglieri gesticolava continuamente, e il sorriso che Leon ricordava dal giorno precedente compariva e scompariva dal suo volto con sorprendente facilità.
-
-Gli altri tre membri del consiglio non gli erano familiari. Una donna anziana dai capelli completamente bianchi raccolti in trecce sottili osservava i nuovi arrivati con sguardo acuto. Alla sua destra sedeva un uomo robusto, probabilmente sulla sessantina, che tamburellava distrattamente le dita sul tavolo. L'ultimo consigliere era il più anziano di tutti. Rimaneva quasi immobile sulla propria sedia e sembrava quasi addormentato.
-
-Zali, nervosa, li invitò a sedersi, a nome del consiglio.
-
-Leon fece per attivare la modalità traduzione sugli occhiali, ma poi cambiò idea. Alex lo osservò. "Problemi tecnici?"
-
-"No."
-
-"Perché li metti via?"
-
-Leon guardò il tavolo attorno al quale erano riuniti gli anziani. "Perché questa non è una conferenza."
-
-Alex rifletté un istante. Poi, senza aggiungere altro, si tolse a sua volta gli occhiali. Zali annuì.
-
-Per alcuni secondi nessuno parlò.
-
-Dal villaggio arrivavano voci lontane, il rumore di stoviglie e il canto continuo degli insetti notturni che iniziavano a riempire l'aria. La lampada al neon al centro del soffitto lasciava gli angoli dell'edificio immersi nella penombra.
-
-Leon ebbe improvvisamente la sensazione di trovarsi davanti a un esame. Non era a suo agio, pur essendo abituato a costanti riunioni e conferenze. In tutta la sua ventennale carriera, era la prima volta che si trovava al cospetto di un vero e proprio consiglio degli anziani.
-
-Alla fine fu Raul a rompere il silenzio. Pronunciò alcune parole nella lingua locale.
-
-Zali tradusse. "Mio padre dice che avete trovato qualcosa nella foresta."
-
-Leon annuì lentamente.
-
-"Vorrebbe capire esattamente cosa."
-
-Leon si sporse leggermente in avanti. "Abbiamo trovato una struttura antica. Molto antica, probabilmente. Non sappiamo molto altro, per ora. Ma ci sono delle aree sotterranee e vorremmo disseppellirle."
-
-Gli anziani ascoltarono senza interrompere. Leon attivò il tablet e lo posò sul tavolo, facendo comparire le fotografie scattate poche ore prima.
-
-Per la prima volta vide un cambiamento nelle loro espressioni. Non stupore. Piuttosto attenzione.
-
-Le immagini scorsero una dopo l'altra: i gradoni emergenti dalla vegetazione, le pietre ricoperte di muschio, gli archi semi crollati, le scansioni tridimensionali generate da Marie.
-
-Il capovillaggio allungò una mano e fece ruotare il modello tridimensionale con un dito. Persino l'uomo più anziano si alzò lentamente dalla sedia e si avvicinò per osservare meglio.
-
-Per qualche secondo nessuno parlò. Poi iniziò una breve discussione nella lingua Naha. Leon non comprese una sola parola.
-
-Quando terminarono, Raul parlò nuovamente.
-
-"Chiedono se siete certi che si trovi nel nostro territorio."
-
-"Abbastanza certi."
-
-"Abbastanza?"
-
-Leon indicò la mappa. Nuova discussione, più breve. Poi arrivò un'altra domanda.
-
-"Perché siete andati proprio lì?"
-
-Leon e Alex si scambiarono un'occhiata. Era inevitabile. Leon fece apparire sullo schermo il grafico del segnale. Le linee e gli impulsi suscitarono molto meno interesse delle fotografie. Gli anziani osservavano il display con evidente perplessità.
-
-Raul fece una domanda in Naha. "Che cosa significa?"
-
-Alex si schiarì la gola. "Le cifre di pi greco." Gli sguardi si spostarono verso di lui. "Tre virgola uno quattro uno cinque nove due sei cinque tre cinque otto nove sette nove tre due tre otto quattro sei due sei quattro tre\..."
-
-Leon chiuse gli occhi.
-
-"\...tre tre otto tre due sette nove cinque zero due otto otto quattro uno nove sette uno sei\..."
-
-"Basta."
-
-Alex si interruppe. "Stavo arrivando alla parte interessante."
-
-Qualche sorriso comparve persino tra gli anziani, probabilmente più per il tono dei due che per il contenuto. Ma non sembravano aver afferrato davvero il punto. Forse, nemmeno gli interessava.
-
-Poi Raul formulò la domanda che Leon stava aspettando. "Che cosa volete fare adesso?"
-
-Leon si prese qualche secondo prima di rispondere. "Informare la FSU."
-
-Questa volta la traduzione generò una reazione immediata. I cinque anziani iniziarono a parlare tra loro. La discussione durò vari minuti. Non sembrava ostile, ma nemmeno favorevole.
-
-Il tempo scorreva, e la discussione proseguiva. Due minuti. Cinque. Alex e Leon si guardarono. Poi guardarono Zali con sguardo eloquente.
-
-Quella alzò gli occhi al cielo. "D'accordo," articolò con le labbra.
-
-Si aggiunse al dibattito
-
-Raul replicò.
-
-La ragazza rispose.
-
-A quel punto parteciparono anche gli altri membri del consiglio.
-
-La conversazione proseguì ancora per qualche minuto.
-
-Alla fine Raul tornò a rivolgersi a loro.
-
-"Mio padre chiede quante persone arriveranno."
-
-"Non lo sappiamo ancora." Leon proseguì prima che la risposta apparisse evasiva. "Possiamo fare delle stime. Una squadra preliminare. Diciamo, un team di cinque persone. Poi dipenderà da ciò che troveremo."
-
-Fu la donna anziana a parlare per la prima volta. Lo fece con calma, ma abbastanza a lungo da richiedere quasi un minuto di traduzione. "Dice che la foresta è la nostra casa. Che ogni volta che arrivano persone da fuori promettono di restare poco e finiscono per restare molto" sintetizzò Zali.
-
-"Se quella scoperta è importante quanto crediamo, qualcuno prima o poi verrà a cercarla. Con noi o senza di noi." Gli anziani ascoltarono. "Quello che posso promettere è che la FSU non arriverà qui per prendere il controllo del sito."
-
-Alex annuì. "Se verrà organizzata una spedizione, vogliamo coinvolgere il villaggio. Guide locali. Assistenti. Personale da formare. Persone che conoscano il territorio meglio di chiunque altro."
-
-A quel punto fu Zali a intervenire, senza aspettare che qualcuno glielo chiedesse.
-
-Parlò rapidamente nella lingua Naha. Raul la interruppe. Lei ribatté. L'uomo robusto intervenne a sua volta. Per qualche istante la discussione diventò sorprendentemente animata.
-
-Alex osservava la scena come chi assiste a una partita di cui ignora completamente le regole. "Adesso cosa sta succedendo?"
-
-Leon scosse la testa. Raul e la donna anziana sembravano i più cauti. Il capovillaggio, sorprendentemente, appariva tra i più favorevoli. L'uomo robusto oscillava da una posizione all'altra a seconda dell'argomento. L'ultimo anziano continuava invece a parlare pochissimo, ma ogni volta che lo faceva gli altri si fermavano ad ascoltarlo. Zali agiva come moderatrice a tutti gli effetti. Ogni tanto riportava ai due qualche frase che riassumeva interi minuti di discussione.
-
-Fu soltanto dopo quasi venti minuti che il tono generale iniziò a cambiare.
-
-Le obiezioni lasciarono spazio alle condizioni. Le condizioni lasciarono spazio ai dettagli. E i dettagli, lentamente, assunsero la forma di un accordo.
-
-Alla fine, tutti gli altri anziani annuirono.
-
-"Mio padre dice che il consiglio è disposto ad accettare."
-
-Alex si raddrizzò sulla sedia. "Davvero?"
-
-"Con alcune condizioni."
-
-"Naturalmente."
-
-"Prima condizione. La squadra iniziale sarà piccola. Non più di cinque persone."
-
-Leon annuì quasi immediatamente. Era una richiesta perfettamente ragionevole. Avrebbe dovuto contrattare con la FSU, ma poteva farlo.
-
-"Seconda condizione. I Naha parteciperanno alla spedizione. Non solo come guide, ma anche come lavoratori dello scavo. Retribuiti."
-
-Alex e Leon si scambiarono uno sguardo. Quella proposta era persino migliore di quanto sperassero.
-
-"Terza condizione. Ogni scoperta importante dovrà essere comunicata prima al consiglio degli anziani."
-
-Leon rifletté qualche istante. "Possiamo farlo."
-
-"Quarta condizione. Nessuna parte della foresta verrà abbattuta senza autorizzazione del consiglio."
-
-"Accettata."
-
-Seguì un'altra breve serie di richieste. Tutte ragionevoli. Tutte orientate alla stessa idea: mantenere il controllo su ciò che sarebbe accaduto nel loro territorio.
-
-Più Leon le ascoltava, più si convinceva che avrebbe avanzato lui stesso proposte molto simili se si fosse trovato al loro posto.
-
-Quando l'ultima traduzione terminò, nella sala calò un silenzio soddisfatto. Sembrava che la questione fosse conclusa.
-
-Leon si alzò. "Allora credo che abbiamo un accordo."
-
-Anche Alex si alzò in piedi. "Bene. Domani mattina prepareremo il rapporto per la FSU."
-
-Il capovillaggio si schiarì la gola. Tutti si voltarono verso di lui. L'ometto stava sorridendo.
-
-Pronunciò una frase breve. Molto breve. Gli altri anziani si scambiarono occhiate di approvazione. "Dice che c'è un'ultima condizione."
-
-Alex esitò. "Un'altra?"
-
-"L'ultima."
-
-Leon tornò lentamente a sedersi. "Sentiamo."
-
-"Vorrebbero fare un giro sull'elicottero. Prima che ve ne andiate."
-
-Per un istante nessuno disse nulla. Alex e Leon si scambiarono uno sguardo.
-
-Il capovillaggio manteneva un'espressione perfettamente seria, ma i suoi occhi tradivano un entusiasmo quasi infantile. Leon lasciò uscire un breve sospiro.
-
-"Dovevo immaginarlo." Poi sorrise. "Affare fatto."
 
 # CAPITOLO
 
@@ -1526,6 +1640,318 @@ Un giorno le chiesi perché avesse scelto proprio me.
 
 E non aggiunse altro.
 
+# CAPITOLO
+
+id: la_squadra
+tipo: capitolo
+titolo: La squadra
+descrizione: Un team di specialisti della FSU arriva sul sito archeologico. Ma ogni risposta sembra generare ancora più domande.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Leon si stiracchiò sulla sedia pieghevole, urtando con la gamba l'instabile tavolino da campo. Qualche goccia di caffè si rovesciò sulla superficie di plastica già incrostata di petali e rametti.
+
+La colazione al campo era piuttosto semplice. Una ciotola di frutta tropicale tagliata grossolanamente e una tazza di caffè troppo acido, all'ombra di un telo teso tra due alberi. Davanti a lui, oltre il margine del campo, la foresta sembrava già aver iniziato a reclamare il terreno che i Naha avevano faticosamente liberato nei giorni precedenti.
+
+Leon bevve un sorso, facendo scorrere distrattamente la serie di titoli sulle lenti degli occhiali a realtà aumentata.
+
+"Nuove corruzioni di dati paralizzano il Sud-est asiatico."
+
+Era il terzo articolo simile che gli capitava di leggere quella settimana. Sempre lo stesso schema: database danneggiati, archivi corrotti, anomalie che gli esperti continuavano a definire rare nonostante cominciassero a presentarsi con una certa frequenza. Leon indugiò sul titolo per qualche secondo, poi, con un battito di ciglia, passò alla notizia successiva.
+
+"Testati i primi prototipi di connettori neurali."
+
+Si fermò qualche secondo a leggere l'articolo. I nuovi prototipi promettevano un'interazione sempre più diretta tra attività cerebrale e sistemi informatici, riducendo ulteriormente la distanza tra chi elaborava le informazioni e le macchine che lo aiutavano a farlo. Affascinante, ma vagamente inquietante.
+
+Ogni generazione credeva di vivere il culmine del progresso. Poi arrivava quella successiva e ridefiniva il concetto.
+
+Leon chiuse l'articolo e disattivò le notifiche. Per qualche istante rimase semplicemente ad ascoltare il brusio della foresta e il vociare nel piccolo campo che, in pochi giorni, era cresciuto attorno all'altura su cui sorgevano le rovine.
+
+Dalla sua sedia riusciva a vederne buona parte. Alcune tende ospitavano gli alloggi provvisori, altre erano state convertite in depositi per le attrezzature. Cavi elettrici correvano accanto alle radici, collegando batterie, pannelli solari e sistemi di comunicazione. Nulla di spettacolare, ma sufficiente per sostenere una missione preliminare in attesa dell'arrivo del resto della squadra.
+
+La collaborazione con i Naha si era rivelata preziosa oltre ogni aspettativa.
+
+Ogni mattina una decina di Naha raggiungeva il sito insieme a Zali e, nel giro di pochi giorni, il loro contributo aveva cambiato il campo. Alcuni lavoravano a liberare dalla vegetazione le porzioni già individuate della struttura, altri aiutavano a trasportare materiali e attrezzature, altri ancora si occupavano di mantenere aperto il percorso tra il villaggio e il campo.
+
+In cambio ricevevano una paga regolare dalla FSU, ma Leon aveva l'impressione che il denaro fosse ormai soltanto una parte della motivazione. Li aveva visti fermarsi davanti alle pietre appena liberate, discutere tra loro, chiamare gli altri quando emergeva qualcosa di nuovo. La scoperta ormai apparteneva anche a loro.
+
+Poco distante, Alex stava discutendo con due lavoratori Naha davanti a uno scanner portatile. Dalla distanza Leon non riusciva a sentire le parole ma vide Zali ridere di qualcosa che il fisico aveva appena detto.
+
+Leon addentò l'ultima fetta di mango prima di alzarsi.
+
+"Marie, il segnale?"
+
+Il grafico comparve immediatamente sulle lenti dei VisionLink. Leon lo conosceva ormai abbastanza da poterlo ricostruire a memoria, eppure continuava a controllarlo più spesso del necessario. Era quasi un'ossessione, ormai.
+
+Verso metà mattinata il sole aveva già trasformato la radura in una fornace umida. Nonostante l'ombra offerta dagli alberi ai margini del sito, l'aria sembrava immobile, pesante, satura dell'odore della terra appena smossa e della vegetazione tagliata nei giorni precedenti. Da soli erano arrivati fin lì. Per capire cosa si nascondesse davvero sotto la collina avevano bisogno di strumenti migliori e, soprattutto, di persone che sapessero usarli.
+
+Quella mattina sarebbero finalmente arrivate.
+
+\[STACCO\]
+
+Poco prima di mezzogiorno, tutti alzarono gli occhi al cielo quando il rumore delle pale coprì il cicalio della foresta.
+
+L'elicottero compì un'ampia virata sopra il sito prima di iniziare la discesa verso l'area che nei giorni precedenti avevano liberato dalla vegetazione. Le pale sollevarono foglie secche, polvere e piccoli rami, costringendo tutti a proteggersi il volto mentre il velivolo toccava finalmente terra. Sul fianco spiccava il modello atomico stilizzato della FSU, circondato da una corona di alloro.
+
+Leon notò Zali poco distante, immobile mentre il vento sollevato dalle pale le scompigliava le treccine. Negli ultimi giorni aveva sentito parlare continuamente della FSU. Adesso poteva finalmente vedere cosa significasse davvero.
+
+Le pale rallentarono e il portellone si aprì. La prima a scendere fu Emily Carter. Bassa, robusta, con una massa di ricci grigi che sembrava aver dichiarato guerra a qualunque pettine esistente, atterrò sul tappeto di sottobosco con l'energia di una ventenne, nonostante avesse superato i sessant'anni da un pezzo.
+
+Leon la conosceva da quasi vent'anni. Avevano condiviso abbastanza scavi, voli in ritardo e campagne finite male da aver superato da tempo ogni formalità. E in tutto quel tempo non l'aveva mai vista ferma in ufficio quando c'era l'opportunità di essere sul campo.
+
+"Leon."
+
+"Emily."
+
+La donna gli lanciò una rapida occhiata, poi si voltò verso la collina.
+
+"Mi avevano detto che avevi trovato qualcosa di interessante. Hanno omesso parecchi dettagli."
+
+"Ho pensato che fosse più divertente lasciarti qualche sorpresa."
+
+"Molto premuroso."
+
+Alle spalle di Emily risuonò un colpo metallico, seguito da una breve imprecazione. Un thermos era caduto dal portellone e rotolava sul terreno, rimbalzando tra foglie e radici.
+
+Robert Brooks comparve un istante dopo, con uno zaino che sembrava pesare più di lui.
+
+"Cominciamo bene," commentò Emily.
+
+"Tutto sotto controllo." Robert appoggiò l'enorme zaino sul terreno, raccolse il thermos e lo infilò in una tasca laterale, senza preoccuparsi di chiuderla. Leon ebbe l'impressione che non sarebbe rimasto a lungo in quella tasca.
+
+Alzò lo sguardo sul nuovo arrivato. Robert Brooks aveva l'aria di un professore distratto che si fosse perso durante una conferenza e fosse finito per sbaglio nel cuore della foresta africana. I capelli bianchi e spettinati sfidavano la gravità quasi quanto il suo completo disinteresse per l'ordine.
+
+Leon non aveva mai lavorato con lui abbastanza a lungo da conoscerlo davvero, ma conosceva la sua reputazione. Robert era uno dei geologi più affidabili della FSU, soprattutto quando si trattava di leggere strutture del terreno.
+
+"Robert. Benvenuto."
+
+Brooks gli strinse la mano, trascinando lo zaino dietro di sé, poi si fermò a osservare la giungla.
+
+"D'accordo," disse infine. "Devo ammetterlo. Questo posto vale il viaggio."
+
+"Temevi di no?"
+
+"Temevo di trovare quattro pietre e un mucchio di entusiasmo."
+
+Leon sorrise appena. "Può ancora succedere."
+
+Robert stava già per rispondere quando alle sue spalle comparve l'ultimo membro della squadra.
+
+Alto, magro, impeccabile nonostante il viaggio, Georg Schmidt sembrava essersi limitato a cambiare sala durante un congresso universitario invece di aver attraversato mezzo pianeta per finire nel cuore della foresta. I capelli biondo scuro erano tagliati cortissimi e gli occhiali sottili gli davano quell'aria permanentemente critica che Leon ricordava fin troppo bene.
+
+Leon aveva collaborato con lui in due occasioni. Entrambe le volte Georg si era rivelato insopportabile, ed entrambe le volte aveva avuto ragione su questioni linguistiche che nessun altro era riuscito a risolvere. Era una combinazione irritante.
+
+"Schmidt."
+
+"Walker."
+
+Si strinsero la mano.
+
+"Hai ricevuto il materiale?"
+
+"Tutto quello che avete inviato."
+
+Il tono non conteneva alcun rimprovero, eppure Leon riuscì comunque a sentirne uno.
+
+Lo sguardo di Georg passò rapidamente dalle tende ai lavoratori Naha, dagli strumenti alle rovine, come se stesse già valutando l'intera spedizione. Si soffermò brevemente su Zali e sul gruppo di Naha, ma non commentò.
+
+Mentre gli specialisti recuperavano il materiale dall'elicottero, aiutati da Alex, Zali si avvicinò a Leon.
+
+"Quindi questa sarebbe la vostra piccola squadra?"
+
+"Sì. Questa è l'avanguardia."
+
+Zali seguì con lo sguardo i nuovi arrivati. "Sembrano tipi apposto."
+
+"Non li conosci abbastanza."
+
+Zali lo guardò per capire se stesse scherzando.
+
+Leon sorrise. "Un gruppo di ricercatori come questo può avere le conseguenze di un temporale tropicale, fidati di me."
+
+La battuta si rivelò profetica. Nel giro di mezz'ora, il campo base sembrò trasformarsi. Emily e Robert discutevano a gesti con alcuni lavoratori Naha, mentre Georg si aggirava tra i blocchi di pietra con l'espressione di chi spera disperatamente di trovare qualcosa che gli altri non hanno ancora notato.
+
+Poco dopo, Emily trascinò Leon verso la parte emersa della struttura e iniziò a tempestarlo di domande.
+
+"Questa zona l'avete già mappata?"
+
+"Solo in superficie."
+
+"Campioni?"
+
+"Preliminari."
+
+"Datazioni?"
+
+"Non ancora."
+
+Poco distante, Robert si accucciò accanto a uno degli sbancamenti effettuati nei giorni precedenti. Raccolse una manciata di terra, la lasciò scorrere tra le dita e poi la confrontò con quella prelevata pochi metri più in là. Fece cenno a Leon di raggiungerlo.
+
+"Qui avete già scavato?"
+
+"Solo in superficie," rispose Leon.
+
+Robert annuì e tornò a esaminare gli strati esposti, concentrato al punto da sembrare improvvisamente una persona diversa da quella che pochi minuti prima aveva quasi perso metà del contenuto dello zaino.
+
+Georg, nel frattempo, si aggirava in solitaria tra i blocchi di pietra emersi dalla vegetazione, osservandone le superfici da più angolazioni.
+
+"Avete trovato iscrizioni?" domandò a Leon senza voltarsi.
+
+"Non ancora."
+
+Georg si raddrizzò appena. "Avete fatto venire un linguista dall'altra parte del mondo per mostrargli pietre senza scritte?"
+
+"Siamo ottimisti per quello che troveremo qui sotto."
+
+Era già primo pomeriggio quando tutti si ritrovarono sotto la tenda principale per il pranzo, sudati, affamati e ormai completamente ricoperti da una sottile patina di polvere e terra.
+
+"Questo cibo in scatola mi farà impazzire," disse Robert Brooks, togliendo il coperchio a una lattina di piselli.
+
+Emily Carter alzò un sopracciglio. "Ma come, appena arrivato già ti lamenti?" Una foglia era già rimasta incastrata nella matassa dei ricci grigi.
+
+Anche Alex sospirò, mentre prendeva una forchettata di ceci dalla sua scatoletta. "Pensa che per noi è così da giorni. Quanto vorrei una bella pizza\..."
+
+Dopo pranzo, l'intera squadra si raccolse per un rapido briefing operativo. Al centro del tavolo era stata proiettata una ricostruzione tridimensionale della collina ottenuta dai rilievi effettuati poco prima, anche se l'ologramma era fastidiosamente trasparente a causa dell'intensa luce solare. La struttura sotterranea appariva come una rete di volumi imprecisi e incompleti, ma sufficientemente definiti da permettere alcune conclusioni.
+
+Leon appoggiò entrambe le mani al tavolo.
+
+"Bene. Ora che ci siamo tutti, questo è lo stato delle cose."
+
+Indicò il punto da cui proveniva il segnale, poi fece comparire le scansioni accumulate nei giorni precedenti.
+
+"Il segnale continua a essere stabile e sembra provenire da sotto l'altura. Le scansioni suggeriscono la presenza di almeno una cavità principale e di diversi volumi secondari. Quello che non sappiamo ancora è come siano collegati e se esista un accesso ancora praticabile."
+
+Robert si sporse in avanti, abbassandosi gli occhiali sul naso. Studiò il modello per qualche secondo, poi indicò il versante occidentale.
+
+"Qui."
+
+Alex ingrandì la zona.
+
+"Perché proprio lì?"
+
+Robert fece comparire le sezioni laterali della scansione.
+
+"Guarda la densità del terreno. Sul resto della collina gli strati sono abbastanza compatti e continui. Qui invece hai una fascia più eterogenea, meno densa, che scende verso il volume principale. La superficie forma una lieve depressione e le radici penetrano più in profondità del normale."
+
+Fece scorrere un dito lungo il modello.
+
+"Potrebbe significare che sotto c'è uno spazio vuoto o un riempimento successivo. Se esisteva un accesso, questo è il punto in cui cercherei."
+
+Zali, seduta poco distante, continuava a seguire la discussione spostando lo sguardo da un volto all'altro. "State già decidendo come entrare."
+
+La conversazione si interruppe e tutti si voltarono verso di lei. Zali si immobilizzò per un istante sotto quell'improvvisa attenzione, poi indicò l'ologramma.
+
+"È questo che fanno gli archeologi? Trovano qualcosa e poi si precipitano dentro?"
+
+Alex fu il primo a rispondere. "No. Prima discutono molto. Poi entrano."
+
+Una breve risata percorse il gruppo. Zali esitò un istante, poi sorrise anche lei.
+
+Leon lasciò che il buonumore si esaurisse prima di riprendere la parola.
+
+"Oggi individuiamo l'accesso. Lo liberiamo e lo mettiamo in sicurezza. Poi vediamo."
+
+Quando raggiunsero il versante occidentale, a Leon bastò un'occhiata per capire che Robert ci aveva preso. Il terreno appariva diverso rispetto al resto della collina: meno compatto, con una vegetazione cresciuta in modo irregolare e alcune rocce che emergevano qua e là tra le radici.
+
+Robert si chinò nuovamente, affondò le dita nel terriccio e ne osservò la consistenza.
+
+"È qui."
+
+"Quanto ne sei sicuro?" chiese Leon.
+
+"Abbastanza da farti scavare. Non abbastanza da scavare io al posto tuo."
+
+I Naha si disposero lungo il perimetro dell'area indicata. Alcuni impugnarono zappe e pale, altri iniziarono a tagliare le radici più spesse che attraversavano il terreno. Leon si unì ai lavori, seguito con entusiasmo da Alex.
+
+"Non pensavo che un fisico teorico sapesse tenere in mano una pala."
+
+"Se resto a guardare impazzisco."
+
+Le ore successive trascorsero tra terra smossa e sudore. Il campo era tappezzato da strumenti avanzatissimi ma anche da utensili che non sarebbero sembrati fuori posto un secolo prima: vanghe, pale, picconi, alcuni dei quali costruiti a mano dai Naha.
+
+A metà pomeriggio comparvero i primi blocchi di pietra lavorata. Poco dopo emerse un bordo rettilineo. Poi un altro.
+
+Da quel momento il ritmo cambiò. Le pale lasciarono spazio agli attrezzi più piccoli e persino Alex smise di fare battute.
+
+Fu uno dei lavoratori Naha a chiamare per primo. Disse qualcosa ad alta voce nella sua lingua e gli altri si fermarono quasi nello stesso momento.
+
+Leon si voltò verso Zali.
+
+"Ha trovato qualcosa," tradusse lei, già in movimento.
+
+L'uomo era inginocchiato davanti a un punto appena liberato dalla terra e indicava una superficie di pietra che emergeva sotto uno strato di radici sottili. Leon si avvicinò rapidamente. Per qualche secondo vide soltanto pietra, poi comprese: era un gradino, un gradino perfettamente scolpito. Sotto di esso ne compariva un secondo, poi un terzo.
+
+Emily si fece avanti. "Piano adesso. Nessuno mette peso sulle pietre finché non sappiamo in che condizioni sono."
+
+La terra continuò a essere rimossa con maggiore cautela. Lentamente, centimetro dopo centimetro, prese forma una scalinata che sprofondava nell'oscurità del sottosuolo, nel cuore della collina.
+
+Robert rimase accovacciato accanto al margine dello scavo, osservando il terreno accumulato ai lati. Ne prese una manciata e la sfregò tra le dita. "Strano."
+
+Leon lo guardò. "Cosa?"
+
+"Lo riempimento."
+
+"Che ha?"
+
+Robert prese un altro campione poco più in profondità. "È troppo incoerente. Molto più morbido di quanto mi aspettassi."
+
+Alex smise di fregarsi le mani sporche di terra. "Vuol dire?"
+
+"Non necessariamente qualcosa. Radici, acqua, animali, movimenti del terreno\..." Robert continuò a osservare lo scavo. "Però, se questa scalinata fosse rimasta completamente sigillata per secoli, mi aspetterei una compattazione più uniforme."
+
+Leon tornò a guardare l'apertura. "Stai dicendo che qualcuno potrebbe avere scavato di recente?"
+
+Robert scosse leggermente la testa. "Dipende cosa intendi per recente. Di certo non negli ultimi mesi. Probabilmente nemmeno negli ultimi anni."
+
+Georg Schmidt intervenne: "Da quanto tempo riceviamo il segnale?"
+
+Alex si aggiustò gli occhiali. "L'abbiamo notato solo da pochi mesi, ma non è da escludere che l'emissione vada avanti da molto più tempo. È talmente debole che è stato un miracolo notarla."
+
+Mentre parlavano, i Naha avevano aperto un varco nel terreno. La scalinata lasciava intravedere un'apertura nero pece, nel fianco della struttura.
+
+"Ci siamo!" esclamò Alex, già pronto a scendere la stretta scalinata ancora ingombra di terra e detriti.
+
+Emily si fece avanti. "Non mi piace l'idea di entrare ora. Siamo tutti stanchi e inizia a fare buio."
+
+Leon infilò la pala in un cumulo di terriccio e si asciugò il sudore. Il sole era ormai basso e tutti avevano addosso ore di lavoro. "Sono d'accordo," decise, con più riluttanza di quanto avrebbe voluto mostrare. Certe cose andavano affrontate con mente lucida. Per quanto fosse difficile lasciare una scala appena scoperta senza vedere dove portava.
+
+\[STACCO\]
+
+Quando il cielo divenne completamente scuro e il campo iniziò a svuotarsi, l'eccitazione lasciò gradualmente spazio alla stanchezza. Alcuni lavoratori Naha erano rientrati al villaggio. Qualcuno, tra i più giovani, aveva preferito restare. Le conversazioni diminuirono. Una dopo l'altra le luci delle tende si spensero.
+
+Leon rimase seduto da solo davanti al tavolo da lavoro.
+
+Sul display del tablet scorrevano le immagini della scalinata e le scansioni del sottosuolo. Marie aveva già analizzato migliaia di fotografie e rilievi, confrontandoli con ogni dato disponibile e organizzando automaticamente le informazioni raccolte durante la giornata, eppure il mistero rimaneva intatto.
+
+Leon si passò una mano sugli occhi. Sarebbe dovuto andare a dormire, invece si ritrovò ad alzarsi. Pochi minuti dopo stava percorrendo il sentiero che conduceva alle rovine.
+
+La foresta notturna era diversa da quella del giorno. Più silenziosa in alcuni punti, più rumorosa in altri. Richiami lontani risuonavano tra gli alberi mentre il fascio della torcia scivolava sulle radici e sulle felci che costeggiavano il percorso.
+
+Quando raggiunse la collina, il campo era immerso nell'oscurità. Solo alcune luci di sicurezza illuminavano debolmente la zona dello scavo.
+
+La scalinata appariva davanti a lui come una ferita aperta nel fianco della collina. Leon rimase a osservarla per qualche istante, poi si sedette su un masso poco distante.
+
+Non c'era alcun motivo pratico per essere lì. Non poteva scendere, non aveva strumenti con sé e non c'erano nuove misurazioni da effettuare. La mattina successiva Robert avrebbe controllato la stabilità dell'accesso, Emily avrebbe supervisionato l'ingresso e finalmente avrebbero scoperto cosa si nascondeva sotto la collina.
+
+Avrebbe dovuto bastargli.
+
+Non gli bastava.
+
+Alzò lo sguardo verso il cielo. La foresta nascondeva gran parte dell'orizzonte, ma sopra la radura le stelle brillavano con una nitidezza che nelle città era ormai diventata rara. Riconobbe immediatamente Vega, alta sopra gli alberi, e più in basso Arturo, che scintillava con la sua caratteristica luce aranciata. Tra le due stelle una luce si mosse lentamente: un aereo. Per qualche secondo, Leon seguì il suo percorso silenzioso attraverso il cielo.
+
+Per un istante gli tornò in mente Anna.
+
+Non un ricordo preciso, soltanto l'immagine di loro due con il naso all'insù, molti anni prima. Arrivò senza preavviso, abbastanza nitida da costringerlo ad abbassare lo sguardo.
+
+Leon tornò a fissare la scalinata.
+
+*Domani.*
+
+Rimase seduto ancora qualche minuto, ascoltando il canto lontano degli insetti e osservando il cielo, assorbendo l'energia di quel posto, di quella incredibile notte stellata.
+
+Le cifre scorrevano nel sottosuolo, pazienti e immutabili, come se stessero aspettando qualcuno. Ora qualcuno era arrivato abbastanza vicino da poter rispondere.
+
 \[STACCO\]
 
 # CAPITOLO
@@ -1540,7 +1966,7 @@ immagine: img/capitoli/lisenna.jpg
 
 "Ci siamo quasi, ragazzi." La voce roca del vecchio cocchiere risvegliò Nadia dal torpore di quel lungo e scomodo viaggio. Si era addormentata contro un grosso blocco di pietra e ora la schiena le doleva. Si stirò piano, cercando di risvegliare i muscoli, mentre l'eccitazione cominciava a crescere. Alzandosi dal suo angolino sul carro, diede un'occhiata al paesaggio oltre il bordo.
 
-Il cielo era di un blu intenso, con le ultime luci del giorno che tingevano l'orizzonte di un tenue arancione. L'aria della sera portava con sé un odore misto: il dolciastro delle campagne vicine si mescolava all'aroma pungente del fumo di legna e di cibo arrostito. Le strade si animavano di vita man mano che si avvicinavano: commercianti che spingevano carretti cigolanti, animali che attraversavano di corsa, bambini che correvano scalzi tra la folla. Ogni metro percorso li portava più vicini alla possente cinta muraria che circondava la città.
+Il cielo era di un blu intenso, con le ultime luci del giorno che tingevano l'orizzonte di un tenue arancione. L'aria della sera portava con sé un odore misto: il dolciastro delle campagne vicine si mescolava all'aroma pungente del fumo e di cibo arrostito. Le strade si animavano di vita man mano che si avvicinavano: commercianti che spingevano carretti cigolanti, animali che attraversavano di corsa, bambini che correvano scalzi tra la folla. Ogni metro percorso li portava più vicini alla possente cinta muraria che circondava la città.
 
 *Più vicini a papà.*
 
@@ -1552,7 +1978,7 @@ Finalmente varcarono uno dei grossi cancelli d'accesso. Due guardie sorvegliavan
 
 Nadia alzò un sopracciglio ma non aggiunse altro.
 
-La strada principale si aprì davanti a loro, costeggiata da luci che illuminavano il cammino. Nadia si rese conto con stupore che quelle lanterne non erano alimentate da fiamme: sembravano globi di vetro, luminosi e quasi vivi. La luce interna alle sfere pulsava leggermente, come se respirassero. Al passaggio del carro, la loro intensità sembrava crescere per poi diminuire di nuovo, un fenomeno che la lasciò a bocca aperta.
+La strada principale si aprì davanti a loro, costeggiata da luci che illuminavano il cammino. Nadia si rese conto con stupore che quelle lanterne non erano alimentate da fiamme: sembravano globi di vetro, luminosi e quasi vivi. La luce interna alle sfere pulsava leggermente, come se respirassero. Al passaggio del carro, la loro intensità sembrava crescere per poi diminuire di nuovo. Rimase a bocca aperta.
 
 "Queste luci\... cosa sono?" sussurrò Akil, affascinato.
 
@@ -1576,7 +2002,7 @@ Nadia scese dal carro, le gambe rigide dal viaggio. Akil la seguì, scambiando u
 
 Dopo un attimo di esitazione, Akil spinse la porta di legno.
 
-L'interno della stanza era immerso in una luce calda, diffusa da lampade d'olio sospese a catene di bronzo. Le fiamme tremolavano a ogni corrente d'aria, e le ombre danzavano sulle travi scure del soffitto. La sala ribolliva di voci e odori.
+L'interno della stanza era immerso in una luce calda, diffusa da lampade ad olio sospese a catene di bronzo. Le fiamme tremolavano a ogni corrente d'aria, e le ombre danzavano sulle travi scure del soffitto. La sala ribolliva di voci e odori.
 
 I tavoli di legno erano occupati da mercanti che discutevano animatamente davanti a tavolette coperte di conti, viaggiatori stanchi appoggiati a coppe di birra di miglio e uomini con la pelle lucida di sudore e la tunica coperta di polvere.
 
@@ -1594,7 +2020,7 @@ Sedici Sol. Era quasi il doppio di quel che si trovava a Junna, ma non avevano m
 
 Poco dopo erano a un tavolo vicino al focolare. Le fiamme crepitavano piano, e il calore del fuoco si mescolava al profumo del piatto fumante. Nadia intinse un pezzo di pane nel sugo, decisa a non avanzare nemmeno una crosta.
 
-Mentre la pancia si calmava, la mente di Nadia tornava a ronzare. Le immagini della città, le luci che respiravano, la piramide immensa...
+Mentre la pancia si calmava, la mente tornava a ronzare. Le immagini della città, le luci che respiravano, la piramide immensa...
 
 "Quella piramide..." disse Akil, quasi le avesse letto nella mente. "È una cosa che non avrei mai immaginato. Deve esserci voluto il lavoro di un popolo intero."
 
@@ -1678,11 +2104,11 @@ Poi lo vide. Un piccolo segno a margine del libro, tanto semplice da sembrare qu
 
 Nadia passò il pollice sul segno, quasi per verificarne la consistenza. *Via dei Salassi\...* Nessuna strada di Junna portava questo nome, ne era quasi certa. Che fosse un indirizzo qui, nella capitale? Si annotò mentalmente di verificare.
 
-Il rumore di un coro di voci che esplose dalla sala comune la fece sussultare. Akil e i suoi nuovi amici ridevano di qualcosa. Poco dopo, il cigolio del legno e il vociare in avvicinamento le fecero capire che stavano salendo le scale. Nadia richiuse il libro e se lo infilò nella borsa.
+Il rumore di un coro di voci che esplose dalla sala comune la fece sussultare. Akil e i suoi nuovi amici ridevano di qualcosa. Poco dopo, il cigolio del legno e il vociare in avvicinamento le fecero capire che uo fratello stava salendo le scale. Nadia richiuse il libro e se lo infilò nella borsa.
 
 \[STACCO\]
 
-La mattina seguente, la sala comune era deserta. Nadia e Akil si unirono al flusso costante di persone che sembrava sgorgare da ogni angolo di Lisenna, tutte richiamate verso il centro città. Man mano che avanzavano, le strade rallentavano e si riempivano, trasformandosi in un mare di corpi e voci.
+La mattina seguente la sala comune era un brusio di eccitazione. Nadia e Akil si unirono al flusso costante di persone che sembrava sgorgare da ogni angolo di Lisenna, tutte richiamate verso il centro città. Man mano che avanzavano, le strade rallentavano e si riempivano, trasformandosi in un mare di corpi e voci.
 
 Quando finalmente raggiunsero la piazza, Nadia rimase senza fiato. Davanti a loro si stendeva una distesa immensa di persone, un mosaico vivente di colori, odori e suoni. La folla era stratificata secondo un ordine implicito: in prima fila, ai piedi della grande piramide, nobili, grandi mercanti e capi delle gilde, distinguibili dai loro abiti sgargianti e dai gioielli che scintillavano al sole. Qua e là, servi proteggevano i nobili con grandi parasole di foglie intrecciate. Dietro di loro, separato da una fila di guardie, il ceto medio: artigiani, mercanti minori, operai più abbienti. Nel resto della piazza si accalcava un mare di gente comune: cittadini della periferia, curiosi dai bassifondi e dalle campagne circostanti, semplici artigiani, operai e scaricatori di porto, vestiti con tuniche semplici e con visi segnati dalla vita quotidiana.
 
@@ -1690,11 +2116,11 @@ Nadia e Akil si fecero largo tra la folla fino a trovare un punto da cui intrave
 
 Il gestore aveva ragione. Doveva ammetterlo: essere lì di persona era davvero un privilegio.
 
-Il sole, ormai alto, bruciava senza pietà e il calore della folla rendeva l'aria opprimente. La gente continuava ad accalcarsi nella piazza, estendendosi lungo le arterie stradali. Nadia si sentiva premere come una sardina, ma non le importava: era parte di quella folla, che sembrava quasi un'entità viva. Tutti gli sguardi erano rivolti verso il drappello di soldati imperiali, immobile dove sarebbe apparso il sovrano. Ogni minuto che passava faceva crescere la tensione. Nadia si ritrovò a battere nervosamente la suola delle scarpe, cercando di allungare il collo per scorgere ogni minimo movimento.
+Il sole, ormai alto, bruciava senza pietà e il calore della folla rendeva l'aria opprimente. La gente continuava ad accalcarsi nella piazza, estendendosi lungo le arterie stradali. Nadia si sentiva premere come una sardina, ma non le importava: era parte di quella folla, che sembrava quasi un'entità viva. Tutti gli sguardi erano rivolti verso il drappello di soldati imperiali, immobile dove sarebbe apparso il sovrano. Ogni minuto che passava faceva crescere la tensione. Nadia si ritrovò a battere nervosamente la suola dei sandali, cercando di allungare il collo per scorgere ogni minimo movimento.
 
 Poi, all'improvviso, le voci si alzarono e l'intera piazza esplose in applausi e acclamazioni: l'imperatore era apparso.
 
-Nadia si unì alle acclamazioni, quasi contro la sua volontà. Anche da quella distanza, si riusciva a scorgere la maestosità del sovrano. Era vestito di una lunga tunica dorata ricamata con fili d'argento. Il mantello che gli scendeva dalle spalle sembrava brillare di luce propria e sulla testa portava una corona liscia e dorata, con una gemma blu acceso incastonata al centro della fronte, che catturava i raggi del sole mandando bagliori sulla folla. Doveva avere più o meno l'età di suo padre, ma era più alto, più aggraziato, con un lungo pizzetto nero e delle decorazioni rituali sul volto. Il suo portamento era regale: severo, saggio e al tempo stesso carico di autorità.
+Nadia si unì alle acclamazioni, quasi contro la sua volontà. Anche da quella distanza, si riusciva a intuire la grandiosità del sovrano. Era vestito di una lunga tunica dorata ricamata con fili d'argento. Il mantello che gli scendeva dalle spalle sembrava brillare di luce propria e sulla testa portava una corona liscia e dorata, con una gemma blu acceso incastonata al centro della fronte, che catturava i raggi del sole mandando bagliori sulla folla. Doveva avere più o meno l'età di suo padre, ma era più alto, più aggraziato, con un lungo pizzetto nero e delle decorazioni rituali sul volto. Il suo portamento era regale: severo, saggio e al tempo stesso carico di autorità.
 
 Alle sue spalle, un corteo di ministri e scribi lo seguiva in silenzio. Erano tutti uomini, fatta eccezione per una donna, forse una sacerdotessa.
 
@@ -1710,7 +2136,7 @@ Un silenzio improvviso calò sulla piazza, come se tutti avessero trattenuto il 
 
 "Eppure, i Due Dei non ci hanno abbandonato. Ci hanno dato una missione, un compito sacro: erigere questa piramide, il pilastro che resisterà al tempo. Essa sarà il bastione contro la rovina, il faro che impedirà al caos di travolgere l'umanità. I Precursori lo predissero, e noi siamo i prescelti chiamati a compiere la loro profezia."
 
-I Precursori. Nadia ricordava bene i racconti del maestro, quando parlava di quel popolo lontano e misterioso. Istintivamente, portò la mano alla borsa, tastando la forma del libricino attraverso la stoffa.
+I Precursori. Nadia ricordava bene i racconti del maestro, quando parlava di quel popolo lontano e misterioso. Si diceva fossero i portatori di una magia antica, i fondatori stessi della civiltà. E che fossero scomparsi in circostanze misteriose: nessuno sapeva il vero motivo. Istintivamente, portò la mano alla borsa, tastando la forma del libricino attraverso la stoffa.
 
 "Dieci anni di lavoro ci hanno portato fin qui" riprese il sovrano. "Molti di voi ricordano il giorno in cui fu posata la prima pietra. Altri sono giunti in seguito nella nostra gloriosa Lisenna, e hanno visto la piramide crescere insieme a loro. Ognuno ha dato qualcosa: mani, tempo, sacrifici. Quest'opera non appartiene a me, ma a tutti voi. È il frutto del nostro sudore, ed è il dono che lasceremo agli uomini che verranno. Oggi annuncio che la grande piramide è prossima a compimento. Essa sarà il faro che guiderà le generazioni future, lo scudo che ci proteggerà oltre la fine dei tempi."
 
@@ -1746,11 +2172,11 @@ Alcuni in fila si voltarono a guardarla. Il funzionario sollevò un sopracciglio
 
 Akil la prese per un braccio, cercando di trascinarla via. Lei si liberò con uno strappo, rossa di rabbia, ma le mancavano le parole. L'uomo aveva già chinato di nuovo la testa, come se non fossero mai esistiti.
 
-Uscirono senza dire una parola, attirando gli sguardi delle persone in coda. Appena fuori, nella piazza, la piramide incombeva in tutta la sua enorme mole. Le ore erano passate, e la grande ombra dell'edificio cominciava a farsi strada nella piazza. Nadia fissò il monumentale edificio. All'improvviso, dentro di lei si fece strada un sentimento nuovo, un disprezzo viscerale per l'ipocrisia dell'impero. Giustizia? Epoca d'oro? Tutte quelle belle parole non avevano alcun senso, finché a delle guardie era concesso di irrompere nella casa di un civile e portarlo via senza nemmeno un processo.
+Uscirono senza dire una parola, attirando gli sguardi delle persone in coda. Appena fuori, nella piazza, la piramide incombeva in tutta la sua enorme mole. Le ore erano passate, e la sua grande ombra cominciava a farsi strada nella piazza. Nadia fissò il monumentale edificio. All'improvviso, dentro di lei si fece strada un sentimento nuovo, un disprezzo viscerale per l'ipocrisia dell'impero. Giustizia? Epoca d'oro? Tutte quelle belle parole non avevano alcun senso, finché a delle guardie era concesso di irrompere nella casa di un civile e portarlo via senza nemmeno un processo.
 
 Fu il turno di Akil di perdere la pazienza.
 
-"Perché devi sempre scaldarti, Nadia? Pensi che serva a qualcosa?" sbottò a bassa voce, ma con un'irritazione trattenuta a stento.
+"Perché devi sempre scaldarti, Nadia? Pensi che serva a qualcosa?" sbottò a bassa voce. A Nadia non sfuggì l'irritazione trattenuta a stento nel suo tono.
 
 Lei si fermò di colpo e lo fissò, gli occhi carichi di sfida. "E tu invece? Sempre pronto a chinare la testa, a fare quello che ti dicono. Ti sembra che ci abbia aiutato?"
 
@@ -1765,230 +2191,6 @@ Nadia non trovò risposta. Per il resto del tragitto camminarono senza scambiars
 Mentre si incamminavano verso il loro alloggio, nessuno dei due si accorse che, da lontano, uno sguardo li seguiva.
 
 \[STACCO\]
-
-# CAPITOLO
-
-id: la_squadra
-tipo: capitolo
-titolo: La squadra
-descrizione: Un team di specialisti della FSU arriva sul sito archeologico. Ma ogni risposta sembra generare ancora più domande.
-immagine: img/capitoli/la_squadra.jpg
-
---- FINE METADATI ---
-
-Leon si stiracchiò sulla sedia pieghevole, urtando con la gamba l'instabile tavolino da campo. Qualche goccia di caffè si rovesciò sulla superficie di plastica già incrostata di petali e rametti.
-
-La colazione al campo era piuttosto semplice. Una ciotola di frutta tropicale tagliata grossolanamente e una tazza di caffè troppo acido, all'ombra di un telo teso tra due alberi. Davanti a lui, oltre il margine del campo, la foresta sembrava già aver iniziato a reclamare il terreno che i Naha avevano faticosamente liberato nei giorni precedenti.
-
-Erano accampati in pianta stabile da giorni, a poche decine di metri dalle rovine.
-
-Leon bevve un sorso, mentre una serie di titoli scorrevano sulle lenti degli occhiali a realtà aumentata.
-
-"Nuove corruzioni di dati paralizzano il Sud-est asiatico."
-
-Leon si soffermò qualche istante. Era il terzo articolo simile che gli capitava di leggere quella settimana. Sempre lo stesso schema: database danneggiati, archivi corrotti, anomalie che gli esperti definivano rare ma non abbastanza da spiegare perché continuassero a verificarsi. Con un battito di ciglia passò alla notizia successiva.
-
-"Testati i primi prototipi di connettori neurali."
-
-Si fermò qualche secondo a leggere l'articolo. Negli ultimi anni la linea che separava gli esseri umani dalle macchine si era fatta sempre più sottile. Quando era ragazzo, l'intelligenza artificiale era poco più di una curiosità accademica; poi era arrivata nelle aziende, nei governi, nelle infrastrutture.
-
-Adesso si parlava apertamente di sistemi capaci di collegare direttamente attività cerebrale e reti informatiche, riducendo sempre di più la distanza tra chi elaborava le informazioni e chi le produceva.
-
-Leon trovava la prospettiva affascinante e vagamente inquietante allo stesso tempo. Ogni generazione credeva di vivere il culmine del progresso. Poi arrivava quella successiva e ridefiniva il concetto.
-
-Leon chiuse l'articolo e disattivò le notifiche. Per qualche istante rimase semplicemente ad ascoltare il brusio della foresta.
-
-Erano passati diversi giorni dalla scoperta delle rovine. Il campo base stava crescendo pezzo dopo pezzo attorno alla piccola altura dove sorgevano i resti della struttura. Alcune tende ospitavano gli alloggi provvisori, altre erano state convertite in depositi per le attrezzature. Cavi elettrici correvano accanto alle radici, collegando batterie, pannelli solari e sistemi di comunicazione. Nulla di spettacolare, ma sufficiente per sostenere una missione preliminare in attesa dell'arrivo del resto della squadra.
-
-La collaborazione con i Naha si era rivelata preziosa oltre ogni aspettativa.
-
-Ogni mattina una decina di abitanti del villaggio raggiungeva il sito insieme a Zali. Alcuni lavoravano al disboscamento della vegetazione più fitta, altri aiutavano a trasportare materiali e attrezzature, altri ancora si occupavano semplicemente di mantenere aperto il percorso tra il villaggio e il campo. In cambio ricevevano una paga regolare dalla FSU, ma Leon aveva l'impressione che il denaro fosse soltanto una parte della motivazione. La scoperta ormai apparteneva anche a loro.
-
-La radura si allargava giorno dopo giorno. Dove pochi giorni prima prima c'erano soltanto liane e sottobosco, ora emergevano gradualmente blocchi di pietra, frammenti di muri e tratti di antiche pavimentazioni. Nessuno aveva ancora iniziato uno scavo vero e proprio; si limitavano a liberare ciò che la foresta aveva nascosto con i mezzi che avevano.
-
-Poco distante, Alex stava discutendo con due lavoratori Naha davanti a uno scanner portatile. Dalla distanza Leon non riusciva a sentire le parole, ma vide Zali ridere di qualcosa che il fisico aveva appena detto.
-
-Leon addentò una fetta di mango e chiese a Marie di visualizzare ancora una volta il segnale sulle lenti dei VisionLink. Era quasi un'ossessione, ormai.
-
-Sempre uguale. Sempre regolare. Come se, da qualche parte sotto la foresta, qualcosa stesse pazientemente aspettando.
-
-Verso metà mattinata il sole aveva già trasformato la radura in una fornace umida. Nonostante l'ombra offerta dagli alberi ai margini del sito, l'aria sembrava immobile, pesante, satura dell'odore della terra appena smossa e della vegetazione tagliata nei giorni precedenti. Il cicalio degli insetti era così intenso da rendere necessario urlare per parlarsi a un metro di distanza.
-
-Leon raggiunse Alex e Zali sul lato orientale delle rovine, dove alcuni lavoratori Naha avevano liberato una zona abbastanza ampia. Sul terreno erano stati sistemati alcuni piccoli droni pieghevoli, batterie portatili e uno scanner geofisico. Tutta attrezzatura che con fatica avevano scaricato dall'elicottero e trasportato attraverso la giungla.
-
-Tutto era pronto per l'arrivo previsto quella mattina.
-
-\[STACCO\]
-
-Il rumore delle pale arrivò poco prima di mezzogiorno. Tutti i presenti alzarono gli occhi verso il cielo.
-
-L'elicottero compì un'ampia virata sopra il sito prima di iniziare la discesa verso l'area che nei giorni precedenti avevano opportunamente diboscato. Le pale sollevarono foglie secche, polvere e piccoli rami, costringendo tutti a proteggersi il volto mentre il velivolo toccava finalmente terra.
-
-Sul fianco spiccava il logo della FSU: un modello atomico stilizzato circondato da una corona di alloro.
-
-Poco distante, Zali osservava la scena in silenzio. Negli ultimi giorni aveva sentito parlare continuamente della FSU. Adesso poteva finalmente vedere cosa significasse davvero.
-
-Le pale rallentarono e il portellone si aprì. La prima a scendere fu Emily Carter.
-
-Era la più anziana del gruppo e probabilmente anche la meno incline a comportarsi come tale. Bassa, robusta, con una massa di ricci grigi che sembrava aver dichiarato guerra a qualunque pettine esistente, atterrò sul tappeto di sottobosco con l'energia di una ventenne, nonostante avesse superato i sessant'anni da un pezzo.
-
-Leon la conosceva da quasi vent'anni: era una delle archeologhe più capaci che conoscesse. E in tutto quel tempo non l'aveva mai vista ferma in ufficio quando c'era l'opportunità di essere sul campo.
-
-"Leon."
-
-"Emily."
-
-"Mi avevano detto che avevi trovato qualcosa di interessante. Hanno omesso parecchi dettagli."
-
-Dietro di lei comparve Lisa Martinez.
-
-La geologa, alta e slanciata, scese dal velivolo legandosi i lunghi capelli castani in una pratica coda di cavallo. Aveva quasi quarant'anni, anche se ne dimostrava la metà. Salutò Leon e Alex con una stretta di mano decisa.
-
-"Non vedo l'ora di iniziare." Si guardò intorno. "Da vicino sembra ancora più promettente."
-
-"Lo pensiamo tutti."
-
-Robert Brooks arrivò subito dopo, trascinando uno zaino che sembrava pesare più di lui.
-
-I capelli bianchi e spettinati sfidavano la gravità quasi quanto il suo completo disinteresse per l'ordine. Aveva l'aria di un professore distratto che si fosse perso durante una conferenza e fosse finito per sbaglio nel cuore della foresta africana.
-
-Leon sapeva però quanto quell'impressione fosse ingannevole. Come Lisa, Robert era uno dei migliori geologi della FSU e probabilmente la persona più capace che conoscesse. Sapeva leggere una roccia come altri leggono un libro.
-
-Si fermò ad osservare la giungla. "D'accordo," disse infine. "Devo ammetterlo. Questo posto vale il viaggio."
-
-"Temevi di no?"
-
-"Temevo di trovare quattro pietre e un mucchio di entusiasmo."
-
-"Per ora abbiamo molto più di quattro pietre."
-
-"Perfetto. Allora posso lamentarmi soltanto del caldo."
-
-L'ultimo a scendere fu Georg Schmidt.
-
-Alto, magro, impeccabile nonostante il viaggio, sembrava uscito da un congresso universitario più che da un elicottero. I capelli biondo scuro erano tagliati cortissimi e gli occhiali sottili gli conferivano un'espressione permanentemente critica.
-
-Leon aveva collaborato con lui in due occasioni.
-
-Entrambe le volte Georg si era rivelato insopportabile.
-
-Ed entrambe le volte aveva avuto ragione su questioni linguistiche che nessun altro era riuscito a risolvere. Era una combinazione irritante.
-
-Il suo sguardo passò rapidamente dalle tende ai lavoratori Naha, dagli strumenti alle rovine, come se stesse già valutando l'intera spedizione.
-
-Mentre gli specialisti recuperavano il materiale dall'elicottero, Zali si avvicinò a Leon.
-
-"Quindi questa sarebbe la vostra piccola squadra?"
-
-Leon sorrise. "Sì, questa è l'avanguardia."
-
-Zali seguì con lo sguardo Emily, che stava già facendo domande a chiunque incontrasse. "Sto ancora cercando di capire se abbiamo invitato quattro scienziati o una tempesta tropicale."
-
-Leon sorrise.
-
-"Ti assicuro che la differenza è minima."
-
-La battuta si rivelò profetica.
-
-Nel giro di mezz'ora, il campo base sembrò trasformarsi. Emily aveva già organizzato una ricognizione completa dell'area emersa, Lisa stava verificando la stabilità del terreno attorno alla collina, Robert discuteva con alcuni lavoratori Naha osservando la composizione degli strati di terra esposti dagli sbancamenti, mentre Georg si aggirava tra i blocchi di pietra con l'espressione di chi spera disperatamente di trovare qualcosa che gli altri non hanno ancora notato.
-
-Era già primo pomeriggio quando tutti si ritrovarono sotto la tenda principale per il pranzo.
-
-"Questo cibo in scatola mi farà impazzire" disse Robert Brooks, togliendo il coperchio a una lattina di piselli.
-
-Emily Carter alzò un sopracciglio. "Ma come, appena arrivato già ti lamenti?" Una foglia era già incastrata nella matassa di ricci grigi.
-
-Anche Alex sospirò, mentre prendeva una forchettata di ceci dalla sua scatoletta. "Una pizza. Quanto vorrei una bella pizza\..."
-
-A seguire, l'intera squadra si raccolse per un rapido briefing operativo. Al centro del tavolo era stata proiettata una ricostruzione tridimensionale della collina ottenuta dai rilievi effettuati poco prima, anche se l'ologramma era fastidiosamente trasparente a causa dell'intensa luce solare. La struttura sotterranea appariva come una rete di volumi imprecisi e incompleti, ma sufficientemente definiti da permettere alcune conclusioni.
-
-Leon illustrò rapidamente la situazione, dalla scoperta del segnale alle scansioni. Indicò il punto in cui i rilievi suggerivano la presenza di un accesso. Quando terminò, Emily rimase qualche secondo a osservare il modello.
-
-Robert si sporse in avanti, abbassandosi gli occhiali sul naso. "Se il modello è corretto, l'ingresso dovrebbe trovarsi qui." Indicò una zona sul versante occidentale della collina.
-
-"Anch'io scommetterei su quel punto," disse Lisa, scostando una ciocca castana dalla fronte. "Le anomalie di densità sono coerenti con una struttura vuota."
-
-Alex ingrandì la mappa. "Potrebbe esserci una scalinata."
-
-"O un corridoio crollato," aggiunse Lisa.
-
-"O entrambe le cose," concluse Robert.
-
-Zali osservava il susseguirsi della discussione con un'espressione sempre più perplessa. "State già decidendo come entrare."
-
-Tutti si voltarono verso di lei, tanto da metterla in soggezione. "È questo che fanno gli archeologi?" domandò. "Trovano qualcosa e poi si precipitano dentro?"
-
-Alex fu il primo a rispondere. "No. Prima discutono molto. Poi entrano." Una breve risata percorse il gruppo.
-
-Perfino Zali sorrise.
-
-Leon capì che l'amico stava cercando di metterla a suo agio: non doveva essere facile per lei sentirsi catapultata in un mondo di cui capiva ben poco.
-
-Leon lasciò che il buonumore si esaurisse prima di riprendere la parola. "Oggi individuiamo l'accesso. Lo liberiamo e lo mettiamo in sicurezza. Poi vedremo."
-
-\[STACCO\]
-
-Diversi lavoratori Naha erano già al lavoro. Il terreno appariva diverso rispetto al resto della collina: meno compatto, con una vegetazione cresciuta in modo irregolare e alcune rocce che emergevano qua e là tra le radici.
-
-Lisa osservò il pendio per qualche istante. "Se c'è davvero un accesso, è qui sotto. Il terriccio sembra molto più morbido, non ci vorrà molto."
-
-I Naha si disposero lungo il perimetro dell'area indicata. Alcuni impugnarono zappe e pale, altri iniziarono a tagliare le radici più spesse che attraversavano il terreno. Leon si unì ai lavori, seguito con entusiasmo da Alex.
-
-"Non pensavo che un fisico teorico sapesse tenere in mano una pala."
-
-"Se resto a guardare impazzisco."
-
-Le ore successive trascorsero tra terra smossa e sudore. Il campo era tappezzato da strumenti avanzatissimi ma anche da utensili che non sarebbero sembrati fuori posto un secolo prima.
-
-A metà pomeriggio comparvero i primi blocchi di pietra lavorata. Poco dopo emerse un bordo rettilineo. Poi un altro. L'eccitazione si diffuse rapidamente tra tutti i presenti.
-
-Negli ultimi minuti nessuno parlava quasi più. Si lavorava e basta.
-
-Fu uno dei lavoratori Naha a gridare per primo.
-
-Tutti si voltarono. L'uomo indicava un punto appena liberato dalla terra.
-
-Leon si avvicinò rapidamente. Per qualche secondo vide soltanto pietra, poi comprese: non era una parete. Era un gradino. Un gradino perfettamente scolpito. Sotto di esso ne compariva un secondo, poi un terzo.
-
-La terra continuò a essere rimossa con una cautela quasi religiosa. Lentamente, centimetro dopo centimetro, prese forma una scalinata che sprofondava nell'oscurità del sottosuolo, nel cuore della collina.
-
-"Ci siamo," disse Alex, fregandosi le mani sporche di terra.
-
-Lisa si fece avanti. "Meglio rimandare a domani. Siamo tutti stanchi e inizia a fare buio."
-
-Leon infilò la sua pala in un cumulo di terriccio e si asciugò il sudore. "Sono d'accordo" decise, riluttante. Certe cose andavano affrontate con mente lucida.
-
-\[STACCO\]
-
-Quando il cielo divenne completamente scuro e il campo iniziò a svuotarsi, l'eccitazione lasciò gradualmente spazio alla stanchezza. Alcuni lavoratori Naha erano rientrati al villaggio. Qualcuno, tra i più giovani, aveva preferito restare. Le conversazioni diminuirono. Una dopo l'altra le luci delle tende si spensero.
-
-Leon rimase seduto da solo davanti al tavolo da lavoro.
-
-Sul display del tablet scorrevano le immagini della scalinata e le scansioni del sottosuolo. Marie aveva già analizzato migliaia di fotografie e rilievi, confrontandoli con ogni dato disponibile e organizzando automaticamente le informazioni raccolte durante la giornata, eppure il mistero rimaneva intatto.
-
-Leon si passò una mano sugli occhi. Sarebbe dovuto andare a dormire, invece si ritrovò ad alzarsi. Pochi minuti dopo stava percorrendo il sentiero che conduceva alle rovine.
-
-La foresta notturna era diversa da quella del giorno. Più silenziosa in alcuni punti, più rumorosa in altri. Richiami lontani risuonavano tra gli alberi mentre il fascio della torcia scivolava sulle radici e sulle felci che costeggiavano il percorso.
-
-Quando raggiunse la collina, il campo era immerso nell'oscurità. Solo alcune luci di sicurezza illuminavano debolmente la zona dello scavo.
-
-La scalinata appariva davanti a lui come una ferita aperta nel fianco della collina. Leon rimase a osservarla per qualche istante, poi si sedette su un masso poco distante.
-
-Non avrebbe saputo spiegare perché fosse tornato. Non c'era nulla da fare: nessuna misurazione urgente, nessun dato nuovo da raccogliere. La squadra sarebbe entrata nelle rovine l'indomani mattina e qualsiasi decisione importante era già stata presa.
-
-Alzò lo sguardo verso il cielo.
-
-La foresta nascondeva gran parte dell'orizzonte, ma sopra la radura le stelle brillavano con una nitidezza che nelle città era ormai diventata rara. Riconobbe immediatamente Vega, alta sopra gli alberi, e più in basso Arturo, che scintillava con la sua caratteristica luce aranciata. Tra le due stelle una luce si mosse lentamente: un aereo. Per qualche secondo, Leon seguì il suo percorso silenzioso attraverso il cielo.
-
-Da bambino era convinto che ogni punto luminoso nascondesse una storia. Col passare degli anni aveva scoperto che non si sbagliava affatto.
-
-Alcune storie erano scritte tra le stelle. Altre sotto chilometri di roccia e terra.
-
-Per un istante gli tornò in mente Anna, le sere passate a guardare le stelle. Il pensiero arrivò senza preavviso e se ne andò altrettanto rapidamente, lasciando soltanto una lieve fitta familiare.
-
-Rimase seduto ancora qualche minuto, ascoltando il canto lontano degli insetti e osservando il cielo, assorbendo l'energia di quel posto, di quella incredibile notte stellata.
-
-Le cifre scorrevano nel sottosuolo, pazienti e immutabili, come se stessero aspettando qualcuno. Ora qualcuno era arrivato abbastanza vicino da poter rispondere.
 
 # CAPITOLO
 
@@ -2010,128 +2212,6 @@ Poi mi spiegò come usarlo, e il mondo divenne improvvisamente più vasto.
 
 Solo più tardi compresi che un giorno, inevitabilmente, anche l'altra metà sarebbe diventata mia.
 
-\[STACCO\]
-
-# CAPITOLO
-
-id: il_simbolo
-tipo: capitolo
-titolo: Il simbolo
-descrizione: Nadia decide di seguire la traccia lasciata dal padre, uno strano simbolo sul vecchio libro sacro.
-immagine: img/capitoli/il_simbolo.jpg
-
---- FINE METADATI ---
-
-Nadia era sola nella camera dove alloggiavano. Di nuovo.
-
-Il brusio del mercato che saliva dalla strada giungeva distante, smorzato dalle persiane socchiuse. Da giorni aveva preso l'abitudine di isolarsi lì, mentre Akil scivolava sempre più spesso nella sala comune. Lì sotto, tra bicchieri di vino scadente e partite a dadi, riusciva a dimenticare almeno per qualche ora i problemi che li assillavano.
-
-Lei no.
-
-Nadia aveva provato a seguirlo una volta, ma si era sentita fuori posto: quel riso sguaiato e quelle chiacchiere leggere la infastidivano. Non era nell'umore di ridere e giocare. Così si rifugiava nel libro del padre, l'unico oggetto che potesse stringere tra le mani e sentire come veramente suo.
-
-A poco a poco si era fatta più rapida nella lettura: imparava a riconoscere le ricorrenze, a saltare le parti rituali, ad afferrare il filo delle frasi senza smarrirsi. Ogni giorno, il libro diventava un po' meno estraneo.
-
-Ora era seduta sul minuscolo tavolino sotto alla finestra, con la penna in mano e un quadrato di papiro davanti a sé. Rilesse le poche righe che aveva scritto.
-
-*Mamma, io e Akil stiamo bene. Lisenna è enorme ma non abbiamo avuto fortuna con il palazzo di giustizia. Ci stiamo dando da fare.*
-
-Sospirò. La scrittura era storta e disordinata, con alcune macchie di inchiostro qua e là. Il messaggio non diceva molto.
-
-Fu tentata di aggiungere più dettagli, come il fatto che i soldi scarseggiavano, ma si trattenne: non voleva farla preoccupare. Quello dei soldi, però, restava un problema concreto.
-
-Firmò a nome suo e di Akil e arrotolò il papiro.
-
-Mentre attraversava la sala comune per uscire, per un attimo pensò di trascinare con sé anche il fratello, ma decise di lasciare perdere: dopo l'episodio al palazzo di giustizia a malapena si parlavano, e ogni frase rischiava di trasformarsi in un litigio. Meglio lasciarlo ai suoi dadi e ai suoi nuovi amici. Se voleva sprecare le giornate così, che facesse pure.
-
-Nadia respirò l'odore della città. Anche in quella zona periferica, Lisenna era un incessante via vai. Voci di venditori, il richiamo delle merci, il tintinnio delle monete. Se voleva restare alla casa del viaggiatore, doveva darsi da fare. Camminò fino al mercato più vicino e si fermò davanti a un banco di formaggi, gestito da un uomo grassoccio che le rivolse uno sguardo diffidente. Nadia temette per un attimo di essere stata scambiata per una ladruncola.
-
-Pese un respiro e si fece avanti. "Cercate qualcuno che vi dia una mano? Anche solo per oggi. Posso trasportare, sistemare..."
-
-L'uomo la squadrò, poi alzò le spalle. "No, ragazza, oggi no. Forse un'altra volta." Non fu scortese, ma la liquidò con un gesto. Nadia sospirò.
-
-Un po' più avanti, il banco di una donna anziana colmo di frutta fresca la attirò. Nadia ripeté la sua offerta, cercando di vendersi bene. La donna si prese qualche secondo per valutarla. "Ho delle consegne da portare nel quartiere sud. Ceste pesanti, a dire il vero. Ti do due Sol a consegna se le porti tu. Non di più."
-
-Nadia avrebbe voluto contrattare, ma sapeva che non poteva permettersi di rischiare. "Va bene."
-
-Quando tornò al banco, solo un quarto d'ora più tardi, la signora si stupì della sua efficienza. "Sei veloce, ragazzina. Rispetto a certi lazzaroni che si vedono in giro."
-
-"Avete altro da farmi fare?"
-
-Nadia fu presto accontentata. Per qualche Sol, passò buona parte della mattinata a portare merce in giro: un vicolo odoroso di cipolla, un cortile gremito di bambini, una bottega di falegname che accettò la consegna senza nemmeno ringraziare. Anche se non conosceva la città, riusciva in qualche modo a orientarsi, chiedendo in giro o seguendo le indicazioni che le dava la vecchia.
-
-Era già alla settima consegna o giù di lì, quando si caricò sulle spalle un fascio di ortaggi troppo maturi. Doveva portarli a una sala delle spezie dall'altra parte del quartiere, ma non trovava la strada giusta. Quella città sapeva essere un vero labirinto.
-
-Fermò un uomo magro, con un fagotto di legna sottobraccio. "Scusi, per la sala delle spezie?"
-
-L'uomo la guardò di sfuggita. "Non è qui. Vai in fondo a questa strada, poi taglia per via dei Salassi e sei arrivata."
-
-*Via dei Salassi.* Il nome le fece dimenticare le consegne per qualche istante. Tra tutti gli avvenimenti di quei giorni, quasi si era dimenticata dell'indirizzo che suo padre aveva appuntato sulle *Parole*. Rimase un istante immobile, il peso delle verdure sulla schiena. Non l'aveva cercata, eppure eccola lì, quasi uno scherzo del destino.
-
-Seguì le indicazioni, e dopo poche svolte la trovò: un vicolo storto, più silenzioso del resto della città. Non era trafficato, anzi era praticamente deserto, se non per un paio di passanti che come lei avevano imboccato quella via a mo' di scorciatoia.
-
-Non era un bel posto. Le case cadevano a pezzi, le finestre erano sprangate, e un odore stagnante di muffa e sporcizia aleggiava tra le pietre. Il cuore di Nadia accelererò. Il fascio di verdure sulla schiena poteva aspettare: la curiosità era troppa.
-
-Trovò subito la "terza porta" di cui parlava il libro di suo padre. Una porticina bassa e fatiscente, annerita dal tempo, incastrata tra due muri screpolati. Non aveva insegne né finestre, sembrava abbandonata da anni. Nadia si avvicinò cautamente di qualche passo. Fu allora che lo vide: inciso sulla porta, tra i graffi e le ammaccature, il segno sarebbe potuto facilmente passare inosservato, a meno di non sapere che c'era. Il triangolo rovesciato con l'occhio socchiuso al centro, lo stesso segno tracciato sul libro.
-
-Suo padre era stato lì.
-
-\[STACCO\]
-
-Nadia tornò alla casa del viaggiatore esausta. In tasca le rimanevano solo pochi Sol: metà della paga delle consegne era già sparita per un piatto caldo, e il resto non sarebbe bastato a lungo. Ma non era quello a occupare la sua mente: continuava a ripensare a quel segno inciso sulla porta.
-
-Era stata quasi sul punto di bussare, ma sapeva che sarebbe stato da completi incoscienti. Volente o nolente, doveva prima parlarne con Akil.
-
-Lo trovò nella loro stanza, seduto sul letto con l'aria indolente di chi cerca di scacciare la noia.
-
-"Akil\..." Esitò, indecisa su cosa dire. Akil non sapeva del libro di papà. Nadia lo aveva tenuto nascosto fin dal primo giorno, senza sapere bene nemmeno lei perché. Forse temeva che Akil lo prendesse alla leggera, che la deridesse; o forse, in fondo, era come se quel libro appartenesse a lei sola. "C'è una cosa che devi vedere."
-
-Lentamente, Nadia mise la mano nella borsa e ne estrasse il piccolo libro consunto, cercando la pagina giusta.
-
-Lui si sporse, incuriosito. "E questo da dove sbuca?"
-
-"È di papà" confessò lei, abbassando lo sguardo. "L'ho trovato tra le sue cose. Guarda qui." Indicò l'indirizzo vergato accanto al simbolo. "Lo riconosci?"
-
-Akil aggrottò la fronte, scorrendo con l'occhio quelle righe. "Hai frugato tra le cose di papà?" Non era un rimprovero vero e proprio: più che altro, stupore.
-
-Nadia non rispose. "Questo segno. Ho trovato l'indirizzo, in città. Non pensi che possa essere un indizio che ci ha lasciato?"
-
-"Indirizzo?" Il ragazzo studiò per un momento la pagina, la fronte aggrottata nello sforzo di leggere. Rimase in silenzio per qualche istante, poi sospirò. "Non pensi che forse... papà fosse semplicemente in viaggio per la città e si sia appuntato quell'indirizzo alla meglio? Magari gli serviva per lavoro, o per incontrare qualcuno. Non vedo perché debba avere un significato nascosto. E poi, come faceva a sapere che avresti trovato il libro?"
-
-Nadia serrò il libro contro di sé. Capiva lo scetticismo di Akil, ma era certa che quel libretto fosse ciò che suo padre avrebbe voluto mostrarle, quella fatidica sera. Prima che arrivassero i soldati.
-
-"Dico solo che potrebbe essere una pista. E se papà voleva condurci qui?"
-
-"Una pista per\...? Da come parli sembra che papà abbia tirato insieme una caccia al tesoro. Ci serve qualcosa di più che una supposizione se vogliamo fare qualcosa di concreto."
-
-"Proprio tu parli di fare qualcosa di concreto" disse lei, irritata. "Tu che sei stato a giocare a dadi tutto il giorno!"
-
-"Non stavo solo giocando. Quelli erano ragazzi del cantiere, e se non ti siedi con loro, se non scambi due parole, non ti prendono mai sul serio. Mi sono dato da fare. Da domani comincerò a lavorare con loro. Alla piramide."
-
-Nadia si fermò. "Alla piramide? Per l'impero? Dopo il modo in cui ci hanno trattati?"
-
-Akil scosse la testa, abbandonandosi a una risata senza allegria. "Sapevo l'avresti detto. Siamo qui da pochi giorni, Nadia. Non conosciamo nessuno, non abbiamo appoggi. Se non ti unisci a una gilda non combini niente, è la regola. Non lo faccio per loro, lo faccio per noi. Per sopravvivere."
-
-"E intanto lasciamo perdere quello che papà ci ha lasciato? Un segno, un indirizzo! Non ti sembra che sia proprio lui a indicarci la strada? E tu non vuoi fare neanche un tentativo?"
-
-Akil cominciava a spazientirsi. "Non possiamo vivere di misteri. Restiamo coi piedi per terra. A lavorare per la piramide, magari ci si apre una via. Tu vuoi inseguire un'ombra."
-
-"Meglio inseguire un'ombra che lavorare per l'ego di un sovrano ipocrita" sbottò Nadia. Akil trasalì. Insultare l'imperatore equivaleva a una bestemmia: c'era gente che era stata imprigionata per molto meno. Ma in quel momento a Nadia non importava.
-
-"L'imperatore" disse Akil, cercando di calmarla, "non è un uomo qualunque. Hai visto cosa ha realizzato, cosa ha fatto per il popolo. Questa città, i monumenti, le scuole, gli acquedotti\... Non pensi che *forse* sappia quello che fa, che lo fa per un progetto più grande?"
-
-"So solo come ci hanno trattati, e mi basta. Ti sei fatto accecare dal suo discorso, senza nemmeno sapere se è vero." Nadia chiuse il libro con uno scatto. "Inseguire un'ombra è proprio quello che intendo fare, con il tuo aiuto o no."
-
-Akil aprì la bocca per replicare, ma cambiò idea. "Benissimo" disse infine. "Segui le tue ombre e fammi sapere dove ti portano. Io ho scelto la mia strada. Vediamo quale ci avvicinerà di più a papà." Il tono era tranquillo, quasi razionale, ma tradiva un sentimento diverso.
-
-"Credi che io non abbia il coraggio di muovermi senza di te?"
-
-Akil non rispose.
-
-Benissimo. Inseguire gli indizi del padre era precisamente ciò che avrebbe fatto. Ripose il libro con un gesto brusco. Il silenzio cadde tra loro come un macigno. Si coricarono senza dirsi una parola, entrambi consapevoli che, in quel momento, qualcosa tra loro si era spezzato.
-
-\[STACCO\]
-
 # CAPITOLO
 
 id: le_scritture
@@ -2142,7 +2222,7 @@ immagine: img/capitoli/le_scritture.jpg
 
 --- FINE METADATI ---
 
-Quando Leon raggiunse l'ingresso degli scavi, il sole era appena sorto sopra la foresta ma il campo già brulicava di attività. Alcuni lavoratori Naha stavano trasportando casse di attrezzature verso le tende operative, altri si occupavano di consolidare il terreno attorno alla scalinata emersa nei giorni precedenti, mentre poco più in là Alex discuteva con Lisa davanti a una proiezione tridimensionale sospesa nell'aria.
+Quando Leon raggiunse l'ingresso degli scavi, il sole era appena sorto sopra la foresta ma il campo già brulicava di attività. Alcuni lavoratori Naha stavano trasportando casse di attrezzature verso le tende operative, altri si occupavano di consolidare il terreno attorno alla scalinata emersa nei giorni precedenti, mentre poco più in là Georg discuteva con Robert davanti a una proiezione tridimensionale sospesa nell'aria.
 
 Emily era stata probabilmente la prima ad alzarsi. Quando Leon uscì dalla propria tenda la trovò già impegnata a consultare immagini e rilievi sul tablet, con una tazza di caffè dimenticata accanto a sé.
 
@@ -2164,13 +2244,13 @@ Alex comparve pochi minuti dopo, visibilmente più riposato. "Ottima notizia."
 
 Leon sospirò. "Temo che il metodo scientifico non funzioni così."
 
-Il gruppo si radunò poco dopo presso l'ingresso appena liberato. Lisa era già pronta. "Alex non viene?" domandò.
+Il gruppo si radunò poco dopo presso l'ingresso appena liberato. Robert era già pronto. "Alex non viene?" domandò.
 
 "Resta qui per ora. Sta coordinando le scansioni esterne."
 
 "Tradotto: gli hai affidato il lavoro noioso."
 
-Non potevano scendere in troppi: Leon conteggiò che tre persone sarebbero state il numero ideale. La scelta era caduta su Emily Carter e Lisa Martinez.
+Non potevano scendere in troppi: Leon conteggiò che tre persone sarebbero state il numero ideale. La scelta era caduta su Emily Carter e Robert Brooks.
 
 Pochi minuti dopo, con un brivido di eccitazione, i tre iniziarono cautamente la discesa.
 
@@ -2178,7 +2258,7 @@ La scalinata si inoltrava nella collina con un'inclinazione maggiore di quanto L
 
 Le torce e le lampade frontali crearono una serie di coni luminosi che avanzavano nell'oscurità, illuminando dettagli sui muri antichi. Radici spesse quanto braccia emergevano dalle pareti per poi scomparire di nuovo nella pietra, mentre qua e là blocchi crollati costringevano il gruppo a rallentare o a cambiare traiettoria.
 
-"Se questo posto è rimasto chiuso per secoli, è in condizioni sorprendentemente buone," osservò Lisa mentre superava un ammasso di detriti.
+"Se questo posto è rimasto chiuso per secoli, è in condizioni sorprendentemente buone," osservò Robert mentre superava un ammasso di detriti.
 
 "Anche troppo buone," replicò Leon.
 
@@ -2192,15 +2272,15 @@ Il pavimento era disseminato di frammenti di ceramica. In un angolo sopravviveva
 
 Leon si accovacciò vicino a uno dei frammenti e lo sollevò con cautela. "Qualcuno è arrivato qui molto prima di noi."
 
-Lisa annuì. "Lo pensi anche tu?"
+Robert annuì. "Lo pensi anche tu?"
 
 "Se una struttura del genere fosse rimasta davvero intatta per secoli, troveremmo utensili, oggetti rituali, decorazioni, resti organici. Invece sono rimasti soltanto scarti."
 
-Lisa osservò il pavimento con interesse. "Saccheggiatori?"
+Emily osservò il pavimento con interesse. "Saccheggiatori?"
 
 "Probabilmente."
 
-Rimise il frammento al suo posto. Più tardi avrebbero catalogato tutto, ma non era il momento.
+Leon rimise il frammento al suo posto. Più tardi avrebbero catalogato tutto, ma non era il momento.
 
 Ripresero il cammino attraversando una successione di ambienti sempre più degradati dal tempo. In alcuni punti il soffitto si era abbassato tanto da costringerli a piegarsi; in altri, l'antica muratura appariva ancora sorprendentemente solida, quasi indifferente ai secoli trascorsi sopra di essa.
 
@@ -2216,9 +2296,9 @@ Per alcuni secondi nessuno parlò. Emily avanzò lentamente fino alla parete pi�
 
 Leon conosceva bene quell'espressione. Era la stessa che aveva visto comparire sul volto di colleghi, ricercatori e archeologi ogni volta che si trovavano davanti a qualcosa che non riuscivano a classificare. "Allora?"
 
-Emily non rispose subito. I suoi occhi correvano da un simbolo all'altro con una velocità quasi febbrile. "Non riconosco nulla."
+L'archeologa non rispose subito. I suoi occhi correvano da un simbolo all'altro con una velocità quasi febbrile. "Non riconosco nulla."
 
-Leon sospirò. "Questa roba darà del filo da torcere anche a Georg Schmidt, ci scommetto." Attivò la fotocamera integrata nelle lenti e iniziò a prendere alcune scansioni campione.
+"Questa roba darà del filo da torcere anche a Georg Schmidt, ci scommetto." Attivò la fotocamera integrata nelle lenti e iniziò a prendere alcune scansioni campione.
 
 "Questa non è una semplice camera di servizio," disse Emily dopo aver osservato a lungo l'ambiente. "È stata progettata per essere vista. Le decorazioni sono troppo elaborate. Qualcuno voleva che le persone arrivassero fin qui."
 
@@ -2226,13 +2306,15 @@ Leon sospirò. "Questa roba darà del filo da torcere anche a Georg Schmidt, ci 
 
 "Forse. O una sala cerimoniale. Ma certamente qualcosa di importante."
 
-Lisa, che nel frattempo si era allontanata verso i detriti che occupavano il lato opposto della stanza, li chiamò: "Venite a vedere."
+La voce di Robert echeggiò dal lato opposto della stanza: "Venite a vedere."
 
-Indicò il crollo. "Non ne sono certa, ma credo che questo complesso sotterraneo continui qui sotto."
+Il geologo indicò il crollo. "Non ne sono certo, ma credo che il complesso sotterraneo continui qui sotto."
+
+Leon si avvicinò di qualche passo. Le macerie sembravano ostruire del tutto un passaggio piuttosto stretto che scendeva nel sottosuolo.
 
 Per diversi minuti esplorarono ogni metro accessibile dell'ambiente, esaminando pareti, pavimento e detriti, ma senza trovare alcun accesso evidente. Nessuna porta. Nessun corridoio. Nessuna scala.
 
-Leon esaminò le pareti una per una, soffermandosi sulle giunzioni tra i blocchi di pietra e sulle zone dove l'erosione aveva lasciato intravedere gli strati interni della muratura. Emily aveva iniziato a prendere appunti a una velocità impressionante, mentre Lisa continuava a studiare il crollo cercando indizi di un possibile varco.
+Leon esaminò le pareti una per una, soffermandosi sulle giunzioni tra i blocchi di pietra e sulle zone dove l'erosione aveva lasciato intravedere gli strati interni della muratura. Emily aveva iniziato a prendere appunti a una velocità impressionante, mentre Robert continuava a studiare il crollo cercando indizi di un possibile varco.
 
 Alla fine fu Leon a interrompere la ricerca. "Ci serve una scansione dettagliata." Attivò la chat vocale.
 
@@ -2246,7 +2328,7 @@ Cinque minuti dopo, Alex raggiunse la sala.
 
 "Wow! Cos'è questo posto? Con la pizzeria avevo aspettative alte, ma questo le supera."
 
-Lisa indicò il crollo. "E pensiamo che il complesso prosegua oltre."
+Emily indicò il crollo. "E pensiamo che il complesso prosegua oltre."
 
 Alex osservò la massa di detriti. Si inginocchiò accanto a una zona relativamente sgombra del pavimento e iniziò a predisporre il rilevatore.
 
@@ -2260,7 +2342,7 @@ Leon si avvicinò. "Cosa hai trovato?"
 
 Alex indicò il crollo. "Sotto questa massa di detriti c'è qualcosa."
 
-La proiezione mostrava chiaramente una struttura che proseguiva oltre la parete di terra e pietra. "Una scala," disse Lisa.
+La proiezione mostrava chiaramente una struttura che proseguiva oltre la parete di terra e pietra. "Una scala," disse Robert.
 
 Alex annuì. Una scalinata scendeva ancora più in profondità rispetto al livello attuale. Per alcuni istanti il gruppo rimase in silenzio.
 
@@ -2276,191 +2358,617 @@ Istintivamente, i quattro volsero lo sguardo in simultanea nella direzione dove 
 
 Il muro decorato era perfettamente intatto, senza alcun segno di passaggi nascosti. Le intricate incisioni sembravano quasi sfidare i loro tentativi di scoperta.
 
-"Una stanza isolata? Cosa potrebbe significare?" La curiosità nel tono di Lisa tradiva un filo di inquietudine. "Forse è un luogo segreto, un nascondiglio? O magari qualcosa di ancora più strano\..."
+Robert parlò più lentamente del solito. "Una stanza isolata? Cosa potrebbe significare?"
 
-"Forse è stata sigillata intenzionalmente," ipotizzò Leon, mentre il suo sguardo rimaneva fisso su un punto del muro. Poi si ricordò del motivo per cui erano lì. "Prova a controllare il segnale, Alex."
+Emily sollevò il sopracciglio. "Un nascondiglio segreto? Forse una tomba."
 
-Il fisico estrasse il detector, con movimenti ormai automatici. Lo accese.
+Leon non tolse gli occhi dal muro. "Alex, controlla il segnale."
 
-Il segnale era ancora percepibile, pulsava con la stessa regolarità ossessiva, e continuava a ripetere le cifre che ormai Leon conosceva quasi a memoria. Alex attivò i parametri di direzione. Una freccia sul display puntò decisa verso la parete decorata.
+Il fisico estrasse il detector con movimenti ormai automatici e lo accese. Il segnale era ancora percepibile, pulsava con la stessa regolarità ossessiva, e continuava a ripetere le cifre che ormai Leon conosceva quasi a memoria. Alex attivò i parametri di direzione. Una freccia sul display puntò decisa verso la parete decorata.
 
-"Sembrerebbe che l'abbiamo trovato. La fonte del segnale si trova dall'altra parte di questo muro, in quella stanza."
+"Sembrerebbe che l'abbiamo trovato. La fonte del segnale si trova in quella stanza."
 
-Una goccia di sudore scivolò sulla fronte di Leon. L'idea era tanto affascinante quanto inquietante. Un segnale proveniente da una stanza sigillata probabilmente da secoli. Che cosa poteva significare? Chi lo aveva messo lì? E perché?
+Una goccia di sudore scivolò sulla fronte di Leon. Un segnale proveniente da una stanza sigillata probabilmente da secoli. L'idea era tanto affascinante quanto inquietante. Che cosa poteva significare? Chi lo aveva messo lì? E perché?
 
-\[STACCO\]
+Più tardi, Leon tornò nella sala più interna delle rovine, che il team aveva ormai battezzato Sala delle Scritture. Georg Schmidt lo seguiva, i passi che rimbombavano tra le vecchie pietre.
 
-Più tardi, Leon tornò nella sala più interna delle rovine, che il team aveva ormai battezzato Sala delle Scritture. Stavolta in compagnia di Georg Schmidt.
+Si fermarono all'ingresso e il linguista fece scorrere lentamente il fascio della torcia lungo le pareti incise. Per alcuni minuti non disse nulla. Si avvicinò a una delle colonne di simboli, poi a un'altra, tornando più volte sui propri passi come se stesse cercando di ricostruire una struttura che soltanto lui riusciva ancora a intravedere.
 
-"Queste scritture sono incredibili." La voce del linguista era piatta, quasi atona, come se stesse commentando il meteo. I suoi occhi, freddi e taglienti dietro le lenti sottili, tradivano però un interesse autentico.
+"Queste scritture sono incredibili."
 
-Si chinò su uno dei simboli che decoravano la parete, osservandolo attraverso una lente d'ingrandimento con l'attenzione metodica di un investigatore che esamina una scena del crimine.
+La voce che ruppe il silenzio era piatta, quasi atona, come se Schmidt stesse commentando il meteo. I suoi occhi dietro le lenti sottili raccontavano però qualcosa di diverso.
 
-"Devo ammettere di non aver mai visto niente del genere. E questo, modestia a parte, la dice lunga sull'entità della scoperta."
+"Devo ammettere di non aver mai visto niente del genere." Si chinò su uno dei segni e lo illuminò lateralmente, osservando la profondità dell'incisione. "E questo, modestia a parte, la dice lunga sull'entità della scoperta."
 
-Vent'anni prima il linguista tedesco aveva rivoluzionato il campo della decifrazione delle lingue antiche grazie all'utilizzo sistematico di reti neurali addestrate su migliaia di testi storici e archeologici.
+Leon doveva ammettere che se persino Schmidt non riconosceva quella scrittura, dubitava che qualcuno alla FSU avrebbe saputo farlo al primo sguardo.
 
-Per quasi un'ora esaminò le incisioni, fotografando ogni parete, misurando profondità e angolazioni dei segni, acquisendo dati con una precisione quasi ossessiva. Ogni gesto appariva meccanico e perfettamente controllato, come se stesse eseguendo una procedura provata migliaia di volte.
+Per quasi un'ora il linguista lavorò senza quasi parlare. Fotografò le pareti a sezioni sovrapposte, misurò alcuni segni, confrontò simboli apparentemente simili e marcò le rispettive posizioni sulla pianta della sala. Leon lo aiutò a spostare le luci e a mantenere sgombre le superfici, finché Schmidt dichiarò di avere abbastanza materiale per cominciare.
 
-Quando ebbero raccolto materiale sufficiente, i due tornarono in superficie.
+"Quanto ci vorrà per avere in mano qualcosa?"
 
-Il sole filtrava attraverso la volta verde della foresta in lunghi raggi inclinati, mentre il campo base brulicava di attività. Ricercatori della FSU e lavoratori Naha si muovevano tra tende, tavoli da lavoro e casse di attrezzature, immersi in un viavai continuo che cresceva di giorno in giorno.
+"Tradurre una lingua antica può richiedere decenni," fece il linguista seccamente, anche se Leon era certo che fosse una stima piuttosto pessimista. In perfetto stile Schmidt.
 
-Le immagini vennero caricate nel sistema di analisi linguistica che Schmidt aveva portato con sé: un modulo compatto collegato a diversi server remoti della FSU, addestrato su migliaia di lingue moderne ed estinte e capace di individuare correlazioni invisibili persino agli specialisti.
+"Speravo di ottenere qualche informazione preliminare nel giro di pochi giorni. Non una traduzione, ma qualche informazione di carattere paleografico, sulla forma e sulla struttura dei segni."
 
-Schmidt fissò lo schermo in silenzio.
+"Può seguirmi nella tenda. Vediamo cosa riusciamo a ricavare da una prima analisi," disse Schmidt. Dietro il tono infastidito, Leon colse una traccia di soddisfazione. Sorrise tra sé.
 
-Per la prima volta, Leon ebbe l'impressione che qualcosa fosse riuscito a incrinare la sua apparente indifferenza.
+Quando tornarono in superficie, il sole filtrava attraverso la volta verde della foresta in lunghi raggi inclinati e il campo base brulicava di attività.
 
-"La dottoressa Carter sta lavorando alla datazione delle strutture," disse Alex, raggiungendoli. "Secondo lei, professore, queste iscrizioni a che epoca potrebbero appartenere?"
+Schmidt trasferì le immagini sul proprio terminale e iniziò a suddividerle in sequenze. Sullo schermo comparvero centinaia di piccoli riquadri: il sistema isolava i singoli segni, li confrontava tra loro e raggruppava quelli che presentavano forme compatibili. Ogni pochi minuti Georg interveniva manualmente, eliminando un'associazione o correggendone un'altra.
 
-Schmidt rimase in silenzio per qualche secondo. "Non posso stimare l'età di una lingua che non conosco." Indicò alcune immagini proiettate sul monitor. "Posso fare osservazioni preliminari. Il sistema appare estremamente regolare. I simboli seguono schemi coerenti, segno che non si tratta di una scrittura primitiva o improvvisata. Dietro questi segni deve esserci una lunga evoluzione culturale." Fece una breve pausa. "Ma questo non ci dice nulla sull'età delle iscrizioni che abbiamo davanti. Potrebbero avere duecento anni. Potrebbero averne cinquemila. Al momento non lo so."
+Leon non aveva le competenze per seguire ogni passaggio, ma gli interessava capire da dove Schmidt avrebbe cominciato ad affrontare qualcosa che, almeno per il momento, non aveva alcun termine di confronto conosciuto.
 
-Leon annuì. Era esattamente il tipo di risposta che si sarebbe aspettato da Schmidt. Nessun vero passo avanti, dunque. Beh, era ancora presto.
+"La dottoressa Carter sta cercando materiale utile per la datazione," disse Leon. "Lei riesce a capire che tipo di scrittura abbiamo davanti?"
 
-Leon stava per allontanarsi, quando Schmidt aggiunse: "Una cosa posso dirla per certo. Queste pareti presentano una connotazione interessante. Unica."
+Schmidt rimase qualche secondo a fissare il monitor.
 
-"Prosegua."
+"Posso dirle qualcosa sulla sua struttura." Indicò una delle sequenze appena isolate. "Abbiamo un numero elevato di segni distinti, combinazioni che ricorrono con una certa regolarità e schemi che sembrano rispettare convenzioni precise. Non sono semplici simboli accostati liberamente: qualunque lingua rappresentino, dietro deve esserci un sistema già consolidato."
 
-"Le informazioni riportate si ripetono. Come se chiunque le abbia incise volesse essere sicuro che il messaggio\... arrivasse."
+"Una scrittura evoluta."
 
-Leon rimase immobile. "Come una ridondanza? Un backup?"
+"Una scrittura strutturata," lo corresse Georg. "Non sappiamo abbastanza per chiamarla evoluta."
 
-"Precisamente."
+Leon annuì, vagamente esasperato. Naturalmente Schmidt aveva trovato il modo di correggerlo anche su quello.
 
-Leon rifletté. Chiunque aveva inciso quei simboli sembrava più interessato alla sopravvivenza del messaggio che all'eleganza della sua forma.
+"Quanto all'età, è troppo presto. Il sistema di scrittura potrebbe avere duecento anni come duemila."
 
-Mentre il linguista tornava ai propri dati, Leon si diresse verso una delle aree di catalogazione. Una sensazione lo pervadeva, come se l'enigma delle rovine stesse diventando sempre più fitto ad ogni ora.
+Leon trattenne un sospiro. Per il momento era abbastanza: per il resto avrebbe dovuto pazientare.
 
-Scorse Robert Brooks seduto all'ombra di un grande albero, circondato da cassette numerate e reperti appena recuperati. L'anziano archeologo stava osservando un frammento di ceramica controluce con l'attenzione che altri avrebbero riservato a un gioiello.
+Leon controllò sul tablet lo stato delle diverse attività del campo. Emily aveva quasi terminato la prima catalogazione dei reperti recuperati quella mattina, così decise di raggiungerla nell'area predisposta per il materiale archeologico. La trovò all'ombra di un grande albero, circondata da cassette numerate e reperti recuperati durante la mattinata. Stava osservando un frammento di ceramica con l'attenzione che un gioielliere avrebbe riservato a un diamante grezzo.
 
-"La qualità di questi manufatti è sorprendente," disse Robert senza nemmeno alzare lo sguardo quando sentì Leon avvicinarsi. "Questa gente possedeva tecniche avanzate, conosceva bene la lavorazione dei metalli e aveva artigiani di altissimo livello."
+"La qualità di questi manufatti è notevole," disse senza alzare lo sguardo. "Guarda questo."
 
-Posò delicatamente il reperto. "Oh sì. Ogni pezzo racconta una storia."
+Porse il frammento a Leon.
+
+Leon se lo rigirò delicatamente tra le dita, tastandone la superficie con il polpastrello. Non se ne intendeva abbastanza da ricavare molto da un singolo frammento di ceramica, ma persino lui poteva notare quanto fosse uniforme la lavorazione. La superficie era liscia, decorata da una sottile linea scura che correva lungo il bordo.
+
+"Impasto ben depurato, cottura controllata. E abbiamo trovato frammenti metallici lavorati con una precisione altrettanto interessante." Emily riprese il pezzo. "Chi viveva qui sapeva quello che faceva."
 
 "Quindi la catalogazione procede bene."
 
-"Procede benissimo."
+"Procede benissimo. È la datazione che mi sta facendo perdere la pazienza."
 
-Robert sollevò finalmente lo sguardo.
+Indicò alcune piccole bustine sigillate sul tavolo.
 
-"Tuttavia non riesco a togliermi dalla testa una domanda."
+"Abbiamo recuperato residui lignei in due punti diversi, ma sono difficili da recuperare. Uno era incastrato sotto una porzione di muratura che sembra originale. Se siamo fortunati, ci daranno almeno un riferimento. Se i campioni sono abbastanza puliti avrò qualcosa entro stasera. Poi li manderemo comunque a un laboratorio per confermare."
 
-Leon sorrise. "Quale?"
+Posò con attenzione il frammento nella propria cassetta.
 
-"Perché una civiltà così avanzata è scomparsa lasciando così poche tracce?"
+"Però c'è una cosa che continua a infastidirmi."
 
-Per qualche istante nessuno dei due parlò. Poi Robert girò la testa verso il sentiero. "Oh. Quello dev'essere il pranzo."
+"Quale?"
 
-Due amici di Zali stavano emergendo dalla foresta trasportando una grande rete piena di pesce appena pescato in uno degli affluenti del Grande Fiume.
+Emily si guardò intorno, verso le casse ormai piene di reperti etichettati.
 
-Leon osservò Robert allontanarsi con passo allegro e non poté fare a meno di ripensare alla domanda appena posta. Già. Come aveva fatto una civiltà tanto avanzata a svanire quasi completamente dalla storia?
+"Se questa cultura aveva una scrittura tanto sviluppata, costruiva complessi di queste dimensioni e lavorava i materiali a questo livello\... dove sono tutti gli altri siti?"
 
-\[STACCO\]
+Era la stessa domanda che Leon si era posto fin dalla prima esplorazione delle rovine. Una cultura non compariva dal nulla e, soprattutto, non lasciava dietro di sé un unico edificio dimenticato in mezzo alla foresta. Perché la storia non riportava tracce di una civiltà tanto avanzata?
 
-Il resto della giornata trascorse rapidamente. In qualità di coordinatore della spedizione, Leon si trovava continuamente a passare da un settore all'altro del campo, verificando procedure, risolvendo problemi logistici e coordinando il lavoro dei vari gruppi. Le informazioni arrivavano sul suo tablet man mano che venivano aggiornate, già ordinate e filtrate da Marie.
+Emily girò la testa verso il sentiero.
 
-Tra le decisioni di cui era più soddisfatto c'era il coinvolgimento diretto dei Naha. L'idea era stata davvero azzeccata: in parte per rispettare gli accordi presi con il consiglio degli anziani, in parte perché riteneva assurdo escludere gli abitanti del luogo da una scoperta che riguardava anche la loro storia.
+"Quello, invece, credo di sapere cos'è."
 
-Alcuni colleghi della FSU avevano espresso più di una perplessità, ma i risultati stavano dando ragione a Leon. I lavori di sgombero del crollo nella Sala delle Scritture procedevano rapidamente, e l'esperienza dei Naha nell'ambiente della foresta si stava rivelando preziosa più di qualunque tecnologia.
+Tra gli alberi stavano comparendo due ragazzi del villaggio che lavoravano al campo. Trasportavano tra loro una grande cesta intrecciata dalla quale spuntavano le code argentate di diversi pesci appena pescati. Uno dei ragazzi sollevò la cesta con aria soddisfatta mentre si avvicinavano.
 
-Era ormai tardo pomeriggio quando Emily Carter lo invitò a raggiungerla. Leon entrò nella tenda adibita a laboratorio temporaneo e trovò la professoressa china sopra uno strumento elettronico che occupava buona parte del tavolo.
+Zali comparve dietro di loro pochi istanti dopo. "Mi sembrava di aver sentito qualcuno lamentarsi del pranzo."
+
+Leon pensò alle lattine di Robert e alla pizza invocata da Alex. Evidentemente Zali aveva ascoltato più attentamente di quanto avesse lasciato intendere.
+
+Nel giro di pochi minuti la notizia si diffuse nel campo. Alcuni Naha iniziarono a preparare il pesce vicino alla zona comune, mentre Robert compariva dal nulla attratto dall'aroma. Alex dichiarò che la spedizione aveva appena compiuto il suo più importante progresso scientifico della giornata.
+
+Leon rimase per qualche momento a osservare la scena.
+
+Solo pochi giorni prima il campo della FSU e il villaggio erano stati due mondi distinti, legati da un accordo e da una buona dose di diffidenza reciproca. Adesso alcuni ricercatori cercavano di imparare i nomi degli uomini che lavoravano accanto a loro, i più giovani del villaggio passavano la pausa tra le tende per curiosare tra gli strumenti e qualcuno aveva pensato che agli stranieri potesse fare piacere mangiare qualcosa che non provenisse da una scatola.
+
+Era un inizio promettente: certe distanze cominciavano a ridursi proprio così.
+
+Il resto della giornata trascorse rapidamente. Leon passò continuamente da un settore all'altro del campo, verificando procedure, risolvendo problemi logistici e controllando i risultati che comparivano poco alla volta sul suo tablet. Schmidt continuava a classificare simboli. Robert completava le scansioni del terreno attorno alla struttura. Emily era scomparsa nella tenda laboratorio con i campioni raccolti al mattino.
+
+Era ormai tardo pomeriggio quando sulle lenti comparve un invito della Carter a raggiungerla.
+
+Leon entrò nella tenda adibita a laboratorio temporaneo e trovò la professoressa china sopra uno strumento elettronico che occupava buona parte del tavolo.
 
 "Eccoti."
 
-Emily batté affettuosamente una mano sulla scocca del macchinario. "Quando ho iniziato a lavorare, per fare misure del genere serviva un laboratorio intero. Adesso entra tutto in una cassa da trasporto."
+Emily batté affettuosamente una mano sulla scocca del macchinario. "Quando ho iniziato a lavorare, per ottenere una misura del genere avrei dovuto spedire tutto a un laboratorio e aspettare giorni. Adesso entra in una cassa da trasporto."
 
-"Siete riusciti a ottenere una datazione?"
+Leon osservò le due bustine campione sistemate accanto allo strumento.
 
-"Una prima stima." Un sorriso comparve sul volto dell'archeologa. "E credo che la risposta ti sorprenderà."
+"Hai una data?"
 
-Leon sollevò di nuovo lo sguardo verso di lei.
+"Ho due date." Emily girò il monitor verso di lui. "Il primo campione viene dalla stanza laterale vicino all'ingresso. Il secondo è quello che abbiamo estratto dalla muratura nella Sala delle Scritture. Sono legni diversi, raccolti in contesti diversi."
 
-"Sembra che i resti lignei trovati all'interno delle rovine abbiano circa cinquemila anni."
+"E?"
 
-Per un istante credette di aver capito male. "Cinquemila?"
+"Le stime preliminari sono compatibili."
 
-"Più o meno."
+Indicò i risultati. "Entrambi intorno ai cinquemila anni."
 
-"Non è possibile." Le parole gli uscirono quasi automaticamente. "Sia l'architettura sia i reperti suggeriscono qualcosa di molto più recente, di più moderno. Persino le iscrizioni\..."
+Cinquemila anni.
 
-Eppure, la datazione non mentiva. Fino a quel momento, Leon aveva dato per scontato che le rovine fossero antiche ma sostanzialmente compatibili con ciò che si conosceva della storia umana.
+Leon rimase in silenzio per qualche secondo. Scosse la testa. "Non può essere."
+
+Emily incrociò le braccia. "È esattamente quello che ho pensato io."
+
+"Il legno non data necessariamente la struttura," obiettò Leon. "Potrebbero essere vecchi materiali riutilizzati nella costruzione."
+
+"Certo. È il cosiddetto problema del legno antico." Emily indicò nuovamente i risultati. "Ma due campioni indipendenti che convergono sulla stessa epoca cominciano a essere una prova."
+
+"Quanto sono affidabili?"
+
+"Abbastanza da preoccuparmi. Non abbastanza da pubblicare. Domani ne voglio raccogliere almeno una decina, provenienti da livelli diversi."
+
+Leon tornò a guardare i numeri. Cinquemila anni.
+
+Cercò automaticamente un'alternativa. Un errore di calibrazione. Una contaminazione comune ai due campioni. Materiale più antico riutilizzato. Qualcosa che permettesse di conservare almeno in parte la cronologia che aveva dato per scontata fino a quel momento. "Cinquemila anni fa non dovrebbe esserci niente di simile qui."
+
+Fino a quella mattina aveva immaginato una cultura sconosciuta, forse isolata, forse molto più recente di quanto suggerisse l'aspetto delle rovine. Era già difficile spiegare come una civiltà del genere fosse riuscita a scomparire quasi completamente.
 
 Cinquemila anni cambiavano tutto.
 
-Non significava semplicemente spostare una data su una linea temporale. Significava collocare quella civiltà in un mondo che, secondo ogni conoscenza storica disponibile, non avrebbe dovuto essere in grado di produrre una scrittura così moderna o un'architettura così avanzata.
+Non significava semplicemente spostare una data su una linea temporale. Significava collocare quella civiltà in un mondo che, secondo ogni conoscenza storica disponibile, non avrebbe dovuto essere in grado di produrre una scrittura così sofisticata o un'architettura così sviluppata.
 
-E questo rendeva ancora più inquietante la domanda che Robert aveva posto poche ore prima. Come aveva fatto una cultura tanto avanzata a emergere? E soprattutto, come aveva fatto a scomparire senza lasciare quasi nessuna traccia dietro di sé?
+E questo rendeva ancora più inquietante la domanda che Emily aveva posto poche ore prima. Come aveva fatto una cultura tanto avanzata a emergere? E soprattutto, come aveva fatto a scomparire senza lasciare quasi nessuna traccia dietro di sé?
 
 \[STACCO\]
 
-Sia il mistero della datazione sia quello dell'enigmatica forma di scrittura passavano però in secondo piano rispetto alla questione che continuava a dominare ogni discussione: il segnale elettromagnetico.
+\[STACCO\]
 
-Le rovine potevano attendere qualche giorno. Le iscrizioni potevano richiedere mesi di studio. Quel segnale, invece, era lì. Presente. Attivo. In quel preciso momento stava continuando a trasmettere la propria sequenza matematica dalle profondità della collina.
+# CAPITOLO
 
-Quella sera i Naha accesero un grande falò poco distante dal campo base. Con il calare dell'oscurità, gli scienziati finirono per radunarsi attorno alle fiamme quasi senza rendersene conto. Le luci elettriche delle tende illuminavano il campo in modo uniforme e razionale, ma era il fuoco ad attirare le persone. Leon osservò Emily, Robert, Alex, Lisa e alcuni lavoratori Naha seduti nello stesso cerchio, intenti a chiacchierare e mangiare pesce arrostito, e non poté fare a meno di trovare la cosa curiosa.
+id: il_simbolo
+tipo: capitolo
+titolo: Il simbolo
+descrizione: Nadia decide di seguire la traccia lasciata dal padre, uno strano simbolo sul vecchio libro sacro.
+immagine: img/capitoli/il_simbolo.jpg
 
-Le tecnologie cambiavano. Le civiltà nascevano e scomparivano. Eppure gli esseri umani continuavano a raccontarsi storie attorno al fuoco.
+--- FINE METADATI ---
 
-Robert chiese ad Alex di mostrargli nuovamente le registrazioni del segnale. Il rilevatore passò di mano in mano mentre i presenti osservavano le sequenze di impulsi e le relative trascrizioni matematiche. Nessuno riusciva a spiegarsi come fosse possibile che un segnale elettromagnetico provenisse da una stanza sigillata cinquemila anni prima.
+Nadia era sola nella camera dove alloggiavano. Di nuovo.
 
-"Non crederete davvero che quel segnale sia lì da cinquemila anni," osservò Alex.
+Il brusio del mercato che saliva dalla strada giungeva distante, smorzato dalle persiane socchiuse. Da giorni aveva preso l'abitudine di isolarsi lì, mentre Akil scivolava sempre più spesso nella sala comune. Lì sotto, tra bicchieri di vino scadente e partite a dadi, riusciva a dimenticare almeno per qualche ora i problemi che li assillavano.
 
-Lisa scosse il capo. "Qualcuno deve averlo portato laggiù dopo. E questo apre un'altra serie di domande."
+Lei no.
 
-"Oppure," intervenne Alex con un mezzo sorriso, "chi l'ha portato dentro non è mai entrato dalla porta. Se potessi muoverti liberamente nella quarta dimensione, una stanza sigillata sarebbe un problema piuttosto banale."
+Nadia aveva provato a seguirlo una volta, ma si era sentita fuori posto: quel riso sguaiato e quelle chiacchiere leggere la infastidivano. Non era nell'umore di ridere e giocare.
+
+Così si rifugiava nel libro del padre, l'unico oggetto che potesse stringere tra le mani e sentire come veramente suo. A poco a poco si era fatta più rapida nella lettura: imparava a riconoscere le ricorrenze, a saltare le parti rituali, ad afferrare il filo delle frasi senza smarrirsi. Ogni giorno, il libro diventava un po' meno estraneo.
+
+Quel pomeriggio era seduta sul minuscolo tavolino sotto alla finestra, con la penna in mano e un quadrato di papiro davanti a sé. Rilesse le poche righe che aveva scritto.
+
+*Mamma, io e Akil stiamo bene. Lisenna è enorme ma non abbiamo avuto fortuna con il palazzo di giustizia. Ci stiamo dando da fare.*
+
+Sospirò. La scrittura era storta e disordinata, con alcune macchie di inchiostro qua e là. Il messaggio non diceva molto.
+
+Fu tentata di aggiungere più dettagli, come il fatto che i soldi scarseggiavano, ma si trattenne: non voleva farla preoccupare. Quello dei soldi, però, restava un problema concreto.
+
+Firmò a nome suo e di Akil e arrotolò il papiro.
+
+Mentre attraversava la sala comune per uscire, per un attimo pensò di trascinare con sé anche il fratello, ma decise di lasciare perdere: dopo l'episodio al palazzo di giustizia a malapena si parlavano, e ogni frase rischiava di trasformarsi in un litigio. Meglio lasciarlo ai suoi dadi e ai suoi nuovi amici: se voleva sprecare le giornate così, che facesse pure.
+
+Nadia respirò l'odore della città. Anche in quella zona periferica, Lisenna era un incessante via vai. Voci di venditori, il richiamo delle merci, il tintinnio delle monete. Si diresse verso l'ufficio dei messi, nei pressi di una delle porte cittadine. Ogni giorno qui venivano raccolte lettere e piccoli pacchi diretti verso le città vicine. La consegnò, insieme a qualche moneta, a uno degli addetti che segnò Junna sul registro e la infilò nella sacca destinata al convoglio in partenza l'indomani.
+
+Tornò verso la casa del viaggiatore ma poi cambiò idea. I soldi scarseggiavano e se voleva continuare ad alloggiare in città doveva darsi da fare. Camminò fino al mercato più vicino e si fermò davanti a un banco di formaggi, gestito da un uomo grassoccio che le rivolse uno sguardo diffidente. Nadia temette per un attimo di essere stata scambiata per una ladruncola.
+
+Prese un respiro e si fece avanti. "Cercate qualcuno che vi dia una mano? Anche solo per oggi. Posso trasportare, sistemare..."
+
+L'uomo la squadrò, poi alzò le spalle. "No, ragazza, oggi no. Forse un'altra volta." Non fu scortese, ma la liquidò con un gesto. Nadia sospirò.
+
+Poco più avanti, una bancarella colma di frutta fresca attirò la sua attenzione. Dietro il banco, una donna anziana stava sistemando alcune pesche in una cesta, scegliendo con cura quelle meno mature da mettere sul fondo. Nadia aspettò che avesse finito, poi ripeté la sua offerta, cercando di mostrarsi più sicura di quanto si sentisse.
+
+La donna si prese qualche secondo per valutarla. "Ho delle consegne da portare nel quartiere sud. Ceste pesanti, a dire il vero. Ti do due Sol a consegna se le porti tu. Non di più."
+
+Nadia avrebbe voluto contrattare, ma sapeva che non poteva permettersi di rischiare. "Va bene."
+
+La cesta era più pesante di quanto avesse immaginato. La afferrò con entrambe le mani e se la appoggiò contro il fianco, sentendo il profumo dolce della frutta mescolarsi all'odore acre della strada. Il quartiere sud non era lontano, ma tra la folla, i carretti e i vicoli stretti dovette fermarsi più volte per chiedere indicazioni. Quando finalmente arrivò a destinazione, aveva le braccia indolenzite e la stoffa della toga incollata alla schiena per il sudore.
+
+Quando tornò al banco, solo un quarto d'ora più tardi, la signora si stupì della sua efficienza. "Sei veloce, ragazzina. Rispetto a certi lazzaroni che si vedono in giro."
+
+"Avete altro da farmi fare?"
+
+Nadia fu presto accontentata. Per qualche Sol, passò buona parte della mattinata a portare merce in giro: un vicolo odoroso di cipolla, un cortile gremito di bambini, una bottega di falegname che accettò la consegna senza nemmeno ringraziare. Anche se non conosceva la città, riusciva in qualche modo a orientarsi, chiedendo in giro o seguendo le indicazioni che le dava la vecchia.
+
+Era già alla settima consegna o giù di lì, quando si caricò sulle spalle un fascio di ortaggi troppo maturi. Doveva portarli a una sala delle spezie dall'altra parte del quartiere, ma non trovava la strada giusta. Quella città sapeva essere un vero labirinto.
+
+Fermò un uomo magro, con un fagotto di legna sottobraccio. "Scusi, per la sala delle spezie?"
+
+L'uomo la guardò di sfuggita. "Non è qui. Vai in fondo a questa strada, poi taglia per via dei Salassi e sei arrivata."
+
+*Via dei Salassi.* Il nome le fece dimenticare le consegne per qualche istante. Tra tutti gli avvenimenti di quei giorni, quasi si era dimenticata dell'indirizzo che suo padre aveva appuntato sulle *Parole*. Rimase un istante immobile, il peso delle verdure sulla schiena. Non l'aveva cercata, eppure eccola lì, quasi uno scherzo del destino.
+
+Seguì le indicazioni, e dopo poche svolte la trovò: un vicolo storto, più silenzioso del resto della città. Non era trafficato, anzi era praticamente deserto, se non per un paio di passanti che come lei avevano imboccato quella via a mo' di scorciatoia.
+
+Non era un bel posto. Le case cadevano a pezzi, le finestre erano sprangate, e un odore stagnante di muffa e sporcizia aleggiava tra le pietre. Il cuore di Nadia accelerò. Il fascio di verdure sulla schiena poteva aspettare: la curiosità era troppa.
+
+Trovò subito la "terza porta" di cui parlava il libro di suo padre. Una porticina bassa e fatiscente, annerita dal tempo, incastrata tra due muri screpolati. Non aveva insegne né finestre, sembrava abbandonata da anni. Nadia si avvicinò cautamente di qualche passo. Fu allora che lo vide: inciso sulla porta, tra i graffi e le ammaccature, il segno sarebbe potuto facilmente passare inosservato, a meno di non sapere che c'era. Il triangolo rovesciato con l'occhio socchiuso al centro, lo stesso segno tracciato sul libro.
+
+Suo padre era stato lì.
+
+\[STACCO\]
+
+Nadia tornò alla casa del viaggiatore esausta. In tasca le rimanevano solo pochi Sol: metà della paga delle consegne era già sparita per un piatto caldo, e il resto non sarebbe bastato a lungo. Ma non era quello a occupare la sua mente: continuava a ripensare a quel segno inciso sulla porta.
+
+Era stata quasi sul punto di bussare, ma sapeva che sarebbe stato da completi incoscienti. Volente o nolente, doveva prima parlarne con Akil.
+
+Lo trovò nella loro stanza, seduto sul letto con l'aria indolente di chi cerca di scacciare la noia.
+
+"Akil\..." Esitò, indecisa su cosa dire. Akil non sapeva del libro di papà. Nadia lo aveva tenuto nascosto fin dal primo giorno, senza sapere bene nemmeno lei perché. Forse temeva che Akil lo prendesse alla leggera, che la deridesse; o forse, in fondo, era come se quel libro appartenesse a lei sola. Ora non poteva più tenere quel tesoro solo per sé. "C'è una cosa che devi vedere."
+
+Lentamente, Nadia mise la mano nella borsa e ne estrasse il piccolo libro consunto, cercando la pagina giusta.
+
+Lui si sporse, incuriosito. "E questo da dove sbuca?"
+
+"È di papà" confessò lei, abbassando lo sguardo. "L'ho trovato tra le sue cose. Guarda qui." Indicò l'indirizzo vergato accanto al simbolo. "Lo riconosci?"
+
+Akil aggrottò la fronte, scorrendo con l'occhio quelle righe. "Hai frugato tra le cose di papà?" Non sembrava un vero rimprovero: più che altro, stupore.
+
+Nadia non rispose. "Questo segno. Ho trovato l'indirizzo, in città. Non pensi che possa essere un indizio che ci ha lasciato?"
+
+"Indirizzo?" Il ragazzo studiò per un momento la pagina, la fronte aggrottata nello sforzo di leggere. Rimase in silenzio per qualche istante, poi sospirò. "Non pensi che forse... papà fosse semplicemente in viaggio per la città e si sia appuntato quell'indirizzo alla meglio? Magari gli serviva per lavoro, o per incontrare qualcuno. Non vedo perché debba avere un significato nascosto. E poi, come faceva a sapere che avresti trovato il libro?"
+
+Nadia serrò il libro contro di sé. Capiva lo scetticismo di Akil, ma era certa che quel libretto fosse ciò che suo padre avrebbe voluto mostrarle, quella fatidica sera. Prima che arrivassero i soldati.
+
+"Dico solo che potrebbe essere una pista. E se papà voleva condurci qui?"
+
+"Una pista per\...? Da come parli sembra che papà abbia tirato insieme una caccia al tesoro. Ci serve qualcosa di più che una supposizione se vogliamo fare qualcosa di concreto."
+
+"Proprio tu parli di fare qualcosa di concreto" disse lei, irritata. "Tu che sei stato a giocare a dadi tutto il giorno!"
+
+"Non stavo solo giocando. Quelli erano ragazzi del cantiere, e se non ti siedi con loro, se non scambi due parole, non ti prendono mai sul serio. Mi sono dato da fare. Da domani comincerò a lavorare con loro. Alla piramide."
+
+Nadia si fermò. "Alla piramide? Per l'impero? Dopo il modo in cui ci hanno trattati?"
+
+Akil scosse la testa, abbandonandosi a una risata senza allegria. "Sapevo l'avresti detto. Siamo qui da pochi giorni, Nadia. Non conosciamo nessuno, non abbiamo appoggi. Se non ti unisci a una gilda non combini niente, è la regola. Non lo faccio per loro, lo faccio per noi. Per sopravvivere."
+
+"E intanto lasciamo perdere quello che papà ci ha lasciato? Un segno, un indirizzo! Non ti sembra che sia proprio lui a indicarci la strada? E tu non vuoi fare neanche un tentativo?"
+
+Akil le lanciò lo stesso sguardo che riservava ai bambini del cantiere quando insistevano nel disturbarlo mentre lavorava. "Non possiamo vivere di misteri. Restiamo coi piedi per terra. A lavorare per la piramide, magari ci si apre una via. Tu vuoi inseguire un'ombra."
+
+"Meglio inseguire un'ombra che lavorare per l'ego di un sovrano ipocrita" sbottò Nadia. Akil trasalì, poi si guardò intorno, come a vedere se ci fosse qualcuno nelle vicinanze. Insultare l'imperatore equivaleva a una bestemmia: c'era gente che era stata imprigionata per molto meno. Ma in quel momento a Nadia non importava.
+
+"L'imperatore" disse Akil, cercando di calmarla, "non è un uomo qualunque. Hai visto cosa ha realizzato, cosa ha fatto per il popolo. Questa città, i monumenti, le scuole, gli acquedotti\... Non pensi che *forse* sappia quello che fa, che lo fa per un progetto più grande?"
+
+Ancora quel tono. Sembrava stesse spiegando a una bambina come si tiene in mano una ciotola. "So solo come ci hanno trattati, e mi basta. Ti sei fatto accecare dal suo discorso, senza nemmeno sapere se è vero." Nadia chiuse il libro con uno scatto. "Inseguire un'ombra è proprio quello che intendo fare, con il tuo aiuto o no."
+
+Akil aprì la bocca per replicare, ma cambiò idea. "Benissimo" disse infine. "Segui le tue ombre e fammi sapere dove ti portano. Io ho scelto la mia strada. Vediamo quale ci avvicinerà di più a papà." Il tono era tranquillo, quasi razionale, ma tradiva un sentimento diverso.
+
+"Credi che io non abbia il coraggio di muovermi senza di te?"
+
+Akil non rispose.
+
+Benissimo. Inseguire gli indizi del padre era precisamente ciò che avrebbe fatto. Ripose il libro nella borsa con un gesto brusco. Il silenzio cadde tra loro come un macigno.
+
+Si coricarono senza dirsi una parola, entrambi consapevoli che, in quel momento, qualcosa tra loro si era spezzato.
+
+\[STACCO\]
+
+# CAPITOLO
+
+id: il_segnale
+tipo: capitolo
+titolo: Il segnale
+descrizione: Quello che Leon e i suoi trovano nella stanza isolata potrebbe riscrivere la storia.
+immagine: img/capitoli/la_squadra.jpg
+
+--- FINE METADATI ---
+
+Il pesce portato dai Naha finì su una griglia accanto a un grande falò, poco distante dalle tende. Con il calare dell'oscurità, i ricercatori finirono per radunarsi attorno alle fiamme quasi senza rendersene conto. Le luci elettriche delle tende illuminavano il campo in modo uniforme e razionale, ma era il fuoco ad attirare le persone.
+
+Leon osservò Emily discutere con uno dei lavoratori Naha attraverso una combinazione di inglese, gesti e interventi occasionali di Zali. Robert stava mangiando il suo secondo pesce con una concentrazione quasi professionale, e persino Schmidt si era lasciato convincere a lasciare il terminale per qualche minuto e ora discuteva con Alex.
+
+Per Leon c'era qualcosa di curioso in quella scena. Le tecnologie cambiavano, le civiltà nascevano e scomparivano, ma gli esseri umani continuavano a ritrovarsi attorno a un fuoco per mangiare e raccontarsi storie.
+
+Quella sera, però, ce n'era una che continuava a tornare nelle conversazioni.
+
+Robert indicò il piccolo rilevatore appoggiato accanto ad Alex. "Fammi vedere di nuovo il segnale."
+
+Alex glielo passò.
+
+Sul display comparve la sequenza ormai familiare. Gli impulsi si susseguivano con intervalli perfettamente regolari, trasformandosi nelle stesse cifre che Leon aveva visto ripetersi decine di volte.
+
+La datazione preliminare delle rovine poteva essere verificata con altri campioni. Schmidt avrebbe impiegato giorni, forse molto di più, anche solo per cominciare a comprendere le iscrizioni.
+
+Invece, il segnale esponeva il suo enigma senza richiedere interpretazioni. Era sempre lì: in quel preciso momento qualcosa, dall'altra parte della parete della Sala delle Scritture, stava trasmettendo.
+
+Robert restituì il rilevatore ad Alex. "Non penserete davvero che funzioni da cinquemila anni."
+
+"Non penso niente," disse Emily. "Per ora sappiamo soltanto che viene da una camera senza accessi visibili e che almeno parte della struttura sembra molto antica."
+
+"Qualcuno deve aver messo l'emettitore lì dentro in un secondo momento," disse Robert. "È la spiegazione più semplice."
+
+"Semplice un corno." La Carter agitò il pesce verso Robert. "Come pensi che sia possibile entrare in una stanza sigillata da millenni, per giunta senza lasciare alcuna traccia visibile?"
+
+"Sempre che sia entrato attraverso una porta." Alex assunse un'espressione cospiratrice. "Se potessi muoverti liberamente nella quarta dimensione, una stanza sigillata sarebbe un problema piuttosto banale."
 
 Robert sbuffò una risata.
 
-"Alex," lo interruppe Leon, "cerchiamo di restare nell'universo conosciuto."
+"Alex," intervenne Leon, "per almeno altri cinque minuti proviamo a rimanere nell'universo conosciuto."
 
 "Sempre il solito conservatore."
 
-"Qualunque sia la spiegazione, una cosa è certa: non possiamo continuare a formulare ipotesi. Dobbiamo guardare dentro quella camera."
+"Il problema è che continuiamo a discutere di una stanza che nessuno ha mai visto," disse Schmidt con evidente fastidio. "Qualunque sia la spiegazione, possiamo continuare a inventarne quante ne vogliamo finché non sappiamo cosa c'è dall'altra parte di quella parete."
 
-"Come intendiamo procedere, dunque?" chiese Robert.
+Emily annuì. "Su questo siamo d'accordo. Come procediamo?"
 
-Lisa si sporse leggermente in avanti. "Possiamo praticare un foro di pochi millimetri nella parete della camera e inserire una microsonda. Nessuna demolizione, nessun rischio significativo per la struttura. Vedremo l'interno prima di prendere qualsiasi altra decisione."
+La domanda rimase sospesa, e per qualche istante si udì solo il crepitio del falò.
 
-Robert rifletté qualche secondo. "Mi piace."
+"Possiamo praticare un foro molto piccolo," propose infine Robert. Si sporse in avanti, tracciando con un dito un cerchietto per aria. "Prima controlliamo la muratura e scegliamo una zona priva di incisioni. Poi inseriamo una sonda ottica. Bastano pochi millimetri."
+
+Leon guardò il geologo. "Rischi?"
+
+"Minimi," rispose Robert. "E sapremo cosa c'è dentro prima di decidere se aprire un accesso vero e proprio."
+
+Schmidt intervenne seccamente: "Non voglio che nemmeno un glifo venga danneggiato."
+
+"Professore, così mi offende" fece Robert, guardandolo con fare teatrale. "Non intendiamo certo sfondare la parete a colpi di martello. Troviamo una zona priva di incisioni. Pratichiamo un foro di pochi millimetri con una punta diamantata a bassa velocità, poi iniziamo con la perforazione laser. La polvere verrà aspirata immediatamente e se la muratura dovesse rivelarsi troppo fragile, ci fermeremo. In ogni caso, non toccheremo le incisioni e non apriremo alcun varco più grande del necessario."
+
+Leon annuì. Al di là delle apparenze da professore sbadato, Robert sapeva ciò che diceva.
+
+Emily rifletté qualche secondo. "Mi piace."
 
 "Anche a me," disse Leon.
 
-La soluzione proposta da Lisa sembrava quella giusta: sicura, precisa, e rispettosa della storia. Trascorsero la serata a discutere i dettagli dell'operazione, cercando di immaginare cosa avrebbero trovato lì dentro.
+Alex sollevò lo spiedino con il pesce. "Quindi finalmente vediamo cosa trasmette pi greco da dentro una stanza senza porte."
+
+Leon riportò lo sguardo verso il fuoco. Dietro di loro, oltre le tende illuminate, la collina era ormai soltanto una massa nera contro la foresta.
+
+Per quella sera, non restava altro da fare che aspettare.
 
 \[STACCO\]
 
-Il mattino seguente, con il sole appena sorto e l'aria ancora fresca, Lisa, Robert e Leon scesero nella Sala delle Scritture. Alex li stava già aspettando accanto alla parete che separava il corridoio dalla camera isolata. Dopo un'attenta analisi della struttura aveva individuato un punto privo di incisioni e sufficientemente stabile da consentire un intervento senza rischi.
+Il mattino seguente, con il sole appena sorto e l'aria ancora fresca, Robert e Leon scesero nella Sala delle Scritture. Alex li stava già aspettando accanto alla parete che separava il corridoio dalla camera isolata. Aveva disposto sul pavimento le casse con l'attrezzatura e un piccolo segno indicava il punto scelto per la perforazione, in una porzione di pietra priva di incisioni.
 
-Lisa e Alex impiegarono buona parte della mattinata ad assemblare il sistema di perforazione. Quando tutto fu pronto, il laser venne orientato verso la parete e il generatore fu acceso. Un sottile fascio di energia cominciò lentamente a consumare la pietra.
+Robert e Alex impiegarono buona parte della mattinata ad assemblare il sistema di perforazione. Quando tutto fu pronto, il laser venne orientato verso la parete e il generatore fu acceso. Un fascio sottilissimo cominciò lentamente a erodere la pietra.
 
 Leon osservò il punto colpito per qualche secondo. L'effetto era quasi deludente: dopo mezzo minuto di lavoro, il foro era appena percettibile.
 
 "Quanto ci vorrà?" domandò.
 
-Lisa controllò alcuni parametri sul monitor. "Circa quaranta ore."
+Robert controllò alcuni parametri sul monitor. "Circa quaranta ore."
 
-Leon rimase in silenzio.
+Leon trattenne un sospiro.
 
-"Volevi sentirti dire quaranta minuti?" Sorrise lei senza alzare gli occhi.
+"Volevi sentirti dire quaranta minuti?" Robert sorrise senza alzare gli occhi.
 
 "Speravo quaranta secondi."
 
-\[STACCO\]
+Leon tornò in superficie.
 
-Quella sera, al campo base, Leon passò diverse ore tra rapporti, pianificazione dei turni e coordinamento delle attività sul sito. Il lavoro procedeva bene, ma la sua attenzione continuava a tornare alla camera sigillata nascosta oltre la parete. L'impazienza lo consumava.
+Passò il pomeriggio tra rapporti, pianificazione dei turni e coordinamento delle attività sul sito. Il lavoro procedeva bene, ma la sua attenzione continuava a tornare alla camera sigillata nascosta oltre la parete. L'impazienza lo consumava.
 
 Il giorno successivo procedette senza novità. Un paio di volte, Leon scese nella Sala delle Scritture a monitorare il lavoro del laser. Purtroppo, non trovò niente da fare che potesse velocizzare la perforazione.
 
-La prima vera novità giunse poco prima del tramonto, quando ricevette un messaggio da Georg Schmidt. "Ho qualcosa."
+A metà mattina si ritrovò a occuparsi di un problema apparentemente più banale. L'acqua.
 
-Leon raggiunse immediatamente la tenda laboratorio. Alex arrivò pochi minuti dopo.
+Le scorte a loro disposizione erano ancora sufficienti, ma il numero di persone al campo era aumentato e i consumi sarebbero cresciuti rapidamente. Il modo canonico per rifornire una spedizione come quella era far arrivare l'acqua in elicottero, ma il costo sarebbe stato enorme. Trasportare ogni giorno le taniche dal villaggio avrebbe evitato quella spesa, ma continuare a rifornire il campo in quel modo per settimane avrebbe significato sottrarre uomini al lavoro e, soprattutto, organizzare continui viaggi attraverso chilometri di foresta.
 
-Schmidt li attendeva seduto davanti al proprio terminale. Sullo schermo scorrevano immagini delle incisioni fotografate nella Sala delle Scritture.
+Zali gli aveva già indicato una possibile soluzione: aprire un percorso fino al fiume. L'acqua non sarebbe stata potabile, non per loro, ma dopo un trattamento relativamente semplice avrebbe potuto essere utilizzata per lavarsi, pulire le attrezzature e per tutti quegli usi secondari che stavano consumando rapidamente le riserve della FSU.
 
-"Sedetevi."
+Leon la raggiunse al margine della radura, dove stava discutendo con alcuni lavoratori sulla sistemazione di un generatore di corrente.
 
-I due obbedirono.
+Zali concluse rapidamente la conversazione nel vederlo arrivare, poi si chinò a raccogliere un machete appoggiato contro una cassa e gliene porse un altro.
+
+"Eccoti. Pronto?"
+
+Leon prese l'attrezzo e lo soppesò. Aveva utilizzato un machete durante altre spedizioni, abbastanza da sapere che il problema non era tanto tagliare la vegetazione quanto evitare di tagliare qualcos'altro.
+
+Zali lo osservò per qualche secondo. "Non preoccuparti. Faccio io il grosso. Tu vienimi dietro."
+
+Era una piccola consolazione. Aveva già visto che Zali e il machete erano un binomio ben funzionante. Si aggiustò i VisionLink e controllò le scorte nello zaino. Quando alzò lo sguardo vide Zali incamminarsi verso nord.
+
+Leon rimase per un istante fermo a guardarla, poi abbassò gli occhi sul GPS. "Il fiume è a est."
+
+Zali si voltò. Il machete le pendeva già da una mano e il sudore brillava sulla pelle scura. "Sì, ma da quell'area è zona di caccia del leopardo. Personalmente eviterei."
+
+Per qualche secondo fu tentato di chiederle come facesse a saperlo, ma rinunciò. "Di quanto allunghiamo?"
+
+"Non molto."
+
+Leon sospirò e la seguì.
+
+Dopo pochi minuti la vegetazione era già abbastanza fitta da costringerli a procedere uno alla volta. Zali apriva il passaggio con movimenti rapidi e regolari, senza sprecare energie. Leon rimaneva qualche metro più indietro, aspettando che lei avanzasse prima di fare lo stesso con la propria lama.
+
+All'inizio se la cavò abbastanza bene. Poi incontrò un groviglio di rami sottili che sembravano più resistenti del previsto. Li colpì una prima volta, poi una seconda, riuscendo soltanto a piegarli.
+
+Quando alzò lo sguardo, Zali si era fermata.
+
+"Così ti fai male."
+
+"Ci arrivo" borbottò.
+
+Tornò indietro qualche passo e gli prese il machete dalle mani prima che potesse protestare. "Non devi colpire forte. Devi lasciarlo fare. Così."
+
+Con un movimento rapido del polso abbatté il ramo che Leon aveva inutilmente aggredito fino a quel momento.
+
+Gli restituì il machete.
+
+Leon provò a imitarla e il risultato fu migliore, anche se lontano dall'efficacia di Zali.
+
+Lei lo osservò per qualche secondo, poi indicò il sentiero appena aperto.
+
+"Va bene così. Lascia fare il grosso a me e allarga dietro."
+
+Leon annuì. Era vagamente irritato, più con se stesso che con lei. Non gli piaceva trovarsi nella posizione di quello che non sapeva fare qualcosa, soprattutto quando la cosa in questione sembrava così elementare. Ma sarebbe stato ancora più stupido trasformare una questione di orgoglio in un problema reale.
+
+Continuarono a procedere in quel modo. Zali apriva il passaggio, scegliendo ogni volta la direzione migliore; Leon la seguiva a qualche metro di distanza, eliminando i rami che rimanevano sul percorso e rendendo il sentiero abbastanza largo da permettere in seguito il passaggio delle taniche.
+
+Ogni tanto Leon dava un'occhiata al GPS.
+
+"Non stiamo andando un po' troppo fuori percorso?" chiese a un certo punto, asciugandosi il sudore dalla fronte.
+
+Zali si fermò. Leon le passò gli occhiali, che si infilò. "In effetti, di questo passo allunghiamo troppo."
+
+Deviarono leggermente la traiettoria.
+
+A un certo punto Zali si fermò davanti a una lieve depressione del terreno. "Qui dopo la pioggia non passiamo."
+
+Leon osservò il punto indicato. A prima vista non c'era nulla di strano.
+
+"Come fai a saperlo?"
+
+Zali abbassò lo sguardo verso il terreno. "Il terreno è più morbido e non c'è roccia. Appena piove diventa un pantano."
+
+Leon valutò rapidamente. "Non vale la pena aggirare la zona. Eviteremo semplicemente di rifornirci nei giorni di pioggia."
+
+Cercò conferma da Zali, e fu quasi sollevato nel vederla annuire. "Siamo una buona squadra" ridacchiò lei.
+
+"Dove hai imparato tutte queste cose sulla foresta?"
+
+Zali fece spallucce. "Sono nata qui. Per me è normale."
+
+"Quindi non è nelle scuole del villaggio che insegnano come usare un machete."
+
+Zali scoppiò a ridere. "Certo che no!"
+
+Proseguirono. Leon controllò il percorso: il fiume era molto vicino.
+
+"E sei andata a studiare lontana dal villaggio? Un'università?"
+
+"Sì, in città. È l'unica università abbastanza vicina da poterci andare senza trasferirsi dall'altra parte del paese. Ci sono studenti che arrivano da tutta la regione."
+
+Zali continuò a camminare. "All'inizio pensavo di fare avanti e indietro. Poi ho capito che non aveva senso. Ci vuole quasi un'ora per arrivare in città e un'altra per tornare, senza contare il resto. Così ho preso una stanza e sono rimasta là per tutto il periodo degli studi."
+
+Leon la ascoltava. "Cosa hai studiato?"
+
+"Economia e gestione d'impresa."
+
+Leon si sorprese meno di quanto avrebbe creduto. In pochi giorni l'aveva vista discutere prezzi con gli anziani, organizzare uomini e materiali, gestire una guesthouse e correggere metà delle decisioni logistiche prese da persone che disponevano di tecnologie infinitamente superiori alle sue. In effetti, cominciava a chiedersi come avesse fatto a non pensarci prima.
+
+"E ti piaceva?"
+
+"Più di quanto pensassi. All'inizio volevo soltanto andarmene dal villaggio."
+
+Leon sollevò lo sguardo verso di lei. Zali recise alcuni rami bassi, aspettò che lui la raggiungesse e riprese a camminare.
+
+"Mi stava stretto" continuò. "Non perché ci stessi male. È difficile da spiegare. Da bambina pensavo che quello fosse semplicemente il mondo: il villaggio, il fiume, la foresta, qualche viaggio in città con mio padre. Poi ho cominciato a vedere film, documentari, persone che raccontavano cosa facevano altrove, e mi sembrava che tutto succedesse sempre da qualche altra parte. Volevo vedere il mondo vero."
+
+\*\* "E l'hai trovato?"\*\*
+
+"Abbastanza." Zali sorrise a sua volta. "Ho lavorato per qualche mese in un albergo, poi in un piccolo ufficio che organizzava trasporti e consegne. Non erano grandi lavori, ma per la prima volta incontravo ogni giorno persone che facevano cose che qui non esistono nemmeno."
+
+Leon la ascoltava quasi dimenticandosi del machete che teneva in mano. Era quello, molto più delle pietre sepolte sotto la collina, il genere di racconto che anni prima l'aveva spinto verso l'antropologia: non le civiltà ridotte a reperti, ma le persone nel momento in cui cercavano di capire a quale mondo appartenessero.
+
+"E com'era vivere lì?" chiese.
+
+Zali non ebbe bisogno di pensarci molto.
+
+"In meglio, per molte cose. Avevo acqua corrente sempre disponibile, elettricità senza dover guardare il cielo per capire se i pannelli avrebbero funzionato, negozi, trasporti, ristoranti. Se avevo bisogno di qualcosa, potevo semplicemente comprarla." Rise. "Tutte cose che per te sono normalissime."
+
+Sopra di loro, tra le chiome, qualcosa si mosse. Leon alzò lo sguardo appena in tempo per intravedere una sagoma scura saltare da un ramo all'altro. Un richiamo breve e acuto attraversò la foresta, seguito da altri movimenti tra le foglie.
+
+"Scimmie?" chiese.
+
+Zali annuì senza fermarsi. "Non guardarle troppo a lungo. Se capiscono che le stai osservando, cominciano a lanciarti cose."
+
+Leon sollevò di nuovo gli occhi. Riuscì a distinguere altre due sagome, agili e quasi indistinte contro la luce filtrata dalle foglie, poi gli animali scomparvero tra i rami. Il rumore dei loro movimenti rimase per qualche secondo sopra di loro, prima di allontanarsi nella foresta.
+
+Ripresero a camminare. Per qualche passo rimasero in silenzio, mentre Leon seguiva con lo sguardo il punto in cui le scimmie erano scomparse.
+
+"Immagino che dopo aver visto il mondo esterno è stato difficile tornare," rifletté Leon. "Perché non sei rimasta?"
+
+Zali rimase in silenzio per qualche passo. "Perché a un certo punto ho capito una cosa."
+
+Leon aspettò.
+
+"Che vivere in città era meglio, almeno per molte cose. Non aveva senso fingere il contrario. Ma proprio per questo mi sembrava assurdo che al villaggio dovessimo continuare a fare le stesse cose di quando ero bambina."
+
+Quella risposta lo colpì. Leon aveva trascorso buona parte della propria vita professionale osservando comunità costrette a ridefinirsi di fronte a qualcosa che arrivava dall'esterno, e quasi sempre il racconto finiva per essere ridotto a un'opposizione troppo semplice: conservare oppure cambiare, proteggere oppure abbandonare. Zali parlava invece come se non avesse mai accettato fino in fondo quella contrapposizione.
+
+Zali continuò.
+
+"Mi piace il villaggio. Mi piacciono le nostre tradizioni, il modo in cui viviamo insieme, il fatto che quando qualcuno ha un problema gli altri lo sappiano prima ancora che debba chiedere aiuto. Ma quando sono tornata ho visto che tante cose potevano essere diverse. Migliori. E che non serviva rinunciare a tutto il resto per cambiarle."
+
+Leon pensò a quanto fosse facile, dall'esterno, confondere tradizione e immobilità. Lui stesso, arrivando al villaggio, aveva avuto l'impressione di trovarsi in un luogo rimasto ai margini del mondo moderno. Zali non voleva scegliere tra due mondi, voleva portarli insieme.
+
+La vegetazione davanti a loro cominciò a farsi leggermente più rada.
+
+"Avevi già dei progetti quando sei tornata?"
+
+"Troppi." Zali sorrise appena. "Pensavo che bastasse avere una buona idea. Poi ho scoperto che le buone idee hanno bisogno di soldi, persone, tempo e molta più pazienza di quanto immaginassi."
+
+Leon si chinò per evitare un ramo particolarmente spesso. "La parte che non spiegano all'università."
+
+"Quella."
+
+"La guesthouse era uno di questi progetti?"
+
+"Sì. All'inizio non pensavo nemmeno che sarebbe diventata la cosa principale. I visitatori non sono tanti, ma quelli che arrivano per lavoro, ricerca o turismo nella foresta hanno bisogno di un posto dove stare. E per gli standard del villaggio sono disposti a pagare bene."
+
+Leon pensò alla notte trascorsa nella struttura di Zali, alla semplicità delle camere e alla cura quasi ostinata con cui lei sembrava controllare ogni dettaglio. \*\*Ripensò anche al prezzo che avevano pagato: meno di un quarto di quanto una sistemazione equivalente sarebbe costata a New York, e probabilmente abbastanza da rappresentare per il villaggio una somma tutt'altro che trascurabile. \*\*
+
+"Quindi porti in paese quello che hai imparato fuori."
+
+"Ci provo."
+
+La risposta fu più modesta di quanto Leon si aspettasse. Leon si ritrovò a sospirare. "Non tutto funziona sempre come te lo aspetteresti."
+
+\*\*Per un istante gli tornò alla mente una libreria che non era mai esistita. Anna ne parlava come se avesse già scelto il quartiere, gli scaffali, persino la macchina del caffè da mettere in fondo alla sala. Leon sentì la memoria stringersi attorno al petto con la rapidità brutale delle cose che arrivavano senza essere chiamate. \*\*
+
+Per qualche minuto continuarono a camminare. Il ritmo dei loro passi e il rumore intermittente delle lame contro la vegetazione riempiva il silenzio senza che nessuno dei sue sentisse il bisogno di parlare.
+
+"E tuo padre?" chiese infine Leon. "Come ha preso il fatto che te ne sei andata?"
+
+Zali si voltò. Un sorriso appena accennato le comparve sul volto. "Quello non gli è piaciuto molto."
+
+"E che sei tornata?"
+
+"Nemmeno quello, all'inizio."
+
+Leon la guardò con sorpresa. "Pensavo che sarebbe stato il contrario."
+
+"Raul è un tradizionalista. Tornare per lui andava bene. Tornare con l'idea di cambiare delle cose un po' meno."
+
+Zali si fermò per superare un tronco caduto e aspettò che Leon passasse dall'altra parte.
+
+"Non ha ancora capito come mai a ventisei anni non ho già tre o quattro bambini." Rise. "Alla fine però ha accettato la cosa."
+
+Ripresero a camminare.
+
+Leon ricordò Raul durante la riunione con gli anziani. Aveva parlato poco, ma ogni volta che Zali era intervenuta, lui aveva lasciato che fosse lei a rispondere. Non sembrava l'atteggiamento di un uomo che considerava sua figlia incapace di decidere per conto proprio. E quando lei aveva preso la parola davanti agli anziani, Raul non l'aveva mai interrotta, nemmeno quando ciò che proponeva non coincideva con le sue idee.
+
+"Credo che tuo padre sia fiero di te."
+
+Zali lo guardò senza rispondere subito. Non era una frase gentile pronunciata per riempire il silenzio: era quello che Leon aveva visto.
+
+Davanti a loro la vegetazione cominciò finalmente a diradarsi. Il rumore dell'acqua, fino a quel momento poco più di un fruscio indistinto, divenne sempre più riconoscibile.
+
+Zali si fermò e abbassò il machete. "Da qui."
+
+Qualche passo più avanti comparve l'acqua.
+
+Era un affluente del Grande Fiume, come lo chiamavano i Naha, e in quel punto era più largo di quanto Leon si aspettasse. La corrente scorreva lenta tra le rive coperte di vegetazione. Da lontano l'acqua sembrava limpida, ma quando Leon si avvicinò vide il fango sollevarsi dal fondale in una nube sottile, torbida, che si disperse subito nella corrente.
+
+Zali si accovacciò e immerse una mano nell'acqua. "Possiamo trovare di meglio." Zali indicò il corso del fiume. "Più a monte."
+
+Risalirono la riva per alcune centinaia di metri, fermandosi più volte per valutare il terreno e la possibilità di far passare le persone con le taniche. Alla fine trovarono un piccolo corso d'acqua che confluiva nel fiume attraverso una zona di terreno più asciutta. L'acqua era molto più limpida e la corrente abbastanza regolare da permettere di riempire i contenitori senza smuovere il fondo.
+
+Zali rimase a osservare il fiumiciattolo per qualche secondo. "Qui va bene."
+
+Leon richiamò sulle lenti il percorso che avevano registrato durante l'andata e sovrappose la loro posizione alla traccia. "Se tagliamo da qui verso sud, ci ricongiungiamo al percorso principale piuttosto in fretta."
+
+Leon prese alcune misure e poi i due si incamminarono verso il campo. Tornando la foresta gli sembrò diversa da come l'aveva vista all'andata. Non perché fosse cambiato qualcosa, ma perché ora riusciva a riconoscere alcune delle cose che Zali gli aveva indicato: le differenze nel terreno, i passaggi naturali tra gli alberi, le zone che avrebbero raccolto l'acqua dopo un temporale.
+
+Per una volta aveva risolto un problema prima che diventasse urgente, e aveva imparato qualcosa di nuovo. Non solo sulla foresta.
+
+\[STACCO\]
+
+La prima vera novità giunse poco prima del tramonto, quando Leon ricevette un messaggio da Georg Schmidt.
+
+"Professor Walker, avrei alcuni risultati preliminari da mostrarle. La aspetto nella tenda laboratorio."
+
+Quando Leon raggiunse la tenda, trovò Alex ad attenderlo fuori.
+
+"Anche tu qui?" si stupì Leon.
+
+Alex fece spallucce. "Georg ha chiamato anche me. A quanto pare gli sto simpatico."
+
+"Dubito che esista qualcuno che sta simpatico a Schmidt," fece Leon piano, prima di scostare la tenda.
+
+Il linguista li attendeva seduto davanti al proprio terminale. Sullo schermo scorrevano immagini delle incisioni fotografate nella Sala delle Scritture.
+
+"Accomodatevi."
+
+I due obbedirono. La tenda non era stata pensata per ospitare tre persone e gran parte dello spazio disponibile era occupato dal tavolo di Schmidt, sul quale si accumulavano tablet, fogli pieni di annotazioni e riproduzioni ingrandite dei simboli. Una seconda sedia era quasi scomparsa sotto una pila di libri che il linguista aveva evidentemente ritenuto indispensabile portare nella foresta. Leon ne liberò una terza da una custodia rigida e si sedette accanto ad Alex.
 
 "Ha trovato una traduzione?" chiese Alex.
 
@@ -2468,17 +2976,21 @@ I due obbedirono.
 
 Alex e Leon si scambiarono uno sguardo.
 
-Georg intrecciò le dita. "Per quarantotto ore ho tentato di trattare quei simboli come una lingua. Ho applicato analisi frequenziali, confronti statistici, modelli grammaticali, sistemi di traduzione automatica. Tutto ciò che normalmente funziona." Il linguista si appoggiò allo schienale. "Le iscrizioni non si comportano come una lingua."
+Georg intrecciò le dita. "Da quando abbiamo acquisito le iscrizioni ho tentato di trattare quei simboli come una lingua. Ho applicato analisi frequenziali, confronti statistici, modelli grammaticali, sistemi di traduzione automatica. Tutto ciò che normalmente permette almeno di cominciare a individuare una struttura." Il linguista si appoggiò allo schienale. "Non ha funzionato."
 
 Nella tenda calò il silenzio.
 
 "Che significa?" domandò Leon.
 
-"Significa che non trovo strutture linguistiche riconoscibili. Nessuna grammatica evidente. Nessuna distribuzione compatibile con parole o frasi. Eppure non sono casuali." Schmidt indicò una delle immagini sul monitor. "Per un po' ho persino pensato che il sistema fosse deliberatamente progettato per sfuggire alla decifrazione. Poi ho smesso di chiedermi quale lingua fosse e ho iniziato a chiedermi se fosse davvero una lingua."
+Schmidt tamburellò le dita sul tavolino. "Significa che non trovo strutture linguistiche riconoscibili. Nessuna grammatica evidente, nessuna distribuzione che riesca a ricondurre in modo convincente a parole o frasi. Naturalmente questo non dimostra che non si tratti di una lingua sconosciuta. Ma qualunque modello linguistico provi ad applicare produce più eccezioni che regolarità."
+
+Indicò una delle immagini sul monitor.
+
+"Eppure i simboli non sono casuali. Per un po' ho persino pensato che il sistema fosse deliberatamente progettato per sfuggire alla decifrazione. Poi ho smesso di chiedermi quale lingua fosse e ho iniziato a chiedermi se fosse davvero una lingua."
 
 Alex si sporse in avanti. "E la risposta?"
 
-"Credo di no." Per la prima volta dall'inizio della conversazione, Georg lasciò trapelare una lieve soddisfazione. "Quei simboli sembrano rappresentare concetti matematici."
+"Credo che non lo sia." Per la prima volta dall'inizio della conversazione, Georg lasciò trapelare una lieve soddisfazione. "Quei simboli sembrano rappresentare concetti matematici."
 
 Leon rimase immobile. "Matematica?"
 
@@ -2488,19 +3000,35 @@ Alex fissò lo schermo per qualche secondo. "Quindi non stiamo osservando un tes
 
 "Non principalmente."
 
-Per alcuni istanti nessuno parlò. Poi Schmidt guardò Alex. "Se davvero si tratta di matematica, avrò bisogno di aiuto."
+Schmidt toccò lo schermo e fece comparire tre sezioni delle pareti, affiancate.
+
+"E c'è di più."
+
+Indicò alcune sequenze evidenziate. "Questi sono tre punti diversi della parete. Le sequenze sono identiche."
+
+Leon osservò i tre gruppi di simboli. "Ridondanza."
+
+Georg annuì. "Esatto. Una quantità enorme di ridondanza. Troppa per essere accidentale."
+
+Alex si passò una mano sul mento. "Come se volessero essere sicuri che il messaggio arrivasse."
+
+Schmidt lo guardò. "È una possibilità. Ma prima di attribuire intenzioni a persone morte da cinquemila anni, preferirei capire cosa dicono questi segni." Schmidt guardò Alex. "Ed è qui che entra in gioco lei. Se davvero si tratta di matematica, avrò bisogno di qualcuno che sappia dirmi che cosa sto guardando."
+
+Ecco spiegata la convocazione di Alex.
 
 Un leggero sorriso comparve sul volto del fisico. "Credo di poter dare un'occhiata."
 
 "Lo immaginavo."
 
-Leon li lasciò soli, mentre cominciavano già a mettersi al lavoro. Qualunque fosse la natura di quelle iscrizioni, era ormai chiaro che non assomigliavano a nulla di conosciuto.
+Alex trascinò la sedia più vicino al terminale e Schmidt cominciò immediatamente il passaggio di consegne. Nel giro di pochi secondi i due erano già immersi in una discussione che sfuggiva dalla comprensione di Leon.
+
+Per la prima volta da quando avevano scoperto le iscrizioni, avevano trovato una strada da seguire. Non sapevano ancora cosa dicessero quelle pareti, ma cominciavano almeno a capire come provare a leggerle.
 
 \[STACCO\]
 
-Il mattino seguente, poco dopo l'alba, Lisa convocò l'intero gruppo nella Sala delle Scritture. Il laser aveva terminato la perforazione.
+Il mattino seguente, poco dopo l'alba, Robert convocò l'intero gruppo nella Sala delle Scritture. Era arrivato il momento che tutti aspettavano: il laser aveva terminato la perforazione.
 
-Tutta la squadra era radunata. Alex si trovava accanto al foro che connetteva la Sala delle Scritture con la stanza isolata. Prese in mano la sonda endoscopica, un cavo flessibile dotato di una telecamera miniaturizzata e di una sorgente luminosa all'estremità. Il dispositivo era collegato a un monitor portatile disposto sopra un tavolo improvvisato.
+Tutta la squadra era radunata. Alex si trovava accanto al foro che connetteva la Sala delle Scritture con la stanza isolata. Prese in mano la sonda endoscopica: un cavo flessibile dotato di una telecamera miniaturizzata e di una sorgente luminosa all'estremità. Il dispositivo era collegato a un monitor portatile disposto sopra un tavolo improvvisato.
 
 "Pronti?" domandò.
 
@@ -2514,29 +3042,93 @@ Un brusio attraversò il gruppo.
 
 "Abbiamo visione," disse Alex.
 
-La stanza apparve sul monitor in tutta la sua interezza. Era più grande di quanto si fossero immaginati, forse quattro o cinque metri per lato, ma era difficile valutarne le dimensioni esatte attraverso l'obiettivo grandangolare della sonda.
-
-Al centro si trovava qualcosa.
+La camera era più grande di quanto avessero immaginato, forse quattro o cinque metri per lato, e un paio in altezza, anche se l'obiettivo grandangolare rendeva difficile valutarne le dimensioni. Ma quasi tutto lo spazio era occupato da qualcosa.
 
 Qualcosa di assurdo.
 
-"Cosa diavolo sarebbe?" mormorò infine Robert.
+"Cosa diavolo sarebbe?" mormorò Robert.
 
-Occupava buona parte della camera e assomigliava a molte cose senza coincidere veramente con nessuna. Da certe angolazioni ricordava un enorme orologio meccanico; da altre una macchina industriale.
+Leon non avrebbe saputo rispondere. Da certe angolazioni ricordava l'interno di un enorme orologio meccanico, da altre una macchina industriale costruita secondo criteri incomprensibili.
 
-La telecamera continuò a ruotare lentamente.
+La sonda continuò a ruotare.
 
-Emersero file di ingranaggi, assi metallici, supporti corrosi dal tempo e una complessa rete di carrucole che attraversava la stanza. In diversi punti si distingueva una matrice di sottili cristalli traslucidi disposti secondo geometrie rigorose, quasi fossero il cuore stesso del meccanismo.
+Emersero grandi ruote dentate disposte su piani differenti, assi metallici e una complessa rete di carrucole che attraversava la camera. Alcuni ingranaggi erano larghi quasi quanto un uomo; altri erano così piccoli che Leon riusciva appena a distinguerne i denti. Tutto sembrava collegato, parte di un unico sistema.
 
-L'intero macchinario sembrava immobile, come un grosso orologio rotto. Eppure, il segnale era lì, e non c'erano dubbi sul fatto che fosse quel meccanismo a generarlo. Apparentemente senza una fonte di energia.
+"Fermati lì," disse Emily.
 
-Il fisico manovrò la sonda con maggiore attenzione, avvicinandosi ai dettagli. Fu allora che comparve sullo schermo un enorme blocco di pietra sospeso a diversi centimetri dal pavimento.
+Alex arrestò la rotazione della sonda.
 
-Un contrappeso.
+Per alcuni secondi nessuno parlò. Leon osservò il monitor cercando un movimento, anche minimo, ma non vide nulla. Le ruote dentate erano ferme. Le carrucole immobili. Nessuna vibrazione, nessun segno che quel groviglio di ingranaggi stesse facendo qualcosa.
 
-Il gruppo rimase in silenzio.
+"Non funziona," disse Schmidt.
 
-Alex avvicinò ulteriormente l'immagine, studiando il sistema di carrucole che lo sosteneva.
+Robert scosse la testa. "Eppure il segnale viene da questa camera."
+
+"Abbiamo localizzato la sorgente con un margine di errore inferiore a un metro," intervenne Alex. "È chiaro che qualunque cosa sia quell'affare, è in funzione."
+
+Leon tornò a guardare lo schermo. "Eppure sembra tutto fermo."
+
+"Potrebbe esserlo," disse Emily. "Almeno la parte che vediamo."
+
+Robert si avvicinò al monitor. "C'è un problema ancora più semplice. Se quella cosa sta trasmettendo, da qualche parte deve prendere energia. E non vedo batterie" concluse con una nota ironica.
+
+Era la stessa domanda che si era appena posto Leon.
+
+Alex riprese a muovere lentamente la sonda.
+
+La telecamera passò sopra una serie di ruote dentate e raggiunse il fondo della camera, dove la luce incontrò una grande massa squadrata. All'inizio Leon la scambiò per parte della muratura. Poi Alex cambiò angolazione e sotto il blocco comparve una sottile linea d'ombra.
+
+"Un momento."
+
+Avvicinò l'immagine.
+
+Il blocco non poggiava sul pavimento.
+
+Era sospeso a diversi centimetri da terra, sostenuto da un sistema di funi e carrucole che risaliva verso il soffitto. Doveva pesare diverse tonnellate.
+
+"Quello è un contrappeso," disse Robert.
+
+Alex rimase a fissarlo. "Potrebbe essere qualcosa di più."
+
+Fece arretrare l'inquadratura fino a comprendere il blocco e parte del sistema di ingranaggi. "Forse abbiamo trovato la fonte di energia."
+
+"Che vuoi dire?" chiese la Carter.
+
+"Un peso sospeso immagazzina energia potenziale. Se lo lasci scendere, puoi usare quell'energia per azionare un meccanismo," spiegò il fisico senza togliere gli occhi dalle immagini.
+
+"Come un orologio a pendolo," disse Leon.
+
+"Solo molto più grande."
+
+Leon osservò nuovamente il blocco, perfettamente immobile. "Ma non sta scendendo."
+
+"Non abbastanza velocemente perché possiamo accorgercene." Alex indicò il sistema di riduzione. "Guardate quanti ingranaggi ci sono. Se i rapporti sono abbastanza elevati, quel peso potrebbe muoversi in modo quasi impercettibile."
+
+Emily si voltò verso di lui. "Per quanto tempo?"
+
+Alex esitò. "Sono sicuro che possiamo calcolarlo. Dovremmo stimare la massa, la corsa disponibile, i rapporti di trasmissione e soprattutto quanta energia consuma il sistema."
+
+Robert riportò l'attenzione sul problema iniziale. "Ammettiamo che il peso fornisca l'energia. Questo spiega come possa muoversi la macchina, non come possa trasformare il movimento in energia elettrica."
+
+Leon sentì l'entusiasmo iniziale lasciare spazio a qualcosa di più difficile da definire. Una macchina apparentemente immobile, priva di alimentazione elettrica e sepolta dentro una struttura antica stava inviando un segnale che loro avevano rilevato a centinaia di chilometri di distanza.
+
+"Continua," disse Robert. "Vediamo cos'altro c'è."
+
+Alex fece ruotare nuovamente la sonda.
+
+La luce scivolò oltre gli ingranaggi, seguì un sistema di leve e raggiunse una struttura che fino a quel momento era rimasta nascosta dietro una delle ruote maggiori.
+
+Alex rallentò.
+
+Decine di elementi traslucidi erano disposti in file regolari e serrati tra due strutture metalliche. Da quella distanza sembravano lastre di cristalli.
+
+Alex avvicinò l'immagine.
+
+"Che cosa sono?" domandò Leon.
+
+Robert si chinò verso lo schermo. "Cristalli di quarzo?"
+
+Alex non rispose subito. Avvicinò ulteriormente l'immagine, studiando il sistema di carrucole che lo sosteneva.
 
 "Aspettate\..." mormorò.
 
@@ -2544,7 +3136,7 @@ Seguì con lo sguardo il percorso delle funi e degli ingranaggi, poi tornò sui 
 
 "Aspettate un momento" ripeté.
 
-"Cosa?" chiese Leon.
+"Cosa?" chiese Leon, battendo il piede ritmicamente.
 
 Alex non rispose subito. Continuò a osservare. "Potrei sbagliarmi, ma credo di avere un'ipotesi."
 
@@ -2554,25 +3146,31 @@ Tutti si voltarono verso di lui.
 
 Leon aggrottò la fronte. "Vale a dire?"
 
-"Alcuni cristalli generano una differenza di potenziale elettrico quando vengono compressi. È un fenomeno che conosciamo da secoli. E se il movimento del contrappeso aziona periodicamente un sistema di compressione\..." Si interruppe, indicando il monitor. "Allora questa macchina potrebbe generare impulsi elettrici."
+"Alcuni cristalli generano una differenza di potenziale elettrico quando vengono compressi. È un fenomeno noto."
 
-Il pesante blocco di granito era sospeso e apparentemente immobile, ma Leon realizzò che in realtà stava probabilmente scendendo a una lentezza esasperante, come se il suo movimento fosse calibrato per durare secoli. Anzi, millenni. Come il contrappeso che alimenta gli orologi a pendolo, ma sei ordini di grandezza più lento.
+Robert annuì. "È lo stesso principio con cui si genera la scintilla in un accendigas."
 
-Leon cercava di capire. "Quindi\... questo meccanismo ha continuato a funzionare per *millenni*, mandando un debole segnale che solo con i sistemi di monitoraggio moderni abbiamo percepito?"
+"Esatto." Alex indicò le strutture metalliche che serravano i cristalli. "E quelle hanno tutta l'aria di essere presse. Se il contrappeso aziona gli ingranaggi, e gli ingranaggi le comprimono periodicamente, il sistema potrebbe trasformare l'energia gravitazionale del peso in impulsi elettrici."
 
-"Scommetto che da qualche parte lì dentro c'è un ingranaggio che sta ruotando, con dentature corrispondenti alle cifre che stiamo rilevando."
+Leon riportò lo sguardo sul blocco sospeso. Fino a pochi minuti prima gli era sembrato soltanto una delle tante parti incomprensibili della macchina; adesso riusciva almeno a intravedere una logica. Il peso scendeva, gli ingranaggi trasmettevano il movimento, le presse comprimevano i cristalli. Un processo interamente meccanico capace di produrre elettricità senza alcun apparato moderno.
 
-Leon guardò lo schermo incredulo. Il segreto delle rovine sembrava essere racchiuso in quella straordinaria macchina, longeva e complessa.
+"Generare un impulso elettrico non significa trasmetterlo," precisò Alex. "Dobbiamo ancora capire come venga convertito nel segnale che rileviamo, come venga codificata la sequenza e soprattutto come riesca a propagarsi abbastanza da essere stata captata a centinaia di chilometri da qui."
 
-"Questa scoperta è destinata a riscrivere la storia" mormorò Robert. "Un meccanismo così ingegnoso, arrivato ai giorni nostri ancora funzionante. Dev'essere un caso unico al mondo."
+Leon osservò nuovamente la macchina. Quel ritrovamento avrebbe dovuto spiegare tutto, ma la verità è che apriva solo nuove domande.
 
-"Un meccanismo di precisione costruito con una padronanza assoluta della meccanica, e addirittura una comprensione profonda delle onde elettromagnetiche. È impossibile, deve trattarsi di uno scherzo" disse Georg Schmidt, scettico.
+"Non sappiamo nemmeno se il contrappeso sia davvero in movimento," aggiunse Schmidt scettico. "Stiamo costruendo una teoria sulla base di immagini riprese attraverso un foro di pochi millimetri."
 
-Eppure ogni evidenza gli dava contro: prima di tutte il fatto che la stanza era protetta da impenetrabili murature spesse tre metri. Nessuno scherzo poteva essere elaborato fino a tal punto.
+"Abbiamo tempo di verificare tutto," ribatté Robert senza riuscire a nascondere l'entusiasmo. "Se Alex ha ragione, stiamo guardando un sistema capace di convertire energia meccanica in elettricità costruito migliaia di anni fa. Già questo sarebbe una scoperta straordinaria."
 
-Le rivelazioni di quegli ultimi giorni avevano sollevato più domande che risposte. Prima le scritture ridondanti dal contenuto matematico, e ora quell'assurdo meccanismo\...
+Georg Schmidt sembrava decisamente più scettico. "Un meccanismo di precisione costruito con una padronanza assoluta della meccanica, e addirittura una comprensione profonda delle onde elettromagnetiche. È impossibile, deve trattarsi di uno scherzo."
+
+Eppure, pensò Leon, ogni evidenza gli dava contro: prima di tutte il fatto che la stanza era protetta da impenetrabili murature spesse tre metri. Nessuno scherzo poteva essere elaborato fino a tal punto.
+
+Leon ripensò alle rivelazioni di quegli ultimi giorni. Prima le scritture ridondanti dal contenuto matematico, e ora quell'assurdo meccanismo. Lavoravano al sito da una settimana e avevano trovato più domande che risposte.
 
 Un dubbio paradossale prese forma nella mente di Leon: erano loro ad aver trovato il segnale, o il segnale ad aver trovato loro?
+
+\[STACCO\]
 
 # CAPITOLO
 
@@ -2588,21 +3186,21 @@ Nadia era lì, davanti alla terza porta del vicolo. Era stata interi minuti ad o
 
 Nadia si decise a muoversi. Non poteva tornare senza nulla in mano, non dopo la discussione del giorno prima.
 
-Si avvicinò a passi misurati alla soglia, fino quasi a sfiorare la porta con la punta del naso. Bastava un gesto, un colpo di nocche sul legno, ma il coraggio non arrivava. E se avesse avuto ragione lui? Se quella fosse soltanto una casa qualunque, annotata dal padre per caso? Peggio: se fosse una trappola? Di sicuro non poteva---
+Si avvicinò a passi misurati alla soglia, fino quasi a sfiorare la logora porta con la punta del naso. Bastava un gesto, un colpo di nocche sul legno, ma il coraggio non arrivava. E se avesse avuto ragione lui? Se quella fosse soltanto una casa qualunque, annotata dal padre per caso? Peggio: se fosse una trappola? Di sicuro non poteva---
 
 La porta si aprì all'improvviso, e una figura quasi le venne a sbattere addosso. Il cuore di Nadia accelerò. Era una vecchietta. Nadia la mise a fuoco a malapena: capelli bianchi raccolti in uno chignon malfermo, occhi acquosi, un grembiule unto di farina e di chissà cos'altro. Aveva tutta l'aria di una di quelle donne che non mettono mai piede fuori casa se non per andare al mercato una volta a settimana.
 
 La signora parve confusa quanto lei. "Bambina, ti sembra una cosa da fare, appostarsi di fronte alla porta di casa?" La fissò con aria sospettosa, e Nadia si ritrovò a balbettare una scusa qualsiasi. La vecchia, scuotendo il capo, borbottò qualcosa di incomprensibile e rientrò, lasciandosi dietro la porta socchiusa.
 
-Nadia restò piantata lì, imbambolata. Un pensiero le trapassò la mente come una lama fredda: Akil aveva ragione. Era solo una casa qualunque, l'indirizzo di una signora qualsiasi appuntato dal padre per chissà quale motivo. Livida di imbarazzo, fece un passo indietro e poi un altro, pronta a voltarsi e sparire dal vicolo.
+Nadia restò piantata lì, imbambolata. Un pensiero le trapassò la mente come una lama: Akil aveva ragione. Era solo una casa qualunque, l'indirizzo di una signora qualsiasi appuntato dal padre per chissà quale motivo. Livida di imbarazzo, fece un passo indietro e poi un altro, pronta a voltarsi e sparire dal vicolo.
 
 Ma proprio in quell'istante la signora riapparve, stringendo qualcosa tra le mani. Senza dire altro gliela infilò contro il petto. "Tieni, grazie e buona giornata." E richiuse.
 
-Nadia rimase immobile, come pietrificata, lo sguardo perso nel vuoto. Non riusciva a capire se fosse stata appena scacciata o incaricata di qualcosa. Il suo cervello non riusciva ancora a collegare i gesti, le parole, il senso di quello che era accaduto.
+Nadia rimase immobile, come pietrificata, lo sguardo perso nel vuoto. Non riusciva a capire se fosse stata appena scacciata o incaricata di qualcosa. Non riusciva a collegare i gesti, le parole, il senso di quello che era accaduto.
 
 Scivolò lentamente via, ancora frastornata. Camminò per qualche metro lungo la stradina deserta prima di abbassare lo sguardo sulla busta che aveva ricevuto. Solo allora, con un gesto esitante, sollevò l'involucro.
 
-Il sigillo di ceralacca blu notte brillava sotto la luce. Un triangolo con un occhio al centro. Un brivido le percorse la schiena, così netto da farle dimenticare per un istante il respiro.
+Il sigillo di ceralacca blu notte brillava sotto la luce. Un triangolo con un occhio al centro. Un brivido le percorse la schiena, così netto da farle dimenticare per un istante di respirare.
 
 Nadia rientrò alla casa del viaggiatore con il cuore che le batteva ancora forte, come se la busta stretta fra le mani fosse un carbone rovente. Salì le scale con passo rapido, desiderosa di aprirla subito ma timorosa di scoprire cosa contenesse davvero.
 
@@ -2638,7 +3236,7 @@ Nadia rilesse il foglio, soppesando ogni parola, soffermandosi su ogni verso. *"
 
 Si concentrò sulla riga successiva. *"Seconda strada per ricco splendore".* La Strada dei Portatori, forse. Una delle arterie principali della città, seconda solo al Corso Maestro. Lo aveva imparato quasi senza volerlo, durante le ore passate a consegnare ceste in giro.
 
-Il resto sembrava quasi un dettaglio pratico: *"Mezza pinta ondeggia soave"* doveva indicare un'insegna di una delle case del viaggiatore in città, un punto di ritrovo. *"Notte fiorita è la parola chiave"* -- da pronunciare forse al gestore, o a chi l'avrebbe attesa.
+Il resto sembravano dettagli pratici: *"Mezza pinta ondeggia soave"* doveva indicare un'insegna di una delle case del viaggiatore in città, un punto di ritrovo. *"Notte fiorita è la parola chiave"* -- da pronunciare forse al gestore, o a chi l'avrebbe attesa.
 
 Un brivido di eccitazione le corse lungo la schiena. Tutto si incastrava. Era stato semplice, alla fine: bastava leggere con mente lucida. Esultò in silenzio, stringendo il foglio con forza.
 
@@ -2662,7 +3260,7 @@ Nadia annuì. Avrebbe voluto sorridere, mostrarsi contenta per lui. E in parte l
 
 Perché non gli aveva mostrato la busta? Non era mai stata solita nascondergli le cose. Eppure, le parole le si erano fermate in gola. Forse perché non aveva ancora nulla in mano. Forse perché, in fondo, temeva che Akil avrebbe liquidato la lettera come un errore, un fraintendimento, una coincidenza qualunque.
 
-Akil non insistette. "Beh... fai attenzione" disse infine, con un sospiro. Poi si lasciò cadere sul letto. Nel giro di pochi minuti il suo respiro si fece regolare, cadenzato dal sonno pesante della fatica.
+Akil non insistette. "Beh... fai attenzione" disse infine, con un sospiro. Poi si tolse i vestiti impolverati e si lasciò cadere sul letto. Nel giro di pochi minuti il suo respiro si fece regolare, cadenzato dal sonno pesante della fatica.
 
 Nadia infilò una mano sotto il cuscino e strinse il foglio tra le dita.
 
@@ -2686,7 +3284,7 @@ Per scacciare i pensieri, una visita al tempio era quello che ci voleva.
 
 Passò di fronte al grande tempio, con le sue porte imponenti e le sue sontuose scalinate, affacciato sulla piazza centrale. Non si illuse di potervi entrare: il luogo di culto restava precluso ai comuni fedeli.
 
-Continuò a camminare. Attraversò due piazze minori, superò una fila di botteghe da cui proveniva l'odore del pane appena sfornato e delle spezie, poi si inoltrò in un quartiere più tranquillo. Dopo alcuni minuti scorse un tempio dedicato a Rham, incastonata tra edifici residenziali e alberi ornamentali.
+Continuò a camminare. Attraversò due piazze minori, superò una fila di botteghe da cui proveniva l'odore del pane appena sfornato e delle spezie, poi si inoltrò in un quartiere più tranquillo. Dopo alcuni minuti scorse un tempio dedicato a Rham, incastonato tra edifici residenziali e alberi ornamentali.
 
 Nel varcare la soglia del luogo sacro, il vociare caotico e vivace della città sembrò affievolirsi di netto, come un brusio ovattato in lontananza. Il fresco della muratura le diede tregua, mentre a passi lenti avanzava nel tempio guardandosi attorno. La struttura era modesta, per una chiesa della capitale, ma era comunque molto più sfarzosa del tempio di maestro Belan, sulla collina di Junna. Pianta circolare, come tutti i templi dedicati al Dio-Sole, pareti decorate con rappresentazioni artistiche dei miti religiosi.
 
@@ -2722,97 +3320,167 @@ Nadia si raddrizzò, trattenendo il respiro. Seguì con lo sguardo quel filo ina
 
 # CAPITOLO
 
-id: la_sala_del_trono
+id: gli_dei
 tipo: capitolo
-titolo: La sala del trono
-descrizione: L'attività al campo base non si ferma, soprattutto ora che una nuova stanza delle antiche rovine viene resa accessibile.
-immagine: img/capitoli/la_sala_del_trono.jpg
+titolo: Gli dei
+descrizione: Al campo i ricercatori si rilassano, e Zali racconta un'antica storia.
+immagine: img/capitoli/la_squadra.jpg
 
 --- FINE METADATI ---
 
-La scoperta del meccanismo nella stanza isolata era destinata a segnare un punto di svolta per lo studio del sito. Leon impose che ogni informazione restasse confinata al team ristretto che aveva avuto accesso alla camera. Finché non avessero capito che cosa fosse realmente quel dispositivo e come fosse finito lì, nessun rapporto sarebbe stato divulgato all'esterno.
+La scoperta del meccanismo nella stanza isolata era destinata a segnare un punto di svolta per lo studio del sito. Leon decise che, per il momento, non ne sarebbe uscita una parola. Non aveva intenzione di lasciare che la burocrazia, la prudenza o qualche superiore ansioso di mettere il proprio nome sulla scoperta rallentassero le indagini. Prima dovevano capire che cosa avessero trovato. Poi avrebbero deciso cosa raccontare e a chi. Se quel dispositivo era davvero ciò che cominciava a sospettare, poteva trattarsi della scoperta più importante della sua carriera. E Leon non aveva alcuna intenzione di farsela sfuggire.
 
-Al campo base, l'attività non si fermava mai e si distribuiva secondo un equilibrio ormai consolidato: Alex passava gran parte delle giornate chino sulle iscrizioni, confrontandosi con Georg nella lenta decifrazione del sistema di scrittura, mentre poco più in là Emily e Robert procedevano con la catalogazione sistematica dei reperti, registrando e confrontando ogni elemento con metodo quasi ossessivo; Lisa, invece, scendeva sempre più spesso nella struttura, guidando la squadra nei livelli inferiori e coordinando le operazioni necessarie ad aprire il passaggio verso il secondo piano interrato, un lavoro che senza il supporto dei Naha sarebbe rimasto irrealizzabile.
+Nei giorni successivi, lui e Alex dedicarono ogni momento libero a investigare ogni dettaglio.
 
-Zali era diventata a tutti gli effetti il ponte tra il suo popolo e i ricercatori. La sua presenza al campo era ormai stabile, mentre la guesthouse rimaneva vuota per gran parte del tempo. Tornava al villaggio solo sporadicamente, per rifornire la spedizione di viveri, attrezzature e informazioni, mantenendo un flusso continuo tra le due realtà.
+Non potendo entrare nella camera, dovettero accontentarsi delle immagini raccolte dalla sonda. Ne avevano registrate abbastanza perché Marie potesse combinarle in una ricostruzione tridimensionale piuttosto precisa del meccanismo. Sullo schermo della tenda laboratorio, il groviglio incomprensibile di ruote, assi e carrucole cominciò poco alla volta ad acquistare una logica.
 
-Leon, dal canto suo, si muoveva con precisione tra responsabilità sempre più numerose, dalla gestione dei report alla supervisione complessiva della spedizione, fino al controllo dell'equilibrio interno della squadra. Marie elaborava parte del carico operativo permettendogli di mantenere una visione d'insieme senza essere schiacciato dal dettaglio quotidiano.
+L'ipotesi del contrappeso sembrava reggere. Il grande blocco sospeso forniva energia al sistema attraverso una successione di riduzioni meccaniche, mentre una serie di leve terminava sulle presse che serravano i cristalli. Rimaneva da capire in che modo il meccanismo producesse proprio la sequenza che avevano rilevato.
 
-Per diversi giorni il lavoro proseguì con una regolarità quasi rassicurante. I progressi erano lenti, ma costanti, e ogni nuova sezione liberata confermava la solidità del metodo adottato dalla squadra. Poi, nel corso di un pomeriggio scandito dal consueto ritmo degli scavi, Leon vide Lisa risalire dal sottosuolo con un'espressione diversa dal solito. Cercava di mantenere un contegno professionale, ma il sorriso che le increspava le labbra e la luce negli occhi tradivano una soddisfazione difficile da nascondere.
+La risposta arrivò una sera, quando Leon e Alex avevano lasciato per qualche minuto la tenda laboratorio per prendere un po' d'aria. Il campo si era finalmente quietato dopo una giornata di lavoro, e dalle tende illuminate filtravano voci e frammenti di conversazione. Più in là, vicino alla cucina improvvisata, alcuni Naha stavano preparando la cena insieme a Emily Carter; ormai nessuno sembrava più considerare quella mescolanza qualcosa di insolito.
 
-"Ce l'abbiamo fatta," annunciò appena gli fu abbastanza vicina. "Con l'aiuto dei Naha siamo riusciti a liberare completamente il passaggio." Fece una breve pausa, quasi per assaporare il momento. "Possiamo scendere al piano inferiore."
+Alex si fermò accanto a una delle casse di attrezzature accatastate ai margini del campo e indicò lo schermo del tablet.
+
+"È un carillon," disse.
+
+Leon sollevò lo sguardo dalla ricostruzione. "Un carillon?"
+
+"Il principio è quello." Alex ingrandì una delle ruote. Lungo il bordo, i denti non erano distribuiti uniformemente, ma formavano gruppi separati da spazi regolari. "In un carillon, la disposizione dei rilievi stabilisce quali note vengono suonate e quando. Qui non ci sono note."
+
+Leon annuì. "Ci sono impulsi."
+
+"Le prime cento cifre di pi greco." Alex fece ruotare lentamente il modello. "Il principio sembra chiaro. Il movimento del contrappeso fa avanzare il sistema; queste ruote stabiliscono quando vengono azionate le presse. È un carillon che, invece di suonare una melodia, produce una sequenza di impulsi elettrici."
+
+Per la prima volta avevano davanti una possibile ricostruzione dell'intero processo: il contrappeso forniva l'energia, gli ingranaggi ne regolavano il rilascio e le ruote dentate codificavano la sequenza matematica che li aveva condotti fino alle rovine.
+
+Mancava però un passaggio fondamentale.
+
+"Questo spiega come vengono prodotti gli impulsi," disse Leon. "Non come arrivino fino ai nostri sensori."
+
+Alex annuì. Era un problema sul quale lavorava dalla scoperta della macchina. Leon lo sapeva: il segnale era stato rilevato a centinaia di chilometri di distanza e aveva attraversato strati di terreno e roccia prima di raggiungere i loro strumenti. Serviva un sistema capace di irradiarlo. In altre parole, mancava un'antenna.
+
+Alex riaprì il modello. "Ho delle ipotesi anche per quello."
+
+Indicò a Leon un dettaglio che era sfuggito, un elemento che nelle prime osservazioni avevano scambiato per una componente strutturale. Ai margini della stanza, una spessa asta metallica correva verticalmente lungo una parete e scompariva nella pietra, proseguendo sia verso il soffitto sia verso il pavimento.
+
+"Potrebbe essere l'antenna," disse Alex.
+
+"Quanto è lunga?"
+
+"Non lo sappiamo ancora," rispose Alex. "Verso l'alto riesco a seguirlo abbastanza bene. Ma il conduttore continua anche verso il basso. Di questo sono abbastanza sicuro." Alex osservò la linea verticale sul modello. "Se è davvero l'antenna, dobbiamo sapere dove termina. Una volta misurata la lunghezza possiamo almeno capire se è compatibile con la frequenza che abbiamo captato."
+
+Quella sottile linea metallica attraversava la struttura da parte a parte, scomparendo nella pietra sopra e sotto la camera. Era come se una spina dorsale attraversasse l'intera costruzione, nascosta nelle sue viscere e collegando livelli che ancora non avevano visto.
+
+Leon pensò al crollo che avevano trovato nella Sala delle Scritture. Fin da subito Robert aveva individuato indizi dell'esistenza di altri ambienti lì sotto, ma fino a quel momento nessuno aveva avuto un motivo sufficiente per trasformare quella parte dello scavo in una priorità. Adesso quel motivo era davanti ai loro occhi.
+
+"Andiamo a vedere dove porta."
+
+Leon e Alex andarono a cercare Robert. Lo trovarono che si allontanava dalla zona delle latrine.
+
+"Hai cinque minuti?" lo intercettò Leon.
+
+"Adesso sì. Prima avevo un problema decisamente più urgente."
+
+I tre scesero nella Sala delle Scritture. Il geologo li precedette lungo il tratto già liberato della struttura, fino a che raggiunsero il punto in cui il crollo aveva interrotto il passaggio verso i livelli inferiori.
+
+"Qui sotto dovrebbe esserci un altro ambiente," disse Leon, davanti alla massa di detriti e terra che occupava il fondo della sala.
+
+Robert annuì. "Poco ma sicuro. Ma il crollo è consistente."
+
+Leon osservò le macerie. "Quanto ci vuole per aprire il passaggio?"
+
+Robert rifletté per qualche secondo. "Dipende da quante persone mi dai."
+
+"Prendi tutte le risorse che ti servono."
 
 \[STACCO\]
 
+Nei giorni successivi, l'attività proseguì secondo un equilibrio ormai consolidato: Alex passava gran parte delle giornate chino sulle iscrizioni, confrontandosi con Georg nella lenta decifrazione del sistema di scrittura, mentre Emily catalogava i reperti, registrando e confrontando ogni elemento con metodo quasi ossessivo; Robert, invece, guidava la squadra di lavoro nei livelli inferiori coordinando le operazioni necessarie ad aprire il passaggio verso il secondo piano interrato, un lavoro che senza il supporto dei Naha sarebbe rimasto irrealizzabile.
+
+Zali era diventata a tutti gli effetti il ponte tra il suo popolo e i ricercatori. La sua presenza al campo era ormai stabile, mentre la guesthouse rimaneva vuota per gran parte del tempo. Tornava al villaggio solo sporadicamente, per rifornire la spedizione di viveri, attrezzature e informazioni, mantenendo un flusso continuo tra le due realtà.
+
+Leon, dal canto suo, si muoveva con precisione tra responsabilità sempre più numerose, dalla gestione dei report alla supervisione complessiva della spedizione, fino al controllo dell'equilibrio interno della squadra. Marie elaborava parte del carico operativo permettendogli di mantenere una visione d'insieme senza essere schiacciato dai dettagli.
+
 Quella sera, al campo base, accesero nuovamente il grande falò che ormai era diventato una sorta di rituale non scritto. Le fiamme crepitavano nel centro dello spiazzo mentre il cielo sopra la giungla sfumava lentamente dal rosso al viola. Attorno al fuoco si mescolavano ricercatori e Naha, e l'odore della legna bruciata si confondeva con quello della carne arrostita e delle spezie portate dal villaggio.
 
-Robert Brooks addentò con evidente soddisfazione uno spiedo improvvisato.
+Robert Brooks addentò con evidente soddisfazione uno spiedo.
 
 "Ah, finalmente qualcosa che sa di vero." Sollevò il pezzo di carne come se stesse per tenere una conferenza. "Carne vera. Animale vero. Nessuna vasca di coltura."
 
-Zali, seduta poco distante, corrugò la fronte. "Aspetta. State dicendo che da voi la carne cresce senza animali?"
+Zali, seduta poco distante, corrugò la fronte. "Da voi la carne cresce senza animali?"
 
 "Da parecchio tempo," confermò Alex.
 
-"Ma\... allora cosa allevate?"
-
-Alex trattenne una risata. "Gli azionisti."
-
-Perfino Georg lasciò sfuggire un mezzo sorriso.
-
-Zali fissò Alex per qualche secondo, cercando di capire se stesse scherzando. "Non so cosa siano."
-
-"In quel caso la battuta non funziona."
-
 Leon stava osservando con curiosità alcuni giovani Naha seduti poco oltre il cerchio principale. Di tanto in tanto prendevano un pizzico di foglie essiccate o un piccolo frammento di legno aromatico e lo gettavano tra le fiamme.
 
-L'archeologo li osservò per qualche minuto, poi si rivolse a Zali. "È una specie di preghiera?"
+Li osservò per qualche minuto, poi si rivolse a Zali. "È una specie di preghiera?"
 
-La ragazza seguì il suo sguardo e sorrise. "Più o meno. È un ringraziamento."
+La ragazza seguì il suo sguardo. "Più o meno. È un ringraziamento."
 
 "Per cosa?"
 
-"Per il fuoco. Per il cibo. Per la giornata."
+"Per il fuoco, per il cibo, per la giornata."
 
 Leon annuì lentamente. "E a chi viene rivolto questo ringraziamento?"
 
 "A Nara, colui che crea le cose vive."
 
-Zali osservò le fiamme per qualche istante, poi la sua voce sia abbassò di un tono, quasi come stesse recitando.
+"Continua."
 
-"La nostra tradizione religiosa più antica parla di due fratelli, Nara e Aruk. La leggenda narra che all'inizio esistessero soltanto loro due.
+Zali osservò le fiamme per qualche istante. Sembrò cercare nella memoria le parole giuste, poi abbassò leggermente la voce, come se il racconto richiedesse di essere pronunciato in quel modo.
 
-"Nara diede forma al mondo. Fece crescere gli alberi, riempì il cielo di uccelli e insegnò agli uomini come accendere il fuoco."
+"Si narra di un tempo in cui al mondo esistevano soltanto due fratelli, Nara e Aruk. Non c'erano foreste, né fiumi, né uomini. Non c'era ancora il giorno e non c'era la notte. C'erano soltanto loro due."
 
-Anche il resto della squadra ora la ascoltava. Le ombre danzavano sul suo volto mentre parlava, e per la prima volta da quando l'avevano conosciuta sembrava perfettamente a suo agio al centro dell'attenzione.
+Leon rimase immobile ad ascoltare.
 
-"Aruk arrivò dopo. Insegnò al mondo a cambiare. Nara creò gli alberi. Aruk inventò l'autunno. Nara creò gli animali. Aruk insegnò loro a morire. Nara creò gli uomini. Aruk insegnò loro il tempo."
+"Nara diede forma alla terra, fece crescere gli alberi e riempì il cielo di uccelli. Poi creò gli animali e insegnò agli uomini come vivere tra le cose che aveva fatto. Fu lui a donare loro il fuoco, perché potessero scaldarsi, cucinare il cibo e riunirsi quando arrivava la notte."
 
-Robert osservò la ragazza con curiosità. "Quindi Aruk non è una divinità malvagia?"
+Zali fece una breve pausa. Un ceppo cedette nel fuoco e una manciata di scintille salì verso il cielo.
 
-Zali sembrò quasi sorpresa dalla domanda. "No." Lo disse come se fosse ovvio. "Se Nara fosse rimasto solo, nulla sarebbe mai cambiato. Il mondo sarebbe rimasto identico per sempre."
+"Per molto tempo Nara continuò a creare. Ogni cosa che faceva rimaneva al suo posto, esattamente come l'aveva fatta. Gli alberi crescevano, ma non cadevano. I fiumi scorrevano, ma non cambiavano il loro corso. Gli animali nascevano, ma nessuno moriva.
+
+"Allora Aruk guardò ciò che aveva fatto suo fratello e gli chiese: 'Perché hai creato un mondo che non può cambiare?' Nara gli rispose che non c'era bisogno di cambiare ciò che era stato creato bene. Aruk, però, non era d'accordo. Prese una foglia e la lasciò cadere a terra. Poi aspettò."
+
+Un sorriso appena accennato comparve sul volto di Zali.
+
+"Fu la prima foglia d'autunno."
+
+Qualcuno del gruppo si mosse vicino al fuoco, ma nessuno parlò.
+
+"Da quel momento Aruk cominciò a cambiare ciò che Nara aveva creato. Insegnò agli alberi a perdere le foglie e alla terra a riposare. Insegnò agli animali a crescere e morire. Insegnò agli uomini che ogni cosa che possiedono può essere perduta e che ogni giorno è diverso da quello che viene prima. Insegnò loro il tempo. "
+
+Il fuoco continuava a crepitare davanti a loro. I ragazzi che gettavano le foglie nelle fiamme non stavano soltanto ringraziando il dio che aveva creato il fuoco. Stavano celebrando qualcosa che continuava a esistere perché poteva consumarsi, trasformarsi e infine scomparire.
+
+Robert fu il primo a rompere il silenzio. "Quindi Aruk è una specie di dio della morte?"
+
+Zali corrugò la fronte. "No."
+
+"Sembra uno spirito malvagio."
+
+Lei sembrò quasi sorpresa. "No. Perché dovrebbe?"
+
+Robert sollevò appena le mani, come a dire che stava semplicemente cercando di capire.
+
+"Se Nara fosse rimasto solo, nulla sarebbe mai cambiato. Il mondo sarebbe rimasto identico per sempre."
 
 "E se fosse rimasto solo Aruk?" domandò Leon.
 
 "Non sarebbe esistito nulla da cambiare."
 
-Per qualche secondo nessuno parlò. Poi Robert sollevò il proprio spiedo verso il cielo. "Devo ammettere che è una religione più sofisticata di molte altre che ho studiato."
+Per qualche secondo nessuno parlò. Poi Robert sollevò il proprio spiedo verso il cielo. "Devo ammettere che è una religione più interessante di molte altre che ho studiato."
 
-Il falò crepitava allegro al centro dell'accampamento, mentre le ombre danzavano sulla tela delle tende e sui volti illuminati dalla luce arancione delle fiamme.
+Le ombre danzavano sulla tela delle tende e sui volti illuminati dalla luce arancione delle fiamme.
 
-Tre giovani Naha, forse ispirati dai racconti tribali, tirarono fuori dal nulla alcuni tamburi ricavati da tronchi cavi e pelli tese. Senza bisogno di accordarsi, iniziarono a battere un ritmo vivace che si diffuse rapidamente per il campo. I piedi scalzi sollevavano piccole nuvole di polvere rossastra, mentre i tamburi acceleravano gradualmente.
+Tre giovani Naha, ispirati dai racconti tribali, tirarono fuori dal nulla alcuni tamburi ricavati da tronchi cavi e pelli tese. Senza bisogno di accordarsi, iniziarono a battere un ritmo vivace che si diffuse rapidamente per il campo. I piedi scalzi sollevavano piccole nuvole di polvere rossastra, mentre i tamburi acceleravano gradualmente.
 
-Uno dei ragazzi tese la mano verso Lisa con un sorriso provocatorio. La geologa scoppiò a ridere, arrossì appena e, dopo un'esitazione che durò meno di un secondo, accettò l'invito tra gli applausi dei colleghi.
+Uno dei ragazzi tese la mano verso Emily con una risata. L'archeologa scoppiò a ridere a sua volta, arrossì appena e, dopo un'esitazione che durò meno di un secondo, accettò l'invito tra gli applausi dei colleghi.
 
 Con grande sorpresa di tutti, se la cavò piuttosto bene.
 
 Zali sembrava quella che si divertiva più di tutti. Per un po' si unì ai membri della spedizione nel battere le mani a tempo. Poi recuperò uno dei tamburi e si inserì nel ritmo con sorprendente naturalezza, guidando gli altri musicisti attraverso variazioni sempre più complesse.
 
-Dopo qualche minuto, uno dei ragazzi cercò di trascinarla al centro della danza. Zali accettò tra le risate generali e si lasciò coinvolgere per qualche giro attorno al fuoco, mentre Lisa tentava di imitare i movimenti senza pestare i piedi a nessuno.
+Dopo qualche minuto, uno dei ragazzi cercò di trascinarla al centro della danza. Zali accettò tra le risate generali e si lasciò coinvolgere per qualche giro attorno al fuoco, mentre Emily tentava di imitare i movimenti senza pestare i piedi a nessuno. Robert rideva fino alle lacrime e perfino Schmidt sembrava aver rinunciato a mantenere un contegno professionale.
 
-Robert stava ormai applaudendo qualsiasi cosa accadesse, Emily rideva fino alle lacrime e perfino Schmidt sembrava aver rinunciato a mantenere un contegno professionale.
-
-Alex scosse la testa divertito e tornò alla propria tazza. Poco dopo Zali, ancora accaldata per le danze e per il fuoco, si lasciò cadere sul tronco accanto a lui. Una ciocca di capelli nerissimi le si era appiccicata alla fronte.
+Alex scosse la testa divertito e tornò alla propria tazza. Poco dopo Zali, ancora accaldata per le danze e per il fuoco, si lasciò cadere sul tronco accanto a lui. Le treccine di capelli nerissimi le ricadevano disordinate sulle spalle.
 
 "Molto bella."
 
@@ -2828,25 +3496,21 @@ Zali rise. "Pensavo che gli scienziati non credessero alle storie."
 
 "Oh, sì invece." Guardò Zali. "Quando ballano gli altri."
 
-Zali gli diede uno spintone affettuoso. "Sentiamo: come si diverte un fisico?"
+Zali gli diede uno spintone affettuoso.
 
-"Ad esempio, adescando adepte nella propria religione."
+Alex sogghignò, poi rimase in silenzio per qualche secondo. Tornò serio, mentre fissava le fiamme. "Quella storia mi ha fatto venire in mente una cosa."
 
-"E come fa?"
+Zali inclinò la testa. "Che cosa?"
 
-Alex ci pensò su, poi raccolse un ramo caduto e lo sollevò. "Questo è un pezzo di legno."
+Alex raccolse un ramo caduto vicino al tronco e lo rigirò tra le dita. "Come si chiamava il dio che fa cambiare le cose?"
 
-"D'accordo."
+"Aruk?"
 
-Lo gettò nelle braci. Le fiamme lo avvolsero quasi subito. "Fra un'ora sarà cenere, fumo e calore."
+"Esatto. Guarda." Alex sollevò il ramo. "Questo è un pezzo di legno." Lo gettò nelle braci. Le fiamme già alte lo inghiottirono quasi subito. "Fra un'ora sarà cenere, fumo e calore."
 
 "Normale."
 
-"Esatto. La parte interessante è che non succede mai il contrario."
-
-Zali accennò un sorriso. "Continua."
-
-Alex indicò le scintille che salivano verso il cielo. "Non vedrai mai il fumo tornare giù, il calore rientrare nel fuoco e la cenere ricomporsi in un ramo."
+"Esatto. La parte interessante è che non succede mai il contrario. Non vedrai mai il fumo tornare giù, il calore rientrare nel fuoco e la cenere ricomporsi in un ramo."
 
 "Perché sarebbe assurdo."
 
@@ -2854,7 +3518,7 @@ Alex indicò le scintille che salivano verso il cielo. "Non vedrai mai il fumo t
 
 Zali lo fissò. "Stai dicendo che il tempo ha una direzione perché le cose si rompono?"
 
-Alex rimase piacevolmente sorpreso. "Molto vicina al concetto." Raccolse una manciata di sabbia e la lasciò scorrere tra le dita. "Se faccio cadere questi granelli, si spargono dappertutto." La sabbia si disperse sul terreno. "È facile. Rimetterli esattamente al loro posto sarebbe quasi impossibile."
+Alex sembrò piacevolmente sorpreso. "Molto vicina al concetto." Raccolse una manciata di sabbia e la lasciò scorrere tra le dita. "Se faccio cadere questi granelli, si spargono dappertutto." La sabbia si disperse sul terreno. "È facile. Rimetterli esattamente al loro posto sarebbe quasi impossibile."
 
 "Anche questo è ovvio."
 
@@ -2880,7 +3544,7 @@ Alex scoppiò a ridere. "Questa me la ricorderò." Poi aggiunse: "Noi fisici abb
 
 "Entropia."
 
-Zali ripeté la parola lentamente.
+Zali ripeté la parola lentamente. "Mai sentita."
 
 "È la misura di quanto un sistema tende a disperdersi. Il calore si disperde. Le cose ordinate si disordinano. Le differenze si consumano. Questo fuoco sta trasformando legna ordinata in cenere, gas e calore sparsi nell'ambiente. L'entropia sta aumentando."
 
@@ -2892,11 +3556,11 @@ Zali fece una smorfia. "È una storia molto triste."
 
 "È per questo che nessuno invita i fisici alle feste."
 
-Lei rise. "Forse la tua scienza e le nostre storie parlano della stessa cosa."
+Lei rise. "Ho l'impressione che la tua scienza e le nostre storie parlano della stessa cosa."
 
 Alex seguì il suo sguardo verso le braci. "È sicuramente così."
 
-All'improvviso, Zali si alzò in piedi. "Basta fisica."
+All'improvviso, Zali si alzò in piedi. "Basta parlare."
 
 Gli tese la mano con un gesto invitante.
 
@@ -2910,17 +3574,19 @@ Alex quasi inciampò. "Non credo di avere scelta, vero?" Alzò gli occhi al ciel
 
 \[STACCO\]
 
-Quando la serata si fu conclusa e del falò non restavano che poche braci morenti, Leon era già tornato nella tenda.
+Quando la serata si concluse e del falò non rimasero che poche braci morenti, Leon era già tornato nella tenda. Il campo si era fatto silenzioso, ma la foresta non dormiva mai. Attraverso il tessuto sottile continuavano ad arrivare il frinire incessante degli insetti, il richiamo lontano di qualche animale notturno e quel mormorio indistinto della giungla che Leon aveva imparato a non sentire più.
 
-Cercò di concentrarsi sul libro che teneva tra le mani, ma i suoni della foresta continuavano a insinuarsi attraverso il tessuto sottile: il frinire degli insetti, il richiamo lontano di qualche animale notturno, il mormorio costante della giungla.
-
-Il generatore era spento da tempo e l'unica luce proveniva da una torcia ricaricabile appoggiata accanto a lui.
+Quasi per abitudine, si portava sempre dietro un libro nelle spedizioni, anche se non sempre trovava il tempo per leggere. Il generatore era spento da tempo e l'unica luce proveniva da una torcia ricaricabile appoggiata accanto a lui. Quando aprì il romanzo, l'odore della carta gli arrivò caldo e familiare, un odore che non aveva nulla a che fare con la foresta e che per un attimo gli fece dimenticare dove si trovava. Inspirò per un istante, poi cominciò a leggere.
 
 Quando Alex entrò, lasciando cadere lo zaino in un angolo, Leon sollevò appena lo sguardo dalle pagine.
 
-"Ancora con i libri di carta?" commentò Alex, posando lo zaino in un angolo. "Sarebbe più pratico leggerlo dalle lenti."
+"Ancora con i libri di carta?" commentò Alex. "Non sarebbe più pratico leggerlo dalle lenti?"
 
-Leon alzò lo sguardo con un sorriso appena accennato. "Forse. Ma c'è qualcosa nella carta che i VisionLink non riescono a replicare." Chiuse il libro per un istante. "Piuttosto, non capita tutti i giorni di vedere qualcuno tenere una lezione di entropia attorno a un falò."
+Leon sorrise. "Forse. Ma c'è qualcosa nella carta che i VisionLink non riescono a replicare."
+
+Chiuse il libro tenendovi dentro un dito per non perdere la pagina.
+
+"Piuttosto, non capita tutti i giorni di vedere qualcuno tenere una lezione di entropia attorno a un falò."
 
 Alex sbuffò. "Era una conversazione perfettamente normale."
 
@@ -2932,7 +3598,7 @@ Alex sbuffò. "Era una conversazione perfettamente normale."
 
 "Scontato." Alex si tolse gli stivali e li lasciò accanto al letto da campo. Per qualche secondo calò il silenzio.
 
-"Mi sembra di vedere un certo *feeling* tra voi."
+"Mi sembra di vedere un certo *feeling* tra voi," suggerì Leon.
 
 Fuori, la foresta continuava il proprio concerto notturno.
 
@@ -2944,9 +3610,19 @@ Alex si lasciò cadere sul giaciglio e si passò una mano tra i capelli. "Comunq
 
 Leon alzò subito gli occhi dal libro. "Interessante in che senso?"
 
-Un sorriso comparve sul volto del fisico. "Non ora. Passa da me domattina."
+Un sorriso comparve sul volto del fisico. "Ne riparliamo domattina."
 
 \[STACCO\]
+
+# CAPITOLO
+
+id: la_sala_del_trono
+tipo: capitolo
+titolo: La sala del trono
+descrizione: L'attività al campo base non si ferma, soprattutto ora che una nuova stanza delle antiche rovine viene resa accessibile.
+immagine: img/capitoli/la_sala_del_trono.jpg
+
+--- FINE METADATI ---
 
 Alle otto e mezza, Leon fece capolino nella tenda che Alex aveva trasformato in uno studio improvvisato. Fogli, appunti e schermi portatili occupavano ogni centimetro dei tavolini pieghevoli.
 
@@ -3014,27 +3690,35 @@ Leon finì il caffè e appoggiò la tazzina sul tavolo.
 
 "Beh, cerca di non perderti troppo nei tuoi numeri. Tra poco scendiamo a esplorare la nuova area del sito."
 
-\[STACCO\]
+"Il passaggio è stato liberato?" esclamò Alex balzando in piedi. "E me lo dici solo ora?"
 
-I due colleghi, ancora immersi nella loro discussione, scesero alla Sala delle Scritture, che ormai era illuminata da un sistema provvisorio di luci artificiali installato nei giorni precedenti. Lisa ed Emily li stavano già aspettando. Torce, corde, strumenti di rilevazione e kit di pronto soccorso erano disposti ordinatamente lungo una parete.
+"*L'ho saputo* solo ora," si difese Leon. In effetti, Robert glielo aveva detto solo poco prima, con un gran sorriso soddisfatto.
 
-Davanti a loro, aperto nel sottosuolo come una bocca, uno stretto passaggio si inoltrava nelle profondità.
+I due colleghi uscirono dalla tenda e attraversarono il campo, che quel giorno era particolarmente in fermento.
 
-"Pronti?" Lisa controllò per l'ultima volta il contenuto del proprio zaino.
+Il caldo afoso cedette il posto al freddo della roccia quando scesero alla Sala delle Scritture, che ormai era illuminata da un sistema provvisorio di luci artificiali installato nei giorni precedenti. Robert ed Emily li stavano già aspettando. Torce, corde, strumenti di rilevazione e kit di pronto soccorso erano disposti ordinatamente lungo una parete.
 
-Leon si issò l'attrezzatura in spalla, avvertendo quel familiare miscuglio di curiosità ed eccitazione che precedeva ogni nuova scoperta.
+Davanti a loro, aperto nel sottosuolo come una bocca, uno stretto passaggio si inoltrava nelle profondità. Il crollo non era ancora stato sgomberato del tutto: il varco era appena sufficiente a consentire il passaggio di una persona adulta.
+
+Robert controllò per l'ultima volta il contenuto del proprio zaino. "Pronti?"
+
+Leon si issò l'attrezzatura in spalla, avvertendo quel familiare miscuglio di curiosità ed eccitazione che precedeva ogni passo verso l'ignoto.
 
 Con estrema cautela iniziarono a scendere la scalinata, semidistrutta dal tempo. Leon ebbe una lieve sensazione di déjà-vu ripensando alle prime esplorazioni del sito, ma questa volta la era diverso: adesso avevano la consapevolezza di trovarsi davanti a qualcosa di molto più vasto di quanto avessero immaginato.
 
 I gradini li condussero a un corridoio buio e silenzioso, dove l'aria diventava via via più densa e immobile, impregnata di odore di terra umida, muffa e pietra antica. Ogni respiro sembrava trascinare nei polmoni particelle di un passato rimasto sigillato per millenni. A giudicare dalla profondità raggiunta, Leon stimò che dovessero trovarsi ormai nel cuore stesso della collina.
 
-Alla fine del corridoio, il percorso si biforcava in più direzioni. Alcune scale scendevano verso livelli ancora inferiori, ma in quel punto un crollo massiccio aveva completamente ostruito il passaggio. Leon osservò per qualche secondo la montagna di detriti, calcolando mentalmente il lavoro necessario per rimuoverla.
+Alla fine del claustrofobico corridoio, il percorso si biforcava in più direzioni. Un crollo massiccio aveva completamente ostruito alcuni dei passaggi. Leon osservò per qualche secondo la montagna di detriti, calcolando mentalmente il lavoro necessario per rimuoverla.
 
 Mesi, forse.
 
-Proseguirono quindi lungo l'unica via ancora accessibile.
+Proseguirono lungo l'unica via ancora accessibile.
 
-Dopo alcuni minuti raggiunsero un'ampia apertura sovrastata da un architrave. Un tempo doveva esserci stato un portone imponente a proteggere l'ingresso, ma ormai ne rimanevano soltanto poche assi marcite e frammenti di metallo corroso.
+Il corridoio si allargava: ora riuscivano a passare rimanendo affiancati. Poco dopo raggiunsero un'ampia apertura sovrastata da un architrave. Un tempo doveva esserci stato un portone a proteggere quell'ingresso, ma ormai ne rimanevano soltanto poche assi marcite e frammenti di metallo corroso.
+
+Emily si avvicinò alle vecchie schegge. "Ottimo, potremo fare altre datazioni."
+
+La sua voce rimbombò nel silenzio, quasi a disturbare quel luogo rimasto sepolto per millenni.
 
 Varcarono la soglia.
 
@@ -3044,9 +3728,7 @@ Per alcuni istanti nessuno parlò.
 
 "Incredibile\..." mormorò Emily.
 
-Leon annuì senza distogliere lo sguardo.
-
-"Questa stanza da sola potrebbe raccontarci più di metà della loro storia."
+Leon annuì senza distogliere lo sguardo. Nessuno di loro si era aspettato di trovare una camera del genere sottoterra.
 
 Le pareti erano quasi interamente ricoperte da pitture e bassorilievi. Ovunque la luce si posasse emergevano figure umane, edifici, simboli e scene che sembravano appartenere a epoche diverse della stessa civiltà. I colori, sebbene sbiaditi dal tempo, erano ancora visibili in molti punti e contribuivano a dare alle immagini una sorprendente sensazione di vitalità.
 
@@ -3060,13 +3742,13 @@ La corona.
 
 Leon si avvicinò a una parete, poi a un'altra. La stessa identica corona compariva ovunque.
 
-Una corona liscia e dorata, dalla forma semplice. Niente decorazioni, niente preziosi o gioielli, niente elaborate rifiniture. Solo una piccola gemma blu era incastonata proprio al centro della parte frontale. L'aspetto della corona gli era in qualche modo familiare: che l'avesse già vista in qualche archivio? Leon annotò mentalmente di verificare.
+Una corona liscia e dorata, dalla forma semplice. Niente decorazioni, niente preziosi o gioielli, niente elaborate rifiniture. Solo una piccola gemma blu era incastonata proprio al centro della parte frontale. L'aspetto gli era in qualche modo familiare: che l'avesse già vista in qualche archivio? Leon annotò mentalmente di verificare.
 
 "Sembra una sorta di sala del trono," osservò Emily, avanzando lentamente tra le colonne. Il fascio della sua torcia scivolava da una parete all'altra, soffermandosi sui sovrani scolpiti. "Guarda i simboli. La corona, lo scettro\... sono emblemi di potere."
 
 Leon annuì senza rispondere subito. Più osservava la sala, più l'ipotesi gli sembrava plausibile. Immaginò uno scranno collocato al centro della parete di fondo, le colonne a delimitare lo spazio cerimoniale e, tutt'intorno, le immagini dei sovrani che avevano governato quella civiltà nel corso dei secoli.
 
-Eppure qualcosa continuava a non convincerlo. "Cosa ci fa una sala del trono nelle viscere della collina?" mormorò.
+Eppure qualcosa continuava a non convincerlo. "Cosa ci fa una sala del trono nelle viscere della terra?" mormorò.
 
 Si guardò attorno. Il soffitto era troppo alto. Le colonne troppo massicce. L'intera struttura appariva sproporzionata per essere stata progettata come semplice ambiente sotterraneo. Inoltre, non c'erano tracce evidenti di infiltrazioni d'acqua o di erosione.
 
@@ -3078,13 +3760,31 @@ Leon indicò le colonne, poi il soffitto. "E se fossimo dentro un edificio? Un e
 
 Per un istante nessuno parlò.
 
-Poi gli occhi di Emily si illuminarono. "Un edificio sepolto\..." ripeté. "Aspetta. E se fosse una piramide?"
+"Un edificio sepolto\..." Ripeté l'archeologa. Poi gli occhi le si illuminarono. "Aspetta. E se fosse una piramide?"
 
 Leon sentì il cuore accelerare. Una piramide. L'idea sembrava improvvisamente assurda e perfettamente sensata allo stesso tempo. Un'antica ziggurat costruita cinque millenni prima, sepolta da terra, roccia e vegetazione nel corso dei secoli.
 
-Si chinò per recuperare l'attrezzatura fotografica dallo zaino. Stava per iniziare una documentazione sistematica della sala quando qualcosa attirò la sua attenzione.
+"Alex, tira fuori lo scanner" disse Leon, tamburando con il piede sul vecchio pavimento di pietra. "Non dimentichiamoci perché siamo qui."
 
-"Un momento."
+"Giusto" si riscosse Alex.
+
+Leon lo aiutò a montare il cavalletto per lo scanner volumetrico. Pochi minuti dopo, avevano una prima mappatura della stanza.
+
+Leon navigò il modello con l'indice. "La stanza isolata resta proprio qui sopra," disse indicando un punto dello schermo. "Eppure non vedo nessun'antenna spuntare dal soffitto."
+
+Di riflesso, Robert fece scorrere il fascio di luce verso l'alto, esaminando ogni angolo.
+
+Alex sorrise. "Un'antenna non ha bisogno di essere visibile per funzionare."
+
+"Cosa intendi?"
+
+"Dentro una di queste colonne. Ecco dove prosegue l'antenna."
+
+Leon trattenne il fiato.
+
+Si chinò per recuperare il metal detector dallo zaino. Stava per iniziare a sondare ogni colonna, quando la voce di Emily risuonò nella sala.
+
+"Guardate qui."
 
 Aveva puntato la torcia verso la parete di fondo.
 
@@ -3098,15 +3798,15 @@ Alex si avvicinò quasi fino a sfiorare la pietra.
 
 "Li riconosco."
 
-"Che cosa?" chiese Leon.
+"Cosa?" chiese Leon.
 
-"Questi simboli." Indicò una serie di incisioni lungo uno degli anelli esterni. "Sono gli stessi numeri che abbiamo trovato nella Sala delle Scritture."
+"Questi simboli." Alex indicò una serie di incisioni lungo uno degli anelli esterni. "Sono gli stessi numeri che abbiamo trovato nella Sala delle Scritture."
 
-Per la prima volta da quando erano entrati nella sala, il fisico sembrò dimenticare tutto il resto. "Non è una decorazione," mormorò. "Qualunque cosa sia, contiene informazioni."
+Per la prima volta da quando erano entrati nella sala, il fisico sembrò dimenticare tutto il resto. "Non è una decorazione," mormorò. "Sono numeri, lettere. Qualcosa che possiamo decifrare."
 
 \[STACCO\]
 
-Nella tenda-studio, Emily fissava lo schermo del portatile con aria pensierosa, girando distrattamente il bicchiere tra le mani. "Sai," disse all'improvviso, "mi ricorda qualcosa..."
+Mezz'ora dopo erano nella tenda-studio. Emily fissava lo schermo del portatile con aria pensierosa, girando distrattamente il bicchiere tra le mani. "Sai, Leon" disse all'improvviso, "mi ricorda qualcosa..."
 
 Leon, che stava scorrendo le immagini, alzò lo sguardo. L'archeologa avvicinò il portatile e indicò con il dito un settore del cerchio. "Il calendario azteco, la cosiddetta Pietra del Sole. Guarda: la struttura è simile."
 
@@ -3116,9 +3816,9 @@ Il cerchio era diviso in nove spicchi, ma ogni settore aveva un numero diverso d
 
 "All'inizio pensavo fossero solo decorazioni," disse, puntando il cursore su una serie di incisioni, "ma se guardi bene... sembrano animali. O forse oggetti."
 
-Emily annuì. "E se fosse uno zodiaco? Un sistema astronomico?"
+Emily annuì. "Potrebbe essere uno zodiaco, un sistema astronomico."
 
-Leon incrociò le braccia, fissando lo schermo. "Ha senso. Se è così, quei simboli potrebbero rappresentare costellazioni. E quei numeri..."
+Leon incrociò le braccia, fissando lo schermo. "Ha senso. Se fosse così, quei simboli potrebbero rappresentare costellazioni. E quei numeri..."
 
 "Forse sono annotazioni sui loro nomi, o sulle stelle," suggerì Emily. "Magari è per questo che sono così difficili da tradurre. Non sono solo parole: sono concetti, invenzioni, astrazioni."
 
@@ -3214,7 +3914,7 @@ Senza aggiungere altro, Alex andò incontro alla ragazza.
 
 Leon rimase per qualche istante a guardarli. In tutti gli anni in cui aveva conosciuto Alex, non lo aveva mai visto interrompere spontaneamente un ragionamento interessante.
 
-Evidentemente esistevano forze più potenti della matematica, sorrise tra sé.
+Evidentemente esistevano forze più potenti della matematica, pensò tra sé.
 
 Si riscosse, tornando al calendario.
 
@@ -3320,7 +4020,7 @@ Svoltò l'angolo. Con un misto di eccitazione e inquietudine, raggiunse il luogo
 
 Scosse la testa. Doveva essere pazza per essersi avventurata in quel posto da sola, in piena notte.
 
-Esitò un istante, poi cominciò a scendere i gradini.
+Esitò un istante, stringendo il ciondolo di sua madre sotto la tunica. Poi cominciò a scendere i gradini.
 
 Giunse davanti a una porticina bassa, sotto il livello del suolo. Una sola magiluce brillava in alto, gettando sul vicolo una luce livida che dava all'ambiente un'aria quasi spettrale. Eppure, bastava per distinguere il segno tracciato a carboncino sulla parete. Nadia sentì il cuore accelerare.
 
@@ -3336,7 +4036,7 @@ Nadia si irrigidì. Quella gente la conosceva? Quanto sapevano di lei?
 
 L'uomo si staccò dal muro e avanzò di qualche passo. La lampada a olio illuminò il suo viso: una barba scura e folta, due occhi penetranti ma cordiali. Il mantello logoro gli dava un'aria più adulta di quanto non fosse in realtà, ma Nadia valutò che dovesse essere piuttosto giovane: forse l'età di Akil. Il viso le era vagamente familiare.
 
-All'improvviso ricordò: aveva visto quell'uomo alla casa del viaggiatore, a sorseggiare vino in un angolo.
+All'improvviso ricordò: aveva visto quell'uomo alla casa del viaggiatore, a sorseggiare vino in un angolo. Era un caso, o la stava tenendo d'occhio?
 
 Il giovane sorrise, incoraggiante: "Hai trovato la chiave per il nostro messaggio. Non era scontato."
 
@@ -3364,7 +4064,7 @@ Nadia fece un passo verso la lampada a olio. "Mi avete seguita."
 
 "Ti stavamo tenendo d'occhio." Il tono di Rurik era calmo, quasi rassicurante. "Non è la stessa cosa."
 
-Shuua intervenne con voce brusca: "Chi arriva a Lisenna non passa inosservato. Teniamo d'occhio tutti. I nuovi arrivati possono essere una minaccia."
+Shuua intervenne con tono brusco: "Chi arriva a Lisenna non passa inosservato. Teniamo d'occhio tutti. I nuovi arrivati possono essere una minaccia."
 
 "Oppure una risorsa" disse Rurik, senza togliere lo sguardo da Nadia.
 
@@ -3376,7 +4076,7 @@ Fu Rurik a rispondere.
 
 "Hual aveva previsto che un giorno qualcuno avrebbe potuto cercarlo. Non immaginavamo sarebbe stata sua figlia."
 
-Nadia cercò di mantenere un tono di voce pacato, ma dentro di lei qualcosa si stava svegliando. "Conoscevate mio padre?"
+Nadia cercò di mantenere un tono di voce pacato, ma il suo stomaco fece una capriola. "Conoscevate mio padre?"
 
 Fu Darian a parlare, senza alzare gli occhi dai fogli. "Sì, conoscevamo Hual. Un uomo imperscrutabile. Non si capiva mai del tutto cosa avesse in mente... ma aveva delle capacità invidiabili."
 
@@ -3402,7 +4102,7 @@ Era la conferma che temeva e insieme quella che aveva cercato
 
 Il giovane chiamato Rurik abbassò lo sguardo. "Nel luogo dove sono rinchiusi gli oppositori politici e le persone scomode: le segrete sotto la piramide."
 
-Un nodo le serrò la gola. Sotto la piramide? Così vicino eppure così irraggiungibile.
+Un nodo le serrò la gola. Sotto la piramide? Era così vicino, eppure così irraggiungibile.
 
 Restare immobile le risultava impossibile. "Allora dobbiamo tirarlo fuori di lì."
 
@@ -3438,13 +4138,13 @@ Le dita dell'uomo tamburellarono sui papiri sparsi sul tavolo.
 
 Nadia non fu certa di aver capito la domanda.
 
-Darian proseguì. "Tu non hai viaggiato molto, ma devi sapere che non tutto il mondo è come dalle nostre parti. Vai a nord, e troverai nomadi che vivono in tende di lana e non sanno cosa sia un mattone. Risali le montagne e troverai gente che vive nelle caverne, pitturando muri in una distorta imitazione di scrittura. Se vai a sud, è ancora peggio. Quelle persone sanno a malapena coltivare un lembo di terra, figuriamoci portare l'acqua nei villaggi, scavare pozzi o usare la moneta per scambiare merci. Vanno a caccia con lunghe lance, che ogni tanto usano per ammazzarsi a vicenda. Eppure, qui, nel regno di Lisenna, l'economia fiorisce, la politica è attiva e la gente è al sicuro tra le mura della città. Perché?"
+Darian la guardò bonariamente. "Tu non hai viaggiato molto, ma devi sapere che non tutto il mondo è come dalle nostre parti. Vai a nord, e troverai nomadi che vivono in tende di lana e non sanno cosa sia un mattone. Risali le montagne e troverai gente che vive nelle caverne, pitturando muri in una distorta imitazione di scrittura. Se vai a sud, è ancora peggio. Quelle persone sanno a malapena coltivare un lembo di terra, figuriamoci portare l'acqua nei villaggi, scavare pozzi o usare la moneta per scambiare merci. Vanno a caccia con lunghe lance, che ogni tanto usano per ammazzarsi a vicenda. Eppure, qui, nel regno di Lisenna, l'economia fiorisce, la politica è attiva e la gente è al sicuro tra le mura della città. Perché?"
 
 Nadia non ci aveva mai pensato. Non sapeva molto del resto del mondo, al di fuori della sua cittadina. Non le era nemmeno passato per la mente che non tutto il mondo era come il posto dove era nata.
 
 "L'imperatore possiede una conoscenza segreta," disse Darian. "Qualcosa che ha reso possibile tutto questo."
 
-"E mio padre," iniziò Nadia. "Pensate lui abbia scoperto di cosa si tratta?"
+"E mio padre," azzardò Nadia. "Pensate lui abbia scoperto di cosa si tratta?"
 
 "Forse" disse Rurik. "O forse era sulla strada giusta, ed è stato tolto di mezzo per questo. L'imperatore sa essere magnanimo quando vuole, ma è geloso dei suoi segreti."
 
@@ -3452,7 +4152,7 @@ Seguì un attimo di silenzio. Nadia non era certa di cosa pensare. "Sembrate vol
 
 "L'imperatore Sirios ha fatto grandi cose" riconobbe Darian. "Il regno ha prosperato sotto la guida della sua dinastia, ma da qualche tempo non è più così. Ha abbandonato i suoi cittadini, sta ritirando i confini del suo regno, si sta arroccando nella capitale dove ha costruito la grande piramide: un monumento alla sua stessa gloria. Usando risorse e forza lavoro che sarebbero bastate per costruire un'altra Lisenna."
 
-"Quella piramide non è per noi, non è per il popolo," disse Shuua. "È un delirio di grandezza, una follia mascherata da visione. I fondi che prima venivano usati per costruire e mantenere le opere pubbliche ora vengono dirottati su un'opera che non ci darà pane né protezione. Nel frattempo, la carestia ha colpito le periferie del regno e la corruzione dilaga nell'esercito e nell'aristocrazia, e nessuno muove un dito."
+"Quella piramide non è per noi, non è per il popolo," disse Shuua. "È un delirio di grandezza, una follia mascherata da visione. I fondi che prima venivano usati per costruire e mantenere le opere pubbliche ora vengono dirottati su un'opera che non ci darà pane né protezione. Interi quartieri di artigiani lavorano per lui, facendo ristagnare l'economia. Nel frattempo, la carestia ha colpito le periferie del regno e la corruzione dilaga nell'esercito e nell'aristocrazia, e nessuno muove un dito."
 
 Nadia rifletté. A giudicare da quanto aveva visto nella piazza il giorno del discorso, la gente *amava* l'imperatore. Ricordava le acclamazioni provenienti dalla folla.
 
@@ -3464,15 +4164,13 @@ Nadia ragionò su quelle parole per qualche istante.
 
 "Tanto per cominciare," disse Darian, "dicendoci tutto ciò che sai. Ogni dettaglio, anche il più piccolo. Perché tuo padre ti ha lasciato più indizi di quanti pensi, e tutto ciò potrebbe aiutarci a completare il puzzle che circonda l'impero."
 
-Nadia inspirò a fondo, le dita che si chiudevano istintivamente attorno alla borsa che teneva stretta contro di sé. "Io... mio padre non parlava mai di ciò che faceva nel suo studio." Esitò ancora un istante, poi infilò la mano dentro la borsa e ne trasse il libro. Lo posò con cautela sul tavolo. "Frugando tra le sue cose ho trovato questo."
+Nadia inspirò a fondo, le dita che si chiudevano istintivamente attorno alla borsa che teneva stretta contro di sé. "Io... mio padre non parlava mai di ciò che faceva nel suo studio." Esitò ancora un istante, poi infilò la mano dentro la borsa e ne trasse il libro. Lo posò con cautela sul tavolo. "Frugando tra le sue cose ho trovato solo questo."
 
 Darian si sporse subito in avanti, gli occhi accesi di una curiosità trattenuta a stento. Ma la delusione trasparì dal suo sguardo quando lesse il titolo, vergato a caratteri scuri sulla copertina del volumetto. "Le Parole dei Precursori\...?"
 
 Nadia se ne accorse immediatamente. Per un attimo ebbe la sgradevole impressione di aver portato la cosa sbagliata.
 
-Aprì il volume e lo spinse verso di lui.
-
-Nadia aprì il volume, mostrando le fitte scritte a margine. "Ci sono annotazioni, correzioni, segni... e il vostro simbolo. È così che vi ho trovati." Poi si fermò, incerta. Le era tornata in mente una cosa. "Quella donna... la signora che mi ha dato il messaggio... lavora per voi?"
+Aprì il volume e lo spinse verso di lui, mostrando le fitte scritte a margine. "Ci sono annotazioni, correzioni, segni... e il vostro simbolo. È così che vi ho trovati." Poi si fermò, incerta. Le era tornata in mente una cosa. "Quella donna... la signora che mi ha dato il messaggio... lavora per voi?"
 
 "Non per noi soltanto," rispose Shuua con voce quasi seccata. "È uno dei nostri punti di accesso. Chi bussa alla sua porta riceve un messaggio, tutto qui. E chi sa leggerlo capisce dove andare. Serve a tenere lontani gli occhi indesiderati."
 
@@ -3502,7 +4200,7 @@ Darian girava le pagine freneticamente, seguendo collegamenti invisibili tra le 
 
 Dovette chiamarlo una seconda volta prima che il vecchio sollevasse finalmente lo sguardo.
 
-"Questo è un concentrato delle ricerche di Hual." Abbassò di nuovo gli occhi sul libro. "Incompleto\... anzi, essenziale. Ma qui dentro ci sono alcune delle risposte che cerchiamo da anni."
+"Questo è un concentrato delle ricerche di Hual." Abbassò di nuovo gli occhi sul libro. "Incompleto\... anzi, direi essenziale. Ma qui dentro ci sono alcune delle risposte che cerchiamo da anni."
 
 "Ricerche su cosa?" domandò Nadia.
 
@@ -3512,7 +4210,7 @@ La risposta era così vaga da lasciarla ancora più confusa.
 
 Fu Rurik a intervenire. "Lo splendore del regno, le sue invenzioni, le opere che sono state costruite negli ultimi secoli\..." continuò Rurik. "Nulla di tutto questo sembra seguire il normale corso della storia. È come se qualcuno avesse acceso una luce in mezzo all'oscurità."
 
-"E Hual pensava di sapere da dove provenisse quella luce?" chiese Shuua.
+"E Hual ha capito da dove proviene quella luce?" domandò Shuua.
 
 "Da un artefatto dei Precursori," disse Darian, scorrendo con il dito su una pagina particolarmente affollata di scarabocchi. "Qualcosa di sopravvissuto alla loro epoca e giunto fino a noi." Picchiettò un dito sul libro. "E la chiave potrebbe trovarsi proprio qui. In uno dei racconti che tuo padre aveva studiato più a fondo di tutti gli altri."
 
@@ -3520,13 +4218,13 @@ Alzò lo sguardo verso Nadia.
 
 "La storia di Isil e della Stella Cadente."
 
-Nadia si accigliò. "Conosco quella storia. È solo una leggenda."
+Nadia si accigliò. "Conosco quella storia. Ma è solo una leggenda," aggiunse, dubbiosa.
 
 "Forse."
 
 Darian le porse il volume aperto sulla pagina giusta. "Oppure è qualcosa di molto diverso. Leggi."
 
-Nadia esitò. Leggere ad alta voce non le era mai piaciuto. A scuola cercava sempre di passare inosservata quando arrivava il suo turno, e ora si ritrovava sotto lo sguardo di tre sconosciuti.
+Nadia esitò. Leggere ad alta voce non le era mai piaciuto. A scuola cercava sempre di passare inosservata quando arrivava il suo turno, e ora si ritrovava a dover leggere sotto lo sguardo di tre sconosciuti. Per fortuna aveva almeno ripreso un po' di allenamento.
 
 Abbassò gli occhi sul libro.
 
@@ -3562,7 +4260,7 @@ Darian la invitò a continuare.
 
 Darian annuì, gli occhi illuminati da una scintilla di comprensione. Nadia non era sicura di aver capito, ma l'uomo non disse altro.
 
-*"Il re, colpito da tanta meraviglia, convocò i suoi sacerdoti. I saggi della corte presero la sfera, sussurrando preghiere e interpretazioni. Uno di loro, il più anziano, osò posare la mano nuda sulla sua superficie. In quell'istante la sfera si aprì come un fiore di luce, e un bagliore accecante riempì la sala del trono.*
+*"Il re, colpito da tanta meraviglia, convocò i suoi sacerdoti. I saggi della corte presero la sfera, sussurrando preghiere e interpretazioni. Uno di loro, il più anziano, osò posare la mano nuda sulla sua superficie. In quell'istante la sfera si aprì come un fiore di luce, e un bagliore accecante riempì la sala.*
 
 *Da quel fulgore emerse una figura radiosa: un uomo alto, il cui volto ardeva come sole allo zenit, e la cui voce era simile al vento che scuote i deserti. "Io sono Rham," disse, "il Dio del Sole. Questa sfera non è un tesoro da vendere né un monile da adorare. È il mio dono. In essa dimora la conoscenza, che illumina più del fuoco e nutre più del pane. Ma non posso consegnarla a chiunque: solo un cuore puro potrà sostenerne il peso."*
 
@@ -3620,7 +4318,7 @@ Darian non rispose. Era chino sul testo sacro, completamente assorto.
 
 "Se l'impero possiede davvero una conoscenza segreta, dovrebbe trovarsi in libri, archivi o insegnamenti. Non in un gioiello."
 
-Rurik fece spallucce. "Stiamo parlando di manufatti che potrebbero provenire da un'epoca perduta. Dai resti della civiltà dei precursori, la più sviluppata mai esistita. Non possiamo giudicarli con ciò che sappiamo oggi."
+Rurik fece spallucce. "Stiamo parlando di manufatti che potrebbero provenire da un'epoca perduta. Dai resti della civiltà dei Precursori, la più sviluppata mai esistita. Non possiamo giudicarli con ciò che sappiamo oggi."
 
 Nadia serrò le labbra. Quante cose aveva scoperto suo padre sull'impero durante i suoi viaggi in città? E perché non ne aveva mai parlato con nessuno?
 
@@ -3784,7 +4482,7 @@ Robert si sistemò sulla sedia. "Quando avevo la vostra età sentivo gli stessi 
 
 Emily appoggiò la tazza di tè. "Le persone cercano sempre qualcuno da incolpare. E la FSU è un bersaglio perfetto: enorme, visibile e impossibile da spiegare in trenta secondi. Non ne usciremo facilmente, date retta a me."
 
-"Grazie per il conforto," sospirò Lisa. "A me interessa una sola cosa. Se questa storia continua, qualcuno inizierà a chiedersi perché stiamo spendendo milioni per scavare una collina nel mezzo della foresta. "
+"Grazie per il conforto," sospirò Alex. "A me interessa una sola cosa. Se questa storia continua, qualcuno inizierà a chiedersi perché stiamo spendendo milioni per scavare una collina nel mezzo della foresta. "
 
 Quella osservazione fece calare per un attimo il silenzio.
 
@@ -3938,7 +4636,7 @@ Quando Leon fece strada ai nuovi arrivati nel cuore delle rovine, Hale si accors
 
 "Come vedi, aprirsi un varco attraverso questo antico muro sarebbe molto invasivo," rispose asciutto Leon.
 
-Hale non insistette oltre. I due scesero poi fino alla sala del trono, seguiti da Alex, Lisa e -- con un certo disappunto di Leon -- dai reporter. Hale parve ammirato dalle pareti decorate e dal misterioso cerchio inciso, che dominava la scena, sulla parete in fondo, soprattutto ora che ogni singola scanalatura era stata accuratamente ripulita.
+Hale non insistette oltre. I due scesero poi fino alla sala del trono, seguiti da Alex, Roberte -- con un certo disappunto di Leon -- dai reporter. Hale parve ammirato dalle pareti decorate e dal misterioso cerchio inciso, che dominava la scena, sulla parete in fondo, soprattutto ora che ogni singola scanalatura era stata accuratamente ripulita.
 
 "Questa è quella che abbiamo soprannominato sala del trono," spiegò Leon. "Siamo ancora all'inizio, ma sembra che abbia un'importanza notevole."
 
@@ -3958,7 +4656,7 @@ Strano parlare di riservatezza quando tutto ciò stava per andare in mondovision
 
 Hale fece un'espressione pensierosa, come se stesse valutando la cosa. "Capisco che siano stati utili, ma preferirei che d'ora in avanti il sito fosse accessibile solo agli addetti ai lavori. Dobbiamo evitare fughe di informazioni prima del grande annuncio," aggiunse, accompagnando la frase con un sorrisetto ammiccante.
 
-Lisa, che stava dirigendo il lavoro poco lontano, si avvicinò a grandi passi, prima che Leon potesse replicare. "I Naha sono stati fondamentali per il successo della spedizione. La radura dove siete atterrati è stata fatta da loro. E hanno anche portato alla luce l'ingresso alle rovine. Senza di loro non saremmo nemmeno qui."
+Robert, che stava dirigendo il lavoro poco lontano, si avvicinò a grandi passi, prima che Leon potesse replicare. "I Naha sono stati fondamentali per il successo della spedizione. La radura dove siete atterrati è stata fatta da loro. E hanno anche portato alla luce l'ingresso alle rovine. Senza di loro non saremmo nemmeno qui."
 
 Hale sorrise, ma il suo tono era distaccato. "Non sto mettendo in dubbio il loro contributo, ma è una questione di irregolarità. Abbiamo delle linee guida da seguire, e preferirei che fossimo rigorosi su questo punto."
 
@@ -4456,7 +5154,7 @@ La sacerdotessa si mosse con grazia lenta e cerimoniale. Aprì il grande libro c
 
 L'intera sala pendeva dalle sue labbra.
 
-"Vi fu un'epoca remota," intonò, "in cui gli uomini che ci precedettero vivevano nel pieno dello splendore. Le città si innalzavano come torri di luce, i campi donavano raccolti abbondanti, e le arti e le scienze brillavano come stelle nel firmamento. Ma Sereth, signore della dissoluzione e del caos, si levò contro di loro. E scatenò l'Era del Caos. I mari ribollirono, le montagne arsero, e il respiro stesso del mondo si fece cenere. Le città caddero, divorate dalle fiamme. Nessuna creatura o creazione umana potette resistere all'ira divorante di Sereth."
+"Vi fu un'epoca remota," intonò, "in cui gli uomini che ci precedettero vivevano nel pieno dello splendore. Le città si innalzavano come torri di luce, i campi donavano raccolti abbondanti, e le arti e le scienze brillavano come stelle nel firmamento. Ma Sereth, signore della dissoluzione e del caos, si levò contro di loro. E scatenò l'Era del Caos. I mari ribollirono, le montagne arsero, e il respiro stesso del mondo si fece cenere. Le città caddero, divorate dalle fiamme. Nessuna creatura o creazione umana poté resistere all'ira divorante di Sereth."
 
 Nadia alzò lo sguardo alle pareti. Nella penombra, riconobbe su un dipinto la scena citata. La mano di Sereth passava su biblioteche e templi. Dove posava le dita, la carta sbiadiva e le tavolette di argilla divenivano lisce come lapidi. Un brivido le corse lungo la schiena.
 
@@ -4470,7 +5168,7 @@ La voce della sacerdotessa si fece più intensa, vibrante come un canto.
 
 Le ultime parole della sacerdotessa rimbombarono nella sala, calando come un'eco sacra. I presenti piegarono il capo: alcuni unirono le mani, altri fissarono la statua di Rham, con lo sguardo perso in una devozione senza tempo.
 
-La sacerdotessa chiuse lentamente il libro e sollevò gli occhi verso i fedeli. La lettura era finita, ma il tono non aveva perso solennità. "Ogni cinque anni, nel giorno del solstizio, ricordiamo il ritorno dell'Arca. Celebriamo la fiamma che non si è spenta, la conoscenza che ha vinto sul caos, e la memoria che rende immortale la nostra civiltà. Che la conoscenza non muoia mai."
+La sacerdotessa chiuse lentamente il libro e sollevò gli occhi verso i fedeli. La lettura era finita, ma il tono non perse solennità. "Ogni cinque anni, nel giorno del solstizio, ricordiamo il ritorno dell'Arca. Celebriamo la fiamma che non si è spenta, la conoscenza che ha vinto sul caos, e la memoria che rende immortale la nostra civiltà. Che la conoscenza non muoia mai."
 
 "Che la conoscenza non muoia mai" ripeté un coro di centinaia di voci.
 
@@ -4502,7 +5200,7 @@ Il respiro le si spezzò a metà. *Sommo Rham... la missione della Setta...* Le 
 
 Attese. I secondi si fecero eterni. Poi la risposta arrivò, lenta e remota, come una nuvola bianca che si forma in un cielo vuoto. *Hai dentro di te più di quanto credi. Fidati di chi ti vuole bene davvero.*
 
-Il pensiero di Akil balenò nella sua mente. *Noi abbiamo litigato. Non posso tornare da lui.*
+Il pensiero di Akil balenò nella sua mente. *Abbiamo litigato. Non posso tornare da lui.*
 
 La voce non rispose subito. Le mani di Nadia sudavano, un tremito sottile le percorreva le braccia. Scrutò la mente in cerca di un altro segno, di una nuova frase che prendesse forma. Le parve di cogliere un sussurro lontanissimo, come vento tra le foglie. Ma non seppe afferrarne il senso.
 
@@ -4600,7 +5298,7 @@ Ma ora tutto sembrava un po' più lontano.
 
 Per una volta decise di non inseguire i pensieri: la sua mente aveva bisogno di una tregua.
 
-Si alzò, si sciacquò il viso e scese al piano inferiore. Un paio di ospiti sedevano ai tavoli della sala comune. Si servì della frutta appena tagliata e un bicchiere di succo fresco.
+Si alzò, si sciacquò il viso e scese al piano inferiore. Un paio di ospiti sedevano ai tavoli della sala comune. Non erano occidentali: sembrava gente locale, forse venuta da una città vicina. Si servì della frutta appena tagliata e un bicchiere di succo fresco.
 
 Per qualche minuto rimase semplicemente lì, ad ascoltare il brusio delle conversazioni e il frinire degli insetti proveniente dall'esterno.
 
@@ -4696,7 +5394,7 @@ Doveva parlare con Alex.
 
 \[STACCO\]
 
-Il giorno seguente, Leon, Alex e Zali si diedero appuntamento nella veranda, ormai promossa di fatto a quartier generale. Fecero colazione con frutta fresca locale, banane e mango, accompagnata da frittelle di manioca e arachidi tostate. Da bere, un succo a base di fiori di ibisco, dal colore rubino intenso e dal sapore lievemente acidulo.
+Il giorno seguente, Leon, Alex e Zali si diedero appuntamento nella veranda, ormai promossa di fatto a quartier generale. Fecero colazione con frittelle di manioca e arachidi tostate. Da bere, un succo di frutta dolce.
 
 "Gli anziani hanno tenuto un consiglio, ieri," disse Zali, mentre spalmava del burro di noci sul pane. "Hanno deciso di tollerare la presenza degli estranei per un po', in nome del lavoro che hai offerto loro, Leon."
 
@@ -4704,7 +5402,7 @@ Il giorno seguente, Leon, Alex e Zali si diedero appuntamento nella veranda, orm
 
 "Aspetta: esigono che l'intero territorio sia sgomberato entro un mese. In caso contrario prenderanno provvedimenti."
 
-Alex tossì, colto alla sprovvista dall'annuncio di Zali. "È impossibile che i lavori finiscano entro un mese" riuscì a dire infine. "Dovremo trovare un'altra soluzione. Che genere di provvedimenti intendono prendere, comunque?"
+Alex tossì. "È impossibile che i lavori finiscano entro un mese" riuscì a dire infine. "Dovremo trovare un'altra soluzione. Che genere di provvedimenti intendono prendere, comunque?"
 
 Zali sembrò rifletterci.
 
@@ -4726,7 +5424,7 @@ Era arrivato il momento di vuotare il sacco.
 
 "Credo di aver qualcosa riguardo al cerchio di incisioni nella sala del trono" esordì, quando ebbe la loro attenzione. "Non ne ho ancora parlato con nessuno, visto il caos degli ultimi giorni."
 
-Alex si versò dell'altro succo di ibisco, mentre Zali si sporgeva curiosa verso lo schermo.
+Alex si versò dell'altro succo, mentre Zali si sporgeva curiosa verso lo schermo.
 
 "Prima che l'arrivo di Hale cambiasse gli equilibri della spedizione, avevo iniziato a studiare i numeri incisi sul calendario circolare. Ho seguito la tua ipotesi, Alex: ho supposto che non indicassero mesi di un anno, ma grandi ere temporali."
 
@@ -5028,8 +5726,6 @@ Si tirò indietro, sorpresa.
 
 Aceto?
 
-Si chinò di nuovo, curiosa.
-
 Non poteva essere semplice aceto. Avvicinò la mano, cercando di forzare il tappo metallico.
 
 Un crepitio. Poi un dolore improvviso le attraversò le dita e il polso.
@@ -5048,11 +5744,13 @@ Niente. Nessun passo, nessuna voce. Solo il respiro accelerato che le martellava
 
 Si fissò le dita formicolanti. Cosa era appena successo?
 
+La sua mente tornò alla Scheggia del Sole, l'artefatto che aveva preso in prestito dal tempio di Maestro Belan. Quella scintilla che le aveva attraversato la mano poco prima\... era la stessa cosa?
+
 Un rumore secco la paralizzò.
 
 Il portone principale si stava aprendo.
 
-Si girò di scatto. Dall'ingresso stavano entrando una decina di uomini, seguiti da due sacerdoti. Portavano su robuste travi la statua di Rham. La sfera dorata sulla testa di uccello del Dio-Dole catturò un raggio che la abbagliò per un istante.
+Si girò di scatto. Dall'ingresso stavano entrando una decina di uomini, seguiti da due sacerdoti. Portavano su robuste travi la statua di Rham. La sfera dorata sulla testa di uccello del Dio-Sole catturò un raggio che la abbagliò per un istante.
 
 Un'ondata di panico le serrò lo stomaco.
 
@@ -5220,7 +5918,7 @@ Fu Shuua a rompere il silenzio.
 
 Nadia fece un respiro profondo.
 
-"Ciò che il carro trasporta sono anfore. Grosse anfore. Erano legate insieme a blocchi e collegate da sottili fasce metalliche. Credo contenessero aceto."
+"Ciò che il carro trasporta sono anfore. Grosse anfore. Sono legate tra loro a blocchi e collegate da sottili fasce metalliche. Credo contenessero aceto."
 
 Rurik e Shuua si scambiarono uno sguardo perplesso. Forse si stavano chiedendo se avesse battuto la testa nella fuga.
 
@@ -5260,9 +5958,7 @@ Camminava leggermente curvo, appoggiandosi a un bastone levigato dall'uso. Il ma
 
 Il vecchio richiuse le tende alle proprie spalle, aspettò che l'artigiano tornasse in bottega, poi si sfilò il mantello.
 
-Lasciò il bastone contro la parete.
-
-La schiena si raddrizzò.
+Lasciò il bastone contro la parete e raddrizzò la schiena.
 
 In un attimo il mendicante scomparve. Sotto gli abiti consunti apparve un uomo di mezza età, ancora vigoroso, dalle spalle larghe e dai movimenti misurati. I capelli e la barba, appena spruzzati di grigio, incorniciavano un volto segnato dal tempo; gli occhi, invece, erano vivissimi, attenti, come se non smettessero mai di osservare.
 
@@ -5316,7 +6012,7 @@ I suoi occhi tornarono su Nadia.
 
 "Raccontami esattamente che cosa hai visto. Non quello che pensi significhi. Solo ciò che hai visto."
 
-Nadia deglutì. Quella giornata sembrava non finire mai; ogni volta che pensava di aver visto abbastanza, accadeva qualcosa di ancora più inspiegabile.
+Nadia deglutì. Quella giornata sembrava non finire mai; ogni volta che pensava di aver visto abbastanza, accadeva qualcosa di ancora più sconvolgente.
 
 Inspirò profondamente e ricominciò il racconto. Parlò del tempio, della lunga attesa sul tetto, del carro, delle anfore trasportate con estrema cautela, dell'odore acre che aveva riconosciuto come aceto, del vano nascosto sotto la piattaforma. Infine descrisse il momento in cui aveva allungato la mano.
 
@@ -5326,7 +6022,7 @@ Quando Nadia tacque, nessuno parlò per alcuni secondi.
 
 Rurik fu il primo a rompere il silenzio. "Cosa significa tutto ciò, Khamal? Quelle anfore provocano dolore: pensi possano essere una specie di\... arma?"
 
-Khamal si accarezzò lentamente la barba, lo sguardo perso per un momento nel vuoto, come se stesse ripercorrendo mentalmente ogni dettaglio. "No," disse infine, con voce ferma e profonda. "Non un'arma, almeno non come la intendiamo. Ma contengono potere, questo è certo. Un potere che non comprendiamo appieno. Un potere che non appartiene al nostro tempo."
+Khamal si accarezzò lentamente la corta barba brizzolata, lo sguardo perso per un momento nel vuoto, come se stesse ripercorrendo mentalmente ogni dettaglio. "No," disse infine, con voce ferma e profonda. "Non un'arma, almeno non come la intendiamo. Ma contengono potere, questo è certo. Un potere che non comprendiamo appieno. Un potere che non appartiene al nostro tempo."
 
 "Potere?" ripeté Nadia.
 
@@ -5368,7 +6064,7 @@ Sia Nadia sia Rurik ebbero la stessa impressione: fino a un momento prima avevan
 
 La ragazza lo guardò con trepidazione.
 
-"Prima hai detto una cosa che mi ha colpito. Hai rischiato la vita perché sapevi che limitarsi a osservare il carro non sarebbe bastato. Avevi ragione. Abbiamo bisogno di qualcuno che osservi dall'interno, non dall'esterno." Si appoggiò con entrambe le mani al tavolo. "L'ancella dell'Alta Sacerdotessa è morta pochi giorni fa. Il suo posto è ancora vacante."
+"Prima hai detto una cosa che mi ha colpito. Hai rischiato la vita perché sapevi che limitarsi a osservare il carro non sarebbe bastato. Avevi ragione. Abbiamo bisogno di qualcuno che osservi dall'interno, non dall'esterno." Si appoggiò con entrambe le mani al tavolo. "Una delle ancelle dell'Alta Sacerdotessa è morta pochi giorni fa. Il suo posto è ancora vacante."
 
 Shuua sollevò appena il capo. "Un'occasione rara."
 
@@ -5394,7 +6090,7 @@ Rurik abbassò appena lo sguardo, senza nascondere la propria preoccupazione.
 
 Khamal, invece, annuì lentamente. "Bene. Allora dobbiamo muoverci in fretta. Una posizione come questa non rimane vacante a lungo. Continuerai a presentarti come la nipote di Lord Garnak, mentre noi faremo in modo che la tua candidatura venga presa in considerazione."
 
-Fece qualche passo nella stanza, riflettendo già sulle mosse successive.
+Fece qualche passo nella stanza, come se stesse già riflettendo sulle mosse successive.
 
 "Da domani il tuo addestramento cambierà. Imparerai a muoverti come una devota servitrice. Dovrai conoscere il cerimoniale, le abitudini del palazzo, il linguaggio, i gesti, ogni dettaglio che possa tradirti."
 
@@ -5518,9 +6214,9 @@ Mira non parlò.
 
 "Ogni generazione ricorda meno della precedente," proseguì il prigioniero. "Ogni secolo aggiunge nuovi rituali, nuove regole, nuovi simboli. Ma il significato si perde. Ho passato anni a studiare la vostra storia. Sapete cosa ho trovato? Persone che custodivano una fiamma senza sapere cosa stessero proteggendo."
 
-"Ciò che dici è offensivo."
+"Ciò che dici arreca offesa all'impero."
 
-"Ma è vero."
+"Ma è la verità."
 
 "La genealogia è ancora forte."
 
@@ -5582,7 +6278,7 @@ Come spesso accade quando ci si allontana dalla frenesia della ricerca, la mente
 
 Quel pomeriggio, Zali li aveva spediti a prendere dell'acqua alla sorgente poco lontana. La fonte era considerata potabile dalla gente del villaggio, ma Leon non era per niente sicuro che lo fosse anche per loro.
 
-Il sole stava calando, e l'aria soffocante stava diventando finalmente più respirabile. Le ombre degli alberi si allungavano sul terreno irregolare, mentre una brezza leggera smuoveva il fogliame con un suono carezzevole. Leon e Alex si avviarono lungo uno dei sentieri che si dipanavano dal villaggio, una grossa tanica strette in ciascuna mano.
+Il sole stava calando, e l'aria soffocante stava diventando finalmente più respirabile. Le ombre degli alberi si allungavano sul terreno irregolare, mentre una brezza leggera smuoveva il fogliame con un suono carezzevole. Leon e Alex si avviarono lungo uno dei sentieri che si dipanavano dal villaggio, una grossa tanica stretta in ciascuna mano.
 
 Dopo alcuni minuti di cammino, il sentiero li condusse in una piccola radura. Il cicalio insistente degli insetti si intrecciava ai richiami degli uccelli. Circondata da pietre ricoperte di muschio, una sorgente cristallina sgorgava da una fessura tra le rocce, formando una pozza limpida. Le radici contorte di un grande albero si sporgevano verso l'acqua, come se cercassero avidamente di afferrarla.
 
@@ -5666,7 +6362,7 @@ Alex passò una mano tra i capelli. "Ok. Supponiamo per un attimo che tu abbia r
 
 Un brivido percorse Leon.
 
-Si voltò verso la giungla intorno a loro, dove il crepuscolo rendeva le ombre più lunghe e il canto degli insetti più acuto.
+Si voltò verso la giungla intorno a loro. Il crepuscolo rendeva le ombre più lunghe e il canto degli insetti più acuto.
 
 "O magari un grido d'aiuto. Un modo per dirci che loro non sono riusciti a fermare ciò che stava arrivando." Abbassò lo sguardo. "E che forse noi potremmo riuscirci."
 
@@ -5744,7 +6440,7 @@ Alex guardò i fogli sparsi davanti a sé. "Molto divertente."
 
 Leon notò le occhiaie del collega. "Come ai tempi del dottorato."
 
-"Già. Erano anni che non lavoravo fino all'alba. Devo dire che un po' mi era mancato. È come se il mio cervello non vedesse l'ora di tornare a fare il suo lavoro. E sotto un acquazzone tropicale è tutto ancora più epico. "
+"Già. Erano anni che non lavoravo fino all'alba. Devo dire che un po' mi era mancato. È come se il mio cervello non vedesse l'ora di tornare a fare il suo lavoro. E sotto un acquazzone tropicale è tutto ancora più epico."
 
 "Hai visto i notiziari? Pare che Hale si sia dato da fare con i media" commentò Leon, con una punta d'amarezza.
 
@@ -5864,7 +6560,7 @@ immagine: img/capitoli/diario_di_mira.jpg
 
 Oggi la camera è stata sigillata.
 
-Ciò che racchiude è finalmente completo.
+Ciò che racchiude è finalmente completo. La sua costruzione è stata più costosa della stessa piramide che lo contiene.
 
 Per realizzarlo ho chiesto il quarzo più puro del regno e gli artigiani più abili della città. Nessuno di loro ne comprendeva appieno lo scopo.
 
@@ -6144,9 +6840,7 @@ Per la prima volta Nadia ebbe la netta sensazione che il vero centro del potere 
 
 Nadia, ancora con lo scrigno in mano, tornò sui suoi passi.
 
-Naturalmente, il cambio della guardia era avvenuto. Nadia se ne rese conto non appena svoltò l'angolo.
-
-L'uomo che sorvegliava il corridoio non era più quello che aveva visto entrando. Per un istante rimase immobile nell'ombra. Aveva ascoltato troppo a lungo, perdendo la cognizione del tempo.
+Naturalmente, il cambio della guardia era avvenuto. Nadia se ne rese conto non appena svoltò l'angolo. L'uomo che sorvegliava il corridoio non era più quello che aveva visto entrando. Per un istante rimase immobile nell'ombra. Aveva ascoltato troppo a lungo, perdendo la cognizione del tempo.
 
 Inspirò lentamente.
 
@@ -6272,7 +6966,7 @@ Sospirò.
 
 \[STACCO\]
 
-Alex annuì senza distogliere lo sguardo, il sudore che gli incollava il ciuffo nero alla fronte.
+Alex annuì senza distogliere lo sguardo dalle fronde, il sudore che gli incollava il ciuffo nero alla fronte.
 
 Non era una sorpresa: avevano avvertito i Naha che la scoperta delle rovine avrebbe attirato l'attenzione del mondo, ma una cosa era anticiparlo, un'altra era vederlo accadere.
 
@@ -6284,9 +6978,9 @@ Zali non si fece vedere per tutta la mattina. Quando finalmente si presentò all
 
 "Quanto starà qui questa gente?" esordì senza mezzi termini, varcando la soglia della guesthouse.
 
-Leon scosse la testa. "Temo che non se ne andranno presto." Non serviva girarci attorno.
+Leon scosse la testa. Non serviva girarci attorno. "Temo che non se ne andranno presto."
 
-Zali incrociò le braccia. "Uno di loro è entrato nella casa di un anziano solo perché ha visto la porta aperta. Diceva che voleva soltanto fare qualche ripresa. Un altro ha iniziato a sorvolare il villaggio con un drone senza nemmeno chiedere il permesso."
+Zali incrociò le braccia. "Un giornalista è entrato nella casa di un anziano solo perché ha visto la porta aperta. Diceva che voleva soltanto fare qualche ripresa. Un altro ha iniziato a sorvolare il villaggio con un drone senza nemmeno chiedere il permesso."
 
 "Tu dove sei stata, comunque?" chiese Alex.
 
@@ -6354,7 +7048,7 @@ Poi il sorriso scomparve dal volto di Alex.
 
 Leon sbatté le palpebre. "Non mi muovo."
 
-Alex si passò lentamente una mano sul mento. "C'è qualcosa che non torna."
+Alex si passò lentamente una mano sul mento appena rasato. "C'è qualcosa che non torna."
 
 Rimase immobile, lo sguardo perso davanti a sé, mentre ricostruiva mentalmente il ragionamento. "L'entropia\..."
 
@@ -6452,7 +7146,7 @@ Non era un'ipotesi. Era un'affermazione.
 
 Senza quasi accorgersene, presero a camminare per alleviare la tensione. Imboccarono uno qualsiasi dei sentieri che attraversavano la foresta attorno al villaggio.
 
-"Diecimila anni fa sulla Terra vivevano pochi milioni di persone. Oggi siamo miliardi. Un pianeta riportato a quelle condizioni non potrebbe sostenere una popolazione come l'attuale."
+"Diecimila anni fa sulla Terra vivevano pochi milioni di persone. Oggi siamo miliardi. Un pianeta riportato a quelle condizioni non potrebbe sostenere una popolazione come quella attuale."
 
 Leon immaginò città immense prive di elettricità, catene di approvvigionamento spezzate, campi incapaci di nutrire intere nazioni.
 
@@ -6506,7 +7200,7 @@ Fu Alex a risponderle. Le raccontò in poche parole dell'ipotesi sul ciclo tempo
 
 "Ci richiameranno in città molto presto," concluse. "Qui possiamo continuare a scavare, ma ormai il problema è un altro. Servono laboratori, simulazioni, persone da tutte le discipline\... e soprattutto bisogna decidere cosa fare."
 
-Leon sapeva che Alex aveva ragione. Le rovine restavano importanti, ma il passo successivo non consisteva nel dissotterrare un'altra stanza, bensì nel capire se quelle scoperte descrivessero davvero il destino dell'umanità.
+Leon sapeva che Alex aveva ragione. Le rovine restavano importanti, ma il passo successivo non consisteva nel dissotterrare un'altra stanza, ma nel capire se quelle scoperte descrivessero davvero il destino dell'umanità.
 
 Zali rimase interdetta. "Quanto presto dovrete andarvene?"
 
@@ -6582,13 +7276,11 @@ Abbassò lo sguardo verso le proprie mani.
 
 Leon chiuse gli occhi per un istante. Era probabilmente la risposta meno brillante che avesse mai sentito pronunciare da Alex.
 
-Zali lasciò sfuggire una breve risata nervosa. "Vedi? Per questo non volevo dirtelo."
+Zali lasciò sfuggire una breve risata nervosa. "Scusa, non avrei dovuto parlartene."
 
-"No, aspetta. Non è che\..." Alex si grattò i capelli.
+"No, aspetta. Non è come credi\..." Alex si grattò i capelli.
 
-Per la prima volta da quando Leon lo conosceva, sembrava completamente privo di parole. Lo aveva visto discutere con ministri, dirigenti della FSU e premi Nobel senza il minimo imbarazzo.
-
-Adesso invece sembrava uno studente impreparato davanti alla domanda più importante dell'esame.
+Per la prima volta da quando Leon lo conosceva, sembrava completamente privo di parole. Lo aveva visto discutere con ministri, dirigenti della FSU e premi Nobel senza il minimo imbarazzo. Adesso invece sembrava uno studente impreparato davanti alla domanda più importante dell'esame.
 
 E, cosa ancora più strana, non sembrava affatto contrariato; anzi, Leon colse in quel suo imbarazzo qualcosa che somigliava chiaramente a un assenso, come se stesse già accettando.
 
@@ -6614,13 +7306,13 @@ Alex sembrò sul punto di replicare. Poi rinunciò.
 
 Zali si alzò. "Prendi il tuo tempo e pensaci seriamente."
 
-Si voltò e uscì dalla veranda prima che Alex riuscisse a fermarla.
+Senza aggiungere una parola, si voltò e uscì dalla veranda prima che Alex riuscisse a fermarla.
 
 Lui rimase a seguirla con lo sguardo finché non scomparve tra le case del villaggio.
 
 Solo allora Leon tornò verso il tavolo e gli porse uno dei bicchieri.
 
-Alex lo prese distrattamente, come se non si fosse nemmeno accorto del gesto.
+Alex lo prese distrattamente.
 
 Rimase immobile per qualche secondo, lo sguardo ancora perso nel punto in cui Zali era sparita. Sembrava completamente disorientato, come se qualcuno gli avesse appena riorganizzato la realtà senza preavviso.
 
@@ -6668,9 +7360,9 @@ Perfino le altre ancelle finirono per notarlo.
 
 "Hai fatto colpo sulla signora," disse Joira un giorno, con una smorfia. "Ultimamente non riesce più a fare a meno di te."
 
-Nadia ricambiò con un sorriso forzato. Dietro al tono neutro lesse una nota di freddezza che trovò preoccupante. Era invidia, quella di Joira? Avrebbe voluto dirle in faccia che Mira la stava tenendo vicina perché non voleva perderla di vista, non certo perché fosse la sua favorita.
+Nadia ricambiò con un sorriso forzato. Dietro al tono neutro lesse una nota di freddezza che trovò preoccupante. Era invidia, quella di Joira? Avrebbe voluto dirle in faccia che Mira la stava tenendo vicina perché non voleva perderla di vista, non certo perché fosse la sua favorita, ma si trattenne.
 
-I giorni che seguirono furono tra i più pesanti in assoluto. Mira non la perdeva quasi mai di vista, e le altre ancelle, di solito cordiali, presero a trattarla con distacco. Più di una volta le sorprese a confabulare in camera, salvo ammutolirsi non appena lei entrò nel dormitorio, guardando nella sua direzione con sguardi tutt'altro che cordiali.
+I giorni che seguirono furono tra i più pesanti in assoluto. Mira non la perdeva quasi mai di vista, e le altre ancelle, di solito cordiali, presero a trattarla con distacco. Più di una volta le sorprese a confabulare in camera, salvo ammutolirsi non appena lei entrava nel dormitorio, guardando nella sua direzione con sguardi ostili.
 
 Una sera non ce la fece più. Terminati gli incarichi della giornata, si rifugiò nel dormitorio. Richiuse la porta con cautela e vi rimase appoggiata contro per qualche secondo, immobile.
 
@@ -6686,15 +7378,13 @@ Non aveva risolto nulla, ma il pianto le aveva schiarito le idee. Se voleva usci
 
 \[STACCO\]
 
-La mattina successiva, terminata l'acconciatura dei capelli, Mira si alzò dallo sgabello e si diresse nel suo studio. In tutto il vasto appartamento, era uno dei pochi luoghi che Nadia non aveva mai visto davvero.
+La mattina successiva, terminata l'acconciatura dei capelli, Mira si alzò dallo sgabello e si diresse nel suo studio.
 
 Tornò poco dopo, tenendo in mano un paio di grossi rotoli che le rifilò. "Andiamo."
 
 Nadia li prese, abbassando il capo. "Vi seguo."
 
-Attraversarono una parte del palazzo che lei conosceva appena. I corridoi lasciarono il posto a un susseguirsi di porticati aperti, cortili interni e gallerie percorse da scribi, funzionari e messaggeri che andavano e venivano con fasci di papiri sotto il braccio. Ogni volta che Mira compariva, le conversazioni si interrompevano per un istante e gli uomini si facevano da parte con inchini rapidi e rispettosi, quasi fosse la cosa più naturale del mondo.
-
-Proseguirono fino a un edificio separato dal resto del complesso.
+Attraversarono una parte del palazzo che lei conosceva appena. I corridoi lasciarono il posto a un susseguirsi di porticati aperti, cortili interni e gallerie percorse da scribi, funzionari e messaggeri che andavano e venivano con fasci di papiri sotto il braccio. Poi proseguirono fino a un edificio separato dal resto del complesso.
 
 L'odore arrivò ancora prima dell'ingresso: papiro essiccato, legno di cedro e inchiostro.
 
@@ -6864,7 +7554,7 @@ Akil lasciò uscire un respiro che sembrava trattenere da diversi secondi. "Nadi
 
 "Ciao Akil," disse semplicemente Nadia, con un sorriso appena accennato.
 
-Lo sguardo del fratello scese lentamente sull'abito da ancella, sui capelli raccolti con cura, sui bracciali semplici che portava ai polsi. Era evidente che stesse cercando di conciliare quell'immagine con la sorella che aveva salutato alla locanda settimane prima.
+Lo sguardo del fratello scese lentamente sull'abito da ancella, sui capelli raccolti con cura, sui bracciali semplici che portava ai polsi. Era evidente che stesse cercando di conciliare quell'immagine con la sorella che aveva salutato alla casa del viaggiatore settimane prima.
 
 "Che cosa ci fai a palazzo?"
 
@@ -6874,7 +7564,7 @@ Akil abbassò il tono. "Lavoro dove vogliono che lavori. Da qualche settimana la
 
 Indicò il cantiere con un movimento del mento. Poco più in là, il capocantiere continuava a discutere con gli scribi, chino sulla tavoletta cerata.
 
-Akil tornò a guardarla. "L'ultima volta che hai dormito alla locanda mi hai detto soltanto che avevi trovato una strada per liberare papà." Fece una breve pausa. "Poi non ti sei più fatta vedere."
+Akil tornò a guardarla. "L'ultima volta mi hai detto soltanto che avevi trovato una strada per liberare papà." Fece una breve pausa. "Poi non ti sei più fatta vedere."
 
 Nadia pensò alla Setta, alla massima riservatezza che avevano richiesto da lei. Abbassò lo sguardo. "Non potevo dirti di più."
 
@@ -7012,7 +7702,7 @@ Nadia sciolse il cordoncino e depose il monile sul letto, accanto alla tunica ch
 
 "Questo è ciò che posso offrirti."
 
-Joira non lo toccò subito. Lo osservò, poi sollevò lentamente gli occhi verso Nadia, come se soltanto allora avesse compreso quanto quella richiesta fosse seria.
+Gli occhi di Joira brillarono per un istante. Lo osservò, poi sollevò lentamente gli occhi verso Nadia, come se soltanto allora avesse compreso quanto quella richiesta fosse seria.
 
 "Per un'ora?"
 
@@ -7054,7 +7744,7 @@ Nadia concluse con un filo di voce: "Se sbaglio un'altra mossa, credo che farò 
 
 Akil abbassò lentamente lo sguardo verso il terreno polveroso.
 
-Per la prima volta sembrò comprendere davvero quanto la sorella fosse finita in profondità in quella vicenda. Non era più la ragazzina impulsiva che aveva lasciato la locanda inseguendo un'intuizione. Si era ritrovata nel cuore stesso del potere imperiale, stretta tra la Setta, Lord Garnak e la donna più influente del regno.
+Per la prima volta sembrò comprendere davvero quanto la sorella fosse finita in profondità in quella vicenda. Non era più la ragazzina impulsiva che aveva lasciato la casa del viggiatore inseguendo un'intuizione. Si era ritrovata nel cuore stesso del potere imperiale, stretta tra la Setta, Lord Garnak e la donna più influente del regno.
 
 Inspirò profondamente. "Dimmi cosa posso fare."
 
@@ -7176,13 +7866,13 @@ Come Zali aveva promesso, era un rito semplice, una promessa pubblica di impegno
 
 Leon e Delak avrebbero fatto da testimoni.
 
-Il santuario, una struttura di pietra e legno avvolta dalle fronde della foresta, emanava la stessa sensazione di antichità che Leon aveva percepito durante la sua prima visita. All'epoca vi era entrato come uno studioso curioso. Non avrebbe mai immaginato di tornarci per assistere a una cerimonia del genere.
+Il santuario, una struttura di pietra e legno avvolta dalle fronde della foresta, emanava la stessa sensazione di antichità che Leon aveva percepito durante la sua prima visita. Allora vi era entrato per convincere il consiglio degli anziani. Non avrebbe mai immaginato di tornarci per assistere a una cerimonia del genere.
 
 Al centro dello spazio sacro si trovava un grande bacile metallico, largo quasi due metri, sostenuto da un'intelaiatura di legno intagliato. L'acqua al suo interno rifletteva gli ultimi raggi del sole come una superficie d'oro liquido.
 
 Alex e Zali si misero uno di fronte all'altra.
 
-Lei indossava un abito bianco latte ricamato con motivi viola e gialli. Tra le trecce nere erano intrecciati piccoli fiori di passiflora. Alex, vestito con una camicia bianca, appariva insolitamente serio.
+Lei indossava un abito bianco latte ricamato con motivi viola e gialli. Tra le trecce nere erano intrecciati piccoli fiori di passiflora. Alex, vestito con una semplice camicia bianca, appariva insolitamente serio.
 
 Il profumo delle erbe aromatiche bruciate si diffuse nell'aria mentre gli anziani iniziavano a recitare le preghiere rituali. Quando il capo villaggio si avvicinò al bacile, il brusio cessò.
 
@@ -7242,7 +7932,7 @@ Cercò di ignorarlo. Si impose di rimandare tutto al giorno seguente.
 
 Non ci riuscì.
 
-I più anziani si erano ritirati e attorno al falò restavano soltanto piccoli gruppi di giovani che chiacchieravano alla luce della luna. Alex stava discutendo animatamente con Delak e altri ragazzi del villaggio, probabilmente nel vano tentativo di dimostrare che il suo senso del ritmo non fosse completamente irrecuperabile. Zali era seduta poco distante dal fuoco, ancora vestita con l'abito cerimoniale. Sembrava stanca ma felice.
+I più anziani si erano ritirati e attorno al falò restavano soltanto piccoli gruppi di giovani che chiacchieravano alla luce dei fuochi e della luna. Alex stava discutendo animatamente con Delak e altri ragazzi del villaggio, probabilmente nel vano tentativo di dimostrare che il suo senso del ritmo non fosse completamente irrecuperabile. Zali era seduta poco distante dal fuoco, ancora vestita con l'abito cerimoniale. Sembrava stanca ma felice.
 
 Leon si sedette accanto a lei.
 
@@ -7276,11 +7966,11 @@ Leon gli mostrò le fotografie. L'espressione di Alex cambiò immediatamente, me
 
 "Tuo padre potrebbe sapere da dove viene?" domandò Leon rivolgendosi alla ragazza. "La somiglianza è troppo marcata perché possa essere una coincidenza."
 
-"Forse." Zali abbassò lo sguardo verso le braci. "Posso chiederglielo domani."
+"Forse." Zali abbassò lo sguardo verso le braci. "Posso chiederglielo."
 
 "Possibile che sia una replica? Non penso che quella corona sia stata tramandata per migliaia di anni. Qualcuno l'avrebbe fatta sparire, prima o poi."
 
-"Non lo so" ammise Leon. "Ma una cosa è certa. C'è un legame diretto tra i Naha e l'antico popolo che ha lasciato quelle rovine."
+"Non lo so" ammise Leon. "Ma mi viene da pensare che ci sia un legame diretto tra i Naha e l'antico popolo che ha lasciato quelle rovine."
 
 \[STACCO\]
 
@@ -7340,7 +8030,7 @@ Alex rifletté per un istante. "Messa così, effettivamente\..."
 
 "E soprattutto," continuò Leon, "non sappiamo ancora chi fossero davvero quelle persone. Ogni loro oggetto, ogni simbolo, ogni traccia potrebbe contenere informazioni che ci mancano. Stiamo continuando a ragionare sulla fisica del fenomeno, ma magari la risposta è nascosta nella loro storia."
 
-Per qualche istante nessuno dei due parlò. Poi Alex allargò le braccia. "Se ti viene un'idea geniale, fammelo sapere. Io torno alle equazioni impossibili."
+Per qualche istante nessuno dei due parlò. Poi Alex allargò le braccia. "Se ti viene un'idea geniale, fammelo sapere. Io torno alle mie equazioni."
 
 Leon rimase qualche secondo a osservare Alex che si allontanava verso la guesthouse. Una parte di lui sapeva che avrebbe dovuto lasciar perdere. Esistevano modi migliori per ottenere quella risposta, modi più corretti. Ma richiedevano tempo, e il tempo era diventato una risorsa troppo preziosa per sprecarla.
 
@@ -7348,7 +8038,9 @@ Non gli piaceva quello che stava per fare.
 
 Si avviò verso l'elicottero, ancora posteggiato ai margini della radura. Si guardò attorno, assicurandosi di essere solo, poi frugò tra l'attrezzatura. Le mani si muovevano con sicurezza, e trovò quasi subito quel che cercava. Si fermò un istante, riflettendo.
 
-Si infilò nel sentiero tra gli alberi, lo stesso sentiero che il corteo aveva percorso il giorno prima. Non c'era spazio per l'esitazione.
+Non c'era spazio per l'esitazione.
+
+Si infilò nel sentiero tra gli alberi, lo stesso sentiero che il corteo aveva percorso il giorno prima.
 
 \[STACCO\]
 
@@ -7356,7 +8048,9 @@ Quando Leon riapparve al villaggio, trovò Alex circondato da fogli pieni di for
 
 Il fisico alzò lo sguardo appena lo vide arrivare. "Ti stavo cercando. Credo di aver capito una cosa riguardo al periodo di transizione."
 
-Leon si fermò accanto a lui. Alex indicò una serie di grafici scarabocchiati su un foglio.
+Leon si fermò accanto a lui. "Sentiamo."
+
+Alex indicò una serie di grafici scarabocchiati su un foglio.
 
 "I duecento anni di regressione. All'inizio sembravano arbitrari, ma forse non lo sono. Se il nostro modello è corretto, la traiettoria temporale della Terra non è circolare. Potrebbe essere un'orbita ellittica, molto schiacciata. Pensa alle comete. Trascorrono la maggior parte del tempo lontano dal Sole e accelerano solo quando si avvicinano. Potrebbe accadere qualcosa di simile anche qui. Per quasi diecimila anni il sistema evolve lentamente, poi, quando si avvicina alla massa temporale, tutto accelera. Da qui la fase finale di regressione."
 
@@ -7400,7 +8094,7 @@ Leon alzò un sopracciglio. "Un oggetto vecchio di cinquemila anni in titanio an
 
 "Parliamo di una civiltà fuori dal comune" rifletté Alex. "Non mi sentirei di escludere nulla."
 
-"Invece no. Facci caso. Nelle rovine abbiamo trovato conoscenze avanzatissime, ma sempre realizzate con materiali compatibili con l'epoca. Pietra. Metalli comuni. Ceramica. Persino il meccanismo che ci ha attirati qui era costruito con materiali perfettamente plausibili."
+"Invece no. Facci caso: nelle rovine abbiamo trovato conoscenze avanzatissime, ma sempre realizzate con materiali compatibili con l'epoca. Pietra. Metalli comuni. Ceramica. Persino il meccanismo che ci ha attirati qui era costruito con materiali perfettamente plausibili."
 
 In altre parole, avevano un oggetto che non avrebbe dovuto esistere.
 
@@ -7408,9 +8102,7 @@ In altre parole, avevano un oggetto che non avrebbe dovuto esistere.
 
 "Se solo potessimo portarla in un laboratorio\..." mormorò Leon.
 
-Il risultato dello spettrometro portatile era sufficiente per togliere il sonno a chiunque, ma non per convincere la comunità scientifica mondiale.
-
-Servivano analisi serie. Datazioni. Esami metallurgici. Qualcosa che permettesse di capire se quella corona fosse davvero collegata alle rovine.
+Il risultato dello spettrometro portatile era sufficiente per togliere il sonno a chiunque, ma non per convincere la comunità scientifica mondiale. Servivano analisi serie: datazioni, esami metallurgici, qualcosa che permettesse di capire se quella corona fosse davvero collegata alle rovine.
 
 "Il problema è sempre lo stesso" disse il fisico. "Raul non cambierà idea."
 
@@ -7438,7 +8130,7 @@ Zali sospirò. "E io che volevo solo gestire in pace la mia guesthouse."
 
 \[STACCO\]
 
-Quella sera, Zali guidò i due ricercatori nella sala del villaggio, la spaziosa struttura adibita alle riunioni, dove gli anziani erano già riuniti in cerchio. Le pareti di legno erano decorate con maschere rituali. Su un tavolo cerimoniale, in un angolo, erano disposti oggetti di valore simbolico: amuleti, vecchie armi decorate, un bacile per le offerte, una plancia da Wari. Una luce al neon al centro del soffitto illuminava l'ambiente, stridendo con quell'atmosfera d'altri tempi.
+Quella sera, Zali guidò i due ricercatori nella sala del villaggio, una spaziosa struttura adibita alle riunioni, dove gli anziani erano già riuniti in cerchio. Le pareti di legno erano decorate con maschere rituali. Su un tavolo cerimoniale, in un angolo, erano disposti oggetti di valore simbolico: amuleti, vecchie armi decorate, un bacile per le offerte, una plancia da Wari. Una luce al neon al centro del soffitto illuminava l'ambiente, stridendo con quell'atmosfera d'altri tempi.
 
 Dopo le formule di rito, fu Alex a prendere la parola.
 
@@ -7493,6 +8185,8 @@ Alla fine batté una mano sul tavolo. Il verdetto era stato deciso.
 "Gli anziani accetteranno di prestare la corona, alla condizione che uno di voi batta il capovillaggio nel gioco del Wari."
 
 Alex e Leon si guardarono, increduli. Aveva funzionato.
+
+"Così sia" approvò Alex.
 
 Zali venne incaricata di predisporre la plancia, e in men che non si dica la partita ebbe inizio. Ora era tutto nelle mani di Alex.
 
@@ -7989,19 +8683,21 @@ Il capovillaggio entrò nel tempio in silenzio. Con gesti lenti e misurati, prel
 
 L'ultima notte nel villaggio fu colma di emozione: anche se erano stati lì solo per poche settimane, per Leon e Alex quel luogo era ormai una seconda casa.
 
-Al sorgere dell'alba, tutto il villaggio era radunato di fronte all'elicottero della FSU. Due degli anziani decisero di restare al villaggio: l'età avanzata rendeva il viaggio troppo impegnativo, e qualcuno doveva comunque restare nel caso fosse apparsa qualche disputa da risolvere. Ma il capotribù, nonostante fosse il più anziano di tutti, non esitò neanche per un istante. Quando l'elicottero fu pronto, fu il primo a salirvi, con un'agilità sorprendente per la sua età.
+Al sorgere dell'alba, tutto il villaggio era radunato di fronte all'elicottero della FSU. Due degli anziani decisero di restare al villaggio: l'età avanzata rendeva il viaggio troppo impegnativo, e qualcuno doveva comunque restare nel caso fosse apparsa qualche disputa da risolvere. Ma il capovillaggio, nonostante fosse il più anziano di tutti, non esitò neanche per un istante. Quando l'elicottero fu pronto, fu il primo a salirvi, con un'agilità sorprendente per la sua età.
 
-Il velivolo si sollevò lentamente, mentre dal basso alcune mani si alzavano in segno di saluto. Leon osservò il villaggio farsi sempre più piccolo sotto di loro, un nodo in gola difficile da sciogliere. Il viaggio verso Kinshasa, dove li attendeva il laboratorio più vicino, sarebbe durato poco più di due ore
+Il velivolo si sollevò lentamente, mentre dal basso alcune mani si alzavano in segno di saluto. Leon osservò il villaggio farsi sempre più piccolo sotto di loro. Il viaggio verso Kinshasa, dove li attendeva il laboratorio più vicino, sarebbe durato poco più di due ore
 
 Zali stringeva forte il bracciolo del sedile, il viso illuminato da un misto di stupore e adrenalina.
 
 Nonostante la tensione del decollo, presto si lasciò andare a un sorriso eccitato, i suoi occhi che brillavano mentre guardava il paesaggio tropicale scorrere sotto di lei. Raul, con il suo solito sguardo misurato, osservava fuori dal finestrino in silenzio, registrando ogni dettaglio con la curiosità di un esploratore. Il capotribù era particolarmente affascinato dalla vista dall'alto della foresta che avevano sempre conosciuto solo dal suolo. Continuava a indicare vari punti di interesse, parlando in un tono eccitato che Alex e Leon non gli avevano mai sentito prima. La vista delle infinite distese di verde, interrotte solo dal corso dei fiumi sinuosi, sembrava ipnotizzarlo. Alla vista di quegli uomini, così legati alla terra e alle tradizioni, che reagivano con tanta meraviglia, Leon non poté fare a meno di sorridere.
 
-Man mano che l'elicottero proseguiva, il paesaggio cominciò a cambiare. Le distese di alberi si facevano meno fitte e comparivano le prime tracce di insediamenti umani. Piccoli villaggi con tetti di lamiera e strade di terra battuta apparivano qua e là, inframmezzati da campi coltivati e spiazzi aperti. "Lì è dove sono andata all'università io," disse Zali, indicando un centro abitato di modeste dimensioni. Alex sorrise, senza togliere gli occhi dai comandi.
+Man mano che l'elicottero proseguiva, il paesaggio cominciò a cambiare. Le distese di alberi si facevano meno fitte e comparivano le prime tracce di insediamenti umani. Piccoli villaggi con tetti di lamiera e strade di terra battuta apparivano qua e là, inframmezzati da campi coltivati e spiazzi aperti.
 
 I villaggi rurali lasciarono gradualmente spazio a città più grandi. Le strade si trasformarono in vie asfaltate, e al posto delle semplici abitazioni di legno e lamiera, comparvero edifici più solidi e moderni. I campi coltivati divennero meno frequenti, sostituiti da aree residenziali e piccoli centri commerciali. Sembrava quasi di attraversare epoche diverse in pochi minuti.
 
-Infine, l'elicottero raggiunse la periferia di Kinshasa. La transizione dalla natura selvaggia alla civiltà urbana era completa. Grattacieli moderni si stagliavano contro il cielo, mentre il traffico intenso e le luci brillanti della città creavano un contrasto netto con la tranquillità della foresta. Una grande 'H' sulla cima di un grattacielo segnalava il punto d'atterraggio dell'elicottero, incorniciata dalle luci intermittenti sul perimetro della piattaforma. Si aggrapparono ai braccioli mentre il velivolo toccava il suolo con un leggero sobbalzo. Alex sganciò la cintura e fece un respiro profondo. Erano arrivati.
+"Questa è la città dove ho studiato," disse Zali, indicando una cittadina di modeste dimensioni. Alex sorrise, senza togliere gli occhi dai comandi.
+
+Infine, l'elicottero raggiunse la periferia di Kinshasa. La transizione dalla natura selvaggia alla civiltà urbana era completa. Grattacieli moderni si stagliavano contro il cielo, mentre il traffico intenso e le luci brillanti della città creavano un contrasto netto con la tranquillità della foresta. Una grande 'H' sulla cima di un grattacielo segnalava il punto d'atterraggio dell'elicottero, incorniciata dalle luci intermittenti sul perimetro della piattaforma. Si aggrapparono ai braccioli mentre il velivolo toccava il suolo con un leggero sobbalzo. Leon sganciò la cintura e fece un respiro profondo. Erano arrivati.
 
 Vennero accolti da una giovane ricercatrice che Leon conosceva di vista. Capelli biondi tagliati corti, una trentina d'anni e quell'efficienza tranquilla tipica di chi è abituato a coordinare persone più esperte di lei. "Camila Bensos, responsabile del distaccamento FSU di Kinshasa. Molto piacere."
 
@@ -8013,7 +8709,7 @@ Camila, con un sorriso amichevole, tese la mano agli anziani. "Benvenuti. È un 
 
 "Do subito ordine alla squadra di analisi."
 
-Quando gli anziani si furono ripresi, il capovillaggio andò a prendere lo scrigno contenente la corona. Con un gesto di reverenza, la affidò a Leon.
+Quando tutti si furono ambientati, il capovillaggio andò a prendere lo scrigno contenente la corona. Con un gesto di reverenza, la affidò a Leon.
 
 Pochi minuti dopo, erano nel laboratorio.
 
@@ -8093,7 +8789,9 @@ Camila lo vide entrare e gli fece cenno di avvicinarsi.
 
 Camila fece un rapido cenno d'assenso senza distogliere lo sguardo dallo schermo.
 
-"Abbiamo un problema."
+"Dimmi tutto, Camila."
+
+La ragazza abbozzò un sorriso. "Abbiamo un problema."
 
 Leon si fermò. "Che genere di problema?"
 
@@ -8117,7 +8815,7 @@ La parola rimase sospesa nell'aria.
 
 "Informazione?" ripeté lui.
 
-"Èl principio con cui funzionano le memorie digitali. Se io volessi immagazzinare dati all'interno di un materiale, probabilmente farei qualcosa di molto simile."
+"È il principio con cui funzionano le memorie digitali. Se io volessi immagazzinare dati all'interno di un materiale, probabilmente farei qualcosa di molto simile."
 
 Leon fissò lo schermo. "Stai dicendo che questa gemma\..."
 
@@ -8143,7 +8841,7 @@ Si sedettero attorno a un cocktail mentre Leon li aggiornava sulle novità.
 
 "È chiaro che quell'oggetto ha a che fare con la civiltà antica. E forse anche con la crisi entropica," disse Leon, abbassando la voce. "Hai sentito cosa ha detto Camila: il materiale è progettato per resistere praticamente a tutto. Ti dice niente?"
 
-Alex si inclinò in avanti, corrugando la fronte. "Vuoi dire che potrebbe essere stato costruito per sopravvivere al rilascio entropico?" fece una pausa, riflettendo. "In effetti, l'ho pensato anch'io... Ma non abbiamo idea di cosa sia, né di come attivarlo. Ammesso che sia davvero un dispositivo."
+Alex si inclinò in avanti, corrugando la fronte. "Vuoi dire che potrebbe essere stato costruito per sopravvivere al rilascio entropico?" fece una pausa, riflettendo. "In effetti, sul momento l'ho pensato anch'io... Ma non abbiamo idea di cosa sia, né di come attivarlo. Ammesso che sia davvero un dispositivo."
 
 "E ammesso che sia ancora funzionante," aggiunse Leon.
 
@@ -8153,7 +8851,7 @@ Leon esitò, poi disse: "Non me lo spiego nemmeno io. Devo parlare con il capovi
 
 \[STACCO\]
 
-Leon scelse un angolo tranquillo della terrazza dell'hotel per incontrare il capovillaggio. L'aria era umida, e dal balcone si vedeva il traffico pulsante della città: un caos di clacson, ingorghi stradali e basse frequenze provenienti da qualche locale notturno. Un contrasto netto con la calma della vita rurale.
+Leon scelse un angolo tranquillo della terrazza dell'hotel per incontrare il capovillaggio. L'aria era umida, e dal balcone si vedeva il traffico pulsante della città: un caos di clacson, ingorghi stradali e basse frequenze provenienti da qualche locale notturno, un contrasto netto con la calma della vita rurale.
 
 Il vecchio era seduto su una larga poltrona di vimini, i piedi sospesi a qualche centimetro da terra, gli occhi vivaci che contrastavano con le mille rughe sul volto.
 
@@ -8193,7 +8891,7 @@ Il vecchio scosse la testa lentamente, con un sorriso bonario. "Non è mai succe
 
 Un silenzio avvolse la terrazza, interrotto solo dal rumore distante del traffico della metropoli. Leon era consapevole dell'importanza della corona, e della delicatezza del momento. Studiare quell'oggetto poteva essere fondamentale, ma gli accordi erano accordi. Doveva restituirla, come promesso.
 
-"Grazie per aver condiviso la tua storia," disse Leon, alzandosi in segno di rispetto. "Siamo pronti a tornare al villaggio e restituire la corona, come promesso."
+"Grazie per aver condiviso la tua storia," disse Leon, alzandosi in segno di rispetto. "Siamo pronti a tornare al villaggio e riportare la corona."
 
 Il capovillaggio scosse la testa, poi sorrise. "Non è necessario," disse con un sorrisetto. "Tienila. È un dono. Tu e i tuoi amici ci avete mostrato le meraviglie del mondo e ci avete portato in questo viaggio nella città. Consideratela il nostro modo di ringraziarvi. E poi, chi lo sa? Forse quel giorno l'ho trovata proprio per consegnarla a voi."
 
@@ -8257,7 +8955,7 @@ Per l'ennesima volta controllò l'ora sul display degli occhiali AR. Mancava anc
 
 "Sai che l'orologio non andrà più veloce se continui a guardarlo."
 
-"Valeva la pena tentare."
+"Vale la pena tentare," sospirò Leon.
 
 "Se può consolarti, ho già ripassato la presentazione almeno sei volte."
 
@@ -8267,7 +8965,7 @@ Alla fine fu Leon a interrompere il silenzio. "Andiamo. Tanto restare qui ad asp
 
 Si diressero verso l'ampia sala dell'assemblea. I tecnici stavano completando gli ultimi preparativi, verificando schermi e sistemi di traduzione simultanea. Delegati provenienti da decine di paesi prendevano posto nei rispettivi settori, mentre gruppi di funzionari confabulavano a bassa voce. La sicurezza era più visibile del solito: uomini in abito scuro presidiavano ingressi e corridoi, osservando attentamente ogni movimento.
 
-Le conversazioni erano animate, ma sotto la superficie aleggiava una tensione difficile da ignorare. Le notizie sui guasti tecnologici degli ultimi giorni avevano già raggiunto i governi di tutto il mondo. Molti dei presenti probabilmente sospettavano che stesse accadendo qualcosa di grave. Pochissimi immaginavano quanto.
+Le conversazioni erano animate, ma sotto la superficie aleggiava una tensione latente. Le notizie sui guasti tecnologici degli ultimi giorni avevano già raggiunto i governi di tutto il mondo. Molti dei presenti probabilmente sospettavano che stesse accadendo qualcosa di grave. Pochissimi immaginavano quanto.
 
 Leon prese posto accanto ad Alex in prima fila. Mentre la sala si riempiva, riconobbe qua e là alcuni volti familiari: diplomatici, scienziati, rappresentanti istituzionali visti negli anni durante conferenze e missioni internazionali. Mai, però, li aveva visti riuniti in un contesto simile.
 
@@ -8279,7 +8977,7 @@ Sulla sessantina, capelli grigi ordinati e portamento impeccabile, avanzò lungo
 
 \[STACCO\]
 
-"Buonasera, colleghi," iniziò Carlson, prendendo posto al centro del podio. "Benvenuti alla sedicesima assemblea generale delle Frontiere Scientifiche Unite. Siamo qui per affrontare una delle sfide più grandi che l'umanità abbia mai conosciuto."
+"Buonasera, colleghi," iniziò Carlson, prendendo posizione. "Benvenuti alla sedicesima assemblea generale delle Frontiere Scientifiche Unite. Siamo qui per affrontare una delle sfide più grandi che l'umanità abbia mai conosciuto."
 
 Si fermò, lasciando che il silenzio si consolidasse nella sala.
 
@@ -8297,7 +8995,7 @@ Leon si alzò lentamente, sentendo decine di sguardi convergere su di lui. Per u
 
 Inspirò profondamente.
 
-"Le evidenze che presenteremo oggi ci hanno costretti a riconsiderare alcune delle nostre convinzioni più radicate sulla storia umana. Durante uno scavo archeologico abbiamo rinvenuto un insieme di reperti eccezionali: iscrizioni, strutture e testimonianze che sembrano descrivere un fenomeno destinato a verificarsi nel nostro futuro. Per mesi abbiamo cercato spiegazioni alternative. Nessuna è riuscita a spiegare tutti i dati raccolti."
+"Le evidenze che presenteremo oggi ci hanno costretti a riconsiderare alcune delle nostre convinzioni più radicate sulla storia umana. Durante uno scavo archeologico abbiamo rinvenuto un insieme di reperti eccezionali: iscrizioni, strutture e testimonianze che sembrano descrivere un fenomeno destinato a verificarsi nel nostro futuro. Per mesi abbiamo cercato spiegazioni alternative, ma nessuna è riuscita a mettere d'accordo tutti i dati raccolti."
 
 Leon proseguì illustrando, uno dopo l'altro, i risultati delle ricerche: il segnale elettromagnetico, le scritture matematiche, la corona, la teoria della massa temporale e il rilascio dell'entropia. Ad ogni passaggio il brusio cresceva, mentre sempre più delegati scorrevano febbrilmente documenti e grafici.
 
@@ -8321,9 +9019,9 @@ Sul grande schermo apparve l'immagine di un cubo di Rubik.
 
 "Molti di voi conoscono il concetto. Per qualsiasi configurazione possibile di un cubo di Rubik esiste un numero massimo di mosse necessarie per raggiungere qualunque altra configurazione. Nel caso del cubo classico 3×3×3 questo numero è venti. Non importa quanto il cubo venga mescolato: esiste sempre un percorso sorprendentemente breve che collega due configurazioni apparentemente lontanissime.
 
-"L'intero universo è un sistema enormemente più complesso. Noi tendiamo a pensare che, per riportare il mondo allo stato di diecimila anni fa, sarebbe necessario ripercorrere all'indietro ogni singolo passaggio della sua evoluzione. Ma la matematica suggerisce che potrebbe non essere così. Potrebbero esistere scorciatoie. Percorsi che collegano due stati estremamente diversi senza dover attraversare tutti gli stati intermedi."
+"L'intero universo è un sistema enormemente più complesso. Intuitivamente tendiamo a pensare che, per riportare il mondo allo stato di diecimila anni fa, sarebbe necessario ripercorrere all'indietro ogni singolo passaggio della sua evoluzione. Ma la matematica suggerisce che potrebbe non essere così. Potrebbero esistere scorciatoie. Percorsi che collegano due stati estremamente diversi senza dover attraversare tutti gli stati intermedi."
 
-Molti delegati si scambiarono occhiate pensierose.
+Molti delegati si scambiarono occhiate.
 
 "Questo non rende il fenomeno semplice," aggiunse Alex. "Resta un problema di complessità quasi inconcepibile. Ma elimina la necessità di immaginare un riavvolgimento letterale della storia."
 
@@ -8337,11 +9035,13 @@ Alex accennò un sorriso. "È una domanda che qualsiasi fisico dovrebbe porre."
 
 Sul monitor apparve una nuova diapositiva.
 
-"Pensiamo al principio di minima azione. È uno dei principi più profondi della fisica moderna. La traiettoria della luce, il moto delle particelle, l'evoluzione di moltissimi sistemi naturali possono essere descritti come la ricerca del percorso più efficiente tra due stati possibili."
+"Il *principio di minima azione*. È uno dei principi più profondi della fisica moderna. La traiettoria della luce, il moto delle particelle, l'evoluzione di moltissimi sistemi naturali possono essere descritti come la ricerca del percorso più efficiente tra due stati possibili. Un fulmine che scarica a terra non 'sa dove andare': eppure la scarica segue spontaneamente il percorso di minima resistenza."
 
 Indicò la formula sullo schermo.
 
-"Se il rilascio entropico obbedisce allo stesso principio, allora non è necessario che ogni particella 'sappia' dove andare. L'universo potrebbe semplicemente evolvere lungo il percorso complessivamente più efficiente per raggiungere uno stato energeticamente preferito."
+"Allo stesso modo, se il rilascio entropico obbedisce a questo principio, allora non è necessario che ogni particella 'sappia' dove andare. L'universo potrebbe semplicemente evolvere lungo il percorso complessivamente più efficiente per raggiungere uno stato energeticamente preferito."
+
+Altre luci verde si spensero, altre si accesero.
 
 Alex continuò a rispondere alle domande successive con la stessa trasparenza, distinguendo con attenzione ciò che era supportato dai dati da ciò che rimaneva ancora speculativo. Più le risposte diventavano precise, meno obiezioni rimanevano in piedi.
 
@@ -8353,7 +9053,7 @@ Alla fine, quando le ultime richieste di intervento si spensero, Carlson tornò 
 
 L'atmosfera nella sala era completamente diversa da quella di un'ora prima. Non c'erano più sorrisi increduli o sguardi divertiti. Nessuno sembrava considerare la crisi entropica una fantasia.
 
-"Durante l'incontro che si è svolto tredici giorni fa nella sede del comitato scientifico, tutti i dati a nostra disposizione sono stati analizzati con cura. È stato stabilito all'unanimità che la civiltà moderna non potrà arginare il problema alla radice con le attuali tecnologie."
+"Durante l'incontro che si è svolto tredici giorni fa nella sede del comitato scientifico," proseguì il presidente, "tutti i dati a nostra disposizione sono stati analizzati con cura. È stato stabilito all'unanimità che la civiltà moderna non potrà arginare il problema alla radice con le attuali tecnologie."
 
 Si interruppe per un momento. Gli sguardi erano tutti su di lui.
 
@@ -8363,11 +9063,9 @@ Il brusio si intensificò. I presenti si guardavano, come se sperassero di aver 
 
 Leon non si mosse. Aveva partecipato a quelle riunioni. Aveva visto i modelli matematici, discusso le simulazioni, ascoltato settimane di confronti tra fisici, ingegneri e informatici. Eppure sentirlo dichiarare ufficialmente, davanti ai rappresentanti di decine di nazioni, ebbe un effetto diverso.
 
-Accanto a lui, Alex teneva lo sguardo fisso sul palco. Non c'era stato alcun errore nei calcoli, nessuna falla evidente nella teoria. Avevano cercato alternative, possibilità, vie di fuga. Non ne avevano trovate.
+Accanto a lui, vide Alex con lo sguardo fisso sul palco. Non c'era stato alcun errore nei calcoli, nessuna falla evidente nella teoria. Avevano cercato alternative, possibilità, vie di fuga. Non ne avevano trovate.
 
 Avevano perso.
-
-Nessuno contestava più l'esistenza della crisi. Il punto non era *se* sarebbe arrivata, riguardava *come* affrontarla.
 
 Carlson lasciò trascorrere qualche secondo, poi riprese la parola.
 
@@ -8395,7 +9093,7 @@ Nella sala il brusio cessò quasi del tutto.
 
 Le parole sembravano trovare lentamente spazio tra i presenti.
 
-"La storia dell'umanità non procede a velocità costante. A volte una singola scoperta accelera il progresso di secoli. Pensate alla scrittura, alla stampa, al metodo scientifico, all'elettricità. Ognuna di queste innovazioni ha cambiato il corso della civiltà. Se diecimila anni fa qualcuno avesse lasciato ai nostri antenati parte delle conoscenze che possediamo oggi, la storia avrebbe seguito un percorso completamente diverso. Forse la civiltà moderna sarebbe nata secoli prima. Forse sarebbe stata abbastanza avanzata da comprendere e fermare la crisi entropica."
+"La storia dell'umanità non procede a velocità costante. A volte una singola scoperta accelera il progresso di secoli. La scrittura, la stampa, il metodo scientifico, l'elettricità. Ognuna di queste innovazioni ha cambiato il corso della civiltà. Se diecimila anni fa qualcuno avesse lasciato ai nostri antenati parte delle conoscenze che possediamo oggi, la storia avrebbe seguito un percorso completamente diverso. Forse la civiltà moderna sarebbe nata secoli prima. Forse sarebbe stata abbastanza avanzata da comprendere e fermare la crisi entropica."
 
 Carlson lasciò che l'idea si sedimentasse.
 
@@ -8423,13 +9121,9 @@ Un secondo si unì al primo.
 
 Poi un terzo.
 
-Lentamente l'intera sala si alzò in piedi.
+Lentamente l'intera sala si alzò in piedi. L'applauso crebbe fino a riempire ogni angolo dell'auditorium.
 
-L'applauso crebbe fino a riempire ogni angolo dell'auditorium.
-
-Non era l'entusiasmo di una vittoria.
-
-Era l'accettazione di una responsabilità.
+Non era l'entusiasmo di una vittoria. Era l'accettazione di una responsabilità.
 
 Nonostante la disperazione, nonostante la consapevolezza che il loro tempo stesse finendo, il Progetto Fenice offriva ancora uno scopo.
 
@@ -10637,7 +11331,7 @@ Era come ammettere che la sua permanenza come ancella era dovuta a un motivo ben
 
 Nadia alzò gli occhi, mentre il suo cuore accelerava. Fece per alzarsi, quasi dimenticando di essere ferita, ma Mira la trattenne con fermezza.
 
-"Ferita non è ancora medicata."
+"La ferita non è ancora medicata."
 
 Solo mezz'ora più tardi, Nadia si alzò dal giaciglio. Il bendaggio le fasciava stretto il fianco e ogni movimento le procurava una fitta di dolore. Ma il sangue aveva smesso di colare dalla testa, e le gambe rispondevano di nuovo ai suoi comandi. Sarebbe bastato.
 
