@@ -45,6 +45,85 @@ function ottieniOwnerToken(){
 
 }
 
+async function notificaNuovoCommento(
+    idCapitolo,
+    nome,
+    testo,
+    parentId
+){
+
+    let dati =
+        new FormData();
+
+
+    dati.append(
+        "nome",
+        nome || "Anonimo"
+    );
+
+    dati.append(
+        "capitolo",
+        idCapitolo
+    );
+
+    dati.append(
+        "tipo",
+        parentId
+            ? "Risposta"
+            : "Nuovo commento"
+    );
+
+    dati.append(
+        "messaggio",
+        testo
+    );
+
+    dati.append(
+        "_subject",
+        "Nuovo commento — Le Arche del Tempo"
+    );
+
+    dati.append(
+        "_captcha",
+        "false"
+    );
+
+
+    try{
+
+        let risposta =
+            await fetch(
+                "https://formsubmit.co/ajax/f7a5e3b41eb8e39af713aef6a05a61dc",
+                {
+                    method:"POST",
+                    headers:{
+                        "Accept":"application/json"
+                    },
+                    body:dati
+                }
+            );
+
+
+        let risultato =
+            await risposta.json();
+
+
+        console.log(
+            "Notifica commento:",
+            risultato
+        );
+
+    }
+    catch(error){
+
+        console.error(
+            "Errore invio notifica commento:",
+            error
+        );
+
+    }
+
+}
 function aggiornaTitoloCommenti(
     contenitore,
     numero
@@ -362,10 +441,19 @@ function creaAreaCommenti(idCapitolo){
 
         }
 
+        notificaNuovoCommento(
+            idCapitolo,
+            nome,
+            testo,
+            statoCommenti.parentIdCorrente
+        );
+
         localStorage.setItem(
             "ultimo-commento",
             Date.now()
         );
+
+
 
         mostraEsito(
             contenitore,

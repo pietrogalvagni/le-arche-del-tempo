@@ -27,6 +27,91 @@
         Disattiva modalità admin
     </button>
 
+    <div class="separatore"></div>
+
+
+
+    <section class="dashboard">
+
+        <h2>Statistiche</h2>
+
+        <div class="statistiche-generali">
+
+            <div class="statistica">
+
+                <span class="numero-statistica"
+                    id="numero-visitatori">
+                    -
+                </span>
+
+                <span class="etichetta-statistica">
+                    Visitatori unici
+                </span>
+
+            </div>
+
+
+            <div class="statistica">
+
+                <span class="numero-statistica"
+                    id="numero-eventi">
+                    -
+                </span>
+
+                <span class="etichetta-statistica">
+                    Eventi totali
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <section class="statistiche-visitatori">
+
+            <h2>Visite per utente</h2>
+
+            <table class="tabella-statistiche">
+
+                <thead>
+                    <tr>
+                        <th>Codice utente</th>
+                        <th>Eventi</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tabella-visitatori">
+                </tbody>
+
+            </table>
+
+        </section>
+
+
+
+
+        <section class="statistiche-pagine">
+
+            <h2>Visite per pagina</h2>
+
+            <table class="tabella-statistiche">
+
+                <thead>
+                    <tr>
+                        <th>Pagina</th>
+                        <th>Visitatori unici</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tabella-pagine">
+                </tbody>
+
+            </table>
+
+        </section>
+
+    </section>
+
 
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>

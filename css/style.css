@@ -1201,3 +1201,25 @@ li::before{
     opacity: 0.75;
 }
 
+/* -------------------------------------
+   Admin page
+------------------------------------- */
+
+.mostra-tutto-tabella{
+    cursor:pointer;
+}
+
+.mostra-tutto-tabella td{
+    text-align:center;
+    padding:14px;
+    color:var(--avorio);
+    opacity:.7;
+    transition:
+        color .25s ease,
+        opacity .25s ease;
+}
+
+.mostra-tutto-tabella:hover td{
+    color:var(--oro);
+    opacity:1;
+}
